@@ -12,6 +12,11 @@
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/bacc_chat.php" timestamp="1507865948775">
         <mark key="[" line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker-compose.yml" timestamp="1510564773768">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/ajax/jc_ajax.php" timestamp="1510127976521">
         <mark key="[" line="347" column="35" />
         <mark key="]" line="347" column="35" />
@@ -26,6 +31,7 @@
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/tgzq/tgzq.php" timestamp="1507861500816">
         <mark key="[" line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/bin/check-node-version.sh" timestamp="1510564234605" />
       <file name="$USER_HOME$/wuming/WeChatCasino/composer.json" timestamp="1510552659568" />
       <file name="/H2 Fragment (bacc_betlog_list.php:2328).sql" timestamp="1509431145585">
         <mark key="[" line="0" column="0" />
@@ -38,8 +44,8 @@
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/ajax_choose_video.php" timestamp="1507799256617">
         <mark key="[" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/docker-compose.yml" timestamp="1510562211876">
-        <mark key="[" line="58" column="13" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/docker-compose.yml" timestamp="1510565262641">
+        <mark key="[" line="7" column="28" />
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
@@ -178,12 +184,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/BetLogRepoContract.php" timestamp="1510306017421">
-        <mark key="[" line="43" column="77" />
-        <mark key="]" line="43" column="77" />
-        <mark key="." line="43" column="77" />
-        <mark key="^" line="41" column="25" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/PayController.php" timestamp="1510300481182">
         <mark key="[" line="35" column="33" />
       </file>
@@ -224,12 +224,6 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/PromotionLogRepoContract.php" timestamp="1510293742733">
         <mark key="[" line="5" column="27" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/BetLogRepo.php" timestamp="1510299547245">
-        <mark key="[" line="70" column="26" />
-        <mark key="]" line="70" column="26" />
-        <mark key="." line="70" column="26" />
-        <mark key="^" line="70" column="26" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/BaseRepository.php" timestamp="1509613523286">
         <mark key="[" line="6" column="10" />
@@ -288,13 +282,7 @@
       <file name="/dummy.sql" timestamp="1509431536771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/PromotionLogRepo.php" timestamp="1510295936484">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="34" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1510556674133">
+      <file name="/Dummy.txt" timestamp="1510563690221">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -373,6 +361,11 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatBaccarat/docker/rtmp_nginx/test.sh" timestamp="1507015569118">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/application/Dockerfile" timestamp="1510565131194">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -499,7 +492,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>INSTALL_IMAGEMAGICK</text>
+        <text encoding="base64">CiBidWlsZDoKICAgICAgICBjb250ZXh0OiAuL3dvcmtzcGFjZQ==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -508,7 +501,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>INSTALL_IMAGEMAGICK</text>
+        <text>./</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -533,8 +526,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtIGFwcGxpY2F0aW9ucwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiBidWlsZDoKICAgICAgICBjb250ZXh0OiAuL3dvcmtzcGFjZQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -550,19 +543,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdm9sdW1lc19mcm9tOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtIC4vcGhwLWZwbS9waHAke1BIUF9WRVJTSU9OfS5pbmk6L3Vzci9sb2NhbC9ldGMvcGhwL3BocC5pbmkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdm9sdW1lczoK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAtIGFwcGxpY2F0aW9ucwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgdm9sdW1lc19mcm9tOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAtIGFwcGxpY2F0aW9ucwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdm9sdW1lc19mcm9tOgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAtIGFwcGxpY2F0aW9ucwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -573,13 +566,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIGFwcGxpY2F0aW9ucwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgdm9sdW1lc19mcm9tOgo=</text>
       </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgIA==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFByZXR0dXNcUmVwb3NpdG9yeVxQcm92aWRlcnNcUmVwb3NpdG9yeVNlcnZpY2VQcm92aWRlcjsK</text>
+        <text encoding="base64">c2QK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
