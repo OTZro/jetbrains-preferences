@@ -120,14 +120,18 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/transfer.blade.php" timestamp="1509695088803">
         <mark key="[" line="41" column="61" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/bin/build-stage.sh" timestamp="1510725084607" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/bin/build-stage.sh" timestamp="1510728092494">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+      </file>
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/video/baccarat/ludan.php" timestamp="1507799866540">
         <mark key="[" line="5" column="8" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatBaccarat/admin/robot_content_list.php" timestamp="1507278151064">
         <mark key="[" line="42" column="46" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/composer.lock" timestamp="1510725695082" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/composer.lock" timestamp="1510726902993" />
       <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/storefront/news.php" timestamp="1497950010882">
         <mark key="[" line="19" column="59" />
       </file>
@@ -223,6 +227,12 @@
       </file>
       <file name="$USER_HOME$/web-service/web-socket-server/vendor/voryx/thruway/Examples/Authentication/StartRouter.php" timestamp="1495187511326">
         <mark key="[" line="15" column="63" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/bin/deploy-stage.sh" timestamp="1510727950563">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="3" column="30" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/video-vertical.blade.php" timestamp="1509688916077">
         <mark key="[" line="2" column="10" />
@@ -516,7 +526,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>pull</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -525,7 +535,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>pull</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -551,7 +561,8 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHZvbHVtZXNfZnJvbToKICAgICAgICAtIGFwcGxpY2F0aW9ucw==</text>
+        <text># Update environment config
+ln -s .env.stage .env</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -567,19 +578,34 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>volumes:
-        - ./php-fpm/php${PHP_VERSION}.ini:/usr/local/etc/php/php.ini</text>
+        <text># Update git hook
+sh bin/update-hooks.sh</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">IHZvbHVtZXNfZnJvbToKICAgICAgICAtIGFwcGxpY2F0aW9ucw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">RU5WPURFVgo=</text>
+      <register name="4" type="4">
+        <text>volumes:
+        - ./php-fpm/php${PHP_VERSION}.ini:/usr/local/etc/php/php.ini</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IHZvbHVtZXNfZnJvbToKICAgICAgICAtIGFwcGxpY2F0aW9ucw==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">RU5WPURFVgo=</text>
+      </register>
+      <register name="v" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">IyMjIEFwcGxpY2F0aW9ucyBDb2RlIENvbnRhaW5lciAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKICAgIGFwcGxpY2F0aW9uczoKICAgICAgaW1hZ2U6IHRpYW5vbi90cnVlCiAgICAgIHZvbHVtZXM6CiAgICAgICAgLSAke0FQUExJQ0FUSU9OfTovdmFyL3d3dwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>### Workspace Utilities Container ###########################
 
     workspace:
@@ -622,15 +648,7 @@
         - frontend
         - backend</text>
       </register>
-      <register name="v" type="4">
-        <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>### Workspace Utilities Container ###########################
 
     workspace:
@@ -643,12 +661,6 @@
       networks:
         - frontend
         - backend</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgIGRvY2tlcmZpbGU6ICJEb2NrZXJmaWxlLSR7UEhQX1ZFUlNJT059IgogICAgICB2b2x1bWVzX2Zyb206CiAgICAgICAgLSBhcHBsaWNhdGlvbnMKICAgICAgZXh0cmFfaG9zdHM6CiAgICAgICAgLSAiZG9ja2VyaG9zdDoke0RPQ0tFUl9IT1NUX0lQfSI=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgLSBJTlNUQUxMX0JMQUNLRklSRT0ke0lOU1RBTExfQkxBQ0tGSVJFfQogICAgICAgICAgLSBJTlNUQUxMX1NPQVA9JHtXT1JLU1BBQ0VfSU5TVEFMTF9TT0FQfQogICAgICAgICAgLSBJTlNUQUxMX01PTkdPPSR7V09SS1NQQUNFX0lOU1RBTExfTU9OR099CiAgICAgICAgICAtIElOU1RBTExfTVNTUUw9JHtXT1JLU1BBQ0VfSU5TVEFMTF9NU1NRTH0KICAgICAgICAgIC0gSU5TVEFMTF9OT0RFPSR7V09SS1NQQUNFX0lOU1RBTExfTk9ERX0KICAgICAgICAgIC0gSU5TVEFMTF9ZQVJOPSR7V09SS1NQQUNFX0lOU1RBTExfWUFSTn0KICAgICAgICAgIC0gSU5TVEFMTF9EUlVTSD0ke1dPUktTUEFDRV9JTlNUQUxMX0RSVVNIfQogICAgICAgICAgLSBJTlNUQUxMX0FFUk9TUElLRT0ke1dPUktTUEFDRV9JTlNUQUxMX0FFUk9TUElLRX0KICAgICAgICAgIC0gSU5TVEFMTF9WOEpTPSR7V09SS1NQQUNFX0lOU1RBTExfVjhKU30KICAgICAgICAgIC0gQ09NUE9TRVJfR0xPQkFMX0lOU1RBTEw9JHtXT1JLU1BBQ0VfQ09NUE9TRVJfR0xPQkFMX0lOU1RBTEx9CiAgICAgICAgICAtIElOU1RBTExfV09SS1NQQUNFX1NTSD0ke1dPUktTUEFDRV9JTlNUQUxMX1dPUktTUEFDRV9TU0h9CiAgICAgICAgICAtIElOU1RBTExfTEFSQVZFTF9FTlZPWT0ke1dPUktTUEFDRV9JTlNUQUxMX0xBUkFWRUxfRU5WT1l9CiAgICAgICAgICAtIElOU1RBTExfTEFSQVZFTF9JTlNUQUxMRVI9JHtXT1JLU1BBQ0VfSU5TVEFMTF9MQVJBVkVMX0lOU1RBTExFUn0KICAgICAgICAgIC0gSU5TVEFMTF9ERVBMT1lFUj0ke1dPUktTUEFDRV9JTlNUQUxMX0RFUExPWUVSfQogICAgICAgICAgLSBJTlNUQUxMX0xJTlVYQlJFVz0ke1dPUktTUEFDRV9JTlNUQUxMX0xJTlVYQlJFV30KICAgICAgICAgIC0gSU5TVEFMTF9NQz0ke1dPUktTUEFDRV9JTlNUQUxMX01DfQogICAgICAgICAgLSBQVUlEPSR7V09SS1NQQUNFX1BVSUR9CiAgICAgICAgICAtIFBHSUQ9JHtXT1JLU1BBQ0VfUEdJRH0KICAgICAgICAgIC0gTk9ERV9WRVJTSU9OPSR7V09SS1NQQUNFX05PREVfVkVSU0lPTn0KICAgICAgICAgIC0gWUFSTl9WRVJTSU9OPSR7V09SS1NQQUNFX1lBUk5fVkVSU0lPTn0KICAgICAgICAgIC0gVFo9JHtXT1JLU1BBQ0VfVElNRVpPTkV9CiAgICAgICAgICAtIEJMQUNLRklSRV9DTElFTlRfSUQ9JHtCTEFDS0ZJUkVfQ0xJRU5UX0lEfQogICAgICAgICAgLSBCTEFDS0ZJUkVfQ0xJRU5UX1RPS0VOPSR7QkxBQ0tGSVJFX0NMSUVOVF9UT0tFTn0=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
