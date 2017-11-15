@@ -43,11 +43,10 @@
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/ajax_choose_video.php" timestamp="1507799256617">
         <mark key="[" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/docker-compose.yml" timestamp="1510734561810">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="15" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/docker-compose.yml" timestamp="1510736416536">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/tg_to_money_post.php" timestamp="1507861493425">
         <mark key="[" line="2" column="8" />
@@ -135,6 +134,9 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/composer.lock" timestamp="1510726902993" />
       <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/storefront/news.php" timestamp="1497950010882">
         <mark key="[" line="19" column="59" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/LiveGameController.php" timestamp="1510736656526">
+        <mark key="[" line="35" column="48" />
       </file>
       <file name="/a.sql" timestamp="1509431261273">
         <mark key="[" line="0" column="0" />
@@ -321,7 +323,7 @@
       <file name="/dummy.sql" timestamp="1509431536771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510725592673">
+      <file name="/Dummy.txt" timestamp="1510736342916">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -347,8 +349,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/php-fpm/Dockerfile-71" timestamp="1510630130334">
-        <mark key="[" line="333" column="4" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/php-fpm/Dockerfile-71" timestamp="1510736328819">
+        <mark key="[" line="322" column="50" />
         <mark key="]" line="333" column="4" />
         <mark key="." line="333" column="4" />
         <mark key="^" line="330" column="34" />
@@ -530,8 +532,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>cp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAtIC4vcGhwLWZwbS9waHAke1BIUF9WRVJTSU9OfS5pbmk6L3Vzci9sb2NhbC9ldGMvcGhwL3BocC5pbmkK</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -565,9 +567,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text># Update environment config
-ln -s .env.stage .env</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAtIC4vcGhwLWZwbS9waHAke1BIUF9WRVJTSU9OfS5pbmk6L3Vzci9sb2NhbC9ldGMvcGhwL3BocC5pbmkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -582,22 +583,23 @@ ln -s .env.stage .env</text>
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text># Update git hook
-sh bin/update-hooks.sh</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdm9sdW1lczoK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHZvbHVtZXNfZnJvbToKICAgICAgICAtIGFwcGxpY2F0aW9ucw==</text>
+        <text># Update environment config
+ln -s .env.stage .env</text>
       </register>
       <register name="4" type="4">
-        <text>volumes:
-        - ./php-fpm/php${PHP_VERSION}.ini:/usr/local/etc/php/php.ini</text>
+        <text># Update git hook
+sh bin/update-hooks.sh</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">IHZvbHVtZXNfZnJvbToKICAgICAgICAtIGFwcGxpY2F0aW9ucw==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">RU5WPURFVgo=</text>
+      <register name="6" type="4">
+        <text>volumes:
+        - ./php-fpm/php${PHP_VERSION}.ini:/usr/local/etc/php/php.ini</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -608,64 +610,13 @@ sh bin/update-hooks.sh</text>
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IyMjIEFwcGxpY2F0aW9ucyBDb2RlIENvbnRhaW5lciAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKICAgIGFwcGxpY2F0aW9uczoKICAgICAgaW1hZ2U6IHRpYW5vbi90cnVlCiAgICAgIHZvbHVtZXM6CiAgICAgICAgLSAke0FQUExJQ0FUSU9OfTovdmFyL3d3dwo=</text>
+        <text encoding="base64">IHZvbHVtZXNfZnJvbToKICAgICAgICAtIGFwcGxpY2F0aW9ucw==</text>
       </register>
-      <register name="8" type="4">
-        <text>### Workspace Utilities Container ###########################
-
-    workspace:
-      build:
-        context: ./workspace
-        args:
-          - INSTALL_XDEBUG=${WORKSPACE_INSTALL_XDEBUG}
-          - INSTALL_BLACKFIRE=${INSTALL_BLACKFIRE}
-          - INSTALL_SOAP=${WORKSPACE_INSTALL_SOAP}
-          - INSTALL_MONGO=${WORKSPACE_INSTALL_MONGO}
-          - INSTALL_MSSQL=${WORKSPACE_INSTALL_MSSQL}
-          - INSTALL_NODE=${WORKSPACE_INSTALL_NODE}
-          - INSTALL_YARN=${WORKSPACE_INSTALL_YARN}
-          - INSTALL_DRUSH=${WORKSPACE_INSTALL_DRUSH}
-          - INSTALL_AEROSPIKE=${WORKSPACE_INSTALL_AEROSPIKE}
-          - INSTALL_V8JS=${WORKSPACE_INSTALL_V8JS}
-          - COMPOSER_GLOBAL_INSTALL=${WORKSPACE_COMPOSER_GLOBAL_INSTALL}
-          - INSTALL_WORKSPACE_SSH=${WORKSPACE_INSTALL_WORKSPACE_SSH}
-          - INSTALL_LARAVEL_ENVOY=${WORKSPACE_INSTALL_LARAVEL_ENVOY}
-          - INSTALL_LARAVEL_INSTALLER=${WORKSPACE_INSTALL_LARAVEL_INSTALLER}
-          - INSTALL_DEPLOYER=${WORKSPACE_INSTALL_DEPLOYER}
-          - INSTALL_LINUXBREW=${WORKSPACE_INSTALL_LINUXBREW}
-          - INSTALL_MC=${WORKSPACE_INSTALL_MC}
-          - PUID=${WORKSPACE_PUID}
-          - PGID=${WORKSPACE_PGID}
-          - NODE_VERSION=${WORKSPACE_NODE_VERSION}
-          - YARN_VERSION=${WORKSPACE_YARN_VERSION}
-          - TZ=${WORKSPACE_TIMEZONE}
-          - BLACKFIRE_CLIENT_ID=${BLACKFIRE_CLIENT_ID}
-          - BLACKFIRE_CLIENT_TOKEN=${BLACKFIRE_CLIENT_TOKEN}
-        dockerfile: &quot;Dockerfile-${PHP_VERSION}&quot;
-      volumes_from:
-        - applications
-      extra_hosts:
-        - &quot;dockerhost:${DOCKER_HOST_IP}&quot;
-      ports:
-        - &quot;${WORKSPACE_SSH_PORT}:22&quot;
-      tty: true
-      networks:
-        - frontend
-        - backend</text>
+      <register name="8" type="2">
+        <text encoding="base64">RU5WPURFVgo=</text>
       </register>
       <register name="9" type="4">
-        <text>### Workspace Utilities Container ###########################
-
-    workspace:
-      build:
-        args:
-          - COPY_APPLICATION=true
-      ports:
-        - &quot;${WORKSPACE_SSH_PORT}:22&quot;
-      tty: true
-      networks:
-        - frontend
-        - backend</text>
+        <text encoding="base64">IyMjIEFwcGxpY2F0aW9ucyBDb2RlIENvbnRhaW5lciAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKICAgIGFwcGxpY2F0aW9uczoKICAgICAgaW1hZ2U6IHRpYW5vbi90cnVlCiAgICAgIHZvbHVtZXM6CiAgICAgICAgLSAke0FQUExJQ0FUSU9OfTovdmFyL3d3dwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
