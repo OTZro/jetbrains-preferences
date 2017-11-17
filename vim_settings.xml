@@ -44,7 +44,11 @@
         <mark key="[" line="3" column="29" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Lottery/RacingCarLotteryService.php" timestamp="1510822998222" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/docker-compose.yml" timestamp="1510821123879" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/docker-compose.yml" timestamp="1510896678535">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/tg_to_money_post.php" timestamp="1507861493425">
         <mark key="[" line="2" column="8" />
       </file>
@@ -73,9 +77,6 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/TransactionRepoContract.php" timestamp="1509605303653">
         <mark key="[" line="20" column="34" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/workspace/Dockerfile-71" timestamp="1510650398984">
-        <mark key="[" line="662" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/Model/BaccaratBigRoad.php" timestamp="1507799271128">
         <mark key="[" line="1" column="29" />
@@ -271,8 +272,10 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/ReturnWater.php" timestamp="1509505360496">
         <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/Dockerfile" timestamp="1510737331432">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/Dockerfile" timestamp="1510896657963">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
       </file>
       <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/iconic-one/page-templates/news-labor.php" timestamp="1498224198436">
         <mark key="[" line="0" column="26" />
@@ -305,9 +308,6 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/CasinoGame.php" timestamp="1510198718466">
         <mark key="[" line="5" column="10" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_09_154326_change_betlog_soft_delete_column_type.php" timestamp="1510725400537">
-        <mark key="[" line="28" column="67" />
       </file>
       <file name="/PHP Console" timestamp="1510556030436">
         <mark key="[" line="0" column="0" />
@@ -532,8 +532,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAtIC92YXIvd3d3Cg==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -568,7 +568,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtIC4vcGhwLWZwbS9waHAke1BIUF9WRVJTSU9OfS5pbmk6L3Vzci9sb2NhbC9ldGMvcGhwL3BocC5pbmkK</text>
+        <text encoding="base64">ICAgICAgICAtIC92YXIvd3d3Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -586,20 +586,18 @@
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgdm9sdW1lczoK</text>
       </register>
-      <register name="3" type="4">
-        <text># Update environment config
-ln -s .env.stage .env</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text># Update git hook
-sh bin/update-hooks.sh</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAtIC4vcGhwLWZwbS9waHAke1BIUF9WRVJTSU9OfS5pbmk6L3Vzci9sb2NhbC9ldGMvcGhwL3BocC5pbmkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IHZvbHVtZXNfZnJvbToKICAgICAgICAtIGFwcGxpY2F0aW9ucw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdm9sdW1lczoK</text>
       </register>
       <register name="6" type="4">
-        <text>volumes:
-        - ./php-fpm/php${PHP_VERSION}.ini:/usr/local/etc/php/php.ini</text>
+        <text># Update environment config
+ln -s .env.stage .env</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -610,13 +608,15 @@ sh bin/update-hooks.sh</text>
         </keys>
       </register>
       <register name="7" type="4">
+        <text># Update git hook
+sh bin/update-hooks.sh</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">IHZvbHVtZXNfZnJvbToKICAgICAgICAtIGFwcGxpY2F0aW9ucw==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">RU5WPURFVgo=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IyMjIEFwcGxpY2F0aW9ucyBDb2RlIENvbnRhaW5lciAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKICAgIGFwcGxpY2F0aW9uczoKICAgICAgaW1hZ2U6IHRpYW5vbi90cnVlCiAgICAgIHZvbHVtZXM6CiAgICAgICAgLSAke0FQUExJQ0FUSU9OfTovdmFyL3d3dwo=</text>
+        <text>volumes:
+        - ./php-fpm/php${PHP_VERSION}.ini:/usr/local/etc/php/php.ini</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
