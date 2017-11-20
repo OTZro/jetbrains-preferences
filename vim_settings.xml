@@ -40,10 +40,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-dev" timestamp="1510906637767">
-        <mark key="[" line="139" column="10" />
-        <mark key="]" line="47" column="37" />
-        <mark key="." line="47" column="37" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-dev" timestamp="1511157284313">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
         <mark key="^" line="47" column="37" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/.env.example" timestamp="1510908380644" />
@@ -124,7 +124,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/bin/deploy-stage.sh" timestamp="1511155102001">
+      <file name="$USER_HOME$/wuming/WeChatCasino/bin/deploy-stage.sh" timestamp="1511157356356">
         <mark key="[" line="26" column="65" />
         <mark key="]" line="26" column="65" />
         <mark key="^" line="26" column="65" />
@@ -351,7 +351,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYnVpbGQ6IC4vcmVkaXMK</text>
+        <text encoding="base64">VkVSU0lPTj1mZWF0dXJlX2J1aWxkLWZsb3cK</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -386,7 +386,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYnVpbGQ6IC4vcmVkaXMK</text>
+        <text encoding="base64">VkVSU0lPTj1mZWF0dXJlX2J1aWxkLWZsb3cK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -402,19 +402,19 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgYnVpbGQ6IC4vcmVkaXMK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgYnVpbGQ6CiAgICAgICAgY29udGV4dDogLi9teXNxbA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGJ1aWxkOgogICAgICAgIGNvbnRleHQ6IC4vbmdpbngKICAgICAgICBhcmdzOgogICAgICAgICAgLSBQSFBfVVBTVFJFQU1fQ09OVEFJTkVSPSR7TkdJTlhfUEhQX1VQU1RSRUFNX0NPTlRBSU5FUn0KICAgICAgICAgIC0gUEhQX1VQU1RSRUFNX1BPUlQ9JHtOR0lOWF9QSFBfVVBTVFJFQU1fUE9SVH0=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -424,7 +424,10 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="8" type="4">
         <text>build:
         context: ./php-fpm
         args:
@@ -448,11 +451,8 @@
           - INSTALL_SWOOLE=${PHP_FPM_INSTALL_SWOOLE}
         dockerfile: &quot;Dockerfile-${PHP_VERSION}&quot;</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGJ1aWxkOgogICAgICAgIGNvbnRleHQ6IC4vd29ya3NwYWNlCiAgICAgICAgYXJnczoKICAgICAgICAgIC0gSU5TVEFMTF9YREVCVUc9JHtXT1JLU1BBQ0VfSU5TVEFMTF9YREVCVUd9CiAgICAgICAgICAtIElOU1RBTExfQkxBQ0tGSVJFPSR7SU5TVEFMTF9CTEFDS0ZJUkV9CiAgICAgICAgICAtIElOU1RBTExfU09BUD0ke1dPUktTUEFDRV9JTlNUQUxMX1NPQVB9CiAgICAgICAgICAtIElOU1RBTExfTU9OR089JHtXT1JLU1BBQ0VfSU5TVEFMTF9NT05HT30KICAgICAgICAgIC0gSU5TVEFMTF9NU1NRTD0ke1dPUktTUEFDRV9JTlNUQUxMX01TU1FMfQogICAgICAgICAgLSBJTlNUQUxMX05PREU9JHtXT1JLU1BBQ0VfSU5TVEFMTF9OT0RFfQogICAgICAgICAgLSBJTlNUQUxMX1lBUk49JHtXT1JLU1BBQ0VfSU5TVEFMTF9ZQVJOfQogICAgICAgICAgLSBJTlNUQUxMX0RSVVNIPSR7V09SS1NQQUNFX0lOU1RBTExfRFJVU0h9CiAgICAgICAgICAtIElOU1RBTExfQUVST1NQSUtFPSR7V09SS1NQQUNFX0lOU1RBTExfQUVST1NQSUtFfQogICAgICAgICAgLSBJTlNUQUxMX1Y4SlM9JHtXT1JLU1BBQ0VfSU5TVEFMTF9WOEpTfQogICAgICAgICAgLSBDT01QT1NFUl9HTE9CQUxfSU5TVEFMTD0ke1dPUktTUEFDRV9DT01QT1NFUl9HTE9CQUxfSU5TVEFMTH0KICAgICAgICAgIC0gSU5TVEFMTF9XT1JLU1BBQ0VfU1NIPSR7V09SS1NQQUNFX0lOU1RBTExfV09SS1NQQUNFX1NTSH0KICAgICAgICAgIC0gSU5TVEFMTF9MQVJBVkVMX0VOVk9ZPSR7V09SS1NQQUNFX0lOU1RBTExfTEFSQVZFTF9FTlZPWX0KICAgICAgICAgIC0gSU5TVEFMTF9MQVJBVkVMX0lOU1RBTExFUj0ke1dPUktTUEFDRV9JTlNUQUxMX0xBUkFWRUxfSU5TVEFMTEVSfQogICAgICAgICAgLSBJTlNUQUxMX0RFUExPWUVSPSR7V09SS1NQQUNFX0lOU1RBTExfREVQTE9ZRVJ9CiAgICAgICAgICAtIElOU1RBTExfTElOVVhCUkVXPSR7V09SS1NQQUNFX0lOU1RBTExfTElOVVhCUkVXfQogICAgICAgICAgLSBJTlNUQUxMX01DPSR7V09SS1NQQUNFX0lOU1RBTExfTUN9CiAgICAgICAgICAtIFBVSUQ9JHtXT1JLU1BBQ0VfUFVJRH0KICAgICAgICAgIC0gUEdJRD0ke1dPUktTUEFDRV9QR0lEfQogICAgICAgICAgLSBOT0RFX1ZFUlNJT049JHtXT1JLU1BBQ0VfTk9ERV9WRVJTSU9OfQogICAgICAgICAgLSBZQVJOX1ZFUlNJT049JHtXT1JLU1BBQ0VfWUFSTl9WRVJTSU9OfQogICAgICAgICAgLSBUWj0ke1dPUktTUEFDRV9USU1FWk9ORX0KICAgICAgICAgIC0gQkxBQ0tGSVJFX0NMSUVOVF9JRD0ke0JMQUNLRklSRV9DTElFTlRfSUR9CiAgICAgICAgICAtIEJMQUNLRklSRV9DTElFTlRfVE9LRU49JHtCTEFDS0ZJUkVfQ0xJRU5UX1RPS0VOfQogICAgICAgIGRvY2tlcmZpbGU6ICJEb2NrZXJmaWxlLSR7UEhQX1ZFUlNJT059Ig==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
