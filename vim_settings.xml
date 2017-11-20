@@ -24,10 +24,10 @@
         <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Lottery/RacingCarLotteryService.php" timestamp="1510822998222" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/docker-compose.yml" timestamp="1510908437215">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/docker-compose.yml" timestamp="1511156257228">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/TestController.php" timestamp="1510214705639">
         <mark key="[" line="38" column="37" />
@@ -98,7 +98,7 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_09_162738_add_betlog_timestamp.php" timestamp="1510725271352" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-stage" timestamp="1510906660854">
-        <mark key="[" line="139" column="26" />
+        <mark key="[" line="138" column="26" />
         <mark key="]" line="47" column="37" />
         <mark key="." line="47" column="37" />
         <mark key="^" line="47" column="37" />
@@ -124,11 +124,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/bin/deploy-stage.sh" timestamp="1511153680612">
-        <mark key="[" line="24" column="65" />
-        <mark key="]" line="24" column="65" />
-        <mark key="^" line="24" column="65" />
-        <mark key="." line="24" column="65" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/bin/deploy-stage.sh" timestamp="1511155102001">
+        <mark key="[" line="26" column="65" />
+        <mark key="]" line="26" column="65" />
+        <mark key="^" line="26" column="65" />
+        <mark key="." line="26" column="65" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/video-vertical.blade.php" timestamp="1509688916077">
         <mark key="[" line="2" column="10" />
@@ -137,6 +137,7 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Kernel.php" timestamp="1510823574607" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/AgentOddsBonusRepo.php" timestamp="1510822441155" />
+      <file name="/post-checkout" timestamp="1511155451242" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/BaseRepository.php" timestamp="1509613523286">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="10" />
@@ -209,6 +210,11 @@
         <mark key="[" line="104" column="27" />
         <mark key="]" line="210" column="0" />
         <mark key="." line="210" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/docker-compose.build.yml" timestamp="1511156206800">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/TestRepository.php" timestamp="1509613419334">
         <mark key="[" line="8" column="0" />
@@ -344,8 +350,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>build</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYnVpbGQ6IC4vcmVkaXMK</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -354,7 +360,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -380,7 +386,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VFRUCg==</text>
+        <text encoding="base64">ICAgICAgYnVpbGQ6IC4vcmVkaXMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -395,20 +401,20 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">YXBwbGljYXRpb25zOgogICAgICBpbWFnZTogZG9ja2VyLXJlZ2lzdHJ5LndtbHgzNDUubmV0OjUwMDAvd2VjaGF0LWFwcGxpY2F0aW9uOnN0YWdlJHtWRVJTSU9OfQoKIyMjIFdvcmtzcGFjZSBVdGlsaXRpZXMgQ29udGFpbmVyICMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKICAgIHdvcmtzcGFjZToKICAgICAgaW1hZ2U6IGRvY2tlci1yZWdpc3RyeS53bWx4MzQ1Lm5ldDo1MDAwL3dlY2hhdC1jYXNpbm9fd29ya3NwYWNlOnMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBocCBhcnRpc2FuIGlkZS1oZWxwZXI6bWV0YSIK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgYnVpbGQ6CiAgICAgICAgY29udGV4dDogLi9teXNxbA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICJAcGhwIGFydGlzYW4gaWRlLWhlbHBlcjpnZW5lcmF0ZSIsCiAgICAgICAgICAgICJAcGhwIGFydGlzYW4gaWRlLWhlbHBlcjptZXRhIiw=</text>
+        <text encoding="base64">IGJ1aWxkOgogICAgICAgIGNvbnRleHQ6IC4vbmdpbngKICAgICAgICBhcmdzOgogICAgICAgICAgLSBQSFBfVVBTVFJFQU1fQ09OVEFJTkVSPSR7TkdJTlhfUEhQX1VQU1RSRUFNX0NPTlRBSU5FUn0KICAgICAgICAgIC0gUEhQX1VQU1RSRUFNX1BPUlQ9JHtOR0lOWF9QSFBfVVBTVFJFQU1fUE9SVH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -418,14 +424,35 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>build:
+        context: ./php-fpm
+        args:
+          - INSTALL_XDEBUG=${PHP_FPM_INSTALL_XDEBUG}
+          - INSTALL_BLACKFIRE=${INSTALL_BLACKFIRE}
+          - INSTALL_SOAP=${PHP_FPM_INSTALL_SOAP}
+          - INSTALL_MONGO=${PHP_FPM_INSTALL_MONGO}
+          - INSTALL_MSSQL=${PHP_FPM_INSTALL_MSSQL}
+          - INSTALL_ZIP_ARCHIVE=${PHP_FPM_INSTALL_ZIP_ARCHIVE}
+          - INSTALL_BCMATH=${PHP_FPM_INSTALL_BCMATH}
+          - INSTALL_PHPREDIS=${PHP_FPM_INSTALL_PHPREDIS}
+          - INSTALL_MEMCACHED=${PHP_FPM_INSTALL_MEMCACHED}
+          - INSTALL_OPCACHE=${PHP_FPM_INSTALL_OPCACHE}
+          - INSTALL_EXIF=${PHP_FPM_INSTALL_EXIF}
+          - INSTALL_AEROSPIKE=${PHP_FPM_INSTALL_AEROSPIKE}
+          - INSTALL_MYSQLI=${PHP_FPM_INSTALL_MYSQLI}
+          - INSTALL_TOKENIZER=${PHP_FPM_INSTALL_TOKENIZER}
+          - INSTALL_INTL=${PHP_FPM_INSTALL_INTL}
+          - INSTALL_GHOSTSCRIPT=${PHP_FPM_INSTALL_GHOSTSCRIPT}
+          - INSTALL_LDAP=${PHP_FPM_INSTALL_LDAP}
+          - INSTALL_SWOOLE=${PHP_FPM_INSTALL_SWOOLE}
+        dockerfile: &quot;Dockerfile-${PHP_VERSION}&quot;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGJ1aWxkOgogICAgICAgIGNvbnRleHQ6IC4vd29ya3NwYWNlCiAgICAgICAgYXJnczoKICAgICAgICAgIC0gSU5TVEFMTF9YREVCVUc9JHtXT1JLU1BBQ0VfSU5TVEFMTF9YREVCVUd9CiAgICAgICAgICAtIElOU1RBTExfQkxBQ0tGSVJFPSR7SU5TVEFMTF9CTEFDS0ZJUkV9CiAgICAgICAgICAtIElOU1RBTExfU09BUD0ke1dPUktTUEFDRV9JTlNUQUxMX1NPQVB9CiAgICAgICAgICAtIElOU1RBTExfTU9OR089JHtXT1JLU1BBQ0VfSU5TVEFMTF9NT05HT30KICAgICAgICAgIC0gSU5TVEFMTF9NU1NRTD0ke1dPUktTUEFDRV9JTlNUQUxMX01TU1FMfQogICAgICAgICAgLSBJTlNUQUxMX05PREU9JHtXT1JLU1BBQ0VfSU5TVEFMTF9OT0RFfQogICAgICAgICAgLSBJTlNUQUxMX1lBUk49JHtXT1JLU1BBQ0VfSU5TVEFMTF9ZQVJOfQogICAgICAgICAgLSBJTlNUQUxMX0RSVVNIPSR7V09SS1NQQUNFX0lOU1RBTExfRFJVU0h9CiAgICAgICAgICAtIElOU1RBTExfQUVST1NQSUtFPSR7V09SS1NQQUNFX0lOU1RBTExfQUVST1NQSUtFfQogICAgICAgICAgLSBJTlNUQUxMX1Y4SlM9JHtXT1JLU1BBQ0VfSU5TVEFMTF9WOEpTfQogICAgICAgICAgLSBDT01QT1NFUl9HTE9CQUxfSU5TVEFMTD0ke1dPUktTUEFDRV9DT01QT1NFUl9HTE9CQUxfSU5TVEFMTH0KICAgICAgICAgIC0gSU5TVEFMTF9XT1JLU1BBQ0VfU1NIPSR7V09SS1NQQUNFX0lOU1RBTExfV09SS1NQQUNFX1NTSH0KICAgICAgICAgIC0gSU5TVEFMTF9MQVJBVkVMX0VOVk9ZPSR7V09SS1NQQUNFX0lOU1RBTExfTEFSQVZFTF9FTlZPWX0KICAgICAgICAgIC0gSU5TVEFMTF9MQVJBVkVMX0lOU1RBTExFUj0ke1dPUktTUEFDRV9JTlNUQUxMX0xBUkFWRUxfSU5TVEFMTEVSfQogICAgICAgICAgLSBJTlNUQUxMX0RFUExPWUVSPSR7V09SS1NQQUNFX0lOU1RBTExfREVQTE9ZRVJ9CiAgICAgICAgICAtIElOU1RBTExfTElOVVhCUkVXPSR7V09SS1NQQUNFX0lOU1RBTExfTElOVVhCUkVXfQogICAgICAgICAgLSBJTlNUQUxMX01DPSR7V09SS1NQQUNFX0lOU1RBTExfTUN9CiAgICAgICAgICAtIFBVSUQ9JHtXT1JLU1BBQ0VfUFVJRH0KICAgICAgICAgIC0gUEdJRD0ke1dPUktTUEFDRV9QR0lEfQogICAgICAgICAgLSBOT0RFX1ZFUlNJT049JHtXT1JLU1BBQ0VfTk9ERV9WRVJTSU9OfQogICAgICAgICAgLSBZQVJOX1ZFUlNJT049JHtXT1JLU1BBQ0VfWUFSTl9WRVJTSU9OfQogICAgICAgICAgLSBUWj0ke1dPUktTUEFDRV9USU1FWk9ORX0KICAgICAgICAgIC0gQkxBQ0tGSVJFX0NMSUVOVF9JRD0ke0JMQUNLRklSRV9DTElFTlRfSUR9CiAgICAgICAgICAtIEJMQUNLRklSRV9DTElFTlRfVE9LRU49JHtCTEFDS0ZJUkVfQ0xJRU5UX1RPS0VOfQogICAgICAgIGRvY2tlcmZpbGU6ICJEb2NrZXJmaWxlLSR7UEhQX1ZFUlNJT059Ig==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
