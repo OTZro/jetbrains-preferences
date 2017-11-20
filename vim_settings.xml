@@ -24,12 +24,7 @@
         <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Lottery/RacingCarLotteryService.php" timestamp="1510822998222" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/docker-compose.yml" timestamp="1511162666603">
-        <mark key="[" line="72" column="35" />
-        <mark key="]" line="72" column="31" />
-        <mark key="." line="72" column="31" />
-        <mark key="^" line="72" column="31" />
-      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/docker-compose.yml" timestamp="1511162666603" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/TestController.php" timestamp="1510214705639">
         <mark key="[" line="38" column="37" />
         <mark key="]" line="38" column="37" />
@@ -45,10 +40,16 @@
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
-        <mark key="^" line="47" column="37" />
+        <mark key="^" line="4" column="37" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/workspace/Dockerfile-71" timestamp="1510650398984">
         <mark key="[" line="662" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/bin/update-submodule.sh" timestamp="1511165533787">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="2" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/.env.example" timestamp="1510908380644" />
       <file name="$USER_HOME$/wuming/WeChatCasino/public/RacingCar/game.php" timestamp="1510038962474">
@@ -56,8 +57,8 @@
         <mark key="]" line="115" column="41" />
         <mark key="." line="115" column="41" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/bin/build-stage.sh" timestamp="1511150428130">
-        <mark key="[" line="22" column="93" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/bin/build-stage.sh" timestamp="1511166075660">
+        <mark key="[" line="30" column="22" />
         <mark key="]" line="10" column="60" />
         <mark key="." line="10" column="60" />
         <mark key="^" line="10" column="0" />
@@ -101,12 +102,6 @@
         <mark key="^" line="6" column="4" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_11_09_162738_add_betlog_timestamp.php" timestamp="1510725271352" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-stage" timestamp="1511161758190">
-        <mark key="[" line="94" column="21" />
-        <mark key="]" line="47" column="37" />
-        <mark key="." line="47" column="37" />
-        <mark key="^" line="47" column="37" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/GameEloquent.php" timestamp="1509953660317">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="25" />
@@ -360,7 +355,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2l0Cg==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -395,7 +390,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2l0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -411,19 +406,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VkVSU0lPTj1mZWF0dXJlX2J1aWxkLWZsb3cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYnVpbGQ6IC4vcmVkaXMK</text>
+        <text encoding="base64">VkVSU0lPTj1mZWF0dXJlX2J1aWxkLWZsb3cK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgYnVpbGQ6IC4vcmVkaXMK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgYnVpbGQ6CiAgICAgICAgY29udGV4dDogLi9teXNxbA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -433,35 +428,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAK</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">IGJ1aWxkOgogICAgICAgIGNvbnRleHQ6IC4vbmdpbngKICAgICAgICBhcmdzOgogICAgICAgICAgLSBQSFBfVVBTVFJFQU1fQ09OVEFJTkVSPSR7TkdJTlhfUEhQX1VQU1RSRUFNX0NPTlRBSU5FUn0KICAgICAgICAgIC0gUEhQX1VQU1RSRUFNX1BPUlQ9JHtOR0lOWF9QSFBfVVBTVFJFQU1fUE9SVH0=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>build:
-        context: ./php-fpm
-        args:
-          - INSTALL_XDEBUG=${PHP_FPM_INSTALL_XDEBUG}
-          - INSTALL_BLACKFIRE=${INSTALL_BLACKFIRE}
-          - INSTALL_SOAP=${PHP_FPM_INSTALL_SOAP}
-          - INSTALL_MONGO=${PHP_FPM_INSTALL_MONGO}
-          - INSTALL_MSSQL=${PHP_FPM_INSTALL_MSSQL}
-          - INSTALL_ZIP_ARCHIVE=${PHP_FPM_INSTALL_ZIP_ARCHIVE}
-          - INSTALL_BCMATH=${PHP_FPM_INSTALL_BCMATH}
-          - INSTALL_PHPREDIS=${PHP_FPM_INSTALL_PHPREDIS}
-          - INSTALL_MEMCACHED=${PHP_FPM_INSTALL_MEMCACHED}
-          - INSTALL_OPCACHE=${PHP_FPM_INSTALL_OPCACHE}
-          - INSTALL_EXIF=${PHP_FPM_INSTALL_EXIF}
-          - INSTALL_AEROSPIKE=${PHP_FPM_INSTALL_AEROSPIKE}
-          - INSTALL_MYSQLI=${PHP_FPM_INSTALL_MYSQLI}
-          - INSTALL_TOKENIZER=${PHP_FPM_INSTALL_TOKENIZER}
-          - INSTALL_INTL=${PHP_FPM_INSTALL_INTL}
-          - INSTALL_GHOSTSCRIPT=${PHP_FPM_INSTALL_GHOSTSCRIPT}
-          - INSTALL_LDAP=${PHP_FPM_INSTALL_LDAP}
-          - INSTALL_SWOOLE=${PHP_FPM_INSTALL_SWOOLE}
-        dockerfile: &quot;Dockerfile-${PHP_VERSION}&quot;</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
