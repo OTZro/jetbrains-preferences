@@ -97,10 +97,10 @@
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/ajax_choose_video.php" timestamp="1507799256617">
         <mark key="[" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/bacc_betlog_detail.php" timestamp="1512442334501">
-        <mark key="[" line="54" column="120" />
-        <mark key="]" line="54" column="120" />
-        <mark key="." line="54" column="120" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/bacc_betlog_detail.php" timestamp="1512443799585">
+        <mark key="[" line="67" column="44" />
+        <mark key="]" line="67" column="44" />
+        <mark key="." line="67" column="44" />
       </file>
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/tg_to_money_post.php" timestamp="1507861493425">
         <mark key="[" line="2" column="8" />
@@ -728,7 +728,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>bet_at</text>
+        <text>play_type</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -737,7 +737,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>bet_at</text>
+        <text>play_type</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -762,8 +762,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">dHJhbnNhY3Rpb25zCnRyYW5zYWN0aW9ucwp0cmFuc2FjdGlvbnMKdHJhbnNhY3Rpb25zCnRyYW5zYWN0aW9ucwp0cmFuc2FjdGlvbnMKdHJhbnNhY3Rpb25zCnRyYW5zYWN0aW9ucwp0cmFuc2FjdGlvbnMKdHJhbnNhY3Rpb25zCiAgICAgICAgICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+PD9waHAgZWNobyAkdHJhbnNhY3Rpb25fcHJlc2VudGVyLT5nYW1lKCRyZXN1bHRbJ2dhbWVfaWQnXSk7ID8+PC90ZD4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -779,10 +779,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCB3aWR0aD0iMTAwIj7muLjmiI88L3RoPgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">dHJhbnNhY3Rpb25zCnRyYW5zYWN0aW9ucwp0cmFuc2FjdGlvbnMKdHJhbnNhY3Rpb25zCnRyYW5zYWN0aW9ucwp0cmFuc2FjdGlvbnMKdHJhbnNhY3Rpb25zCnRyYW5zYWN0aW9ucwp0cmFuc2FjdGlvbnMKdHJhbnNhY3Rpb25zCiAgICAgICAgICAgIA==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -791,7 +791,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -802,13 +802,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkYmV0bG9nCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
