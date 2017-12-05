@@ -97,7 +97,11 @@
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/ajax/ajax_choose_video.php" timestamp="1507799256617">
         <mark key="[" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/bacc_betlog_detail.php" timestamp="1512377952255" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/bacc_betlog_detail.php" timestamp="1512441598141">
+        <mark key="[" line="54" column="120" />
+        <mark key="]" line="54" column="120" />
+        <mark key="." line="54" column="120" />
+      </file>
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/tg_to_money_post.php" timestamp="1507861493425">
         <mark key="[" line="2" column="8" />
       </file>
@@ -214,7 +218,6 @@
       <file name="$USER_HOME$/wuming/WeChatBaccarat/admin/robot_content_list.php" timestamp="1507278151064">
         <mark key="[" line="42" column="46" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/composer.lock" timestamp="1512115963780" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/layouts/live-game-vertical/live-game-vertical.blade.php" timestamp="1512379758640">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -539,7 +542,6 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/docker-compose.dev.yml" timestamp="1511160755956">
         <mark key="[" line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/ChannelManagerApi.php" timestamp="1512376779854" />
       <file name="/a.regexp" timestamp="1506433698062">
         <mark key="[" line="0" column="0" />
       </file>
@@ -593,7 +595,6 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/MemberBonu.php" timestamp="1510119653428">
         <mark key="[" line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/BasicApi.php" timestamp="1512376786851" />
       <file name="$USER_HOME$/wuming/WeChatBaccarat/docker/rtmp_nginx/test.sh" timestamp="1507015569118">
         <mark key="[" line="0" column="0" />
       </file>
@@ -726,8 +727,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bet_at</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -736,7 +737,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>bet_at</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -761,8 +762,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">dHJhbnNhY3Rpb25zCnRyYW5zYWN0aW9ucwp0cmFuc2FjdGlvbnMKdHJhbnNhY3Rpb25zCnRyYW5zYWN0aW9ucwp0cmFuc2FjdGlvbnMKdHJhbnNhY3Rpb25zCnRyYW5zYWN0aW9ucwp0cmFuc2FjdGlvbnMKdHJhbnNhY3Rpb25zCiAgICAgICAgICAgIA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -787,10 +788,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -801,13 +802,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkYmV0bG9nCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkcmVzdWx0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkYmV0bG9nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
