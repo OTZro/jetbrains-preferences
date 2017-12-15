@@ -40,7 +40,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1512627166752">
+      <file name="/a.dummy" timestamp="1513304864974">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/user/tgzq/tgzq.php" timestamp="1507861500816">
@@ -62,11 +62,11 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/CashFlow.php" timestamp="1513244714576">
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="191" column="5" />
-        <mark key="." line="191" column="5" />
-        <mark key="^" line="191" column="5" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/CashFlow.php" timestamp="1513304065987">
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="212" column="5" />
+        <mark key="." line="212" column="5" />
+        <mark key="^" line="212" column="5" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/User.php" timestamp="1511497457412">
         <mark key="[" line="60" column="0" />
@@ -99,6 +99,9 @@
       </file>
       <file name="$USER_HOME$/wuming/RacingCar/baccarat/Model/BaccaratResult.php" timestamp="1507799278443">
         <mark key="[" line="1" column="30" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/Refunds.php" timestamp="1513227011993">
+        <mark key="[" line="81" column="43" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/ReturnWaterService.php" timestamp="1511497995523">
         <mark key="[" line="70" column="38" />
@@ -266,6 +269,12 @@
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Wallet/WalletService.php" timestamp="1513305388425">
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_12_14_165508_add_cash_flow_table.php" timestamp="1513241880274">
         <mark key="[" line="25" column="42" />
         <mark key="]" line="27" column="0" />
@@ -318,6 +327,9 @@
       </file>
       <file name="$USER_HOME$/code/dral/src/wordpress/wp-content/themes/iconic-one/page-templates/news.php" timestamp="1512452669578">
         <mark key="[" line="4" column="43" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/WalletOperatorEnum.php" timestamp="1513305092918">
+        <mark key="[" line="5" column="1" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/PayController.php" timestamp="1513235280034">
         <mark key="[" line="146" column="28" />
@@ -501,8 +513,8 @@
         <mark key="]" line="32" column="36" />
         <mark key="." line="32" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513243133283">
-        <mark key="[" line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1513304840839">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -538,7 +550,7 @@
         <mark key="]" line="255" column="0" />
         <mark key="." line="255" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/_ide_helper.php" timestamp="1513228263957">
+      <file name="$USER_HOME$/wuming/WeChatCasino/_ide_helper.php" timestamp="1513305402173">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -606,7 +618,7 @@
         <mark key="]" line="41" column="68" />
         <mark key="." line="41" column="68" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/CashFlow.php" timestamp="1513243576120">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/CashFlow.php" timestamp="1513304586241">
         <mark key="[" line="18" column="18" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -743,8 +755,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8qKgogICAgICogQHBhcmFtIFVzZXIgJHVzZXIKICAgICAqIEBwYXJhbSBpbnQgICRhbW91bnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHJlY2hhcmdlKFVzZXIgJHVzZXIsIGludCAkYW1vdW50KQogICAgewogICAgICAgICRvcmRlcklkID0gZGF0ZSgiWW1kaGlzIikgLiByYW5kKDEwMDAsIDk5OTkpOwoKICAgICAgICAkcmVjaGFyZ2UgPSBSZWNoYXJnZVJlcG86Om1ha2UoKTsKICAgICAgICAkcmVjaGFyZ2UtPnNldE5hbWUoJHVzZXItPmdldE5hbWUoKSk7CiAgICAgICAgJHJlY2hhcmdlLT5zZXRBdmF0YXIoJHVzZXItPmdldEF2YXRhcigpKTsKICAgICAgICAkcmVjaGFyZ2UtPnNldE9wZW5pZCgkdXNlci0+Z2V0T3BlbklkKCkpOwogICAgICAgICRyZWNoYXJnZS0+c2V0T3JkZXJpZCgkb3JkZXJJZCk7CiAgICAgICAgJHJlY2hhcmdlLT5zZXRNb25leSgkYW1vdW50KTsKICAgICAgICAkcmVjaGFyZ2UtPnNldFN0YXR1cyhSZWNoYXJnZUVsb3F1ZW50OjpOT05fUEFZX1NUQVRVUyk7CiAgICAgICAgJHJlY2hhcmdlLT5zZXRDcmVhdGVkQXQobmV3IERhdGVUaW1lKCkpOwogICAgICAgICRyZWNoYXJnZS0+c2V0QmVmb3JlQW1vdW50KCR1c2VyLT5nZXRXYWxsZXQoKSk7CiAgICAgICAgJHJlY2hhcmdlLT5zZXRTb3VyY2UoJ+e6v+S4iycpOwoKICAgICAgICBSZWNoYXJnZVJlcG86OmNyZWF0ZSgkcmVjaGFyZ2UtPnRvQXJyYXkoKSk7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gVXNlciAkdXNlcgogICAgICogQHBhcmFtIGludCAgJGFtb3VudAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcmVmdW5kcyhVc2VyICR1c2VyLCBpbnQgJGFtb3VudCkKICAgIHsKICAgICAgICAkcmVmdW5kcyA9IFJlZnVuZHNSZXBvOjptYWtlKCk7CiAgICAgICAgJHJlZnVuZHMtPnNldE5hbWUoJHVzZXItPmdldE5hbWUoKSk7CiAgICAgICAgJHJlZnVuZHMtPnNldE9wZW5pZCgkdXNlci0+Z2V0T3BlbklkKCkpOwogICAgICAgICRyZWZ1bmRzLT5zZXRBdmF0YXIoJHVzZXItPmdldEF2YXRhcigpKTsKICAgICAgICAkcmVmdW5kcy0+c2V0TW9uZXkoJGFtb3VudCk7CiAgICAgICAgJHJlZnVuZHMtPnNldEJlZm9yZUFtb3VudCgkdXNlci0+Z2V0V2FsbGV0KCkpOwogICAgICAgICRyZWZ1bmRzLT5zZXRDcmVhdGVkQXQobmV3IERhdGVUaW1lKCkpOwogICAgICAgICRyZWZ1bmRzLT5zZXRTdGF0dXMoUmVmdW5kc0Vsb3F1ZW50OjpTVEFUVVNfUEVORElORyk7CgogICAgICAgIFJlZnVuZHNSZXBvOjpjcmVhdGUoJHJlZnVuZHMtPnRvQXJyYXkoKSk7CgogICAgICAgICR1c2VyLT5zZXRXYWxsZXQoJHVzZXItPmdldFdhbGxldCgpIC0gJGFtb3VudCk7CiAgICAgICAgVXNlclJlcG86OnVwZGF0ZSgkdXNlcik7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gaW50ICRhbW91bnRgCiAgICAgKgogICAgICogQHJldHVybiBib29sCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBpc1ZhbGlkUmVjaGFyZ2UoaW50ICRhbW91bnQpCiAgICB7CiAgICAgICAgJGNvbmZpZyA9IFBsYXRmb3JtQ29uZmlnUmVwbzo6Z2V0Q29uZmlnKCk7CgogICAgICAgIHJldHVybiAkYW1vdW50ID49ICRjb25maWctPmdldE1pblJlY2hhcmdlKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gVXNlciAkdXNlcgogICAgICogQHBhcmFtIGludCAgJGFtb3VudAogICAgICoKICAgICAqIEByZXR1cm4gYm9vbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gaXNWYWxpZFJlZnVuZHMoVXNlciAkdXNlciwgaW50ICRhbW91bnQpCiAgICB7CiAgICAgICAgJGNvbmZpZyA9IFBsYXRmb3JtQ29uZmlnUmVwbzo6Z2V0Q29uZmlnKCk7CgogICAgICAgIHJldHVybiAkYW1vdW50IDw9ICR1c2VyLT5nZXRXYWxsZXQoKSBhbmQgJGFtb3VudCA+PSAkY29uZmlnLT5nZXRNaW5SZWZ1bmRzKCkgYW5kICRhbW91bnQgPD0gJGNvbmZpZy0+Z2V0TWF4UmVmdW5kcygpOwogICAgfQ==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -753,7 +765,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>Eloque</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -778,8 +790,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IC8qKgogICAgICogQHBhcmFtIFVzZXIgJHVzZXIKICAgICAqIEBwYXJhbSBpbnQgICRhbW91bnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHJlY2hhcmdlKFVzZXIgJHVzZXIsIGludCAkYW1vdW50KQogICAgewogICAgICAgICRvcmRlcklkID0gZGF0ZSgiWW1kaGlzIikgLiByYW5kKDEwMDAsIDk5OTkpOwoKICAgICAgICAkcmVjaGFyZ2UgPSBSZWNoYXJnZVJlcG86Om1ha2UoKTsKICAgICAgICAkcmVjaGFyZ2UtPnNldE5hbWUoJHVzZXItPmdldE5hbWUoKSk7CiAgICAgICAgJHJlY2hhcmdlLT5zZXRBdmF0YXIoJHVzZXItPmdldEF2YXRhcigpKTsKICAgICAgICAkcmVjaGFyZ2UtPnNldE9wZW5pZCgkdXNlci0+Z2V0T3BlbklkKCkpOwogICAgICAgICRyZWNoYXJnZS0+c2V0T3JkZXJpZCgkb3JkZXJJZCk7CiAgICAgICAgJHJlY2hhcmdlLT5zZXRNb25leSgkYW1vdW50KTsKICAgICAgICAkcmVjaGFyZ2UtPnNldFN0YXR1cyhSZWNoYXJnZUVsb3F1ZW50OjpOT05fUEFZX1NUQVRVUyk7CiAgICAgICAgJHJlY2hhcmdlLT5zZXRDcmVhdGVkQXQobmV3IERhdGVUaW1lKCkpOwogICAgICAgICRyZWNoYXJnZS0+c2V0QmVmb3JlQW1vdW50KCR1c2VyLT5nZXRXYWxsZXQoKSk7CiAgICAgICAgJHJlY2hhcmdlLT5zZXRTb3VyY2UoJ+e6v+S4iycpOwoKICAgICAgICBSZWNoYXJnZVJlcG86OmNyZWF0ZSgkcmVjaGFyZ2UtPnRvQXJyYXkoKSk7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gVXNlciAkdXNlcgogICAgICogQHBhcmFtIGludCAgJGFtb3VudAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gcmVmdW5kcyhVc2VyICR1c2VyLCBpbnQgJGFtb3VudCkKICAgIHsKICAgICAgICAkcmVmdW5kcyA9IFJlZnVuZHNSZXBvOjptYWtlKCk7CiAgICAgICAgJHJlZnVuZHMtPnNldE5hbWUoJHVzZXItPmdldE5hbWUoKSk7CiAgICAgICAgJHJlZnVuZHMtPnNldE9wZW5pZCgkdXNlci0+Z2V0T3BlbklkKCkpOwogICAgICAgICRyZWZ1bmRzLT5zZXRBdmF0YXIoJHVzZXItPmdldEF2YXRhcigpKTsKICAgICAgICAkcmVmdW5kcy0+c2V0TW9uZXkoJGFtb3VudCk7CiAgICAgICAgJHJlZnVuZHMtPnNldEJlZm9yZUFtb3VudCgkdXNlci0+Z2V0V2FsbGV0KCkpOwogICAgICAgICRyZWZ1bmRzLT5zZXRDcmVhdGVkQXQobmV3IERhdGVUaW1lKCkpOwogICAgICAgICRyZWZ1bmRzLT5zZXRTdGF0dXMoUmVmdW5kc0Vsb3F1ZW50OjpTVEFUVVNfUEVORElORyk7CgogICAgICAgIFJlZnVuZHNSZXBvOjpjcmVhdGUoJHJlZnVuZHMtPnRvQXJyYXkoKSk7CgogICAgICAgICR1c2VyLT5zZXRXYWxsZXQoJHVzZXItPmdldFdhbGxldCgpIC0gJGFtb3VudCk7CiAgICAgICAgVXNlclJlcG86OnVwZGF0ZSgkdXNlcik7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gaW50ICRhbW91bnRgCiAgICAgKgogICAgICogQHJldHVybiBib29sCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBpc1ZhbGlkUmVjaGFyZ2UoaW50ICRhbW91bnQpCiAgICB7CiAgICAgICAgJGNvbmZpZyA9IFBsYXRmb3JtQ29uZmlnUmVwbzo6Z2V0Q29uZmlnKCk7CgogICAgICAgIHJldHVybiAkYW1vdW50ID49ICRjb25maWctPmdldE1pblJlY2hhcmdlKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gVXNlciAkdXNlcgogICAgICogQHBhcmFtIGludCAgJGFtb3VudAogICAgICoKICAgICAqIEByZXR1cm4gYm9vbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gaXNWYWxpZFJlZnVuZHMoVXNlciAkdXNlciwgaW50ICRhbW91bnQpCiAgICB7CiAgICAgICAgJGNvbmZpZyA9IFBsYXRmb3JtQ29uZmlnUmVwbzo6Z2V0Q29uZmlnKCk7CgogICAgICAgIHJldHVybiAkYW1vdW50IDw9ICR1c2VyLT5nZXRXYWxsZXQoKSBhbmQgJGFtb3VudCA+PSAkY29uZmlnLT5nZXRNaW5SZWZ1bmRzKCkgYW5kICRhbW91bnQgPD0gJGNvbmZpZy0+Z2V0TWF4UmVmdW5kcygpOwogICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -794,20 +806,20 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="8">
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBpbnQgJGlkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRJZChpbnQgJGlkKQogICAgewogICAgICAgICR0aGlzLT5pZCA9ICRpZDsKICAgIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kYXRldGltZSgnY3JlYXRlZF9hdCcpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXBzKCkpCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXBzKCkpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -824,7 +836,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
