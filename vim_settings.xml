@@ -303,11 +303,12 @@
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Wallet/WalletService.php" timestamp="1513309762087">
-        <mark key="[" line="45" column="76" />
-        <mark key="]" line="45" column="76" />
-        <mark key="." line="45" column="76" />
-        <mark key="^" line="13" column="83" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Wallet/WalletService.php" timestamp="1513315719776">
+        <mark key="'" line="56" column="47" />
+        <mark key="[" line="56" column="47" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_12_14_165508_add_cash_flow_table.php" timestamp="1513241880274">
         <mark key="[" line="25" column="42" />
@@ -716,7 +717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="4" filename="$USER_HOME$/web-service/application/Http/ApiAdapter/MessageAssetAdapter.php" />
       <jump line="418" column="11" filename="$USER_HOME$/web-service/application/Http/ApiAdapter/MessageAdapter.php" />
       <jump line="102" column="5" filename="$USER_HOME$/web-service/orm/classes/HWTrekORM/Message.php" />
       <jump line="105" column="4" filename="$USER_HOME$/web-service/orm/classes/HWTrekORM/Message.php" />
@@ -816,6 +816,7 @@
       <jump line="157" column="24" filename="$USER_HOME$/wuming/WeChatCasino/public/admin/index.php" />
       <jump line="61" column="195" filename="$USER_HOME$/wuming/WeChatCasino/public/admin/agent/liushui_one_day.php" />
       <jump line="29" column="0" filename="$USER_HOME$/wuming/WeChatCasino/public/admin/agent/liushui_one_day.php" />
+      <jump line="56" column="47" filename="$USER_HOME$/wuming/WeChatCasino/app/Service/Wallet/WalletService.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -838,8 +839,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>negative</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -848,7 +849,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>positive</text>
+        <text>negative</text>
       </register>
       <register name="m" type="4">
         <keys>
