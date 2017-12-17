@@ -72,6 +72,12 @@
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Lottery/RacingCarLotteryService.php" timestamp="1513520359071">
+        <mark key="[" line="474" column="35" />
+        <mark key="]" line="474" column="2" />
+        <mark key="^" line="474" column="2" />
+        <mark key="." line="474" column="2" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/agent/liushui.php" timestamp="1512625365530">
         <mark key="[" line="48" column="3" />
         <mark key="]" line="48" column="3" />
@@ -290,11 +296,8 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/.gitignore" timestamp="1513329479121">
         <mark key="[" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1513239203242">
-        <mark key="[" line="52" column="49" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="34" column="50" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1513520208137">
+        <mark key="[" line="61" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/RefundsEloquent.php" timestamp="1513234283808">
         <mark key="[" line="46" column="7" />
@@ -576,8 +579,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -612,7 +615,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXEFwcFxIdHRwXE1pZGRsZXdhcmVcVmVyaWZ5Q3NyZlRva2VuOjpjbGFzcywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -628,9 +631,29 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAqIEB2YXIgV2FsbGV0U2VydmljZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qKgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXEFwcFxIdHRwXE1pZGRsZXdhcmVcVmVyaWZ5Q3NyZlRva2VuOjpjbGFzcywK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="v" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="7" type="4">
         <text>/**
  * @property int    $id
  * @property string $openid
@@ -646,31 +669,11 @@
  * @property string $created_at
  */</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAqLwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgV2FsbGV0U2VydmljZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
-      </register>
-      <register name="v" type="4">
-        <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IExvZ2ljRXhjZXB0aW9uKCflr7nkuI3otbfvvIzmgqjnmoTkvZnpop3kuI3otrPvvIHor7fogZTns7vnrqHnkIblkZjlhYXlgLzlkI7mk43kvZwnKTsK</text>
+        <text encoding="base64">ICAgICAqIEB2YXIgV2FsbGV0U2VydmljZQo=</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
