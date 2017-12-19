@@ -143,7 +143,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-dev" timestamp="1513589556521">
         <mark key="[" line="125" column="24" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1513661157553">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1513688395082">
         <mark key="[" line="65" column="91" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/TransactionEloquent.php" timestamp="1511514148867">
@@ -291,12 +291,9 @@
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Wallet/WalletService.php" timestamp="1513687680820">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Wallet/WalletService.php" timestamp="1513688815805">
         <mark key="'" line="63" column="47" />
-        <mark key="[" line="25" column="59" />
-        <mark key="]" line="62" column="27" />
-        <mark key="." line="62" column="27" />
-        <mark key="^" line="62" column="27" />
+        <mark key="^" line="56" column="27" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/tx_json.php" timestamp="1513060525522">
         <mark key="[" line="32" column="36" />
@@ -513,25 +510,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>FILED_
-FILED_
-FILED_
-FILED_
-FILED_
-FILED_
-FILED_
-FILED_
-FILED_
-FILED_
-FILED_
-FILED_
-FILED_
-FILED_
-FILED_
-FILED_
-FILED_
-FILED_</text>
+      <register name="&quot;" type="4">
+        <text>var_dump($sql);</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -540,7 +520,7 @@ FILED_</text>
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>var_dump($sql);</text>
       </register>
       <register name="m" type="4">
         <keys>
