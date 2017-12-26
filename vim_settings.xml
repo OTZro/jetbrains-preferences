@@ -75,6 +75,11 @@
         <mark key="]" line="1666" column="5" />
         <mark key="." line="1666" column="5" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/CashFlowEloquent.php" timestamp="1514259076638">
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/ReturnWaterService.php" timestamp="1511497995523">
         <mark key="[" line="70" column="38" />
         <mark key="]" line="70" column="38" />
@@ -196,6 +201,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/ReturnWaterService.php" timestamp="1514258467414" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/GameEloquent.php" timestamp="1509953660317">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="25" />
@@ -228,12 +234,6 @@
         <mark key="[" line="10" column="83" />
         <mark key="]" line="10" column="83" />
         <mark key="." line="10" column="83" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/cz_list.php" timestamp="1514160978228">
-        <mark key="[" line="73" column="55" />
-        <mark key="]" line="82" column="52" />
-        <mark key="^" line="66" column="47" />
-        <mark key="." line="82" column="52" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/mysql/Dockerfile" timestamp="1514215051759">
         <mark key="[" line="0" column="14" />
@@ -517,8 +517,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>asc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -553,7 +553,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXJsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -569,9 +569,32 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgLyoqIEBpbmhlcml0RG9jICovCi8vICAgIHB1YmxpYyBmdW5jdGlvbiBuZXdRdWVyeSgpCi8vICAgIHsKLy8gICAgICAgICRxdWVyeSA9IHBhcmVudDo6bmV3UXVlcnkoKTsKLy8KLy8gICAgICAgIGlmICgkdGhpcy0+dXNlc1RpbWVzdGFtcHMoKSkgewovLyAgICAgICAgICAgICR0YWJsZSAgPSAkdGhpcy0+Z2V0VGFibGUoKTsKLy8gICAgICAgICAgICAkY29sdW1uID0gJHRoaXMtPmdldFVwZGF0ZWRBdENvbHVtbigpOwovLwovLyAgICAgICAgICAgICRxdWVyeS0+YWRkU2VsZWN0KFxEQjo6cmF3KCJjb25jYXQoJHRhYmxlLiRjb2x1bW4pIGFzICRjb2x1bW4iKSk7Ci8vICAgICAgICB9Ci8vCi8vICAgICAgICByZXR1cm4gJHF1ZXJ5OwovLyAgICB9</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbJ29wZW5pZCcsICduaWNrbmFtZScsICd0eXBlJywgJ3JlZmVyZW5jZV9pZCcsICdhbW91bnQnLCAnYmVmb3JlX2Ftb3VudCcsICdhZnRlcl9hbW91bnQnLCAncmVtYXJrJywgJ29wZXJhdG9yJywgJ2Fibm9ybWFsX21hcmsnLCAnY3JlYXRlZF9hdCddOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdXJsKTsK</text>
+      </register>
+      <register name="v" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="8" type="8">
         <text>FILED_
 FILED_
 FILED_
@@ -591,31 +614,8 @@ FILED_
 FILED_
 FILED_</text>
       </register>
-      <register name="4" type="8">
+      <register name="9" type="8">
         <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZWNobyBCZXQ6OnBhcnNlRnJvbUNvbnRlbnQoJ3ovMTAwJyktPmdldEJldEFtb3VudCgpOwoKICAgICAgICRiZXRsb2cgPSBcQmV0TG9nUmVwbzo6YWxsKClbMF07Ci8vICAgICAgIHByaW50X3IoJGJldGxvZy0+dG9BcnJheSgpKTsKICAgICAgICR1c2VyID0gJGJldGxvZy0+Z2V0VXNlcigpOwogICAgICAgcHJpbnRfcigkdXNlci0+dG9BcnJheSgpKTs=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="v" type="4">
-        <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gIjxzY3JpcHQ+YWxlcnQoJ+ivpeS8muWRmOeahOS9memineS4jei2s++8gScpO3dpbmRvdy5sb2NhdGlvbi5ocmVmPSd0eF9saXN0LnBocD9uPTEmcGFnZT0iIC4gJF9HRVRbJ3BhZ2UnXSAuICImej16Nyc8L3NjcmlwdD4iOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyMlsnbW9uZXknXSA+PSAkclsnbW9uZXknXSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>139</text>
