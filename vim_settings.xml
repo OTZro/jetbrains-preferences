@@ -61,6 +61,7 @@
         <mark key="]" line="10" column="83" />
         <mark key="." line="10" column="83" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_12_22_120424_add_index.php" timestamp="1514356838312" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/BetService.php" timestamp="1513568023476">
         <mark key="[" line="121" column="5" />
         <mark key="]" line="138" column="0" />
@@ -84,6 +85,7 @@
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/BetLogEloquent.php" timestamp="1514356133518" />
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/agent/liushui.php" timestamp="1512625365530">
         <mark key="[" line="48" column="3" />
         <mark key="]" line="48" column="3" />
@@ -133,6 +135,11 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_12_27_143449_change_bet_log_playtype_length.php" timestamp="1514356716233">
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/TransactionEloquent.php" timestamp="1511514148867">
         <mark key="[" line="65" column="0" />
@@ -295,16 +302,10 @@
         <mark key="]" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514347141002">
+      <file name="/Dummy.txt" timestamp="1514356838651">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1514268519742">
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="45" column="11" />
-        <mark key="." line="45" column="11" />
-        <mark key="^" line="45" column="15" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/pay-vertical.blade.php" timestamp="1512979981406">
         <mark key="[" line="7" column="17" />
@@ -514,8 +515,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qIEB2YXIgaW50ICRzZ0JhbGFuY2UgKi8K</text>
+      <register name="&quot;" type="4">
+        <text>play_type</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -524,7 +525,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>play_type</text>
       </register>
       <register name="m" type="4">
         <keys>
