@@ -265,6 +265,11 @@
         <mark key="[" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/config/app.php" timestamp="1514389378918" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/BetLogEloquent.php" timestamp="1514425027424">
+        <mark key="[" line="41" column="13" />
+        <mark key="]" line="41" column="13" />
+        <mark key="." line="41" column="13" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/video-vertical.blade.php" timestamp="1512634816041">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -421,6 +426,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/webpack.mix.js" timestamp="1514262902523">
         <mark key="[" line="28" column="78" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/json/json.php" timestamp="1514425224478" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/MemberBonusEloquent.php" timestamp="1510127368242">
         <mark key="[" line="104" column="27" />
         <mark key="]" line="210" column="0" />
@@ -594,7 +600,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>all</text>
+        <text>array</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -603,7 +609,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text>array</text>
       </register>
       <register name="m" type="4">
         <keys>
