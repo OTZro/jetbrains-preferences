@@ -42,6 +42,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/ResultService.php" timestamp="1514396483125">
         <mark key="[" line="93" column="31" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/BetService.php" timestamp="1514435956573">
+        <mark key="[" line="121" column="5" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/User.php" timestamp="1511497457412">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -73,6 +78,11 @@
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1514388018498">
+        <mark key="[" line="1666" column="5" />
+        <mark key="]" line="1666" column="5" />
+        <mark key="." line="1666" column="5" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/CashFlowEloquent.php" timestamp="1514259076638">
         <mark key="[" line="254" column="0" />
@@ -208,6 +218,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/ReturnWaterService.php" timestamp="1514436115586">
+        <mark key="[" line="81" column="54" />
+        <mark key="]" line="81" column="35" />
+        <mark key="^" line="81" column="35" />
+        <mark key="." line="81" column="35" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/BetLog.php" timestamp="1514386572475">
         <mark key="[" line="292" column="30" />
       </file>
@@ -256,12 +272,7 @@
         <mark key="[" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/config/app.php" timestamp="1514389378918" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/BetLogEloquent.php" timestamp="1514432668088">
-        <mark key="[" line="548" column="21" />
-        <mark key="]" line="548" column="21" />
-        <mark key="." line="548" column="21" />
-        <mark key="^" line="548" column="21" />
-      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/BetLogEloquent.php" timestamp="1514432668088" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/video-vertical.blade.php" timestamp="1512634816041">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -280,7 +291,7 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1514388010116" />
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1514390175417" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_12_27_143449_change_bet_log_playtype_length.php" timestamp="1514356716233">
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_12_27_143449_change_bet_log_playtype_length.php" timestamp="1514435808433">
         <mark key="[" line="28" column="26" />
         <mark key="]" line="28" column="26" />
         <mark key="." line="28" column="26" />
@@ -412,6 +423,11 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/webpack.mix.js" timestamp="1514262902523">
         <mark key="[" line="28" column="78" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_12_28_123623_change_content_length_of_tgmx_and_return_bonus.php" timestamp="1514435989739">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/json/json.php" timestamp="1514425224478" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/MemberBonusEloquent.php" timestamp="1510127368242">
@@ -581,7 +597,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>play_type</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -590,7 +606,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>play_type</text>
       </register>
       <register name="m" type="4">
         <keys>
