@@ -127,6 +127,11 @@
         <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Exceptions/InsufficientBalanceException.php" timestamp="1514383109763" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/home/disable.blade.php" timestamp="1514532997107">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/pay/pay-vertical.blade.php" timestamp="1512976854524">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -402,6 +407,7 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-production" timestamp="1514428966534" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/home/stop.blade.php" timestamp="1514533105588" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/transfer-vertical.blade.php" timestamp="1509695104035">
         <mark key="[" line="39" column="61" />
         <mark key="]" line="10" column="10" />
@@ -623,8 +629,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>print_r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vbWF4Y2RuLmJvb3RzdHJhcGNkbi5jb20vYm9vdHN0cmFwLzQuMC4wLWJldGEuMy9jc3MvYm9vdHN0cmFwLm1pbi5jc3MiIGludGVncml0eT0ic2hhMzg0LVp1ZytRaURvSk9yWjV0NGxzc0xkeEdoVnJ1cmJtQldvcG9FbCtNNkJkRWZ3bkNKWnRLeGkxS2d4VXlKcTEzZHkiIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPgo=</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -659,7 +665,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRjaGFubmVsKTsK</text>
+        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vbWF4Y2RuLmJvb3RzdHJhcGNkbi5jb20vYm9vdHN0cmFwLzQuMC4wLWJldGEuMy9jc3MvYm9vdHN0cmFwLm1pbi5jc3MiIGludGVncml0eT0ic2hhMzg0LVp1ZytRaURvSk9yWjV0NGxzc0xkeEdoVnJ1cmJtQldvcG9FbCtNNkJkRWZ3bkNKWnRLeGkxS2d4VXlKcTEzZHkiIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -675,22 +681,22 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRjaGFubmVsKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>DateTime
 DateTime
 DateTime
 DateTime</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">c3RyaW5nCiAgICAgIA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgIGMK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">JGNvbm5lY3RvciA9IG5ldyBDb25uZWN0b3IoJGxvb3ApOwoKICAgICAgICAkY29ubmVjdG9yLT5jb25uZWN0KGNvbmZpZygnc29ja2V0LndtLXNvY2tldC5ob3N0JykpLT50aGVuKGZ1bmN0aW9uIChDb25uZWN0aW9uSW50ZXJmYWNlICRjb25uZWN0aW9uKSB7CiAgICAgICAgICAgICRjb25uZWN0aW9uLT5vbignZGF0YScsIGZ1bmN0aW9uICgkZGF0YSkgdXNlICgkY29ubmVjdGlvbikgewoKICAgICAgICAgICAgICAgICRkYXRhTGlzdCA9IEpzb25IZWxwZXI6Ompzb25TcGxpdE9iamVjdHMoJGRhdGEpOwoKICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRkYXRhTGlzdCBhcyAkaXRlbSkgewogICAgICAgICAgICAgICAgICAgICRyZXN1bHQgPSBqc29uX2RlY29kZSgkaXRlbSwgdHJ1ZSk7CgogICAgICAgICAgICAgICAgICAgIGlmIChqc29uX2xhc3RfZXJyb3IoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPm91dHB1dC0+dGV4dCgkaXRlbSk7CgogICAgICAgICAgICAgICAgICAgICR0aGlzLT5zZXJ2aWNlLT5oYW5kbGVTaW5nbGUoJHJlc3VsdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogICAgICAgIH0sIGZ1bmN0aW9uICk7</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -700,11 +706,11 @@ DateTime</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">JGNvbm5lY3RvciA9IG5ldyBDb25uZWN0b3IoJGxvb3ApOwoKICAgICAgICAkY29ubmVjdG9yLT5jb25uZWN0KGNvbmZpZygnc29ja2V0LndtLXNvY2tldC5ob3N0JykpLT50aGVuKGZ1bmN0aW9uIChDb25uZWN0aW9uSW50ZXJmYWNlICRjb25uZWN0aW9uKSB7CiAgICAgICAgICAgICRjb25uZWN0aW9uLT5vbignZGF0YScsIGZ1bmN0aW9uICgkZGF0YSkgdXNlICgkY29ubmVjdGlvbikgewoKICAgICAgICAgICAgICAgICRkYXRhTGlzdCA9IEpzb25IZWxwZXI6Ompzb25TcGxpdE9iamVjdHMoJGRhdGEpOwoKICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRkYXRhTGlzdCBhcyAkaXRlbSkgewogICAgICAgICAgICAgICAgICAgICRyZXN1bHQgPSBqc29uX2RlY29kZSgkaXRlbSwgdHJ1ZSk7CgogICAgICAgICAgICAgICAgICAgIGlmIChqc29uX2xhc3RfZXJyb3IoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPm91dHB1dC0+dGV4dCgkaXRlbSk7CgogICAgICAgICAgICAgICAgICAgICR0aGlzLT5zZXJ2aWNlLT5oYW5kbGVTaW5nbGUoJHJlc3VsdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogICAgICAgIH0sIGZ1bmN0aW9uICk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgREI6OnJvbGxCYWNrKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgREI6OnJvbGxCYWNrKCk7Cg==</text>
