@@ -137,7 +137,7 @@
         <mark key="]" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/ThirdPartyController.php" timestamp="1514484351488" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/ThirdPartyController.php" timestamp="1514521272044" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/BaccaratResult.php" timestamp="1511419621426">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="9" column="0" />
@@ -373,10 +373,7 @@
         <mark key="]" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/TransferController.php" timestamp="1514347189597">
-        <mark key="[" line="94" column="66" />
-        <mark key="]" line="71" column="61" />
-        <mark key="." line="71" column="61" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/TransferController.php" timestamp="1514522191918">
         <mark key="^" line="71" column="61" />
       </file>
       <file name="/PHP Console" timestamp="1514392820968">
@@ -393,7 +390,7 @@
         <mark key="." line="32" column="36" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/PromotionLogRepo.php" timestamp="1514383794476" />
-      <file name="/Dummy.txt" timestamp="1514484006849">
+      <file name="/Dummy.txt" timestamp="1514521591715">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -631,7 +628,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>maintenance</text>
+        <text>print_r</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -640,7 +637,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>maintenance</text>
+        <text>print_r</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -666,7 +663,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRjaGFubmVsKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -681,23 +678,23 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="8">
         <text>DateTime
 DateTime
 DateTime
 DateTime</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text encoding="base64">c3RyaW5nCiAgICAgIA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgIGMK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">JGNvbm5lY3RvciA9IG5ldyBDb25uZWN0b3IoJGxvb3ApOwoKICAgICAgICAkY29ubmVjdG9yLT5jb25uZWN0KGNvbmZpZygnc29ja2V0LndtLXNvY2tldC5ob3N0JykpLT50aGVuKGZ1bmN0aW9uIChDb25uZWN0aW9uSW50ZXJmYWNlICRjb25uZWN0aW9uKSB7CiAgICAgICAgICAgICRjb25uZWN0aW9uLT5vbignZGF0YScsIGZ1bmN0aW9uICgkZGF0YSkgdXNlICgkY29ubmVjdGlvbikgewoKICAgICAgICAgICAgICAgICRkYXRhTGlzdCA9IEpzb25IZWxwZXI6Ompzb25TcGxpdE9iamVjdHMoJGRhdGEpOwoKICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRkYXRhTGlzdCBhcyAkaXRlbSkgewogICAgICAgICAgICAgICAgICAgICRyZXN1bHQgPSBqc29uX2RlY29kZSgkaXRlbSwgdHJ1ZSk7CgogICAgICAgICAgICAgICAgICAgIGlmIChqc29uX2xhc3RfZXJyb3IoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPm91dHB1dC0+dGV4dCgkaXRlbSk7CgogICAgICAgICAgICAgICAgICAgICR0aGlzLT5zZXJ2aWNlLT5oYW5kbGVTaW5nbGUoJHJlc3VsdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogICAgICAgIH0sIGZ1bmN0aW9uICk7</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -708,7 +705,7 @@ DateTime</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgREI6OnJvbGxCYWNrKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgREI6OnJvbGxCYWNrKCk7Cg==</text>
