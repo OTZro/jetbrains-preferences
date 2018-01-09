@@ -23,6 +23,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1515482795093">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/composer.json" timestamp="1511414651607">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -131,6 +134,12 @@
         <mark key="." line="13" column="22" />
         <mark key="^" line="13" column="22" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/BaccaratApi.php" timestamp="1515482788534">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/BaccaratResult.php" timestamp="1515475438959">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="9" column="0" />
@@ -151,7 +160,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/HistoryResultService.php" timestamp="1515480029907">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/HistoryResultService.php" timestamp="1515482408051">
         <mark key="[" line="5" column="1" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/.env" timestamp="1515052129879">
@@ -318,6 +327,11 @@
         <mark key="]" line="28" column="26" />
         <mark key="." line="28" column="26" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/WMBaccaratApi.php" timestamp="1515482821116">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/home/maintenance.blade.php" timestamp="1514544421230">
         <mark key="[" line="27" column="14" />
         <mark key="]" line="27" column="14" />
@@ -419,7 +433,7 @@
         <mark key="]" line="32" column="36" />
         <mark key="." line="32" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515479790101">
+      <file name="/Dummy.txt" timestamp="1515482755991">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -449,6 +463,7 @@
         <mark key="]" line="15" column="32" />
         <mark key="." line="15" column="32" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/ChannelManagerApi.php" timestamp="1515482769384" />
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_01_04_110943_revise_wallet_request_field.php" timestamp="1515036456604">
         <mark key="[" line="28" column="34" />
         <mark key="]" line="28" column="34" />
@@ -622,8 +637,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">JG9sZGVyVGhhbgogICAgICAgICAg</text>
+      <register name="&quot;" type="4">
+        <text>implements WMBaccaratApiContract</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -632,7 +647,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>beforeMcin</text>
+        <text>implements WMBaccaratApiContract</text>
       </register>
       <register name="m" type="4">
         <keys>
