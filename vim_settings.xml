@@ -55,8 +55,8 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/ResultService.php" timestamp="1515655877582">
-        <mark key="[" line="61" column="5" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/ResultService.php" timestamp="1515662433358">
+        <mark key="[" line="138" column="35" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/BetService.php" timestamp="1515581921229">
         <mark key="[" line="121" column="5" />
@@ -178,10 +178,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/HistoryResultService.php" timestamp="1515659122380">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/HistoryResultService.php" timestamp="1515661788452">
+        <mark key="[" line="88" column="18" />
+        <mark key="]" line="89" column="58" />
+        <mark key="." line="89" column="58" />
+        <mark key="^" line="89" column="58" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/betlogReport/user_list.php" timestamp="1515565486832">
         <mark key="[" line="11" column="135" />
@@ -337,7 +338,7 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Baccarat/Signal.php" timestamp="1515654985546" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Baccarat/Signal.php" timestamp="1515661773243" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/mysql/Dockerfile" timestamp="1514970802250">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -401,6 +402,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/BetLogRepo.php" timestamp="1515660356959" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/BaseRepository.php" timestamp="1509613523286">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="10" />
@@ -466,11 +468,10 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/RacingCarLottery.php" timestamp="1515476236036" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/BaccaratResettle.php" timestamp="1515659130792">
-        <mark key="[" line="48" column="69" />
-        <mark key="]" line="47" column="16" />
-        <mark key="." line="47" column="16" />
-        <mark key="^" line="47" column="16" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/BaccaratResettle.php" timestamp="1515662070354">
+        <mark key="]" line="58" column="83" />
+        <mark key="^" line="58" column="83" />
+        <mark key="." line="58" column="83" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/dev/default.conf" timestamp="1514607553014">
         <mark key="[" line="2" column="16" />
@@ -711,8 +712,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qcmV0dXJuKi8K</text>
+      <register name="&quot;" type="4">
+        <text>getGameNoRound</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -721,7 +722,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>generateSignal</text>
+        <text>getGameNoRound</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -747,7 +748,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qcmV0dXJuKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -763,19 +764,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gIiR7Z2FtZU5vfV8ke2dhbWVOb1JvdW5kfSAkcmVzdWx0ICI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qcmV0dXJuKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gIiR7Z2FtZU5vfV8ke2dhbWVOb1JvdW5kfSAkcmVzdWx0ICI7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgcHJpdmF0ZSBmdW5jdGlvbiBnZW5lcmF0ZVNpZ25hbCgkYmFua2VyQ2FyZHMsICRwbGF5ZXJDYXJkcykKICAgIHsKICAgICAgICAkcmVzdWx0ICAgICAgPSAkdGhpcy0+Y291bnRSZXN1bHQoJGJhbmtlckNhcmRzLCAkcGxheWVyQ2FyZHMpOwogICAgICAgICRjYXJkTGlzdCAgICA9ICR0aGlzLT5nZW5lcmF0ZUNhcmRMaXN0KCRiYW5rZXJDYXJkcywgJHBsYXllckNhcmRzKTsKICAgICAgICAkc2lnbmFsQXJyYXkgPSBbCiAgICAgICAgICAgIFJlc3VsdFNpZ25hbDo6RklFTERfR0FNRV9OT19ST1VORCwKICAgICAgICBdOwoKICAgIH0=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -786,13 +787,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name=":" type="4">
         <text>62</text>
