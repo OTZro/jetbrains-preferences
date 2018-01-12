@@ -55,9 +55,7 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/ResultService.php" timestamp="1515662433358">
-        <mark key="[" line="138" column="35" />
-      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/ResultService.php" timestamp="1515662433358" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/BetService.php" timestamp="1515581921229">
         <mark key="[" line="121" column="5" />
         <mark key="]" line="138" column="0" />
@@ -190,10 +188,13 @@
         <mark key="." line="11" column="135" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1515484107581" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/js/components/messageInput.vue" timestamp="1515583747461">
-        <mark key="[" line="8" column="72" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/js/components/messageInput.vue" timestamp="1515673690853">
+        <mark key="[" line="8" column="68" />
         <mark key="]" line="8" column="70" />
         <mark key="." line="8" column="70" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/layouts/live-game-vertical/live-game-vertical.blade.php" timestamp="1515673409856">
+        <mark key="[" line="56" column="23" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_12_14_123153_add_before_after_amount_to_refund.php" timestamp="1513226780441">
         <mark key="[" line="33" column="11" />
@@ -241,7 +242,7 @@
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/sass/virtual-lotto.scss" timestamp="1512462133680">
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/sass/virtual-lotto.scss" timestamp="1515673538131">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -402,7 +403,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/BetLogRepo.php" timestamp="1515660356959" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/BaseRepository.php" timestamp="1509613523286">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="10" />
@@ -418,6 +418,11 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/sass/live-game-v.scss" timestamp="1515673531224">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/bin/build-docker.sh" timestamp="1510899913415">
         <mark key="[" line="21" column="0" />
@@ -500,7 +505,14 @@
         <mark key="]" line="32" column="36" />
         <mark key="." line="32" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515658884017">
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/virtual-lotto/racing-car.blade.php" timestamp="1515673320110" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/js/message.js" timestamp="1515673671571">
+        <mark key="[" line="481" column="41" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/layouts/virtual-lotto/racing-car-vertical.blade.php" timestamp="1515673513617">
+        <mark key="[" line="55" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1515673680918">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -712,8 +724,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>getGameNoRound</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -722,7 +734,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>getGameNoRound</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -764,19 +776,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qcmV0dXJuKi8K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gIiR7Z2FtZU5vfV8ke2dhbWVOb1JvdW5kfSAkcmVzdWx0ICI7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgcHJpdmF0ZSBmdW5jdGlvbiBnZW5lcmF0ZVNpZ25hbCgkYmFua2VyQ2FyZHMsICRwbGF5ZXJDYXJkcykKICAgIHsKICAgICAgICAkcmVzdWx0ICAgICAgPSAkdGhpcy0+Y291bnRSZXN1bHQoJGJhbmtlckNhcmRzLCAkcGxheWVyQ2FyZHMpOwogICAgICAgICRjYXJkTGlzdCAgICA9ICR0aGlzLT5nZW5lcmF0ZUNhcmRMaXN0KCRiYW5rZXJDYXJkcywgJHBsYXllckNhcmRzKTsKICAgICAgICAkc2lnbmFsQXJyYXkgPSBbCiAgICAgICAgICAgIFJlc3VsdFNpZ25hbDo6RklFTERfR0FNRV9OT19ST1VORCwKICAgICAgICBdOwoKICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qcmV0dXJuKi8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gIiR7Z2FtZU5vfV8ke2dhbWVOb1JvdW5kfSAkcmVzdWx0ICI7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -787,13 +799,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgcHJpdmF0ZSBmdW5jdGlvbiBnZW5lcmF0ZVNpZ25hbCgkYmFua2VyQ2FyZHMsICRwbGF5ZXJDYXJkcykKICAgIHsKICAgICAgICAkcmVzdWx0ICAgICAgPSAkdGhpcy0+Y291bnRSZXN1bHQoJGJhbmtlckNhcmRzLCAkcGxheWVyQ2FyZHMpOwogICAgICAgICRjYXJkTGlzdCAgICA9ICR0aGlzLT5nZW5lcmF0ZUNhcmRMaXN0KCRiYW5rZXJDYXJkcywgJHBsYXllckNhcmRzKTsKICAgICAgICAkc2lnbmFsQXJyYXkgPSBbCiAgICAgICAgICAgIFJlc3VsdFNpZ25hbDo6RklFTERfR0FNRV9OT19ST1VORCwKICAgICAgICBdOwoKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>62</text>
@@ -898,6 +910,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
