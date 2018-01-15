@@ -56,8 +56,8 @@
         <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/ResultService.php" timestamp="1515662433358" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/BetService.php" timestamp="1516000909464">
-        <mark key="[" line="90" column="38" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/BetService.php" timestamp="1516006114045">
+        <mark key="[" line="86" column="5" />
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
@@ -112,6 +112,9 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-dev" timestamp="1514970031962">
         <mark key="[" line="102" column="24" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/CHANGELOG.md" timestamp="1516007766951">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/home/disable.blade.php" timestamp="1514532997107">
         <mark key="[" line="15" column="0" />
@@ -447,6 +450,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/config/api.php" timestamp="1515553880203">
         <mark key="[" line="14" column="85" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/VERSION" timestamp="1516006934109">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/liushui_one_day.php" timestamp="1512626899309">
         <mark key="[" line="79" column="62" />
         <mark key="]" line="79" column="62" />
@@ -576,7 +584,7 @@
         <mark key="]" line="11" column="135" />
         <mark key="." line="11" column="135" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/TransactionHandler.php" timestamp="1515338225005">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/TransactionHandler.php" timestamp="1516006886799">
         <mark key="^" line="50" column="4" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/member_detail.php" timestamp="1512626741754">
@@ -778,16 +786,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnY3Yud3VtaW5nQGdtYWlsLmNvbScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnaGFycnl3dW1vYmlsZUBnbWFpbC5jb20nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnd3VtaW5nLmhhbmsuY2hhbmdAZ21haWwuY29tJywK</text>
+        <text encoding="base64">ICAgICAgICAnY3Yud3VtaW5nQGdtYWlsLmNvbScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aGlzdG9yeVJlc3VsdFNlcnZpY2UgPSAkaGlzdG9yeVJlc3VsdFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnaGFycnl3dW1vYmlsZUBnbWFpbC5jb20nLAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -798,13 +806,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVzdWx0U2VydmljZSAgICAgICAgPSAkcmVzdWx0U2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAnd3VtaW5nLmhhbmsuY2hhbmdAZ21haWwuY29tJywK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ci5mdW5jdGlvbl9idXR0b246dmlzaXRlZCwKLmZ1bmN0aW9uX2J1dHRvbjpob3ZlciwKLmZ1bmN0aW9uX2J1dHRvbjpmb2N1cywKLmZ1bmN0aW9uX2J1dHRvbjpob3ZlciwKLmZ1bmN0aW9uX2J1dHRvbjphY3RpdmUgewogIGNvbG9yOiAjNGU0ZDQ5OwogIGJhY2tncm91bmQ6IHJnYmEoMjU1LCAyNTUsIDI1NSwgMC4zKTsKICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cn0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+aGlzdG9yeVJlc3VsdFNlcnZpY2UgPSAkaGlzdG9yeVJlc3VsdFNlcnZpY2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVzdWx0U2VydmljZSAgICAgICAgPSAkcmVzdWx0U2VydmljZTsK</text>
       </register>
       <register name=":" type="4">
         <text>62</text>
