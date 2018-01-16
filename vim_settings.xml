@@ -46,11 +46,11 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/BetService.php" timestamp="1516090840871">
-        <mark key="[" line="110" column="6" />
-        <mark key="]" line="39" column="6" />
-        <mark key="^" line="39" column="6" />
-        <mark key="." line="39" column="6" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/BetService.php" timestamp="1516093088995">
+        <mark key="[" line="138" column="43" />
+        <mark key="]" line="138" column="43" />
+        <mark key="^" line="138" column="43" />
+        <mark key="." line="138" column="43" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/User.php" timestamp="1514771493634">
         <mark key="[" line="130" column="30" />
@@ -146,6 +146,7 @@
         <mark key="]" line="11" column="135" />
         <mark key="." line="11" column="135" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/member_tree/member_tree.php" timestamp="1516091974118" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/js/components/messageInput.vue" timestamp="1515673690853">
         <mark key="[" line="8" column="68" />
         <mark key="]" line="8" column="70" />
@@ -236,6 +237,9 @@
         <mark key="[" line="10" column="5" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/BetLogRepoContract.php" timestamp="1516092859171">
+        <mark key="[" line="102" column="70" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_12_27_171939_change_disable_msg_for_games.php" timestamp="1514366402277">
         <mark key="[" line="13" column="32" />
@@ -337,6 +341,12 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/pwd_mod.php" timestamp="1516075358653">
         <mark key="[" line="35" column="87" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/BetLogRepo.php" timestamp="1516092854314">
+        <mark key="[" line="219" column="70" />
+        <mark key="]" line="213" column="32" />
+        <mark key="." line="213" column="32" />
+        <mark key="^" line="213" column="32" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/BaseRepository.php" timestamp="1509613523286">
         <mark key="[" line="6" column="10" />
@@ -451,7 +461,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/layouts/virtual-lotto/racing-car-vertical.blade.php" timestamp="1515673513617">
         <mark key="[" line="55" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516089829532">
+      <file name="/Dummy.txt" timestamp="1516091937510">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -466,7 +476,7 @@
         <mark key="]" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/index.php" timestamp="1516083870742">
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/index.php" timestamp="1516091968549">
         <mark key="[" line="518" column="0" />
         <mark key="]" line="518" column="0" />
         <mark key="." line="518" column="0" />
@@ -663,8 +673,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIFBsYXRmb3JtQ29uZmlnUmVwbzsK</text>
+      <register name="&quot;" type="4">
+        <text>findSameGameNoBetLog</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -673,7 +683,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>platformConfig</text>
+        <text>findSameGameNoBetLog</text>
       </register>
       <register name="m" type="4">
         <keys>
