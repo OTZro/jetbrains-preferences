@@ -484,7 +484,12 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/betlogReport/admin_json.php" timestamp="1515565416179">
         <mark key="[" line="41" column="158" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/set_downline_limit.php" timestamp="1516075717189" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/set_downline_limit.php" timestamp="1516079693513">
+        <mark key="[" line="40" column="83" />
+        <mark key="]" line="40" column="83" />
+        <mark key="." line="40" column="83" />
+        <mark key="^" line="40" column="82" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/tx_json.php" timestamp="1513060525522">
         <mark key="[" line="32" column="36" />
         <mark key="]" line="32" column="36" />
@@ -496,7 +501,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/layouts/virtual-lotto/racing-car-vertical.blade.php" timestamp="1515673513617">
         <mark key="[" line="55" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516073912687">
+      <file name="/Dummy.txt" timestamp="1516079595215">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -708,8 +713,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PHRpdGxlPuagj+ebruiuvue9rjwvdGl0bGU+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>oldpwd</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -718,7 +723,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>oldpwd</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -743,8 +748,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PHRpdGxlPuagj+ebruiuvue9rjwvdGl0bGU+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0icm93IGNsIj4KCQkJPGxhYmVsIGNsYXNzPSJmb3JtLWxhYmVsIGNvbC14cy00IGNvbC1zbS0zIj48c3BhbiBjbGFzcz0iYy1yZWQiPio8L3NwYW4+56Gu6K6k5a+G56CB77yaPC9sYWJlbD4KCQkJPGRpdiBjbGFzcz0iZm9ybUNvbnRyb2xzIGNvbC14cy04IGNvbC1zbS05Ij4KCQkJCTxpbnB1dCB0eXBlPSJwYXNzd29yZCIgY2xhc3M9ImlucHV0LXRleHQiIGF1dG9jb21wbGV0ZT0ib2ZmIiBwbGFjZWhvbGRlcj0i5LiN5L+u5pS56K+355WZ56m6IiBuYW1lPSJuZXdwd2QyIiBpZD0ibmV3cHdkMiI+CgkJCTwvZGl2PgoJCTwvZGl2Pg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -760,7 +765,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHRpdGxlPuagj+ebruiuvue9rjwvdGl0bGU+Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -772,7 +777,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnY3Yud3VtaW5nQGdtYWlsLmNvbScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -783,13 +788,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnaGFycnl3dW1vYmlsZUBnbWFpbC5jb20nLAo=</text>
+        <text encoding="base64">ICAgICAgICAnY3Yud3VtaW5nQGdtYWlsLmNvbScsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnd3VtaW5nLmhhbmsuY2hhbmdAZ21haWwuY29tJywK</text>
+        <text encoding="base64">ICAgICAgICAnaGFycnl3dW1vYmlsZUBnbWFpbC5jb20nLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aGlzdG9yeVJlc3VsdFNlcnZpY2UgPSAkaGlzdG9yeVJlc3VsdFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnd3VtaW5nLmhhbmsuY2hhbmdAZ21haWwuY29tJywK</text>
       </register>
       <register name=":" type="4">
         <text>62</text>
