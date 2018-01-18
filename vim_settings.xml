@@ -52,7 +52,12 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/BetService.php" timestamp="1516253463420" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/BetService.php" timestamp="1516256856666">
+        <mark key="[" line="274" column="50" />
+        <mark key="]" line="35" column="6" />
+        <mark key="^" line="35" column="6" />
+        <mark key="." line="35" column="6" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/User.php" timestamp="1514771493634">
         <mark key="[" line="130" column="30" />
         <mark key="]" line="130" column="30" />
@@ -402,11 +407,11 @@
         <mark key="]" line="41" column="155" />
         <mark key="." line="41" column="155" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/LiveGame/BaccaratMessageService.php" timestamp="1516253402478">
-        <mark key="[" line="237" column="51" />
-        <mark key="]" line="280" column="20" />
-        <mark key="." line="280" column="20" />
-        <mark key="^" line="280" column="20" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/LiveGame/BaccaratMessageService.php" timestamp="1516255409748">
+        <mark key="[" line="239" column="42" />
+        <mark key="]" line="246" column="65" />
+        <mark key="." line="246" column="65" />
+        <mark key="^" line="246" column="65" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/VERSION" timestamp="1516006934109">
         <mark key="[" line="0" column="7" />
@@ -692,7 +697,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$gameType</text>
+        <text>$messageModel</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -701,7 +706,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>$gameType</text>
+        <text>$messageModel</text>
       </register>
       <register name="m" type="4">
         <keys>
