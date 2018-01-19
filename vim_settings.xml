@@ -120,7 +120,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/account/account_save_ajax.php" timestamp="1516346480216">
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/account/account_save_ajax.php" timestamp="1516347785319">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="53" column="45" />
         <mark key="." line="53" column="45" />
@@ -237,8 +237,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/Model/ActionLogger.php" timestamp="1516345967807">
-        <mark key="[" line="401" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/Model/ActionLogger.php" timestamp="1516348509772">
+        <mark key="[" line="406" column="70" />
+        <mark key="]" line="406" column="70" />
+        <mark key="^" line="384" column="9" />
+        <mark key="." line="406" column="70" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_01_16_111441_add_bacc_limit.php" timestamp="1516072519151">
         <mark key="[" line="15" column="8" />
@@ -461,8 +464,8 @@
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/config/function_list.php" timestamp="1516111799052">
-        <mark key="[" line="91" column="19" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/config/function_list.php" timestamp="1516348225601">
+        <mark key="[" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/check_downline_limit.php" timestamp="1516122367147">
         <mark key="[" line="73" column="18" />
@@ -491,7 +494,7 @@
         <mark key="]" line="32" column="36" />
         <mark key="." line="32" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516345985308">
+      <file name="/Dummy.txt" timestamp="1516348234032">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -515,6 +518,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/index.php" timestamp="1516348251333">
+        <mark key="[" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/CasinoCasinoGameRepo.php" timestamp="1513991499906">
         <mark key="[" line="15" column="32" />
@@ -706,7 +712,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGlucHV0IHR5cGU9InRleHQiIGlkPSJ1c2VybmFtZSIgbmFtZT0idXNlcm5hbWUiCiAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9IiIgY2xhc3M9ImlucHV0LXRleHQiLz4=</text>
+        <text>use $permissions</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -715,7 +721,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>use $permissions</text>
       </register>
       <register name="m" type="4">
         <keys>
