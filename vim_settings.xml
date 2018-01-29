@@ -43,6 +43,12 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/BaccaratResultEloquent.php" timestamp="1517196445551">
+        <mark key="[" line="124" column="30" />
+        <mark key="]" line="124" column="30" />
+        <mark key="." line="124" column="30" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/BetService.php" timestamp="1517196737302" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/User.php" timestamp="1514771493634">
         <mark key="[" line="130" column="30" />
         <mark key="]" line="130" column="30" />
@@ -132,10 +138,11 @@
       <file name="/Clipboard.txt" timestamp="1516344227064">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/BaccaratResult.php" timestamp="1515475438959">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/BaccaratResult.php" timestamp="1517196439209">
+        <mark key="[" line="67" column="14" />
+        <mark key="]" line="67" column="14" />
+        <mark key="." line="67" column="14" />
+        <mark key="^" line="69" column="30" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/RacingCar/game.php" timestamp="1513064091261">
         <mark key="[" line="61" column="12" />
@@ -147,7 +154,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/VRMiddleware.php" timestamp="1517195103742">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/VRMiddleware.php" timestamp="1517196076379">
         <mark key="[" line="27" column="69" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/config/mail.php" timestamp="1515994002540">
@@ -234,6 +241,12 @@
         <mark key="[" line="7" column="17" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_01_29_112202_change_bet_log_game_no_type.php" timestamp="1517196249794">
+        <mark key="[" line="30" column="37" />
+        <mark key="]" line="30" column="37" />
+        <mark key="." line="30" column="37" />
+        <mark key="^" line="30" column="27" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/BetLog.php" timestamp="1517192697941">
         <mark key="[" line="106" column="37" />
@@ -348,7 +361,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/layouts/live-game.blade.php" timestamp="1516863567939">
         <mark key="[" line="19" column="53" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_12_27_143449_change_bet_log_playtype_length.php" timestamp="1514435808433">
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_12_27_143449_change_bet_log_playtype_length.php" timestamp="1517196159089">
         <mark key="[" line="28" column="26" />
         <mark key="]" line="28" column="26" />
         <mark key="." line="28" column="26" />
@@ -536,7 +549,7 @@
         <mark key="]" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Logger/ActionLogger/ActionLogger.php" timestamp="1517194794275">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Logger/ActionLogger/ActionLogger.php" timestamp="1517196731264">
         <mark key="[" line="202" column="58" />
         <mark key="]" line="202" column="58" />
         <mark key="^" line="150" column="19" />
@@ -707,8 +720,9 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>VR</text>
+      <register name="&quot;" type="8">
+        <text>int
+int</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -717,7 +731,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>VR</text>
+        <text>int</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -742,15 +756,9 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>f (key_exists('bet_wallet_id', $detail)) {
-            $betWalletIds = explode(',', $detail['bet_wallet_id']);
-            $orderIds     = array_merge($betWalletIds, $orderIds);
-        }
-        if (key_exists('result_wallet_id', $detail)) {
-            $resultWalletIds = explode(',', $detail['result_wallet_id']);
-            $orderIds        = array_merge($resultWalletIds, $orderIds);
-        }</text>
+      <register name="1" type="8">
+        <text>int
+int</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -765,20 +773,28 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="8">
+        <text>int
+int</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>f (key_exists('bet_wallet_id', $detail)) {
+            $betWalletIds = explode(',', $detail['bet_wallet_id']);
+            $orderIds     = array_merge($betWalletIds, $orderIds);
+        }
+        if (key_exists('result_wallet_id', $detail)) {
+            $resultWalletIds = explode(',', $detail['result_wallet_id']);
+            $orderIds        = array_merge($resultWalletIds, $orderIds);
+        }</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkaWRzCiAgICAgKiBAcmV0dXJuIG1peGVk</text>
-      </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgICAgLC8vIFZS6YeR5pifMS4KICwvLyBWUiDotZvovaYKICwvLyBWUjMg5YiG5b2pCiAsLy8gVlLngavmmJ815YiG5b2pCiAsLy8gVlIg5b+r6ImHCiAsLy8gVlIg55m+5a625LmQCiAsLy8gVlIg5YWt5ZCI5b2pCiAsLy8g6YeN5bqG5pe25pe25b2pCiAsLy8g5paw55aG5pe25pe25b2pCiAsLy8g5aSp5rSl5pe25pe25b2pCiAsLy8g5bm/5LicMTHpgIk1CiAsLy8g5rGf6KW/MTHpgIk1CiAsLy8g5rGf6IuP5b+r5LiJCiAsLy8g5bm46L+QIDI4CiAsLy8g6aaZ5riv5YWt5ZCI5b2pCiAgICAgLC8vIFZSIEdBTUU=</text>
-      </register>
-      <register name="4" type="8">
-        <text encoding="base64">PSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSA=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -788,14 +804,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vcmVzLnd4LnFxLmNvbS9vcGVuL2pzL2p3ZWl4aW4tMS4yLjAuanMiPjwvc2NyaXB0Pgo=</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgICAgLC8vIFZS6YeR5pifMS4KICwvLyBWUiDotZvovaYKICwvLyBWUjMg5YiG5b2pCiAsLy8gVlLngavmmJ815YiG5b2pCiAsLy8gVlIg5b+r6ImHCiAsLy8gVlIg55m+5a625LmQCiAsLy8gVlIg5YWt5ZCI5b2pCiAsLy8g6YeN5bqG5pe25pe25b2pCiAsLy8g5paw55aG5pe25pe25b2pCiAsLy8g5aSp5rSl5pe25pe25b2pCiAsLy8g5bm/5LicMTHpgIk1CiAsLy8g5rGf6KW/MTHpgIk1CiAsLy8g5rGf6IuP5b+r5LiJCiAsLy8g5bm46L+QIDI4CiAsLy8g6aaZ5riv5YWt5ZCI5b2pCiAgICAgLC8vIFZSIEdBTUU=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="8" type="8">
+        <text encoding="base64">PSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSA=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICB3eC5jb25maWcoewogICAgICAgIGRlYnVnOiBmYWxzZSwKICAgICAgICBhcHBJZDogJ3t7ICRqc2FwaUNvbmZpZ1siYXBwSWQiXX19JywKICAgICAgICB0aW1lc3RhbXA6ICd7eyAkanNhcGlDb25maWdbInRpbWVzdGFtcCJdfX0nLAogICAgICAgIG5vbmNlU3RyOiAne3sgJGpzYXBpQ29uZmlnWyJub25jZVN0ciJdfX0nLAogICAgICAgIHNpZ25hdHVyZTogJ3t7ICRqc2FwaUNvbmZpZ1sic2lnbmF0dXJlIl19fScsCiAgICAgICAganNBcGlMaXN0OiBbCiAgICAgICAgICAgICdvbk1lbnVTaGFyZVRpbWVsaW5lJywKICAgICAgICAgICAgJ29uTWVudVNoYXJlQXBwTWVzc2FnZScKICAgICAgICBdCiAgICB9KTsKICAgIHd4LnJlYWR5KGZ1bmN0aW9uKCkgewogICAgICAgIHd4Lm9uTWVudVNoYXJlVGltZWxpbmUoewogICAgICAgICAgICB0aXRsZTogJ3t7ICRzaGFyZUluZm9bJ3RpdGxlJ10gfX0nLAogICAgICAgICAgICBsaW5rOiAneyEhICRzaGFyZUluZm9bJ2xpbmsnXSAhIX0nLAogICAgICAgICAgICBpbWdVcmw6ICd7eyAkc2hhcmVJbmZvWydpbWFnZSddIH19JywKICAgICAgICAgICAgZGVzYzogJ3t7ICRzaGFyZUluZm9bJ2Rlc2MnXSB9fScsCiAgICAgICAgfSk7CiAgICAgICAgd3gub25NZW51U2hhcmVBcHBNZXNzYWdlKHsKICAgICAgICAgICAgdGl0bGU6ICd7eyAkc2hhcmVJbmZvWyd0aXRsZSddIH19JywKICAgICAgICAgICAgZGVzYzogJ3t7ICRzaGFyZUluZm9bJ2Rlc2MnXSB9fScsCiAgICAgICAgICAgIGxpbms6ICd7ISEgJHNoYXJlSW5mb1snbGluayddICEhfScsCiAgICAgICAgICAgIGltZ1VybDogJ3t7ICRzaGFyZUluZm9bJ2ltYWdlJ10gfX0nLAogICAgICAgIH0pOwogICAgfSk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
