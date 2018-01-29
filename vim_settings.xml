@@ -441,7 +441,7 @@
         <mark key="]" line="79" column="62" />
         <mark key="." line="79" column="62" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionService.php" timestamp="1517192921958">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionService.php" timestamp="1517209816633">
         <mark key="]" line="65" column="11" />
         <mark key="^" line="65" column="11" />
         <mark key="." line="65" column="11" />
@@ -549,11 +549,11 @@
         <mark key="]" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Logger/ActionLogger/ActionLogger.php" timestamp="1517205093030">
-        <mark key="[" line="60" column="66" />
-        <mark key="]" line="202" column="58" />
-        <mark key="^" line="150" column="19" />
-        <mark key="." line="202" column="58" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Logger/ActionLogger/ActionLogger.php" timestamp="1517210512232">
+        <mark key="[" line="60" column="38" />
+        <mark key="]" line="60" column="38" />
+        <mark key="." line="60" column="38" />
+        <mark key="^" line="60" column="37" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/MemberBonusEloquent.php" timestamp="1510127368242">
         <mark key="[" line="104" column="27" />
@@ -721,8 +721,7 @@
         </keys>
       </register>
       <register name="&quot;" type="8">
-        <text>int
-int</text>
+        <text encoding="base64">PT09IAo9PT0gCj09PSAKPT09IAo9PT0gCj09PSAKPT09IAo9PT0gCj09PSAKPT09IAo9PT0gCj09PSAKPT09IAo9PT0g</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -731,7 +730,7 @@ int</text>
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>dd</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -757,8 +756,7 @@ int</text>
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="8">
-        <text>int
-int</text>
+        <text encoding="base64">PT09IAo9PT0gCj09PSAKPT09IAo9PT0gCj09PSAKPT09IAo9PT0gCj09PSAKPT09IAo9PT0gCj09PSAKPT09IAo9PT0g</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -773,28 +771,22 @@ int</text>
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="4">
+        <text encoding="base64">CgoKCgoKCgoKCgoKCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBleGl0KCk7Cg==</text>
+      </register>
+      <register name="4" type="8">
         <text>int
 int</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="8">
+        <text>int
+int</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>f (key_exists('bet_wallet_id', $detail)) {
-            $betWalletIds = explode(',', $detail['bet_wallet_id']);
-            $orderIds     = array_merge($betWalletIds, $orderIds);
-        }
-        if (key_exists('result_wallet_id', $detail)) {
-            $resultWalletIds = explode(',', $detail['result_wallet_id']);
-            $orderIds        = array_merge($resultWalletIds, $orderIds);
-        }</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkaWRzCiAgICAgKiBAcmV0dXJuIG1peGVk</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -804,14 +796,21 @@ int</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgICAgLC8vIFZS6YeR5pifMS4KICwvLyBWUiDotZvovaYKICwvLyBWUjMg5YiG5b2pCiAsLy8gVlLngavmmJ815YiG5b2pCiAsLy8gVlIg5b+r6ImHCiAsLy8gVlIg55m+5a625LmQCiAsLy8gVlIg5YWt5ZCI5b2pCiAsLy8g6YeN5bqG5pe25pe25b2pCiAsLy8g5paw55aG5pe25pe25b2pCiAsLy8g5aSp5rSl5pe25pe25b2pCiAsLy8g5bm/5LicMTHpgIk1CiAsLy8g5rGf6KW/MTHpgIk1CiAsLy8g5rGf6IuP5b+r5LiJCiAsLy8g5bm46L+QIDI4CiAsLy8g6aaZ5riv5YWt5ZCI5b2pCiAgICAgLC8vIFZSIEdBTUU=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">PSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSAKPSA=</text>
+      <register name="8" type="4">
+        <text>f (key_exists('bet_wallet_id', $detail)) {
+            $betWalletIds = explode(',', $detail['bet_wallet_id']);
+            $orderIds     = array_merge($betWalletIds, $orderIds);
+        }
+        if (key_exists('result_wallet_id', $detail)) {
+            $resultWalletIds = explode(',', $detail['result_wallet_id']);
+            $orderIds        = array_merge($resultWalletIds, $orderIds);
+        }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkaWRzCiAgICAgKiBAcmV0dXJuIG1peGVk</text>
       </register>
       <register name="y" type="4">
         <text />
