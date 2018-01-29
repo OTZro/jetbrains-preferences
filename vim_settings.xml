@@ -49,6 +49,12 @@
         <mark key="." line="124" column="30" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/BetService.php" timestamp="1517196737302" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/GameEnum.php" timestamp="1517211722401">
+        <mark key="[" line="80" column="41" />
+        <mark key="]" line="51" column="13" />
+        <mark key="^" line="51" column="13" />
+        <mark key="." line="51" column="13" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/User.php" timestamp="1514771493634">
         <mark key="[" line="130" column="30" />
         <mark key="]" line="130" column="30" />
@@ -157,6 +163,12 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/VRMiddleware.php" timestamp="1517196076379">
         <mark key="[" line="27" column="69" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_01_29_153725_add_vr_bj_racing_car_game.php" timestamp="1517211588281">
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="31" column="37" />
+        <mark key="." line="31" column="37" />
+        <mark key="^" line="31" column="35" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/config/mail.php" timestamp="1515994002540">
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
@@ -227,6 +239,7 @@
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_01_22_140815_add_new_game.php" timestamp="1517211580288" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/sass/virtual-lotto.scss" timestamp="1515673538131">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -494,7 +507,7 @@
         <mark key="]" line="32" column="36" />
         <mark key="." line="32" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517192356281">
+      <file name="/Dummy.txt" timestamp="1517211481651">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -720,8 +733,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">PT09IAo9PT0gCj09PSAKPT09IAo9PT0gCj09PSAKPT09IAo9PT0gCj09PSAKPT09IAo9PT0gCj09PSAKPT09IAo9PT0g</text>
+      <register name="&quot;" type="4">
+        <text>竞速娱乐</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -730,7 +743,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>dd</text>
+        <text>竞速娱乐</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -755,8 +768,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">PT09IAo9PT0gCj09PSAKPT09IAo9PT0gCj09PSAKPT09IAo9PT0gCj09PSAKPT09IAo9PT0gCj09PSAKPT09IAo9PT0g</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnICAgICAgID0+ICfnq57pgJ/lqLHkuZAnLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -771,22 +784,22 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="8">
+        <text encoding="base64">PT09IAo9PT0gCj09PSAKPT09IAo9PT0gCj09PSAKPT09IAo9PT0gCj09PSAKPT09IAo9PT0gCj09PSAKPT09IAo9PT0g</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CgoKCgoKCgoKCgoKCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBleGl0KCk7Cg==</text>
-      </register>
-      <register name="4" type="8">
-        <text>int
-int</text>
       </register>
       <register name="5" type="8">
         <text>int
 int</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>int
+int</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -797,9 +810,12 @@ int</text>
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>f (key_exists('bet_wallet_id', $detail)) {
             $betWalletIds = explode(',', $detail['bet_wallet_id']);
             $orderIds     = array_merge($betWalletIds, $orderIds);
@@ -808,9 +824,6 @@ int</text>
             $resultWalletIds = explode(',', $detail['result_wallet_id']);
             $orderIds        = array_merge($resultWalletIds, $orderIds);
         }</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhcnJheSAkaWRzCiAgICAgKiBAcmV0dXJuIG1peGVk</text>
       </register>
       <register name="y" type="4">
         <text />
