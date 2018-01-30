@@ -111,6 +111,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/BetLogService.php" timestamp="1517284672660" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/DonateLog.php" timestamp="1517220781310">
         <mark key="[" line="78" column="32" />
         <mark key="]" line="113" column="33" />
@@ -181,6 +182,12 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/HistoryResultService.php" timestamp="1517283876377">
+        <mark key="[" line="66" column="53" />
+        <mark key="]" line="101" column="25" />
+        <mark key="^" line="101" column="25" />
+        <mark key="." line="101" column="25" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/WalletRequestEloquent.php" timestamp="1517220362901">
         <mark key="[" line="124" column="0" />
       </file>
@@ -243,6 +250,7 @@
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Wallet/WalletService.php" timestamp="1517285051688" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionDonateMiddleware.php" timestamp="1517219862495">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="8" column="26" />
@@ -274,6 +282,15 @@
         <mark key="]" line="30" column="37" />
         <mark key="." line="30" column="37" />
         <mark key="^" line="30" column="27" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/BetLog/BetLogService.php" timestamp="1517285063152">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="26" column="138" />
+        <mark key="." line="26" column="138" />
+        <mark key="^" line="26" column="138" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/BetLog.php" timestamp="1517284862883">
+        <mark key="[" line="297" column="36" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_01_16_111441_add_bacc_limit.php" timestamp="1516072519151">
         <mark key="[" line="15" column="8" />
@@ -370,6 +387,12 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/config/app.php" timestamp="1517218429598">
         <mark key="[" line="243" column="68" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/BetLogEloquent.php" timestamp="1517284875335">
+        <mark key="[" line="595" column="31" />
+        <mark key="]" line="595" column="34" />
+        <mark key="^" line="595" column="34" />
+        <mark key="." line="595" column="34" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/video-vertical.blade.php" timestamp="1512634816041">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -400,6 +423,9 @@
         <mark key="]" line="41" column="63" />
         <mark key="^" line="41" column="65" />
         <mark key="." line="41" column="63" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/WMBaccaratApi.php" timestamp="1517283760385">
+        <mark key="[" line="30" column="10" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/RacingCar/video/bjsc/index.php" timestamp="1516008709916">
         <mark key="[" line="31" column="51" />
@@ -525,9 +551,6 @@
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/.phpstorm.meta.php" timestamp="1517218684895">
-        <mark key="^" line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_01_17_005828_set_default_baccarat_limit.php" timestamp="1516121978636">
         <mark key="[" line="15" column="9" />
         <mark key="]" line="15" column="9" />
@@ -538,7 +561,7 @@
         <mark key="]" line="32" column="36" />
         <mark key="." line="32" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517221491482">
+      <file name="/Dummy.txt" timestamp="1517285046963">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -773,7 +796,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>TransactionBetlogMiddleware</text>
+        <text />
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -782,7 +805,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>TransactionBetlogMiddleware</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -859,7 +882,7 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>105</text>
+        <text>74</text>
       </register>
     </registers>
     <search>
@@ -895,7 +918,6 @@
         <entry>picture</entry>
       </history-search>
       <history-cmd>
-        <entry>197</entry>
         <entry>107</entry>
         <entry>188</entry>
         <entry>355</entry>
@@ -915,6 +937,7 @@
         <entry>62</entry>
         <entry>w</entry>
         <entry>105</entry>
+        <entry>74</entry>
       </history-cmd>
       <history-expr />
       <history-input />
