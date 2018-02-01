@@ -90,7 +90,7 @@
         <mark key="]" line="48" column="3" />
         <mark key="." line="48" column="3" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/docker-compose.yml" timestamp="1517389238619" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/docker-compose.yml" timestamp="1517470902554" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/UserEloquent.php" timestamp="1514771477409">
         <mark key="[" line="251" column="30" />
         <mark key="]" line="251" column="30" />
@@ -117,7 +117,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/BetLogService.php" timestamp="1517289638588" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/DonateLog.php" timestamp="1517220781310">
         <mark key="[" line="78" column="32" />
         <mark key="]" line="113" column="33" />
@@ -258,12 +257,11 @@
         <mark key="]" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env" timestamp="1511162526249">
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env" timestamp="1517470858228">
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Wallet/WalletService.php" timestamp="1517285051688" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionDonateMiddleware.php" timestamp="1517219862495">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="8" column="26" />
@@ -285,20 +283,22 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/stage/whitelist/ip_white.conf" timestamp="1517389376442">
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/stage/whitelist/ip_white.conf" timestamp="1517470808428">
+        <mark key="'" line="6" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_01_29_164117_create_donate_log_table.php" timestamp="1517220740564">
         <mark key="[" line="21" column="34" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/SPL/SPL.php" timestamp="1517291284720" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-stage" timestamp="1517389202826">
-        <mark key="[" line="93" column="28" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-stage" timestamp="1517470973203">
+        <mark key="[" line="93" column="45" />
+        <mark key="]" line="93" column="45" />
+        <mark key="." line="93" column="45" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_01_29_112202_change_bet_log_game_no_type.php" timestamp="1517196249794">
         <mark key="[" line="30" column="37" />
@@ -565,7 +565,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Baccarat/ResultSignal.php" timestamp="1517290722072" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/wechat/wechat-jdk.blade.php" timestamp="1516937603345">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -694,7 +693,6 @@
         <mark key="]" line="41" column="68" />
         <mark key="." line="41" column="68" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/CashFlow.php" timestamp="1517289065713" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/application/Dockerfile" timestamp="1510565131194">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -702,7 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="4" filename="$USER_HOME$/web-service/tests/api/MessageApiCest.php" />
       <jump line="105" column="4" filename="$USER_HOME$/web-service/tests/api/MessageApiCest.php" />
       <jump line="116" column="4" filename="$USER_HOME$/web-service/tests/api/MessageApiCest.php" />
       <jump line="136" column="4" filename="$USER_HOME$/web-service/tests/api/MessageApiCest.php" />
@@ -802,6 +799,7 @@
       <jump line="343" column="117" filename="$USER_HOME$/wuming/WeChatCasino/public/admin/agent/agent_list.php" />
       <jump line="25" column="19" filename="$USER_HOME$/wuming/WeChatCasino/resources/views/home/share.blade.php" />
       <jump line="9" column="4" filename="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/HistoryResultService.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/stage/whitelist/ip_white.conf" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -824,8 +822,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MTkyLjE2OC40MC4yNTMgMDsK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -834,7 +832,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>/</text>
       </register>
       <register name="m" type="4">
         <keys>
