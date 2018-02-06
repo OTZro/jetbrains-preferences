@@ -132,11 +132,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-dev" timestamp="1517476381355">
         <mark key="[" line="92" column="34" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/User/MoveUserService.php" timestamp="1517903347888">
-        <mark key="[" line="37" column="41" />
-        <mark key="]" line="99" column="188" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/User/MoveUserService.php" timestamp="1517904611619">
+        <mark key="[" line="101" column="110" />
+        <mark key="]" line="101" column="110" />
         <mark key="^" line="99" column="188" />
-        <mark key="." line="99" column="188" />
+        <mark key="." line="101" column="110" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/WalletRequestRepo.php" timestamp="1517194042609">
         <mark key="[" line="56" column="0" />
@@ -207,7 +207,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/WalletRequest.php" timestamp="1517220324715">
         <mark key="[" line="36" column="55" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/Classes/ReturnBonusService.php" timestamp="1517902331596">
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/Classes/ReturnBonusService.php" timestamp="1517904859629">
         <mark key="[" line="182" column="4" />
         <mark key="]" line="182" column="4" />
         <mark key="^" line="235" column="7" />
@@ -808,8 +808,9 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>moveUserAgent</text>
+      <register name="&quot;" type="8">
+        <text>TYPE_PROMOTE
+TYPE_PROMOTE</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -818,7 +819,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>moveUserAgent</text>
+        <text>getOpenId()</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -843,8 +844,9 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="8">
+        <text>TYPE_PROMOTE
+TYPE_PROMOTE</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -860,12 +862,15 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="8">
         <text>// VR金星1.5
 // VR 赛车
 // VR3 分彩
@@ -885,11 +890,8 @@
 // VR GAME
 // VR 北京賽車</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YmFja2VuZFJldHVybkJvbnVzU2VydmljZS0+dXBkYXRlRG93blJldHVybkJvbnVzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -900,13 +902,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlICAnLi4vLi4vYWRtaW4vdmVuZG9yL2F1dG9sb2FkLnBocCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YmFja2VuZFJldHVybkJvbnVzU2VydmljZS0+dXBkYXRlRG93blJldHVybkJvbnVzKCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">cmVxdWlyZV9vbmNlICAnLi4vLi4vYWRtaW4vdmVuZG9yL2F1dG9sb2FkLnBocCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlICAnLi4vLi4vLi4vYWRtaW4vdmVuZG9yL2F1dG9sb2FkLnBocCc7Cg==</text>
+        <text encoding="base64">cmVxdWlyZV9vbmNlICAnLi4vLi4vYWRtaW4vdmVuZG9yL2F1dG9sb2FkLnBocCc7Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
