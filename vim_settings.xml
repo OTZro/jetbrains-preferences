@@ -153,11 +153,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-dev" timestamp="1517476381355">
         <mark key="[" line="92" column="34" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/User/MoveUserService.php" timestamp="1517978554660">
-        <mark key="[" line="141" column="19" />
-        <mark key="]" line="49" column="15" />
-        <mark key="^" line="49" column="15" />
-        <mark key="." line="49" column="15" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/User/MoveUserService.php" timestamp="1517984169101">
+        <mark key="[" line="193" column="140" />
+        <mark key="]" line="193" column="140" />
+        <mark key="^" line="140" column="114" />
+        <mark key="." line="193" column="140" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/DonateLog.php" timestamp="1517220781310">
         <mark key="[" line="78" column="32" />
@@ -466,8 +466,11 @@
         <mark key="." line="49" column="35" />
         <mark key="^" line="47" column="18" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/config/pdo_conn.php" timestamp="1517824105735">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/config/pdo_conn.php" timestamp="1517983582737">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/WMSetValidBetAmountBaccaratMiddleware.php" timestamp="1515338125425">
         <mark key="[" line="16" column="0" />
@@ -703,7 +706,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517902764929">
+      <file name="/Dummy.txt" timestamp="1517983569027">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -964,8 +967,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+bW92ZVVzZXJTZXJ2aWNlLT5pc1ZhbGlkTW92ZSgsVXNlclJlcG86OmZpbmQoMikpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>getDefaultReturnBonus</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -974,7 +977,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>print_r</text>
+        <text>getDefaultReturnBonus</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1000,7 +1003,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+bW92ZVVzZXJTZXJ2aWNlLT5pc1ZhbGlkTW92ZSgsVXNlclJlcG86OmZpbmQoMikpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1016,19 +1019,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciAgPSBcVXNlclJlcG86OmZpbmQoMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+bW92ZVVzZXJTZXJ2aWNlLT5pc1ZhbGlkTW92ZSgsVXNlclJlcG86OmZpbmQoMikpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdXNlciAgPSBcVXNlclJlcG86OmZpbmQoMyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBcUmV0dXJuQm9udXNSZXBvOjpjcmVhdGVQcm9tb3RlQnlFeGlzdGVkTWVtYmVyRGF0YSgkdXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBcUmV0dXJuQm9udXNSZXBvOjpjcmVhdGVQcm9tb3RlQnlFeGlzdGVkTWVtYmVyRGF0YSgkdXNlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1039,15 +1042,14 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICoK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUmV0dXJuQm9udXNFbG9xdWVudDo6d2hlcmUoUmV0dXJuQm9udXNFbG9xdWVudDo6RklMRURfVFlQRSwgKQo=</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>TYPE_MEMBER
 TYPE_MEMBER</text>
-      </register>
-      <register name="9" type="8">
-        <text>TYPE_PROMOTE
-TYPE_PROMOTE</text>
       </register>
       <register name="y" type="4">
         <text />
