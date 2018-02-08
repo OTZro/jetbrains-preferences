@@ -256,6 +256,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/WalletRequest.php" timestamp="1517220324715">
         <mark key="[" line="36" column="55" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/bin/build-stage.sh" timestamp="1518083224249">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Exceptions/GameRoundCancelException.php" timestamp="1517291313115">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="6" column="47" />
@@ -340,6 +345,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/bin/restart-docker.sh" timestamp="1518082862937" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-stage" timestamp="1517473864384">
         <mark key="[" line="93" column="45" />
         <mark key="]" line="93" column="45" />
@@ -527,8 +533,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/bin/bulid-production.sh" timestamp="1518082461835">
+      <file name="$USER_HOME$/wuming/WeChatCasino/bin/bulid-production.sh" timestamp="1518082876628">
         <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_12_27_143449_change_bet_log_playtype_length.php" timestamp="1517196159089">
         <mark key="[" line="28" column="26" />
@@ -956,7 +964,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text encoding="base64">ICAgICMgQ2Q=</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -965,7 +973,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text encoding="base64">ICAgICMgQ2Q=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -991,7 +999,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1006,24 +1014,24 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CkFORCBUMS51c2VyX2lkIDw+IDI=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CkFORCBUMS51c2VyX2lkIDw+IDI=</text>
+      </register>
+      <register name="4" type="4">
         <text>jzegd
 jzegd
 jzegd</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>+
 +
 +</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50X3IoJHVzZXJSZXR1cm5Cb251cy0+Z2V0UmV0dXJuQm91bnMoKSk7Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJ09pcmlnaW46JyAuICR1c2VyUmV0dXJuQm9udXMtPmdldFJldHVybkJvdW5zKCkgLiAnIE5ldzonIC4gJG5ld1JldHVybkJvbnVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50X3IoJHVzZXJSZXR1cm5Cb251cy0+Z2V0UmV0dXJuQm91bnMoKSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1034,23 +1042,19 @@ jzegd</text>
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJ09pcmlnaW46JyAuICR1c2VyUmV0dXJuQm9udXMtPmdldFJldHVybkJvdW5zKCkgLiAnIE5ldzonIC4gJG5ld1JldHVybkJvbnVzOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgogICAgICAgICAgICBpZiAoZW1wdHkoJHVzZXItPmdldFBhcmVudE9wZW5pZCgpKSkgewogICAgICAgICAgICAgICAgLy8g54i257Sa5pyD5ZOh55yLbWVtYmVyCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vIOWtkOe0muacg+WToeeci3Byb21vdGUKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9</text>
-      </register>
-      <register name="9" type="8">
-        <text>$parent
-$parent
-$parent
-$parent
-$parent</text>
       </register>
       <register name="y" type="4">
         <text />
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>55</text>
       </register>
     </registers>
     <search>
@@ -1086,7 +1090,6 @@ $parent</text>
         <entry>picture</entry>
       </history-search>
       <history-cmd>
-        <entry>88</entry>
         <entry>139</entry>
         <entry>159</entry>
         <entry>192</entry>
@@ -1102,10 +1105,11 @@ $parent</text>
         <entry>105</entry>
         <entry>74</entry>
         <entry>103</entry>
-        <entry>55</entry>
         <entry>241</entry>
         <entry>155</entry>
         <entry>w</entry>
+        <entry>133</entry>
+        <entry>55</entry>
       </history-cmd>
       <history-expr />
       <history-input />
