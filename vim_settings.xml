@@ -152,6 +152,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/User/MoveUserService.php" timestamp="1518061340891">
         <mark key="[" line="111" column="5" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_02_08_151400_add_get_chlid_list_function.php" timestamp="1518161038788" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/DonateLog.php" timestamp="1517220781310">
         <mark key="[" line="78" column="32" />
         <mark key="]" line="113" column="33" />
@@ -532,6 +533,11 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_02_09_151344_add_down_return_bonus_store_procedure.php" timestamp="1518160925222">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_12_27_143449_change_bet_log_playtype_length.php" timestamp="1517196159089">
         <mark key="[" line="28" column="26" />
@@ -959,8 +965,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -995,7 +1001,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1011,23 +1017,23 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CkFORCBUMS51c2VyX2lkIDw+IDI=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>jzegd
 jzegd
 jzegd</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>+
 +
 +</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50X3IoJHVzZXJSZXR1cm5Cb251cy0+Z2V0UmV0dXJuQm91bnMoKSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1038,13 +1044,13 @@ jzegd</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJ09pcmlnaW46JyAuICR1c2VyUmV0dXJuQm9udXMtPmdldFJldHVybkJvdW5zKCkgLiAnIE5ldzonIC4gJG5ld1JldHVybkJvbnVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50X3IoJHVzZXJSZXR1cm5Cb251cy0+Z2V0UmV0dXJuQm91bnMoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJ09pcmlnaW46JyAuICR1c2VyUmV0dXJuQm9udXMtPmdldFJldHVybkJvdW5zKCkgLiAnIE5ldzonIC4gJG5ld1JldHVybkJvbnVzOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogICAgICAgICAgICBpZiAoZW1wdHkoJHVzZXItPmdldFBhcmVudE9wZW5pZCgpKSkgewogICAgICAgICAgICAgICAgLy8g54i257Sa5pyD5ZOh55yLbWVtYmVyCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vIOWtkOe0muacg+WToeeci3Byb21vdGUKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text />
