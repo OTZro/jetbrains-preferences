@@ -134,6 +134,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_02_02_114459_migrate-member-move.php" timestamp="1518588141563" />
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_01_16_235232_add_baccarat_limit_to_fcbl.php" timestamp="1516121968493">
         <mark key="[" line="18" column="8" />
         <mark key="]" line="16" column="28" />
@@ -155,6 +156,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/ReturnBonusEloquent.php" timestamp="1518158130284">
         <mark key="[" line="22" column="15" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_12_13_214159_revise_single_wallet_bet_log.php" timestamp="1518588463299" />
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/agent/agent_list.php" timestamp="1517824100792">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -377,6 +379,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_02_14_135729_add_trial_to_betlog.php" timestamp="1518588160656">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/RechargeRepo.php" timestamp="1513232462464">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -544,7 +551,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518492334965">
+      <file name="/Dummy.txt" timestamp="1518588357898">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -772,7 +779,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>local</text>
+        <text>integer</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -781,7 +788,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>integer</text>
       </register>
       <register name="m" type="4">
         <keys>
