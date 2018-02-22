@@ -67,8 +67,10 @@
         <mark key="^" line="203" column="35" />
         <mark key="." line="203" column="35" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/BetService.php" timestamp="1518598372512">
-        <mark key="[" line="78" column="28" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/BetService.php" timestamp="1519267827973">
+        <mark key="]" line="291" column="29" />
+        <mark key="^" line="291" column="29" />
+        <mark key="." line="291" column="29" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/User.php" timestamp="1517812755430">
         <mark key="[" line="130" column="30" />
@@ -109,9 +111,9 @@
         <mark key="." line="1666" column="5" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/agent/user_edit_ajax.php" timestamp="1518622026938">
-        <mark key="[" line="107" column="26" />
-        <mark key="]" line="107" column="26" />
-        <mark key="." line="107" column="26" />
+        <mark key="[" line="101" column="26" />
+        <mark key="]" line="101" column="26" />
+        <mark key="." line="101" column="26" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-dev" timestamp="1517476381355">
         <mark key="[" line="92" column="34" />
@@ -121,7 +123,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/BetLogService.php" timestamp="1518594788007" />
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/bacc_list.php" timestamp="1518171674122">
         <mark key="[" line="32" column="29" />
       </file>
@@ -131,7 +132,6 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/User/MoveUserService.php" timestamp="1518061340891">
         <mark key="[" line="111" column="5" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/ReturnBonusRepo.php" timestamp="1518621386789" />
       <file name="$USER_HOME$/wuming/WeChatCasino/public/user/set_return_water.php" timestamp="1517824199607">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -147,7 +147,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_02_02_114459_migrate-member-move.php" timestamp="1518588141563" />
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_01_16_235232_add_baccarat_limit_to_fcbl.php" timestamp="1516121968493">
         <mark key="[" line="18" column="8" />
         <mark key="]" line="16" column="28" />
@@ -169,7 +168,6 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/ReturnBonusEloquent.php" timestamp="1518158130284">
         <mark key="[" line="22" column="15" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_12_13_214159_revise_single_wallet_bet_log.php" timestamp="1518588463299" />
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/agent/agent_list.php" timestamp="1517824100792">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -229,7 +227,6 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/AgentRepoContract.php" timestamp="1517813950789">
         <mark key="[" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_02_01_155515_add_default_return_bonus_to_return_bonus.php" timestamp="1518622436153" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/AgentBonus.php" timestamp="1509609189330">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="22" />
@@ -243,7 +240,6 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_02_14_233221_change_return_bonus_table_default_value.php" timestamp="1518622668087" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/MemberBonusRepo.php" timestamp="1510125748495">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -502,7 +498,6 @@
         <mark key="]" line="41" column="155" />
         <mark key="." line="41" column="155" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_02_06_114619_revise_bacc_table_no.php" timestamp="1518622376080" />
       <file name="$USER_HOME$/wuming/WeChatCasino/VERSION" timestamp="1518059794319">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
@@ -533,6 +528,7 @@
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/TransferController.php" timestamp="1519267887971" />
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_01_29_175054_add_donate_log_id_to_wallet_request.php" timestamp="1517219614775">
         <mark key="[" line="16" column="28" />
         <mark key="]" line="17" column="0" />
@@ -581,11 +577,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518622607980">
+      <file name="/Dummy.txt" timestamp="1519267905734">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1519267913116" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Baccarat/SingleCardSignal.php" timestamp="1511332078963">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
