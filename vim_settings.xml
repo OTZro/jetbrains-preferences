@@ -18,7 +18,7 @@
         <mark key="]" line="48" column="65" />
         <mark key="." line="48" column="65" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/.env.production" timestamp="1520946111857">
+      <file name="$USER_HOME$/wuming/WeChatCasino/.env.production" timestamp="1520949279689">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="12" column="12" />
         <mark key="." line="12" column="12" />
@@ -409,6 +409,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/errors/503.blade.php" timestamp="1520948920859" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Exceptions/TenantNotFoundException.php" timestamp="1520494815182">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="19" />
@@ -555,7 +556,7 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520946759033">
+      <file name="/Dummy.txt" timestamp="1520948888360">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1106,6 +1107,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionService.php" timestamp="1520928148089">
         <mark key="[" line="54" column="5" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/home/game-hall.blade.php" timestamp="1520948928648">
+        <mark key="[" line="23" column="50" />
+        <mark key="]" line="23" column="50" />
+        <mark key="." line="23" column="50" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/RedirectMiddleware.php" timestamp="1520876069345">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -1379,391 +1385,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\</text>
+      <register name="&quot;" type="4">
+        <text>url</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -1772,7 +1395,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>\&quot;\\u5927\\u5c0f\\u5355\\u53cc\\u683c\\u5f0f\&quot;:\&quot;1.96\&quot;,\&quot;\\u6570\\u5b57\\u683c\\u5f0f\&quot;:\&quot;9.8\&quot;,\&quot;\\u9f99\\u864e\\u683c\\u5f0f\&quot;:\&quot;1.96\&quot;,\&quot;\\u51a0\\u4e9a\\u548c\\u503c\\u5927\\u683c\\u5f0f\&quot;:\&quot;2.1\&quot;,\&quot;\\u51a0\\u4e9a\\u548c\\u503c\\u53cc\\u683c\\u5f0f\&quot;:\&quot;2.1\&quot;,\&quot;\\u51a0\\u4e9a\\u548c\\u503c\\u5c0f\\u683c\\u5f0f\&quot;:\&quot;1.7\&quot;,\&quot;\\u51a0\\u4e9a\\u548c\\u503c\\u5355\\u683c\\u5f0f\&quot;:\&quot;1.7\&quot;,\&quot;\\u51a0\\u4e9a\\u548c\\u503c3,4,18,19\\u683c\\u5f0f\&quot;:\&quot;44.325\&quot;,\&quot;\\u51a0\\u4e9a\\u548c\\u503c5,6,16,17\\u683c\\u5f0f\&quot;:\&quot;22.162\&quot;,\&quot;\\u51a0\\u4e9a\\u548c\\u503c7,8,14,15\\u683c\\u5f0f\&quot;:\&quot;14.775\&quot;,\&quot;\\u51a0\\u4e9a\\u548c\\u503c9,10,12,13\\u683c\\u5f0f\&quot;:\&quot;11.081\&quot;,\&quot;\\u51a0\\u4e9a\\u548c\\u503c11\\u683c\\u5f0f\&quot;:\&quot;8.865\&quot;,\&quot;\\u51a0\\u4e9a\\u7ec4\\u5408\&quot;:\&quot;44.325\&quot;}</text>
+        <text>url</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -2236,7 +1859,7 @@ channel_code</text>
         <text />
       </register>
       <register name=":" type="4">
-        <text>535</text>
+        <text>295</text>
       </register>
     </registers>
     <search>
@@ -2272,7 +1895,6 @@ channel_code</text>
         <entry>picture</entry>
       </history-search>
       <history-cmd>
-        <entry>108</entry>
         <entry>81</entry>
         <entry>151</entry>
         <entry>112</entry>
@@ -2292,6 +1914,7 @@ channel_code</text>
         <entry>280</entry>
         <entry>157</entry>
         <entry>535</entry>
+        <entry>295</entry>
       </history-cmd>
       <history-expr />
       <history-input />
