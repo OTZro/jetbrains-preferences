@@ -557,7 +557,7 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521012930866">
+      <file name="/Dummy.txt" timestamp="1521014853688">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -588,6 +588,7 @@
         <mark key="^" line="598" column="24" />
         <mark key="." line="598" column="24" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2017_12_15_165809_return_water.php" timestamp="1521014867201" />
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2017_12_28_123623_change_content_length_of_tgmx_and_return_bonus.php" timestamp="1514435989739">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
@@ -983,10 +984,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_03_14_150824_add_recharge_method_to_fcbl.php" timestamp="1521011344864">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="28" />
-        <mark key="." line="16" column="28" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_03_14_150824_add_recharge_method_to_fcbl.php" timestamp="1521014983644">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="22" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Baccarat/Enums/TableNameMapping.php" timestamp="1519897035620">
         <mark key="[" line="4" column="0" />
@@ -1400,7 +1402,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text>string</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -1409,7 +1411,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>string</text>
       </register>
       <register name="m" type="4">
         <keys>
