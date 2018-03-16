@@ -116,6 +116,11 @@
         <mark key="]" line="23" column="61" />
         <mark key="." line="23" column="61" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/sass/user-cs-message.scss" timestamp="1521182681422">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_01_16_235232_add_baccarat_limit_to_fcbl.php" timestamp="1516121968493">
         <mark key="[" line="18" column="8" />
         <mark key="]" line="16" column="28" />
@@ -907,8 +912,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/user/css/new_cfb.css" timestamp="1521102619562">
-        <mark key="[" line="9882" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/user/css/new_cfb.css" timestamp="1521182808803">
+        <mark key="[" line="9885" column="0" />
         <mark key="]" line="9882" column="0" />
         <mark key="." line="9882" column="0" />
         <mark key="^" line="9863" column="15" />
@@ -1147,8 +1152,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>framework</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly9AaW1wb3J0ICJ+Ym9vdHN0cmFwLXNhc3MvYXNzZXRzL3N0eWxlc2hlZXRzL2Jvb3RzdHJhcCI7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -1183,7 +1188,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX2dldF9jb250ZW50cygkZmlsZVBhdGgpOwo=</text>
+        <text encoding="base64">Ly9AaW1wb3J0ICJ+Ym9vdHN0cmFwLXNhc3MvYXNzZXRzL3N0eWxlc2hlZXRzL2Jvb3RzdHJhcCI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1198,23 +1203,23 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmaWxlX2dldF9jb250ZW50cygkZmlsZVBhdGgpOwo=</text>
+      </register>
+      <register name="3" type="8">
         <text>refund
 refund
 refund</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>kefu_method
 kefu_method</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RtdC0+YmluZFZhbHVlKCc6aWJhbmdfY29kZScsICRpYmFuZ19jb2RlKTsK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRzdG10LT5iaW5kVmFsdWUoJzppYmFuZ19jb2RlJywgJGliYW5nX2NvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkc3RtdC0+YmluZFZhbHVlKCc6aWJhbmdfY29kZScsICRpYmFuZ19jb2RlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RtdC0+YmluZFZhbHVlKCc6aWJhbmdfY29kZScsICRpYmFuZ19jb2RlKTsK</text>
+        <text encoding="base64">ICAgICRzdG10LT5iaW5kVmFsdWUoJzppYmFuZ19jb2RlJywgJGliYW5nX2NvZGUpOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1225,14 +1230,13 @@ kefu_method</text>
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkc3RtdC0+YmluZFZhbHVlKCc6aWJhbmdfY29kZScsICRpYmFuZ19jb2RlKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgogICAgLy8gJChmdW5jdGlvbigpewogICAgLy8gJCgnLnNraW4tbWluaW1hbCBpbnB1dCcpLmlDaGVjayh7CiAgICAvLyBjaGVja2JveENsYXNzOiAnaWNoZWNrYm94LWJsdWUnLAogICAgLy8gcmFkaW9DbGFzczogJ2lyYWRpby1ibHVlJywKICAgIC8vIGluY3JlYXNlQXJlYTogJzIwJScKICAgIC8vIH0pOwoKICAgIC8vICQoIiNmb3JtLWFkbWluLWFkZCIpLnZhbGlkYXRlKHsKCiAgICAvLyBvbmtleXVwOmZhbHNlLAogICAgLy8gZm9jdXNDbGVhbnVwOnRydWUsCiAgICAvLyBzdWNjZXNzOiJ2YWxpZCIsCiAgICAvLyBzdWJtaXRIYW5kbGVyOmZ1bmN0aW9uKGZvcm0pewogICAgLy8gJChmb3JtKS5hamF4U3VibWl0KHsKCiAgICAvLyB0eXBlOiAncG9zdCcsCiAgICAvLyB1cmw6ICJzZXRfa2ZfYWpheC5waHAiICwKICAgIC8vIGRhdGE6JCgiZm9ybSIpLnNlcmlhbGl6ZSgpLAogICAgLy8gc3VjY2VzczogZnVuY3Rpb24oZGF0YSl7CiAgICAvLyBsYXllci5tc2coJ+S/neWtmOaIkOWKnyEnLHtpY29uOjEsdGltZToxMDAwfSk7CgogICAgLy8gfSwKICAgIC8vIGVycm9yOiBmdW5jdGlvbihYbWxIdHRwUmVxdWVzdCwgdGV4dFN0YXR1cywgZXJyb3JUaHJvd24pewogICAgLy8gbGF5ZXIubXNnKCdlcnJvciEnLHtpY29uOjEsdGltZToxMDAwfSk7CiAgICAvLyB9CiAgICAvLyB9KTsKICAgIC8vIHZhciBpbmRleCA9IHBhcmVudC5sYXllci5nZXRGcmFtZUluZGV4KHdpbmRvdy5uYW1lKTsKICAgIC8vIHBhcmVudC4kKCcuYnRuLXJlZnJlc2gnKS5jbGljaygpOwogICAgLy8gcGFyZW50LmxheWVyLmNsb3NlKGluZGV4KTsKICAgIC8vIH0KICAgIC8vIH0pOwogICAgLy8gfSk7Cjwvc2NyaXB0Pg==</text>
-      </register>
-      <register name="9" type="8">
-        <text>recharge
-recharge</text>
       </register>
       <register name="y" type="4">
         <text />
