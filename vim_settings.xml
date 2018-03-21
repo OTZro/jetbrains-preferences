@@ -143,11 +143,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/member_tree/member_tree_json.php" timestamp="1520931091699">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/BaccaratHandleUnsettle.php" timestamp="1521619953614">
-        <mark key="[" line="77" column="64" />
-        <mark key="]" line="77" column="62" />
-        <mark key="." line="77" column="62" />
-        <mark key="^" line="77" column="62" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/BaccaratHandleUnsettle.php" timestamp="1521621047133">
+        <mark key="[" line="98" column="66" />
+        <mark key="]" line="100" column="81" />
+        <mark key="." line="100" column="81" />
+        <mark key="^" line="100" column="81" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/AbnormalBetlogRepo.php" timestamp="1521614249229">
         <mark key="[" line="11" column="15" />
@@ -906,8 +906,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -958,12 +958,15 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXEFibm9ybWFsQmV0bG9nUmVwbzo6bWFrZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXEFibm9ybWFsQmV0bG9nUmVwbzo6bWFrZSgpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEFibm9ybWFsQmV0bG9nUmVwbzo6ZmkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>string
 string
 string
@@ -973,11 +976,8 @@ string
 string
 string</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFibm9ybWFsQmV0bG9nOjptYWtlKCk7Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFibm8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFibm9ybWFsQmV0bG9nOjptYWtlKCk7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -988,13 +988,13 @@ string</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFibm8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text />
