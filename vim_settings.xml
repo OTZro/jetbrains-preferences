@@ -89,6 +89,11 @@
         <mark key="^" line="14" column="42" />
         <mark key="." line="43" column="34" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/betlogReport/user_list.php" timestamp="1521702773268">
+        <mark key="[" line="11" column="135" />
+        <mark key="]" line="11" column="135" />
+        <mark key="." line="11" column="135" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/sass/login.scss" timestamp="1519977734100">
         <mark key="[" line="95" column="38" />
         <mark key="]" line="95" column="37" />
@@ -181,6 +186,12 @@
         <mark key="." line="16" column="28" />
         <mark key="^" line="16" column="29" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/abnormal_betlog/abnormal_betlog_list.php" timestamp="1521703534526">
+        <mark key="[" line="48" column="265" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/video-vertical.blade.php" timestamp="1520394548555">
         <mark key="[" line="0" column="57" />
         <mark key="]" line="55" column="100" />
@@ -207,11 +218,11 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/abnormal_betlog/news_list.php" timestamp="1521698434404">
-        <mark key="[" line="91" column="9" />
-        <mark key="]" line="91" column="9" />
-        <mark key="." line="91" column="9" />
-        <mark key="^" line="87" column="30" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/abnormal_betlog/news_list.php" timestamp="1521702971654">
+        <mark key="[" line="66" column="37" />
+        <mark key="]" line="66" column="37" />
+        <mark key="." line="66" column="37" />
+        <mark key="^" line="86" column="30" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/config/app-config.dev.php" timestamp="1520879521129">
         <mark key="[" line="3" column="0" />
@@ -262,6 +273,9 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/abnormal_betlog/abnormal_betlog_list_json.php" timestamp="1521703168214">
+        <mark key="[" line="60" column="40" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/domain/js/domain_operation.js" timestamp="1520826871197">
         <mark key="[" line="61" column="34" />
         <mark key="]" line="61" column="36" />
@@ -292,7 +306,7 @@
         <mark key="." line="16" column="66" />
         <mark key="^" line="16" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521700117763">
+      <file name="/Dummy.txt" timestamp="1521702737165">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -620,7 +634,7 @@
         <mark key="^" line="50" column="35" />
         <mark key="." line="50" column="35" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/abnormal_betlog/news_list_json.php" timestamp="1521702143411">
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/abnormal_betlog/news_list_json.php" timestamp="1521702968766">
         <mark key="[" line="48" column="1" />
         <mark key="]" line="48" column="1" />
         <mark key="." line="48" column="1" />
@@ -953,7 +967,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Zm9yZWFjaCAoJGdhbWVEYXRhcyBhcyAka2V5ID0+ICRnYW1lRGF0YSkgewogICAgICAgICAgICBpZiAoJGdhbWVEYXRhWydpZCddID09ICRiZXRMb2dbJ2dhbWVfaWQnXSkgewogICAgICAgICAgICAgICAgJGNvbnRlbnQgPSAka2V5OwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+        <text encoding="base64">CiRxdWVyeVNxbCAgICAgID0gIlNFTEVDVCBuZXdzLiosdXNlcmluZm8udXNlcm5hbWUgRlJPTSBuZXdzIExFRlQgSk9JTiB1c2VyaW5mbyBPTiBuZXdzLmNyZWF0ZWRfYnkgPSB1c2VyaW5mby5pZCBXSEVSRSAxPTEgIjsKJHF1ZXJ5Q291bnRTcWwgPSAiU0VMRUNUIGNvdW50KCopIEZST00gbmV3cyBXSEVSRSAxPTEgIjsKCmlmIChpc3NldCgkX1BPU1RbJ3NlYXJjaCddWyd2YWx1ZSddKSAmJiAhZW1wdHkoJF9QT1NUWydzZWFyY2gnXVsndmFsdWUnXSkpIHsKICAgICRsaWtlU1FMID0gIiBuZXdzLmNvbnRlbnQgbGlrZSA6Y29udGVudCI7CiAgICBpZiAobWJfc3RybGVuKCRfUE9TVFsnc2VhcmNoJ11bJ3ZhbHVlJ10sIG1iX2RldGVjdF9lbmNvZGluZygkX1BPU1RbJ3NlYXJjaCddWyd2YWx1ZSddKSkgPT0gc3RybGVuKCRfUE9TVFsnc2VhcmNoJ11bJ3ZhbHVlJ10pKSB7CiAgICAgICAgJGxpa2VTUUwgLj0gIiBvciBuZXdzLmNyZWF0ZWRfYXQgbGlrZSA6Y3JlYXRlZF9hdCI7CiAgICB9CiAgICAvL2lkICwgbmlja25hbWUgLCByZWd0aW1lICwgdXBkYXRldGltZQogICAgJHF1ZXJ5U3FsICAgICAgLj0gIiBhbmQgKHskbGlrZVNRTH0pIjsKICAgICRxdWVyeUNvdW50U3FsIC49ICIgYW5kICh7JGxpa2VTUUx9KSI7Cn0KLyoKICogT3JkZXJpbmcKICovCmlmIChpc3NldCgkX1BPU1RbJ29yZGVyJ11bMF1bJ2NvbHVtbiddKSkgewogICAgJHF1ZXJ5U3FsIC49ICcgT1JERVIgQlkgICc7CiAgICAkcXVlcnlTcWwgLj0gJ25ld3MuJyAuICRfUE9TVFsnY29sdW1ucyddW2ludHZhbCgkX1BPU1RbJ29yZGVyJ11bMF1bJ2NvbHVtbiddKV1bJ2RhdGEnXSAuICcgJyAuICRfUE9TVFsnb3JkZXInXVswXVsnZGlyJ107CiAgICAkcXVlcnlTcWwgLj0gJyAnOwp9CiRxdWVyeVNxbCAuPSAiIExJTUlUIDpzdGFydF9yb3cgLCA6bGltaXRMZW5ndGgiOwokc3RtdCAgICAgPSAkcGRvLT5wcmVwYXJlKCRxdWVyeVNxbCk7CiRzdG10LT5iaW5kVmFsdWUoJzpzdGFydF9yb3cnLCAoaW50KXRyaW0oJHN0YXJ0KSwgUERPOjpQQVJBTV9JTlQpOwokc3RtdC0+YmluZFZhbHVlKCc6bGltaXRMZW5ndGgnLCAoaW50KXRyaW0oJGxlbmd0aCksIFBETzo6UEFSQU1fSU5UKTsKJHN0bXRDb3VudCA9ICRwZG8tPnByZXBhcmUoJHF1ZXJ5Q291bnRTcWwpOwppZiAoaXNzZXQoJF9QT1NUWydzZWFyY2gnXVsndmFsdWUnXSkgJiYgIWVtcHR5KCRfUE9TVFsnc2VhcmNoJ11bJ3ZhbHVlJ10pKSB7CiAgICAkc3RtdC0+YmluZFZhbHVlKCc6Y29udGVudCcsICclJyAuIHRyaW0oJF9QT1NUWydzZWFyY2gnXVsndmFsdWUnXSkgLiAnJScpOwogICAgJHN0bXRDb3VudC0+YmluZFZhbHVlKCc6Y29udGVudCcsICclJyAuIHRyaW0oJF9QT1NUWydzZWFyY2gnXVsndmFsdWUnXSkgLiAnJScpOwoKICAgIGlmIChtYl9zdHJsZW4oJF9QT1NUWydzZWFyY2gnXVsndmFsdWUnXSwgbWJfZGV0ZWN0X2VuY29kaW5nKCRfUE9TVFsnc2VhcmNoJ11bJ3ZhbHVlJ10pKSA9PSBzdHJsZW4oJF9QT1NUWydzZWFyY2gnXVsndmFsdWUnXSkpIHsKICAgICAgICAkc3RtdC0+YmluZFZhbHVlKCc6Y3JlYXRlZF9hdCcsICclJyAuIHRyaW0oJF9QT1NUWydzZWFyY2gnXVsndmFsdWUnXSkgLiAnJScpOwogICAgICAgICRzdG10Q291bnQtPmJpbmRWYWx1ZSgnOmNyZWF0ZWRfYXQnLCAnJScgLiB0cmltKCRfUE9TVFsnc2VhcmNoJ11bJ3ZhbHVlJ10pIC4gJyUnKTsKICAgIH0KfQokc3RtdENvdW50LT5leGVjdXRlKCk7CiRzdG10LT5leGVjdXRlKCk7CiR0b3RhbFJvd0NvdW50ID0gJHN0bXRDb3VudC0+ZmV0Y2hDb2x1bW4oKTsKJHF1ZXJ5UmVzdWx0ICAgPSAkc3RtdC0+ZmV0Y2hBbGwoUERPOjpGRVRDSF9BU1NPQyk7</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -969,19 +983,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJvcmRlcmFibGUiOiBmYWxzZQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgXFBETwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Zm9yZWFjaCAoJGdhbWVEYXRhcyBhcyAka2V5ID0+ICRnYW1lRGF0YSkgewogICAgICAgICAgICBpZiAoJGdhbWVEYXRhWydpZCddID09ICRiZXRMb2dbJ2dhbWVfaWQnXSkgewogICAgICAgICAgICAgICAgJGNvbnRlbnQgPSAka2V5OwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqIEB2YXIgXFBETwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIC8qKgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Zm9yZWFjaCAoJHRoaXMtPmdhbWVzIGFzICRnYW1lKXsKICAgICAgICAgICAgaWYoJGdhbWVJZCA9PT0gJGdhbWVbJ2lkJ10pewogICAgICAgICAgICAgICAgcmV0dXJuICRnYW1lWyduYW1lJ107CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiRjYXJkTWFwICAgPSBbCiAgICAxICA9PiAnQScsCiAgICAyICA9PiAnMicsCiAgICAzICA9PiAnMycsCiAgICA0ICA9PiAnNCcsCiAgICA1ICA9PiAnNScsCiAgICA2ICA9PiAnNicsCiAgICA3ICA9PiAnNycsCiAgICA4ICA9PiAnOCcsCiAgICA5ICA9PiAnOScsCiAgICAxMCA9PiAnMTAnLAogICAgMTEgPT4gJ0onLAogICAgMTIgPT4gJ1EnLAogICAgMTMgPT4gJ0snLApdOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -992,13 +1006,13 @@
         </keys>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">Zm9yZWFjaCAoJHRoaXMtPmdhbWVzIGFzICRnYW1lKXsKICAgICAgICAgICAgaWYoJGdhbWVJZCA9PT0gJGdhbWVbJ2lkJ10pewogICAgICAgICAgICAgICAgcmV0dXJuICRnYW1lWyduYW1lJ107CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiRjYXJkTWFwICAgPSBbCiAgICAxICA9PiAnQScsCiAgICAyICA9PiAnMicsCiAgICAzICA9PiAnMycsCiAgICA0ICA9PiAnNCcsCiAgICA1ICA9PiAnNScsCiAgICA2ICA9PiAnNicsCiAgICA3ICA9PiAnNycsCiAgICA4ICA9PiAnOCcsCiAgICA5ICA9PiAnOScsCiAgICAxMCA9PiAnMTAnLAogICAgMTEgPT4gJ0onLAogICAgMTIgPT4gJ1EnLAogICAgMTMgPT4gJ0snLApdOwo=</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">JHBsYXlfdHlwZSA9IFsKICAgICdiYW5rZXInICAgICAgPT4gJ+W6hCcsCiAgICAncGxheWVyJyAgICAgID0+ICfpl7InLAogICAgJ3RpZScgICAgICAgICA9PiAn5ZKMJywKICAgICdwbGF5ZXJfcGFpcicgPT4gJ+mXsuWvuScsCiAgICAnYmFua2VyX3BhaXInID0+ICfluoTlr7knLApdOw==</text>
-      </register>
-      <register name="8" type="8">
-        <text encoding="base64">JGJldExvZ1snY29udGVudCddIAokYmV0TG9nWydjb250ZW50J10gCiRiZXRMb2dbJ2NvbnRlbnQnXSAKJGJldExvZ1snY29udGVudCddIAokYmV0TG9nWydjb250ZW50J10gCiRiZXRMb2dbJ2NvbnRlbnQnXSAKJGJldExvZ1snY29udGVudCddIAokYmV0TG9nWydjb250ZW50J10gCiRiZXRMb2dbJ2NvbnRlbnQnXSAKJGJldExvZ1snY29udGVudCddIAokYmV0TG9nWydjb250ZW50J10gCiRiZXRMb2dbJ2NvbnRlbnQnXSA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">JHByZXNlbnRlciA9IG5ldyBCYWNjYXJhdEJldExvZ1ByZXNlbnRlcigpOwo=</text>
       </register>
       <register name="y" type="4">
         <text />
