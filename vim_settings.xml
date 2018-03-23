@@ -192,6 +192,9 @@
         <mark key="^" line="6" column="87" />
         <mark key="." line="6" column="87" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/docker-compose.yml" timestamp="1521784759689">
+        <mark key="[" line="48" column="15" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/NamespaceRegistry.php" timestamp="1521523290219">
         <mark key="[" line="11" column="59" />
       </file>
@@ -266,11 +269,11 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/API/SingleWalletFiled.php" timestamp="1521451651540" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/AgentBonusRepoContract.php" timestamp="1521618674280" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_03_19_141721_modify_all_db_column.php" timestamp="1521783338798">
-        <mark key="[" line="346" column="20" />
-        <mark key="]" line="346" column="20" />
-        <mark key="." line="346" column="20" />
-        <mark key="^" line="346" column="20" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_03_19_141721_modify_all_db_column.php" timestamp="1521784382964">
+        <mark key="[" line="182" column="39" />
+        <mark key="]" line="182" column="25" />
+        <mark key="." line="182" column="25" />
+        <mark key="^" line="182" column="25" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/WeChatApiMiddleware.php" timestamp="1520844859537">
         <mark key="[" line="25" column="40" />
@@ -453,7 +456,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>integer</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -462,7 +465,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>integer</text>
       </register>
       <register name="m" type="4">
         <keys>
