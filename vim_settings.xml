@@ -120,10 +120,10 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/WMGame/Enums/TableInfoEnum.php" timestamp="1522652519496" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/user/profile.blade.php" timestamp="1522639851689" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_04_10_114915_add_game_id_to_robot_content.php" timestamp="1523332670578">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="16" column="29" />
-        <mark key="." line="16" column="29" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_04_10_114915_add_game_id_to_robot_content.php" timestamp="1523333578997">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/account/account_list.php" timestamp="1522738260907">
         <mark key="[" line="45" column="36" />
@@ -366,7 +366,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>dealer_id</text>
+        <text>(82, \'h10\'),
+	(83, \'x55\'),
+	(84, \'z100\'),
+	(85, \'z50\'),
+	(86, \'x80\'),
+	(87, \'zd20\'),
+	(88, \'闲100\'),
+	(89, \'h5\'),
+	(90, \'z100\'),
+	(91, \'z15\'),
+	(92, \'z30\'),
+	(93, \'xd60\'),
+	(94, \'zd10\'),
+	(95, \'和15\'),
+	(96, \'x200\'),
+	(97, \'h100\'),
+	(98, \'x500\'),
+	(99, \'庄对80\'),
+	(100, \'h100\'),
+	(101, \'z95\'),
+	(102, \'庄100\'),
+	(103, \'x120\'),
+	(104, \'闲对22\'),
+	(105, \'h100\'),
+	(106, \'z100\'),
+	(107, \'z80\'),
+	(108, \'x50\'),
+	(109, \'h100\'),
+	(110, \'xd5\'),
+	(111, \'x150\'),
+	(112, \'x40\'),
+	(113, \'闲60\'),
+	(114, \'庄80\'),
+	(115, \'zd70\'),
+	(116, \'z350\'),
+	(117, \'h7\'),
+	(119, \'xd100\');</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -400,16 +436,44 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>baccarat
-baccarat
-baccarat
-baccarat
-baccarat
-baccarat
-baccarat
-baccarat
-baccarat</text>
+      <register name="1" type="4">
+        <text>(82, \'h10\'),
+	(83, \'x55\'),
+	(84, \'z100\'),
+	(85, \'z50\'),
+	(86, \'x80\'),
+	(87, \'zd20\'),
+	(88, \'闲100\'),
+	(89, \'h5\'),
+	(90, \'z100\'),
+	(91, \'z15\'),
+	(92, \'z30\'),
+	(93, \'xd60\'),
+	(94, \'zd10\'),
+	(95, \'和15\'),
+	(96, \'x200\'),
+	(97, \'h100\'),
+	(98, \'x500\'),
+	(99, \'庄对80\'),
+	(100, \'h100\'),
+	(101, \'z95\'),
+	(102, \'庄100\'),
+	(103, \'x120\'),
+	(104, \'闲对22\'),
+	(105, \'h100\'),
+	(106, \'z100\'),
+	(107, \'z80\'),
+	(108, \'x50\'),
+	(109, \'h100\'),
+	(110, \'xd5\'),
+	(111, \'x150\'),
+	(112, \'x40\'),
+	(113, \'闲60\'),
+	(114, \'庄80\'),
+	(115, \'zd70\'),
+	(116, \'z350\'),
+	(117, \'h7\'),
+	(119, \'xd100\');</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -424,20 +488,28 @@ baccarat</text>
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>baccarat
+baccarat
+baccarat
+baccarat
+baccarat
+baccarat
+baccarat
+baccarat
+baccarat</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICdzdWNjZXNzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICdoZWxsbyB0aGVyZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICdzdWNjZXNzJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICdJTiEhISc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICdoZWxsbyB0aGVyZSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoJGNvbnRlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICdJTiEhISc7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -448,13 +520,13 @@ baccarat</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEJhY2NhcmF0UmVzdWx0UmVwbzsK</text>
+        <text encoding="base64">ICAgICAgICBkaWUoJGNvbnRlbnQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">dXNlIEJhY2NhcmF0UmVzdWx0UmVwbzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="y" type="4">
         <text />
