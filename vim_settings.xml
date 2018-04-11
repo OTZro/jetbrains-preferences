@@ -434,6 +434,9 @@
         <mark key="." line="615" column="14" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/wechat_redirect_domain.php" timestamp="1522742876022" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/dev/default.conf" timestamp="1523435852420">
+        <mark key="^" line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/TransferController.php" timestamp="1519986400414">
         <mark key="[" line="91" column="47" />
         <mark key="]" line="91" column="48" />
@@ -471,7 +474,7 @@
         <mark key="]" line="15" column="9" />
         <mark key="." line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/stage/default.conf" timestamp="1523430511199">
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/stage/default.conf" timestamp="1523435842416">
         <mark key="[" line="25" column="26" />
         <mark key="]" line="25" column="24" />
         <mark key="." line="25" column="24" />
@@ -605,12 +608,7 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="18" column="14" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/nginx.conf" timestamp="1523430498202">
-        <mark key="[" line="53" column="5" />
-        <mark key="]" line="51" column="1" />
-        <mark key="." line="51" column="1" />
-        <mark key="^" line="51" column="1" />
-      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/nginx.conf" timestamp="1523435638608" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Signal/WMSignalCollector.php" timestamp="1522488836005">
         <mark key="[" line="67" column="110" />
         <mark key="]" line="69" column="108" />
@@ -1265,7 +1263,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text />
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -1274,7 +1272,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
