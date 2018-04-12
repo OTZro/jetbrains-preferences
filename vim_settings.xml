@@ -360,6 +360,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/Dockerfile" timestamp="1523511564517" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/home/maintenance.blade.php" timestamp="1514544421230">
         <mark key="[" line="27" column="14" />
         <mark key="]" line="27" column="14" />
@@ -434,6 +435,11 @@
         <mark key="." line="615" column="14" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/wechat_redirect_domain.php" timestamp="1522742876022" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/dev/default.conf" timestamp="1523512130522">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/TransferController.php" timestamp="1519986400414">
         <mark key="[" line="91" column="47" />
         <mark key="]" line="91" column="48" />
@@ -482,7 +488,7 @@
         <mark key="]" line="32" column="36" />
         <mark key="." line="32" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523426299091">
+      <file name="/Dummy.txt" timestamp="1523511550414">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -606,10 +612,10 @@
         <mark key="^" line="18" column="14" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/nginx.conf" timestamp="1523505111463">
-        <mark key="[" line="38" column="2" />
-        <mark key="]" line="52" column="5" />
-        <mark key="." line="52" column="5" />
-        <mark key="^" line="52" column="5" />
+        <mark key="[" line="44" column="2" />
+        <mark key="]" line="58" column="5" />
+        <mark key="." line="58" column="5" />
+        <mark key="^" line="58" column="5" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Signal/WMSignalCollector.php" timestamp="1522488836005">
         <mark key="[" line="67" column="110" />
@@ -694,6 +700,11 @@
         <mark key="]" line="11" column="1" />
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/set_whitelist.sh" timestamp="1523511930592">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/bankManager/js/bank.js" timestamp="1522738313174">
         <mark key="[" line="52" column="59" />
@@ -1270,11 +1281,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>geo $ip $ip_whitelist {
-          default 0;
-          include /etc/nginx/whitelist/ip_white.conf;
-        }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3MuZXhlY3V0ZSgiL3Vzci9iaW4vc2V0X3doaXRlbGlzdC5zaCAiLi4uLiIiKQo=</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -1283,7 +1291,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>$ip</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -1308,11 +1316,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>geo $ip $ip_whitelist {
-          default 0;
-          include /etc/nginx/whitelist/ip_white.conf;
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3MuZXhlY3V0ZSgiL3Vzci9iaW4vc2V0X3doaXRlbGlzdC5zaCAiLi4uLiIiKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1328,10 +1333,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmd4LnNheSgpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICRyb2JvdENvbnRlbnQgPSBcUm9ib3RDb250ZW50UmVwbzo6Z2V0QmFjY1JvYm90Q29udGVudCgpOwogICAgICAgICRyb2JvdCAgICAgICAgPSBcUm9ib3RSZXBvOjpyYW5kb21Sb2JvdCgpOwogICAgICAgIHByaW50X3IoJHJvYm90Q29udGVudC0+Z2V0Q29udGVudCgpKTsKICAgICAgICBwcmludF9yKCRyb2JvdC0+Z2V0TmFtZSgpKTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1339,8 +1344,8 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZmFrZVJvYm90TWVzc2FnZShzdHJpbmcgJHRhYmxlTm8pCiAgICB7CiAgICAgICAgJHRhYmxlSW5mbyA9ICR0aGlzLT5zdGFnZVNlcnZpY2UtPmdldFRhYmxlSW5mbygkdGFibGVObyk7CiAgICAgICAgaWYgKCEkdGFibGVJbmZvIHx8ICEkdGFibGVJbmZvLT5pc09wZW4oKSkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQoKICAgICAgICAkcm9ib3RDb250ZW50ID0gUm9ib3RDb250ZW50UmVwbzo6Z2V0QmFjY1JvYm90Q29udGVudCgpOwogICAgICAgICRyb2JvdCAgICAgICAgPSBSb2JvdFJlcG86OnJhbmRvbVJvYm90KCk7CgogICAgICAgICRyb2JvdFVzZXIgPSBVc2VyUmVwbzo6bWFrZSgpOwogICAgICAgICRyb2JvdFVzZXItPnNldE5hbWUoJHJvYm90LT5nZXROYW1lKCkpOwogICAgICAgICRyb2JvdFVzZXItPnNldEF2YXRhcigkcm9ib3QtPmdldEF2YXRhcigpKTsKICAgICAgICAkcm9ib3RVc2VyLT5zZXRPcGVuaWQoJycpOwogICAgICAgICR0aGlzLT5tZXNzYWdlU2VydmljZS0+c2VuZE1lc3NhZ2UoJHRoaXMtPm1lc3NhZ2VTZXJ2aWNlOjpCQUNDQVJBVF9NRVNTQUdFLCAkdGFibGVObywgJHJvYm90VXNlciwgJHJvYm90Q29udGVudC0+Z2V0Q29udGVudCgpKTsKCiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1351,13 +1356,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAnRHJhZ29uVGlnZXInOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAnaW5zZXJ0IGJhY2NhcmF0JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICdnZXQnLiR0YWJsZV9ubzsK</text>
+      <register name="9" type="4">
+        <text>CLIENT_IP = ngx.req.get_headers()[&quot;X_real_ip&quot;]
+            if CLIENT_IP == nil then
+                CLIENT_IP = ngx.req.get_headers()[&quot;X_Forwarded_For&quot;]
+            end
+            if CLIENT_IP == nil then
+                CLIENT_IP  = ngx.var.remote_addr
+            end
+            if CLIENT_IP == nil then
+                CLIENT_IP  = &quot;unknown&quot;
+            end</text>
       </register>
       <register name="y" type="4">
         <text />
