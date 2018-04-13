@@ -450,10 +450,11 @@
         <mark key="." line="615" column="14" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/wechat_redirect_domain.php" timestamp="1523519726474" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/dev/default.conf" timestamp="1523601213774">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/dev/default.conf" timestamp="1523604624148">
+        <mark key="[" line="85" column="42" />
+        <mark key="]" line="85" column="43" />
+        <mark key="." line="85" column="43" />
+        <mark key="^" line="85" column="43" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/TransferController.php" timestamp="1519986400414">
         <mark key="[" line="91" column="47" />
@@ -492,10 +493,11 @@
         <mark key="]" line="15" column="9" />
         <mark key="." line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/stage/default.conf" timestamp="1523601270785">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/stage/default.conf" timestamp="1523603918402">
+        <mark key="[" line="58" column="12" />
+        <mark key="]" line="58" column="11" />
+        <mark key="." line="58" column="11" />
+        <mark key="^" line="58" column="11" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/tx_json.php" timestamp="1513060525522">
         <mark key="[" line="32" column="36" />
@@ -628,6 +630,11 @@
         <mark key="]" line="19" column="12" />
         <mark key="." line="19" column="12" />
         <mark key="^" line="18" column="14" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/nginx.conf" timestamp="1523604172263">
+        <mark key="]" line="58" column="5" />
+        <mark key="." line="58" column="5" />
+        <mark key="^" line="58" column="5" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Signal/WMSignalCollector.php" timestamp="1522488836005">
         <mark key="[" line="67" column="110" />
@@ -1070,11 +1077,11 @@
         <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/RobotMessage.php" timestamp="1523346387738" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/sw_whitelist/whitelist_ajax.php" timestamp="1523601311438">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="26" column="7" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/sw_whitelist/whitelist_ajax.php" timestamp="1523604274757">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="27" column="7" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/UserController.php" timestamp="1522639840177" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/Robot.php" timestamp="1523340678427">
@@ -1328,8 +1335,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAkcmVzcG9uc2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>result</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -1338,7 +1345,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>result</text>
       </register>
       <register name="m" type="4">
         <keys>
