@@ -987,8 +987,10 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/RobotContent.php" timestamp="1523339009472">
         <mark key="[" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_04_17_163522_add_more_vr_game.php" timestamp="1523954145995">
-        <mark key="[" line="6" column="15" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_04_17_163522_add_more_vr_game.php" timestamp="1523955255364">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/lib/layout/css/admin.php" timestamp="1522738920709">
         <mark key="[" line="21" column="37" />
@@ -1046,7 +1048,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="26" column="7" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionService.php" timestamp="1523859450714" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionService.php" timestamp="1523955340671">
+        <mark key="[" line="115" column="46" />
+        <mark key="]" line="116" column="49" />
+        <mark key="^" line="116" column="49" />
+        <mark key="." line="116" column="49" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/UserController.php" timestamp="1522639840177" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/Robot.php" timestamp="1523340678427">
         <mark key="[" line="30" column="0" />
@@ -1299,8 +1306,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>`_id`,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -1309,7 +1316,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>`_id`,</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -1334,8 +1341,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiNsdWEgbW9kdWxlCmxvYWRfbW9kdWxlIC91c3IvbGliL25naW54L21vZHVsZXMvbmRrX2h0dHBfbW9kdWxlLnNvOwpsb2FkX21vZHVsZSAvdXNyL2xpYi9uZ2lueC9tb2R1bGVzL25neF9odHRwX2x1YV9tb2R1bGUuc287CgpwY3JlX2ppdCBvbjsKI2x1YSBtb2R1bGU=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1350,16 +1357,19 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">CiNsdWEgbW9kdWxlCmxvYWRfbW9kdWxlIC91c3IvbGliL25naW54L21vZHVsZXMvbmRrX2h0dHBfbW9kdWxlLnNvOwpsb2FkX21vZHVsZSAvdXNyL2xpYi9uZ2lueC9tb2R1bGVzL25neF9odHRwX2x1YV9tb2R1bGUuc287CgpwY3JlX2ppdCBvbjsKI2x1YSBtb2R1bGU=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICBsb2NhdGlvbiAvcHV0LXdoaXRlbGlzdCB7CiAgICAgICAgICAgIGF1dGhfYmFzaWMgIkJhc2ljIGF1dGgiOwogICAgICAgICAgICBhdXRoX2Jhc2ljX3VzZXJfZmlsZSAvZXRjL25naW54L3Bhc3M7CiAgICAgICAgICAgIGNvbnRlbnRfYnlfbHVhICcKICAgICAgICAgICAgICAgIG5neC5yZXEucmVhZF9ib2R5KCkKICAgICAgICAgICAgICAgIGxvY2FsIERBVEEgPSBuZ3gucmVxLmdldF9ib2R5X2RhdGEoKQogICAgICAgICAgICAgICAgbmd4LmhlYWRlci5jb250ZW50X3R5cGUgPSAidGV4dC9odG1sO2NoYXJzZXQ9VVRGLTgiOwogICAgICAgICAgICAgICAgbmd4LnNheShEQVRBKTsKICAgICAgICAgICAgICAgIG9zLmV4ZWN1dGUoIi91c3IvYmluL3NldF93aGl0ZWxpc3Quc2ggIi4uREFUQS4uIiIpCiAgICAgICAgICAgICAgICBuZ3guc2F5KCLmt7vliqDnmb3lkI3ljZXlrozmiJAiKTsKICAgICAgICAgICAgJzsKICAgIH0KCiAgICBsb2NhdGlvbiAvZ2V0LXdoaXRlbGlzdCB7CiAgICAgICAgICAgIGF1dGhfYmFzaWMgIkJhc2ljIGF1dGgiOwogICAgICAgICAgICBhdXRoX2Jhc2ljX3VzZXJfZmlsZSAvZXRjL25naW54L3Bhc3M7CiAgICAgICAgICAgIGFsaWFzIC9ldGMvbmdpbngvd2hpdGVsaXN0L2lwX3doaXRlLmNvbmY7CiAgICB9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>location /put-whitelist {
         auth_basic &quot;Basic auth&quot;;
         auth_basic_user_file /etc/nginx/pass;
@@ -1377,9 +1387,6 @@
         auth_basic_user_file /etc/nginx/pass;
         alias /etc/nginx/whitelist/ip_white.conf;
     }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1389,7 +1396,10 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
         <text>location /put-whitelist {
         auth_basic &quot;Basic auth&quot;;
         auth_basic_user_file /etc/nginx/pass;
@@ -1408,13 +1418,8 @@
         alias /etc/nginx/whitelist/ip_white.conf;
     }</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>#test
-127.0.0.1 1;
-127.0.0.2 1;</text>
       </register>
       <register name="y" type="4">
         <text />
