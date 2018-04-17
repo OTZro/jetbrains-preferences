@@ -472,6 +472,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/test.sql" timestamp="1523943345698">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/BaccaratController.php" timestamp="1523344522955">
         <mark key="[" line="252" column="33" />
         <mark key="]" line="252" column="45" />
@@ -1287,7 +1292,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiNsdWEgbW9kdWxlCmxvYWRfbW9kdWxlIC91c3IvbGliL25naW54L21vZHVsZXMvbmRrX2h0dHBfbW9kdWxlLnNvOwpsb2FkX21vZHVsZSAvdXNyL2xpYi9uZ2lueC9tb2R1bGVzL25neF9odHRwX2x1YV9tb2R1bGUuc287CgpwY3JlX2ppdCBvbjsKI2x1YSBtb2R1bGU=</text>
+        <text>`_id`,</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -1296,7 +1301,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>`_id`,</text>
       </register>
       <register name="m" type="4">
         <keys>
