@@ -245,11 +245,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/domain/domain_list.php" timestamp="1522738337471">
         <mark key="[" line="42" column="37" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/AuthController.php" timestamp="1524202370048">
-        <mark key="[" line="62" column="80" />
-        <mark key="]" line="62" column="68" />
-        <mark key="^" line="62" column="68" />
-        <mark key="." line="62" column="68" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/AuthController.php" timestamp="1524204950072">
+        <mark key="[" line="135" column="15" />
+        <mark key="]" line="135" column="15" />
+        <mark key="^" line="135" column="8" />
+        <mark key="." line="135" column="15" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/RepoServiceProvider.php" timestamp="1523339548412">
         <mark key="[" line="273" column="9" />
@@ -589,7 +589,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>type</text>
+        <text>redirect</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -598,7 +598,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>redirect</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -623,8 +623,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -639,20 +639,20 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB4Cg==</text>
+      </register>
+      <register name="3" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+      </register>
+      <register name="4" type="8">
         <text encoding="base64">CgoKCgoKCgoKCgoK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiNsdWEgbW9kdWxlCmxvYWRfbW9kdWxlIC91c3IvbGliL25naW54L21vZHVsZXMvbmRrX2h0dHBfbW9kdWxlLnNvOwpsb2FkX21vZHVsZSAvdXNyL2xpYi9uZ2lueC9tb2R1bGVzL25neF9odHRwX2x1YV9tb2R1bGUuc287CgpwY3JlX2ppdCBvbjsKI2x1YSBtb2R1bGU=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -663,29 +663,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBsb2NhdGlvbiAvcHV0LXdoaXRlbGlzdCB7CiAgICAgICAgICAgIGF1dGhfYmFzaWMgIkJhc2ljIGF1dGgiOwogICAgICAgICAgICBhdXRoX2Jhc2ljX3VzZXJfZmlsZSAvZXRjL25naW54L3Bhc3M7CiAgICAgICAgICAgIGNvbnRlbnRfYnlfbHVhICcKICAgICAgICAgICAgICAgIG5neC5yZXEucmVhZF9ib2R5KCkKICAgICAgICAgICAgICAgIGxvY2FsIERBVEEgPSBuZ3gucmVxLmdldF9ib2R5X2RhdGEoKQogICAgICAgICAgICAgICAgbmd4LmhlYWRlci5jb250ZW50X3R5cGUgPSAidGV4dC9odG1sO2NoYXJzZXQ9VVRGLTgiOwogICAgICAgICAgICAgICAgbmd4LnNheShEQVRBKTsKICAgICAgICAgICAgICAgIG9zLmV4ZWN1dGUoIi91c3IvYmluL3NldF93aGl0ZWxpc3Quc2ggIi4uREFUQS4uIiIpCiAgICAgICAgICAgICAgICBuZ3guc2F5KCLmt7vliqDnmb3lkI3ljZXlrozmiJAiKTsKICAgICAgICAgICAgJzsKICAgIH0KCiAgICBsb2NhdGlvbiAvZ2V0LXdoaXRlbGlzdCB7CiAgICAgICAgICAgIGF1dGhfYmFzaWMgIkJhc2ljIGF1dGgiOwogICAgICAgICAgICBhdXRoX2Jhc2ljX3VzZXJfZmlsZSAvZXRjL25naW54L3Bhc3M7CiAgICAgICAgICAgIGFsaWFzIC9ldGMvbmdpbngvd2hpdGVsaXN0L2lwX3doaXRlLmNvbmY7CiAgICB9</text>
+        <text encoding="base64">CiNsdWEgbW9kdWxlCmxvYWRfbW9kdWxlIC91c3IvbGliL25naW54L21vZHVsZXMvbmRrX2h0dHBfbW9kdWxlLnNvOwpsb2FkX21vZHVsZSAvdXNyL2xpYi9uZ2lueC9tb2R1bGVzL25neF9odHRwX2x1YV9tb2R1bGUuc287CgpwY3JlX2ppdCBvbjsKI2x1YSBtb2R1bGU=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>location /put-whitelist {
-        auth_basic &quot;Basic auth&quot;;
-        auth_basic_user_file /etc/nginx/pass;
-        content_by_lua '
-            ngx.req.read_body()
-            local DATA = ngx.req.get_body_data()
-            ngx.header.content_type = &quot;text/html;charset=UTF-8&quot;;
-            ngx.say(DATA);
-            os.execute(&quot;/usr/bin/set_whitelist.sh &quot;..DATA..&quot;&quot;)
-            ngx.say(&quot;添加白名单完成&quot;);
-        ';
-    }
-    location /get-whitelist {
-        auth_basic &quot;Basic auth&quot;;
-        auth_basic_user_file /etc/nginx/pass;
-        alias /etc/nginx/whitelist/ip_white.conf;
-    }</text>
+        <text encoding="base64">CiAgICBsb2NhdGlvbiAvcHV0LXdoaXRlbGlzdCB7CiAgICAgICAgICAgIGF1dGhfYmFzaWMgIkJhc2ljIGF1dGgiOwogICAgICAgICAgICBhdXRoX2Jhc2ljX3VzZXJfZmlsZSAvZXRjL25naW54L3Bhc3M7CiAgICAgICAgICAgIGNvbnRlbnRfYnlfbHVhICcKICAgICAgICAgICAgICAgIG5neC5yZXEucmVhZF9ib2R5KCkKICAgICAgICAgICAgICAgIGxvY2FsIERBVEEgPSBuZ3gucmVxLmdldF9ib2R5X2RhdGEoKQogICAgICAgICAgICAgICAgbmd4LmhlYWRlci5jb250ZW50X3R5cGUgPSAidGV4dC9odG1sO2NoYXJzZXQ9VVRGLTgiOwogICAgICAgICAgICAgICAgbmd4LnNheShEQVRBKTsKICAgICAgICAgICAgICAgIG9zLmV4ZWN1dGUoIi91c3IvYmluL3NldF93aGl0ZWxpc3Quc2ggIi4uREFUQS4uIiIpCiAgICAgICAgICAgICAgICBuZ3guc2F5KCLmt7vliqDnmb3lkI3ljZXlrozmiJAiKTsKICAgICAgICAgICAgJzsKICAgIH0KCiAgICBsb2NhdGlvbiAvZ2V0LXdoaXRlbGlzdCB7CiAgICAgICAgICAgIGF1dGhfYmFzaWMgIkJhc2ljIGF1dGgiOwogICAgICAgICAgICBhdXRoX2Jhc2ljX3VzZXJfZmlsZSAvZXRjL25naW54L3Bhc3M7CiAgICAgICAgICAgIGFsaWFzIC9ldGMvbmdpbngvd2hpdGVsaXN0L2lwX3doaXRlLmNvbmY7CiAgICB9</text>
       </register>
       <register name="y" type="4">
         <text />
