@@ -102,11 +102,6 @@
         <mark key="." line="37" column="86" />
         <mark key="^" line="37" column="86" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/CashFlowEloquent.php" timestamp="1524555501440">
-        <mark key="[" line="34" column="28" />
-        <mark key="]" line="34" column="28" />
-        <mark key="." line="34" column="28" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-dev" timestamp="1523605516683">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="25" />
@@ -128,7 +123,7 @@
         <mark key="[" line="48" column="2" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/User/UserService.php" timestamp="1524554391774">
-        <mark key="[" line="40" column="139" />
+        <mark key="[" line="5" column="139" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/API/Contracts/ChannelManagerApiContract.php" timestamp="1524129992075">
         <mark key="[" line="46" column="113" />
@@ -276,6 +271,12 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/BetLogRepoContract.php" timestamp="1523252767091">
         <mark key="[" line="92" column="41" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_04_24_143502_add_payment_deposit.php" timestamp="1524558760297">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="37" />
+        <mark key="." line="18" column="37" />
+        <mark key="^" line="18" column="26" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/sw_whitelist/whitelist.php" timestamp="1523599051293">
         <mark key="[" line="18" column="47" />
         <mark key="]" line="85" column="35" />
@@ -333,6 +334,7 @@
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2017_12_17_131413_add_wallet_request.php" timestamp="1524557869665" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/layouts/live-game.blade.php" timestamp="1524213041291" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Presenter/DragonTigerMessagePresenter.php.php" timestamp="1523267515092">
         <mark key="[" line="23" column="49" />
@@ -391,7 +393,6 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_04_21_005615_add_lixin_cash_game.php" timestamp="1524243386150" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/errors/403.blade.php" timestamp="1524213188228">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -708,7 +709,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LT50b0FycmF5KCk=</text>
+        <text>128</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -717,7 +718,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT50b0FycmF5KCk=</text>
+        <text>128</text>
       </register>
       <register name="m" type="4">
         <keys>
