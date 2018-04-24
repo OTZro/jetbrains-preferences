@@ -102,6 +102,11 @@
         <mark key="." line="37" column="86" />
         <mark key="^" line="37" column="86" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/CashFlowEloquent.php" timestamp="1524555501440">
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="28" />
+        <mark key="." line="34" column="28" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-dev" timestamp="1523605516683">
         <mark key="[" line="31" column="25" />
         <mark key="]" line="31" column="25" />
@@ -121,6 +126,9 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/bacc_json.php" timestamp="1522737270876">
         <mark key="[" line="48" column="2" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/User/UserService.php" timestamp="1524554391774">
+        <mark key="[" line="40" column="139" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/API/Contracts/ChannelManagerApiContract.php" timestamp="1524129992075">
         <mark key="[" line="46" column="113" />
@@ -337,6 +345,12 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Presenter/CashFlowPresenter.php" timestamp="1524556396036">
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/switch-table-vertical.blade.php" timestamp="1522660354583">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -446,13 +460,19 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/config/function_list.php" timestamp="1523517584888">
         <mark key="[" line="153" column="6" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/DemoController.php" timestamp="1524556335698">
+        <mark key="[" line="61" column="39" />
+        <mark key="]" line="61" column="39" />
+        <mark key="." line="61" column="39" />
+        <mark key="^" line="63" column="26" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/stage/default.conf" timestamp="1523949239283">
         <mark key="[" line="32" column="33" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524552996426">
+      <file name="/Dummy.txt" timestamp="1524555033290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -539,6 +559,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/API/SingleWalletSignature.php" timestamp="1524237533560">
         <mark key="[" line="15" column="75" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laracasts/presenter/src/Laracasts/Presenter/PresentableTrait.php" timestamp="1524555683253" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/StageService.php" timestamp="1523344588853">
         <mark key="[" line="266" column="43" />
         <mark key="]" line="266" column="43" />
@@ -555,6 +576,11 @@
         <mark key="]" line="35" column="8" />
         <mark key="^" line="35" column="8" />
         <mark key="." line="35" column="8" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/CashFlow.php" timestamp="1524555690473">
+        <mark key="[" line="224" column="15" />
+        <mark key="]" line="224" column="15" />
+        <mark key="." line="224" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -681,7 +707,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, BetLogService $betLogService, ApiTransformer $transformer, UserService $userService)</text>
+        <text encoding="base64">LT50b0FycmF5KCk=</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -690,7 +716,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>, BetLogService $betLogService, ApiTransformer $transformer, UserService $userService)</text>
+        <text encoding="base64">LT50b0FycmF5KCk=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -716,7 +742,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YmV0TG9nU2VydmljZSA9ICRiZXRMb2dTZXJ2aWNlOwogICAgICAgICR0aGlzLT50cmFuc2Zvcm1lciAgID0gJHRyYW5zZm9ybWVyOwogICAgICAgICR0aGlzLT51c2VyU2VydmljZSAgID0gJHVzZXJTZXJ2aWNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -732,19 +758,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJHVzZXJTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YmV0TG9nU2VydmljZSA9ICRiZXRMb2dTZXJ2aWNlOwogICAgICAgICR0aGlzLT50cmFuc2Zvcm1lciAgID0gJHRyYW5zZm9ybWVyOwogICAgICAgICR0aGlzLT51c2VyU2VydmljZSAgID0gJHVzZXJTZXJ2aWNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJHRyYW5zZm9ybWVyOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHVzZXJTZXJ2aWNlOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgJHRyYW5zZm9ybWVyOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgJGJldExvZ1NlcnZpY2U7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBSZXR1cm5Cb251c1NlcnZpY2UgJHNlcnZpY2UKICAgICAqIEBwYXJhbSAgICAgICAgICAgICAgICAgICAgJGlkCiAgICAgKiBAcGFyYW0gICAgICAgICAgICAgICAgICAgICRnYW1lTmFtZQogICAgICogQHBhcmFtICAgICAgICAgICAgICAgICAgICAkY21JZAogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIGluc2VydEdhbWUoUmV0dXJuQm9udXNTZXJ2aWNlICRzZXJ2aWNlLCAkaWQsICRnYW1lTmFtZSwgJGNtSWQpOiB2b2lkCiAgICB7CiAgICAgICAgREI6OnRhYmxlKCdnYW1lcycpLT5pbnNlcnQoWwogICAgICAgICAgICAnaWQnICAgICAgICAgICAgICAgICAgPT4gJGlkLAogICAgICAgICAgICAnbmFtZScgICAgICAgICAgICAgICAgPT4gJGdhbWVOYW1lLAogICAgICAgICAgICAnY21faWQnICAgICAgICAgICAgICAgPT4gJGNtSWQsCiAgICAgICAgICAgICdjcmVhdGVkX2F0JyAgICAgICAgICA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAogICAgICAgICAgICAndXBkYXRlZF9hdCcgICAgICAgICAgPT4gZGF0ZSgnWS1tLWQgSDppOnMnKSwKICAgICAgICAgICAgJ2lzX3NldF9yZXR1cm5fd2F0ZXInID0+IDAsCiAgICAgICAgXSk7CgogICAgICAgICRnYW1lID0gR2FtZUVsb3F1ZW50OjpmaW5kKCRpZCk7CgogICAgICAgICRzZXJ2aWNlLT5zZXROZXdHYW1lUmV0dXJuV2F0ZXIoJGdhbWUsIDApOwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtIFJldHVybkJvbnVzU2VydmljZSAkc2VydmljZQogICAgICogQHBhcmFtICAgICAgICAgICAgICAgICAgICAkaWQKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBkZWxldGVHYW1lKFJldHVybkJvbnVzU2VydmljZSAkc2VydmljZSwgJGlkKQogICAgewogICAgICAgICRnYW1lID0gR2FtZUVsb3F1ZW50OjpmaW5kKCRpZCk7CiAgICAgICAgJHNlcnZpY2UtPnJvbGxiYWNrTmV3R2FtZVJldHVybldhdGVyKCRnYW1lKTsKICAgICAgICBEQjo6dGFibGUoJ2dhbWVzJyktPmRlbGV0ZSgkaWQpOwogICAgfQ==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IDsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -755,18 +781,14 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9IDsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkcGF5bG9hZCA9IFxDcnlwdDo6ZW5jcnlwdCgkZGF0YSk7Cg==</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>parent_openid
 parent_openid</text>
-      </register>
-      <register name="9" type="8">
-        <text>auth.qr-error
-             
-auth.qr-error
-auth.qr-error
-auth.qr-error</text>
       </register>
       <register name="y" type="4">
         <text />
