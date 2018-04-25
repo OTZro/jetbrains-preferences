@@ -81,6 +81,12 @@
         <mark key="]" line="17" column="44" />
         <mark key="." line="17" column="44" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Payment/Payment.php" timestamp="1524674202701">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/whitelist/production/ip_white.conf" timestamp="1524117203852">
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="13" />
@@ -225,7 +231,7 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/PaymentApi.php" timestamp="1524654328185">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/PaymentApi.php" timestamp="1524673912679">
         <mark key="[" line="28" column="64" />
         <mark key="]" line="36" column="41" />
         <mark key="^" line="36" column="41" />
@@ -270,11 +276,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/config/lixin.php" timestamp="1524207329394">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/Contracts/PaymentApiContract.php" timestamp="1524646291205">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="49" />
-        <mark key="." line="11" column="49" />
-        <mark key="^" line="11" column="49" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/Contracts/PaymentApiContract.php" timestamp="1524673926344">
+        <mark key="[" line="12" column="50" />
+        <mark key="]" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+        <mark key="^" line="21" column="31" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/DragonTigerResultRepoContract.php" timestamp="1523245649748">
         <mark key="[" line="4" column="25" />
@@ -355,11 +361,11 @@
         <mark key="." line="27" column="16" />
         <mark key="^" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1524655169522">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="28" column="119" />
-        <mark key="^" line="28" column="119" />
-        <mark key="." line="28" column="119" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1524674229769">
+        <mark key="[" line="92" column="35" />
+        <mark key="]" line="92" column="109" />
+        <mark key="^" line="92" column="109" />
+        <mark key="." line="92" column="109" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/DragonTiger/RoadService.php" timestamp="1522654767547">
         <mark key="[" line="4" column="14" />
@@ -504,7 +510,7 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524555033290">
+      <file name="/Dummy.txt" timestamp="1524674146499">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -739,7 +745,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$channelId</text>
+        <text>getDepositSetting</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -748,7 +754,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>$channelId</text>
+        <text>getDepositSetting</text>
       </register>
       <register name="m" type="4">
         <keys>
