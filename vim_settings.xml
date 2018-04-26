@@ -106,8 +106,8 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/BetLogService.php" timestamp="1524243055486">
         <mark key="[" line="576" column="36" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/NamespaceRegistry.php" timestamp="1524217602690">
-        <mark key="[" line="12" column="62" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/NamespaceRegistry.php" timestamp="1524729200350">
+        <mark key="[" line="13" column="54" />
         <mark key="]" line="13" column="25" />
         <mark key="^" line="13" column="25" />
         <mark key="." line="13" column="25" />
@@ -318,7 +318,7 @@
         <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2017_12_17_131413_add_wallet_request.php" timestamp="1524557869665" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/.env.stage" timestamp="1524648174710">
+      <file name="$USER_HOME$/wuming/WeChatCasino/.env.stage" timestamp="1524728696636">
         <mark key="[" line="42" column="21" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/layouts/live-game.blade.php" timestamp="1524213041291" />
@@ -328,11 +328,11 @@
         <mark key="." line="27" column="16" />
         <mark key="^" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1524726712477">
-        <mark key="[" line="115" column="7" />
-        <mark key="]" line="115" column="7" />
-        <mark key="^" line="108" column="52" />
-        <mark key="." line="115" column="7" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1524729365620">
+        <mark key="[" line="126" column="15" />
+        <mark key="]" line="126" column="15" />
+        <mark key="." line="126" column="15" />
+        <mark key="^" line="130" column="21" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/DragonTiger/RoadService.php" timestamp="1522654767547">
         <mark key="[" line="4" column="14" />
@@ -470,7 +470,7 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524726826623">
+      <file name="/Dummy.txt" timestamp="1524728638503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -687,7 +687,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>amount</text>
+        <text>mixed</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -696,7 +696,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>amount</text>
+        <text>mixed</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -722,7 +722,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
