@@ -33,6 +33,7 @@
         <mark key="^" line="73" column="57" />
         <mark key="." line="73" column="57" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_04_12_145126_add_note_to_hy.php" timestamp="1524979920664" />
       <file name="$USER_HOME$/wuming/WeChatCasino/routes/api.php" timestamp="1524894927262">
         <mark key="[" line="20" column="39" />
         <mark key="]" line="20" column="39" />
@@ -49,6 +50,7 @@
         <mark key="]" line="138" column="34" />
         <mark key="." line="138" column="34" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/cz_list.php" timestamp="1524979525695" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/PaymentDepositRepo.php" timestamp="1524715080893">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="40" />
@@ -351,6 +353,11 @@
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_04_29_133058_add_payment_id_to_czjl.php" timestamp="1524980008685">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/layouts/virtual-lotto.blade.php" timestamp="1524732178511">
         <mark key="[" line="0" column="49" />
         <mark key="]" line="28" column="13" />
@@ -509,7 +516,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>== $applyAmoun</text>
+        <text />
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -518,7 +525,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>== $applyAmoun</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
