@@ -53,7 +53,9 @@
         <mark key="]" line="138" column="34" />
         <mark key="." line="138" column="34" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/cz_list.php" timestamp="1524984675476" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/cz_list.php" timestamp="1524987689566">
+        <mark key="[" line="235" column="48" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Facades/PaymentDepositRepo.php" timestamp="1524715080893">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="40" />
@@ -76,6 +78,12 @@
         <mark key="]" line="15" column="91" />
         <mark key="^" line="15" column="91" />
         <mark key="." line="15" column="91" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/Classes/Enum/PaymentStatus.php" timestamp="1524986720361">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/errors/link-error.blade.php" timestamp="1524213277224">
         <mark key="[" line="0" column="10" />
@@ -123,7 +131,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/PaymentEnum.php" timestamp="1524801949975">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/PaymentEnum.php" timestamp="1524986429920">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="20" column="2" />
         <mark key="." line="20" column="2" />
@@ -248,6 +256,12 @@
         <mark key="[" line="0" column="28" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/cz_json.php" timestamp="1524987411609">
+        <mark key="[" line="72" column="21" />
+        <mark key="]" line="72" column="21" />
+        <mark key="^" line="67" column="53" />
+        <mark key="." line="72" column="21" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/URI/PaymentURI.php" timestamp="1524737104414">
         <mark key="[" line="8" column="56" />
@@ -523,7 +537,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>content</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -532,7 +546,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>content</text>
       </register>
       <register name="m" type="4">
         <keys>
