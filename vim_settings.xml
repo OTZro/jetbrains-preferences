@@ -15,6 +15,9 @@
         <mark key="^" line="177" column="26" />
         <mark key="." line="254" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/Recharge.php" timestamp="1524981679189">
+        <mark key="[" line="101" column="43" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/PaymentController.php" timestamp="1524643620093">
         <mark key="[" line="21" column="5" />
         <mark key="]" line="23" column="0" />
@@ -91,6 +94,7 @@
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/UserEloquent.php" timestamp="1524981320836" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/dragon-tiger/dragon-tiger-layout.blade.php" timestamp="1524735591440">
         <mark key="[" line="205" column="0" />
         <mark key="]" line="205" column="0" />
@@ -108,11 +112,11 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1524897288641">
-        <mark key="[" line="139" column="83" />
-        <mark key="]" line="23" column="12" />
-        <mark key="." line="23" column="12" />
-        <mark key="^" line="23" column="12" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1524982102145">
+        <mark key="[" line="124" column="22" />
+        <mark key="]" line="49" column="84" />
+        <mark key="." line="49" column="84" />
+        <mark key="^" line="49" column="84" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/live-game/switch-table-vertical.blade.php" timestamp="1522660354583">
         <mark key="[" line="37" column="0" />
@@ -139,9 +143,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/ApiController.php" timestamp="1524815920658">
-        <mark key="[" line="437" column="5" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/VRBetlogMiddleware.php" timestamp="1524901735103" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/PaymentDeposit.php" timestamp="1524807397497">
@@ -266,6 +267,12 @@
         <mark key="^" line="252" column="45" />
         <mark key="." line="128" column="73" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/RechargeEloquent.php" timestamp="1524982168648">
+        <mark key="[" line="67" column="28" />
+        <mark key="]" line="43" column="44" />
+        <mark key="^" line="43" column="44" />
+        <mark key="." line="43" column="44" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/errors/main.blade.php" timestamp="1524213055218">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="10" column="23" />
@@ -311,7 +318,7 @@
         <mark key="^" line="90" column="51" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524894927577">
+      <file name="/Dummy.txt" timestamp="1524981306722">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -353,7 +360,7 @@
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_04_29_133058_add_payment_id_to_czjl.php" timestamp="1524980008685">
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_04_29_133058_add_payment_id_to_czjl.php" timestamp="1524981003912">
         <mark key="[" line="16" column="20" />
         <mark key="]" line="16" column="20" />
         <mark key="." line="16" column="20" />
