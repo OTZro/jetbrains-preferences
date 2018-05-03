@@ -25,11 +25,20 @@
         <mark key="^" line="40" column="15" />
         <mark key="." line="40" column="15" />
       </file>
+      <file name="/a.dummy" timestamp="1525334844719">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Presenter/RechargePresenter.php" timestamp="1525319274243">
         <mark key="[" line="30" column="17" />
         <mark key="]" line="24" column="20" />
         <mark key="^" line="24" column="20" />
         <mark key="." line="24" column="20" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_05_03_160621_create_bank_table.php" timestamp="1525335301766">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="17" column="20" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/ajax_tx.php" timestamp="1524992053508">
         <mark key="[" line="9" column="80" />
@@ -203,11 +212,11 @@
         <mark key="]" line="338" column="0" />
         <mark key="." line="338" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_05_02_145657_add_payment_withdraw.php" timestamp="1525333968629">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_05_02_145657_add_payment_withdraw.php" timestamp="1525334881638">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="26" />
         <mark key="^" line="26" column="23" />
-        <mark key="." line="27" column="0" />
+        <mark key="." line="27" column="26" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/RoadService.php" timestamp="1523262425960">
         <mark key="[" line="15" column="53" />
@@ -247,6 +256,11 @@
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_05_03_160621_change_bank_table_field.php" timestamp="1525334835240">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="8" />
+        <mark key="." line="15" column="8" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/layouts/live-game-vertical/live-game-vertical.blade.php" timestamp="1525235598943">
         <mark key="[" line="149" column="16" />
@@ -314,7 +328,7 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525250603253">
+      <file name="/Dummy.txt" timestamp="1525334959217">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -325,12 +339,13 @@
         <mark key="." line="117" column="0" />
         <mark key="^" line="53" column="48" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_05_02_145528_add_user_bank_info.php" timestamp="1525332258683">
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="35" />
-        <mark key="." line="25" column="35" />
-        <mark key="^" line="25" column="35" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_05_02_145528_add_user_bank_info.php" timestamp="1525335673971">
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="39" />
+        <mark key="^" line="20" column="39" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_04_25_151026_add_lt_game.php" timestamp="1525334940580" />
       <file name="$USER_HOME$/wuming/WeChatCasino/tenancy/tenant_wc/config/lixin-cash.php" timestamp="1524238548764">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="15" />
@@ -518,8 +533,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50ZXh0KCdub3RlJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>incrementcs</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -528,7 +543,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>incrementcs</text>
       </register>
       <register name="m" type="4">
         <keys>
