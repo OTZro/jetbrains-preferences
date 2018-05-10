@@ -8,6 +8,9 @@
         <mark key="]" line="224" column="28" />
         <mark key="." line="224" column="28" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/HomeController.php" timestamp="1525953291888">
+        <mark key="[" line="79" column="43" />
+      </file>
       <file name="/a.dummy" timestamp="1525943520170">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,6 +45,9 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_05_08_135245_add_auto_tp_pay_to_fcbl.php" timestamp="1525934932151">
         <mark key="[" line="16" column="45" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/demo/dialog/lixin-cash-binding-dialog.blade.php" timestamp="1525953158299">
+        <mark key="[" line="1" column="53" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/UserBankInfo.php" timestamp="1525686590157">
         <mark key="[" line="41" column="0" />
@@ -304,8 +310,8 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/demo/profile/main.blade.php" timestamp="1525167424396">
         <mark key="[" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/demo/dialog/recharge-dialog.blade.php" timestamp="1525950586392">
-        <mark key="[" line="1" column="53" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/demo/dialog/recharge-dialog.blade.php" timestamp="1525953386659">
+        <mark key="[" line="0" column="24" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -455,8 +461,11 @@
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/demo/game-hall.blade.php" timestamp="1525166098817">
-        <mark key="[" line="59" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/demo/game-hall.blade.php" timestamp="1525953365723">
+        <mark key="[" line="80" column="81" />
+        <mark key="]" line="80" column="81" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="80" column="81" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/RechargeEnum.php" timestamp="1525763024757">
         <mark key="[" line="5" column="1" />
@@ -489,7 +498,7 @@
         <mark key="[" line="73" column="9" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/hyn/multi-tenant/src/Traits/MutatesMigrationCommands.php" timestamp="1525854241118" />
-      <file name="/Dummy.txt" timestamp="1525951030768">
+      <file name="/Dummy.txt" timestamp="1525953305193">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -557,11 +566,11 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/js/components/demo/dialog/lixin-cash-binding-dialog.vue" timestamp="1525951781979">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="12" column="46" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/js/components/demo/dialog/lixin-cash-binding-dialog.vue" timestamp="1525953112001">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="17" />
+        <mark key="^" line="20" column="24" />
+        <mark key="." line="20" column="17" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/CashFlow.php" timestamp="1524555690473">
         <mark key="[" line="224" column="15" />
@@ -702,8 +711,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZChbJHVzZXJuYW1lLCAkcGFzc3dvcmRdKTsK</text>
+      <register name="&quot;" type="4">
+        <text>getLixin</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -712,7 +721,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>msg</text>
+        <text>getLixin</text>
       </register>
       <register name="m" type="4">
         <keys>
