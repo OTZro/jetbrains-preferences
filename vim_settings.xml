@@ -117,8 +117,11 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/PaymentApi.php" timestamp="1526357428670">
-        <mark key="[" line="28" column="75" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/PaymentApi.php" timestamp="1526614595966">
+        <mark key="[" line="28" column="90" />
+        <mark key="]" line="28" column="90" />
+        <mark key="^" line="26" column="4" />
+        <mark key="." line="28" column="90" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/errors/qr-error.blade.php" timestamp="1524213242701">
         <mark key="[" line="1" column="0" />
@@ -175,9 +178,15 @@
         <mark key="]" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/Contracts/PaymentApiContract.php" timestamp="1526614588673">
+        <mark key="[" line="22" column="75" />
+        <mark key="]" line="22" column="90" />
+        <mark key="^" line="22" column="90" />
+        <mark key="." line="22" column="90" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/config/log.php" timestamp="1526489872849" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/PayController.php" timestamp="1526280492481">
-        <mark key="[" line="199" column="49" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/PayController.php" timestamp="1526614663810">
+        <mark key="[" line="229" column="86" />
         <mark key="]" line="192" column="42" />
         <mark key="^" line="184" column="21" />
         <mark key="." line="192" column="42" />
@@ -239,11 +248,11 @@
         <mark key="^" line="4" column="51" />
         <mark key="." line="4" column="50" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1525944502382">
-        <mark key="[" line="45" column="52" />
-        <mark key="]" line="229" column="67" />
-        <mark key="^" line="172" column="163" />
-        <mark key="." line="229" column="67" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1526614700546">
+        <mark key="[" line="101" column="76" />
+        <mark key="]" line="103" column="49" />
+        <mark key="^" line="103" column="49" />
+        <mark key="." line="103" column="49" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/js/components/cool-pay.vue" timestamp="1525937730900">
         <mark key="[" line="104" column="17" />
@@ -577,8 +586,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">5a+55a2QCiAg</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -587,7 +596,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>$upper</text>
+        <text>null</text>
       </register>
       <register name="m" type="4">
         <keys>
