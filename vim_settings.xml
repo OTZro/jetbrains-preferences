@@ -14,6 +14,9 @@
         <mark key="." line="31" column="69" />
         <mark key="^" line="32" column="30" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/config/tenancy.php" timestamp="1527578636780">
+        <mark key="[" line="285" column="9" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/.env.production" timestamp="1527577538825" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Logger/LogService.php" timestamp="1527585344856" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/DonateLogEloquent.php" timestamp="1523245313303">
@@ -26,7 +29,7 @@
         <mark key="]" line="138" column="34" />
         <mark key="." line="138" column="34" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2017_11_23_131858_create_baccarat_result_table.php" timestamp="1527737945529" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2017_11_23_131858_create_baccarat_result_table.php" timestamp="1527744585226" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/CashFlowRepo.php" timestamp="1525247146956">
         <mark key="[" line="26" column="117" />
         <mark key="]" line="26" column="117" />
@@ -226,6 +229,7 @@
         <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/hyn/multi-tenant/src/Controllers/MediaController.php" timestamp="1527663476390" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Foundation/Console/DownCommand.php" timestamp="1527744963521" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/demo/dialog/recharge-dialog.blade.php" timestamp="1526087580541">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="1" column="0" />
@@ -339,6 +343,9 @@
         <mark key="[" line="14" column="42" />
         <mark key="]" line="14" column="5" />
         <mark key="." line="14" column="42" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/TenancyDown.php" timestamp="1527744973445">
+        <mark key="[" line="16" column="107" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/UserBankInfoEloquent.php" timestamp="1525686578254">
         <mark key="[" line="19" column="40" />
@@ -701,7 +708,7 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>22</text>
+        <text>54</text>
       </register>
     </registers>
     <search>
@@ -737,7 +744,6 @@
         <entry>picture</entry>
       </history-search>
       <history-cmd>
-        <entry>179</entry>
         <entry>27</entry>
         <entry>334</entry>
         <entry>275</entry>
@@ -757,6 +763,7 @@
         <entry>237</entry>
         <entry>w</entry>
         <entry>22</entry>
+        <entry>54</entry>
       </history-cmd>
       <history-expr />
       <history-input />
