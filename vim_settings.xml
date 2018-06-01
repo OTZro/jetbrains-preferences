@@ -8,8 +8,14 @@
         <mark key="]" line="224" column="28" />
         <mark key="." line="224" column="28" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/config/tenancy.php" timestamp="1527578636780">
+        <mark key="[" line="285" column="9" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/.env.production" timestamp="1527839079077" />
       <file name="$USER_HOME$/wuming/WeChatCasino/routes/api.php" timestamp="1527831695086" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/ajax_tx.php" timestamp="1527844358012">
+        <mark key="[" line="1" column="5" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/DonateLogEloquent.php" timestamp="1523245313303">
         <mark key="[" line="112" column="32" />
         <mark key="]" line="128" column="36" />
@@ -72,7 +78,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/config/app-config.stage.php" timestamp="1527839113804">
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/config/app-config.stage.php" timestamp="1527844100748">
         <mark key="[" line="28" column="34" />
         <mark key="]" line="28" column="35" />
         <mark key="." line="28" column="35" />
@@ -265,6 +271,7 @@
         <mark key="]" line="21" column="23" />
         <mark key="." line="21" column="23" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/games_monitor/game_status_list_json.php" timestamp="1527844282765" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/db.yml" timestamp="1527842456103">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -335,6 +342,9 @@
         <mark key="]" line="14" column="5" />
         <mark key="." line="14" column="42" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/TenancyDown.php" timestamp="1527744973445">
+        <mark key="[" line="16" column="107" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/UserBankInfoEloquent.php" timestamp="1525686578254">
         <mark key="[" line="19" column="40" />
         <mark key="]" line="19" column="40" />
@@ -381,6 +391,9 @@
         <mark key="." line="64" column="33" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/config/config.php" timestamp="1527832059812" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/frontend_online_user_list.php" timestamp="1527844383432">
+        <mark key="[" line="4" column="39" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/set_downline_limit_page.php" timestamp="1526289095661">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
@@ -391,7 +404,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527840441872">
+      <file name="/Dummy.txt" timestamp="1527844383743">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -456,6 +469,14 @@
         <mark key="[" line="290" column="61" />
         <mark key="]" line="267" column="0" />
         <mark key="." line="267" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/online_user_json.php" timestamp="1527844327164">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/backend_online_user_list.php" timestamp="1527844306285">
+        <mark key="[" line="4" column="39" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/DragonTiger/StageService.php" timestamp="1523345582816">
         <mark key="[" line="156" column="0" />
@@ -606,8 +627,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -616,7 +637,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>COMPOSER_GLOBAL_INSTALL</text>
+        <text>/</text>
       </register>
       <register name="m" type="4">
         <keys>
