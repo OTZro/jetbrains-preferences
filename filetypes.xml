@@ -4,6 +4,7 @@
       <mapping pattern="UploadedImageInfo" type="PHP" />
       <mapping pattern="JWTBlacklist" type="PHP" />
       <mapping pattern="ImageValidateTrait" type="PHP" />
+      <mapping pattern=".env-production-slave" type="PLAIN_TEXT" />
       <mapping pattern="backend_notification_store" type="PLAIN_TEXT" />
       <mapping pattern="last_time_backend_notification_execute" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
