@@ -25,7 +25,7 @@
         <mark key="]" line="44" column="30" />
         <mark key="." line="44" column="30" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx-deployment.yaml" timestamp="1529049296161" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx-deployment.yaml" timestamp="1529054110212" />
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_06_12_172532_add_user_bank_info.php" timestamp="1528862331772">
         <mark key="[" line="31" column="5" />
         <mark key="]" line="33" column="0" />
@@ -143,7 +143,7 @@
         <mark key="]" line="57" column="17" />
         <mark key="." line="57" column="17" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/workspace-service.yaml" timestamp="1528964305328" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/workspace-service.yaml" timestamp="1529052082470" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/production/default.conf" timestamp="1528090598214">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -160,6 +160,11 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx-service.yaml" timestamp="1529048548298" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/applications-claim-persistentvolumeclaim.yaml" timestamp="1529053918207">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/RobotContentRepo.php" timestamp="1523344948409">
         <mark key="[" line="68" column="73" />
         <mark key="]" line="68" column="73" />
@@ -171,17 +176,27 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/host-volumn.yml" timestamp="1529053752600">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/auth/qr-error.blade.php" timestamp="1524213165931">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/applications-claim0-persistentvolumeclaim.yaml" timestamp="1529053858402">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/PaymentBank.php" timestamp="1525407535904">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/app.yml" timestamp="1528960228693">
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/app.yml" timestamp="1529054064826">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="14" column="32" />
         <mark key="." line="14" column="32" />
@@ -515,9 +530,6 @@
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/demo/game-hall.blade.php" timestamp="1528877265892">
-        <mark key="^" line="47" column="14" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/RechargeModeEnum.php" timestamp="1525084967693">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -591,7 +603,7 @@
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/workspace-deployment.yaml" timestamp="1529051252899" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/workspace-deployment.yaml" timestamp="1529052671745" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/whitelist/dev/ip_white.conf" timestamp="1523609525248">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -800,8 +812,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogbnVsbAo=</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -810,7 +822,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>-</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -835,10 +847,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>wechatcasino
-wechatcasino
-wechatcasino</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogbnVsbAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -854,19 +864,22 @@ wechatcasino</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMjIE5ldHdvcmtzIFNldHVwICMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Cm5ldHdvcmtzOgogIGZyb250ZW5kOgogICAgZHJpdmVyOiAiYnJpZGdlIgogIGJhY2tlbmQ6CiAgICBkcml2ZXI6ICJicmlkZ2Ui</text>
+        <text>labels:
+    io.kompose.service: applications-claim0</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBzdG9yYWdlQ2xhc3NOYW1lOiBtYW51YWwK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICJmbkNyZWF0ZWRDZWxsIjogZnVuY3Rpb24oblRkLCBzRGF0YSwgb0RhdGEsIGlSb3csIGlDb2wpIHsKICAgICAgICAgICAgICAgICAgICBsZXQgc3RyTGVuZ3RoID0gMzA7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgJChuVGQpLmh0bWwoaHRtbCk7CiAgICAgICAgICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">a2luZDogUGVyc2lzdGVudFZvbHVtZQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgc3RyTGVuZ3RoID0gMzA7Cg==</text>
+      <register name="6" type="4">
+        <text>wechatcasino
+wechatcasino
+wechatcasino</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -876,14 +889,14 @@ wechatcasino</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aWYoc0RhdGEubGVuZ3RoID4gc3RyTGVuZ3RoKXsKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGh0bWwgPSAiIjsKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGNvbnRlbnRfc3RyID0gc0RhdGE7CiAgICAgICAgICAgICAgICAgICAgICAgIHdoaWxlIChjb250ZW50X3N0ci5sZW5ndGggPiBzdHJMZW5ndGgpewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaHRtbCArPSBjb250ZW50X3N0ci5zdWJzdHIoMCxzdHJMZW5ndGgpICsgJzwvYnI+JzsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnRfc3RyID0gY29udGVudF9zdHIuc3Vic3RyKHN0ckxlbmd0aC0yKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBodG1sICs9IGNvbnRlbnRfc3RyOwogICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyMjIE5ldHdvcmtzIFNldHVwICMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlckJhbmtJbmZvKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Cm5ldHdvcmtzOgogIGZyb250ZW5kOgogICAgZHJpdmVyOiAiYnJpZGdlIgogIGJhY2tlbmQ6CiAgICBkcml2ZXI6ICJicmlkZ2Ui</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="y" type="4">
         <text />
