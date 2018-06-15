@@ -19,10 +19,10 @@
         <mark key="]" line="44" column="30" />
         <mark key="." line="44" column="30" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx-deployment.yaml" timestamp="1529058340356">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="16" column="8" />
-        <mark key="." line="16" column="8" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx-deployment.yaml" timestamp="1529059311551">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_06_12_172532_add_user_bank_info.php" timestamp="1528862331772">
         <mark key="[" line="31" column="5" />
@@ -143,6 +143,9 @@
         <mark key="[" line="68" column="73" />
         <mark key="]" line="68" column="73" />
         <mark key="." line="68" column="73" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/workspace/run.sh" timestamp="1529059859257">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/host-volumn.yml" timestamp="1529056194878">
         <mark key="[" line="12" column="48" />
@@ -702,8 +705,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtIC4vcGhwLWZwbS9waHAke1BIUF9WRVJTSU9OfS5pbmk6L3Vzci9sb2NhbC9ldGMvcGhwL3BocC5pbmkK</text>
+      <register name="&quot;" type="4">
+        <text>docker-registry.wmlx345.net:5000/</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -712,7 +715,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>docker-registry.wmlx345.net:5000/</text>
       </register>
       <register name="m" type="4">
         <keys>
