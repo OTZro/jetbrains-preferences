@@ -107,9 +107,6 @@
         <mark key="]" line="57" column="17" />
         <mark key="." line="57" column="17" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/CheckUnsettle.php" timestamp="1529419616787" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/config/game.php" timestamp="1529404781496" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Signal/BaseSignalService.php" timestamp="1529379334149" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/production/default.conf" timestamp="1528090598214">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -159,7 +156,6 @@
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/.env" timestamp="1529412489411" />
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/Classes/ReturnBonusService.php" timestamp="1529255791612">
         <mark key="[" line="358" column="62" />
         <mark key="]" line="358" column="62" />
@@ -231,7 +227,6 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/js/components/demo/dialog/recharge-dialog.vue" timestamp="1529411808840" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/host-volume.yml" timestamp="1529417129633">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="13" />
@@ -242,7 +237,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/PayController.php" timestamp="1529381058744" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/Recharge.php" timestamp="1525944661696">
         <mark key="[" line="216" column="35" />
         <mark key="]" line="216" column="35" />
@@ -263,11 +257,15 @@
         <mark key="]" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/BaccaratHandleUnsettle.php" timestamp="1529419386169" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/AuthController.php" timestamp="1528819075066">
         <mark key="[" line="173" column="0" />
         <mark key="]" line="173" column="0" />
         <mark key="." line="173" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/js/components/roads-map.vue" timestamp="1529467920626">
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="20" column="47" />
+        <mark key="." line="20" column="47" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/PaymentWithdrawRepoContract.php" timestamp="1525403587511">
         <mark key="[" line="6" column="28" />
@@ -354,7 +352,6 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/BetLogRepo.php" timestamp="1529415557656" />
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/tghy_list.php" timestamp="1522739068954">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -430,7 +427,6 @@
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/RacingCar/RacingCarResultCollection.php" timestamp="1529404748881" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/RechargeModeEnum.php" timestamp="1525084967693">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -686,7 +682,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>tmp</text>
+        <text>banker</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -695,7 +691,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>tmp</text>
+        <text>banker</text>
       </register>
       <register name="m" type="4">
         <keys>
