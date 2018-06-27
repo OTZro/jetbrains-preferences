@@ -254,6 +254,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ReturnWater/ReturnBonusService.php" timestamp="1530079694518" />
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_04_29_133058_add_payment_id_to_czjl.php" timestamp="1524981003912">
         <mark key="[" line="16" column="20" />
         <mark key="]" line="16" column="20" />
@@ -364,6 +365,9 @@
         <mark key="]" line="35" column="53" />
         <mark key="." line="35" column="53" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/ReturnWaterService.php" timestamp="1530080033993">
+        <mark key="[" line="350" column="25" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_c.php" timestamp="1529826984486" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/db.yml" timestamp="1527842456103">
         <mark key="[" line="4" column="0" />
@@ -456,7 +460,12 @@
         <mark key="." line="322" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/config/api.php" timestamp="1529922197040" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionService.php" timestamp="1530079166680" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionService.php" timestamp="1530079379835">
+        <mark key="[" line="141" column="43" />
+        <mark key="]" line="141" column="43" />
+        <mark key="." line="141" column="43" />
+        <mark key="^" line="141" column="57" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/home/game-hall.blade.php" timestamp="1527661958624">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -771,7 +780,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>returnPromoteWater</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -780,7 +789,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>returnPromoteWater</text>
       </register>
       <register name="m" type="4">
         <keys>
