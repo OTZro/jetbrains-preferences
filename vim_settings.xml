@@ -95,6 +95,12 @@
         <mark key="]" line="57" column="17" />
         <mark key="." line="57" column="17" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_07_06_160812_add_table_info.php" timestamp="1530865085368">
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="30" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/ThirdPartyController.php" timestamp="1529908649704" />
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/betlogReport/member_json.php" timestamp="1522737169522">
         <mark key="[" line="338" column="0" />
@@ -309,7 +315,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530783197081">
+      <file name="/Dummy.txt" timestamp="1530864860626">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -777,12 +783,6 @@
         <mark key="." line="116" column="0" />
       </file>
       <file name="/RoadService.php" timestamp="1530609100542" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/DragonTiger/StageService.php" timestamp="1530857655490">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="184" column="129" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/js/components/demo/dialog/lixin-cash-binding-dialog.vue" timestamp="1526089797974">
         <mark key="[" line="31" column="29" />
         <mark key="]" line="31" column="29" />
@@ -931,8 +931,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5Yik5pa35pyf6Jmf5pyJ5pu05pawCg==</text>
+      <register name="&quot;" type="4">
+        <text>created_at</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -941,7 +941,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRhYmxlSW5mbyA9ICR0aGlzLT5jaGVja1RhYmxlU3RhdHVzKCR0YWJsZUluZm8pOw==</text>
+        <text>created_at</text>
       </register>
       <register name="m" type="4">
         <keys>
