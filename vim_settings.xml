@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Signal/WMSignalCollector.php" timestamp="1531122754128">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Signal/WMSignalCollector.php" timestamp="1531125366527">
         <mark key="[" line="42" column="123" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
@@ -230,10 +230,11 @@
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/.env" timestamp="1530604975806">
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="30" column="21" />
-        <mark key="." line="30" column="21" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/.env" timestamp="1531125465563">
+        <mark key="[" line="51" column="19" />
+        <mark key="]" line="51" column="22" />
+        <mark key="." line="51" column="22" />
+        <mark key="^" line="51" column="22" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/Classes/ReturnBonusService.php" timestamp="1529255791612">
         <mark key="[" line="358" column="62" />
@@ -264,6 +265,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Notification/WebHooks/SlackWebHookService.php" timestamp="1531125448307">
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="21" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/errors/qr-error.blade.php" timestamp="1524213242701">
         <mark key="[" line="1" column="0" />
@@ -597,6 +604,7 @@
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Notification/WebHooks/Contracts/SlackWebHookInterface.php" timestamp="1531125390704" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/RechargeModeEnum.php" timestamp="1525084967693">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -909,7 +917,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGV4dGVuZHMgQmFzZUVsb3F1ZW50</text>
+        <text>false</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -918,7 +926,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGV4dGVuZHMgQmFzZUVsb3F1ZW50</text>
+        <text>false</text>
       </register>
       <register name="m" type="4">
         <keys>
