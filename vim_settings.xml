@@ -440,10 +440,11 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/InternalApiController.php" timestamp="1533024460462">
-        <mark key="[" line="472" column="5" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/InternalApiController.php" timestamp="1533025417978">
+        <mark key="[" line="484" column="65" />
+        <mark key="]" line="484" column="65" />
+        <mark key="^" line="484" column="15" />
+        <mark key="." line="484" column="65" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/routes/media.php" timestamp="1527664784812">
         <mark key="[" line="2" column="28" />
@@ -688,6 +689,7 @@
         <mark key="]" line="4" column="35" />
         <mark key="." line="4" column="35" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/CasinoGameRepoContract.php" timestamp="1533025332428" />
       <file name="$USER_HOME$/wuming/WeChatCasino/config/database.php" timestamp="1530600620544">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -848,7 +850,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>setTrialGameList</text>
+        <text>get</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -857,7 +859,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>setTrialGameList</text>
+        <text>get</text>
       </register>
       <register name="m" type="4">
         <keys>
