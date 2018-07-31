@@ -13,11 +13,11 @@
         <mark key="]" line="224" column="28" />
         <mark key="." line="224" column="28" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/HomeController.php" timestamp="1533028435716">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="85" column="125" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/HomeController.php" timestamp="1533031726684">
+        <mark key="[" line="76" column="36" />
+        <mark key="]" line="76" column="36" />
         <mark key="^" line="85" column="125" />
-        <mark key="." line="85" column="125" />
+        <mark key="." line="76" column="36" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/.env.production" timestamp="1533009690246">
         <mark key="[" line="45" column="29" />
@@ -34,12 +34,12 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/routes/api.php" timestamp="1533030472303">
+      <file name="$USER_HOME$/wuming/WeChatCasino/routes/api.php" timestamp="1533031557007">
         <mark key="'" line="80" column="0" />
         <mark key="[" line="79" column="65" />
-        <mark key="]" line="78" column="0" />
+        <mark key="]" line="79" column="65" />
         <mark key="^" line="78" column="67" />
-        <mark key="." line="57" column="370" />
+        <mark key="." line="79" column="65" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/production/single-wallet.conf" timestamp="1532672612183">
         <mark key="[" line="2" column="40" />
@@ -61,7 +61,6 @@
         <mark key="]" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/InternalApi.php" timestamp="1533030614594" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/CashFlowRepo.php" timestamp="1525247146956">
         <mark key="[" line="26" column="117" />
         <mark key="]" line="26" column="117" />
@@ -321,7 +320,6 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_06_25_114316_change_nickname_lenght.php" timestamp="1533022132206" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/PayController.php" timestamp="1533024385075">
         <mark key="[" line="347" column="0" />
         <mark key="]" line="347" column="0" />
@@ -413,7 +411,12 @@
         <mark key="]" line="35" column="53" />
         <mark key="." line="35" column="53" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_03_19_141721_modify_all_db_column.php" timestamp="1533022150542" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/CasinoGameEloquent.php" timestamp="1533031311068">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="5" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/db.yml" timestamp="1531116285351">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -424,18 +427,17 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/InternalApiController.php" timestamp="1533029705093">
-        <mark key="[" line="510" column="9" />
-        <mark key="]" line="511" column="25" />
-        <mark key="^" line="511" column="25" />
-        <mark key="." line="511" column="25" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/InternalApiController.php" timestamp="1533031746870">
+        <mark key="[" line="486" column="33" />
+        <mark key="]" line="486" column="33" />
+        <mark key="^" line="511" column="44" />
+        <mark key="." line="486" column="33" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/routes/media.php" timestamp="1527664784812">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/ApiController.php" timestamp="1533028113347" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Presenter/BetLogResultPresenter.php" timestamp="1525164899304">
         <mark key="[" line="57" column="34" />
         <mark key="]" line="57" column="34" />
@@ -522,7 +524,6 @@
         <mark key="^" line="13" column="45" />
         <mark key="." line="13" column="45" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Validator/SingleWalletApiValidator.php" timestamp="1533027052010" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/home/game-hall.blade.php" timestamp="1527661958624">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -588,7 +589,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533027063380">
+      <file name="/Dummy.txt" timestamp="1533032193341">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -634,6 +635,7 @@
         <mark key="]" line="13" column="52" />
         <mark key="." line="13" column="52" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/_ide_helper.php" timestamp="1533031650661" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/CasinoCasinoGameRepo.php" timestamp="1533029550035">
         <mark key="[" line="16" column="42" />
         <mark key="]" line="16" column="42" />
@@ -839,8 +841,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2FzaW5vR2FtZVJlcG86OnUK</text>
+      <register name="&quot;" type="4">
+        <text>all</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -849,7 +851,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>iShow</text>
+        <text>all</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -875,7 +877,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2FzaW5vR2FtZVJlcG86OnUK</text>
+        <text encoding="base64">ICAgICAgICAnY3JlYXRlZF9hdCcsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -891,19 +893,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgbW9kZWwoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAndXBkYXRlZF9hdCcsCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ2FzaW5vR2FtZVJlcG86OnUK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgbW9kZWwoKSBtZXRob2QuCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICBkCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAvKioKICAgICAqIEBpbmhlcml0RG9jCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBmaW5kKGludCAkaWQpOiBDYXNpbm9HYW1lCiAgICB7CiAgICAgICAgcmV0dXJuIENhc2lub0dhbWVFbG9xdWVudDo6ZmluZCgkaWQpOwogICAgfQ==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyoqCiAgICAgKiBAaW5oZXJpdERvYwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gYWxsKCkKICAgIHsKICAgICAgICByZXR1cm4gQ2FzaW5vR2FtZUVsb3F1ZW50Ojp3aGVyZSgnaXNfc2hvdycsIDEpCiAgICAgICAgICAgIC0+b3JkZXJCeSgnaXNfZW5hYmxlZCcsICdkZXNjJykKICAgICAgICAgICAgLT5vcmRlckJ5KCdvcmRlcicsICdhc2MnKQogICAgICAgICAgICAtPmdldCgpOwogICAgfQ==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBHYW1lc1ZhbGlkYXRvcgogICAgICovCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -913,14 +915,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgndHJpYWwtZ2FtZXMnLCAnSW50ZXJuYWxBcGlDb250cm9sbGVyQGdldEdhbWVMaXN0JyktPm1pZGRsZXdhcmUoJ2FwaS5pbnRlcm5hbCcpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiBAaW5oZXJpdERvYwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gYWxsKCkKICAgIHsKICAgICAgICByZXR1cm4gQ2FzaW5vR2FtZUVsb3F1ZW50Ojp3aGVyZSgnaXNfc2hvdycsIDEpCiAgICAgICAgICAgIC0+b3JkZXJCeSgnaXNfZW5hYmxlZCcsICdkZXNjJykKICAgICAgICAgICAgLT5vcmRlckJ5KCdvcmRlcicsICdhc2MnKQogICAgICAgICAgICAtPmdldCgpOwogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBHYW1lc1ZhbGlkYXRvcgogICAgICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAyLCAgLy/lvq7mipXnmb7lrrYK</text>
+        <text encoding="base64">Um91dGU6OmdldCgndHJpYWwtZ2FtZXMnLCAnSW50ZXJuYWxBcGlDb250cm9sbGVyQGdldEdhbWVMaXN0JyktPm1pZGRsZXdhcmUoJ2FwaS5pbnRlcm5hbCcpOwo=</text>
       </register>
       <register name="y" type="4">
         <text />
