@@ -105,6 +105,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/ChannelManagerEnum.php" timestamp="1533195845582">
+        <mark key="[" line="103" column="3" />
+        <mark key="]" line="103" column="3" />
+        <mark key="." line="103" column="3" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/AppMessagesEloquent.php" timestamp="1530587929335">
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="0" />
@@ -884,7 +889,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>PaymentApiContract</text>
+        <text encoding="base64">IAogICAgY29uc3QgR0FNRV9HUk9VUF9NQVBQSU5HID0gWwogICAgICAgIHNlbGY6OldNX0NIQU5ORUwgICAgICAgPT4gJ1dN55m+5a625LmQJywKICAgICAgICBzZWxmOjpXTV9TUE9SVF9DSEFOTkVMID0+ICfkvZPogrLnq5/njJwnLAogICAgICAgIHNlbGY6OlNHX0NIQU5ORUwgICAgICAgPT4gJ+iAgeiZjuacuicsCiAgICAgICAgc2VsZjo6Q0ZfQ0hBTk5FTCAgICAgICA9PiAn5paX6bihJywKICAgICAgICBzZWxmOjpBQ19DSEFOTkVMICAgICAgID0+ICdXTeS9k+iCsicsCiAgICAgICAgc2VsZjo6VlJfQ0hBTk5FTCAgICAgICA9PiAn56ue6YCf5aix5LmQJywKICAgICAgICBzZWxmOjpWU19DSEFOTkVMICAgICAgID0+ICfomZrmi5/ov5DliqgnLAogICAgICAgIHNlbGY6OlBHX0NIQU5ORUwgICAgICAgPT4gJ1BsYXluR28nLAogICAgICAgIHNlbGY6OkxUX0NIQU5ORUwgICAgICAgPT4gJ+WIqemRq+W9qeelqCcsCiAgICBdOw==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -918,9 +923,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>VENDOR
-VENDOR</text>
+      <register name="1" type="4">
+        <text encoding="base64">IAogICAgY29uc3QgR0FNRV9HUk9VUF9NQVBQSU5HID0gWwogICAgICAgIHNlbGY6OldNX0NIQU5ORUwgICAgICAgPT4gJ1dN55m+5a625LmQJywKICAgICAgICBzZWxmOjpXTV9TUE9SVF9DSEFOTkVMID0+ICfkvZPogrLnq5/njJwnLAogICAgICAgIHNlbGY6OlNHX0NIQU5ORUwgICAgICAgPT4gJ+iAgeiZjuacuicsCiAgICAgICAgc2VsZjo6Q0ZfQ0hBTk5FTCAgICAgICA9PiAn5paX6bihJywKICAgICAgICBzZWxmOjpBQ19DSEFOTkVMICAgICAgID0+ICdXTeS9k+iCsicsCiAgICAgICAgc2VsZjo6VlJfQ0hBTk5FTCAgICAgICA9PiAn56ue6YCf5aix5LmQJywKICAgICAgICBzZWxmOjpWU19DSEFOTkVMICAgICAgID0+ICfomZrmi5/ov5DliqgnLAogICAgICAgIHNlbGY6OlBHX0NIQU5ORUwgICAgICAgPT4gJ1BsYXluR28nLAogICAgICAgIHNlbGY6OkxUX0NIQU5ORUwgICAgICAgPT4gJ+WIqemRq+W9qeelqCcsCiAgICBdOw==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -936,19 +940,20 @@ VENDOR</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjpHRF9DSEFOTkVMICAgICAgID0+ICfph5Hpvpnmo4vniYwnLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>VENDOR
+VENDOR</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRzeXN0ZW1QZG8tPik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -958,15 +963,14 @@ VENDOR</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRzeXN0ZW1QZG8tPik7Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">PD9waHAKPD9waHAKPD9waHAg</text>
-      </register>
-      <register name="8" type="8">
-        <text>operator
-operator</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnY3JlYXRlZF9hdCcsCg==</text>
       </register>
       <register name="y" type="4">
         <text />
