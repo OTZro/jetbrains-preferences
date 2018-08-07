@@ -78,9 +78,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/paymentSetting/ajax.php" timestamp="1533106838711">
-        <mark key="[" line="32" column="72" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/MessageRepo.php" timestamp="1530588056961">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -343,9 +340,6 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/.env.develop" timestamp="1533194484262">
-        <mark key="[" line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/config/eloquent_model_generator.php" timestamp="1530866784844">
         <mark key="[" line="11" column="30" />
         <mark key="]" line="11" column="30" />
@@ -359,7 +353,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/UserRepo.php" timestamp="1533014868239">
         <mark key="[" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/SignalServiceProvider.php" timestamp="1532928141186">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/SignalServiceProvider.php" timestamp="1533612858779">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -607,6 +601,7 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/odds/set_baccarat_peilv_ajax.php" timestamp="1533103135370" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/DragonTiger/ResultService.php" timestamp="1533613063419" />
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_05_03_160621_change_bank_table_field.php" timestamp="1525334835240">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="15" column="8" />
@@ -775,6 +770,11 @@
         <mark key="]" line="31" column="29" />
         <mark key="." line="31" column="29" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/DragonTiger/StageService.php" timestamp="1533613652450">
+        <mark key="[" line="196" column="69" />
+        <mark key="]" line="196" column="69" />
+        <mark key="." line="196" column="69" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/API/ReceiverApi.php" timestamp="1533202684930">
         <mark key="[" line="27" column="50" />
         <mark key="]" line="28" column="52" />
@@ -930,8 +930,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgY2FzZSBSZXF1ZXN0OjpNRVRIT0RfR0VUOgogICAgICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5maXJld2FsbFNlcnZpY2UtPmZpbmRCbGFja0xpc3QoKTs=</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">QkFDQ0FSQVRfTUVTU0FHRQogICAgICAgICAgICAgICAg</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -965,8 +965,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgY2FzZSBSZXF1ZXN0OjpNRVRIT0RfR0VUOgogICAgICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5maXJld2FsbFNlcnZpY2UtPmZpbmRCbGFja0xpc3QoKTs=</text>
+      <register name="1" type="8">
+        <text encoding="base64">QkFDQ0FSQVRfTUVTU0FHRQogICAgICAgICAgICAgICAg</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -981,20 +981,20 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgY2FzZSBSZXF1ZXN0OjpNRVRIT0RfR0VUOgogICAgICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5maXJld2FsbFNlcnZpY2UtPmZpbmRCbGFja0xpc3QoKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlsZU5hbWUgPSAkdGhpcy0+cmVxdWVzdC0+Z2V0KCdmaWxlX25hbWUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ltYWdlJyAgICAgPT4gJ3JlcXVpcmVkfGltYWdlfG1pbWVzOmpwZWcscG5nLGpwZ3xtYXg6NDA5NicsCg==</text>
+        <text encoding="base64">ICAgICAgICAkZmlsZU5hbWUgPSAkdGhpcy0+cmVxdWVzdC0+Z2V0KCdmaWxlX25hbWUnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ltYWdlJyAgICAgPT4gJ3JlcXVpcmVkfGltYWdlfG1pbWVzOmpwZWcscG5nLGpwZ3xtYXg6NDA5NicsCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1005,13 +1005,13 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkdGVuYW50UGF0aCA9IFRlbmFuY3lIZWxwZXI6Om1lZGlhVXBsb2FkUGF0aCgpOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICdtZW1iZXInICAgID0+ICR1c2VyLT5nZXRPcGVuSWQoKSwKICAgICAgICAgICAgICAgICdhbW91bnQnICAgID0+ICRhbW91bnQsCiAgICAgICAgICAgICAgICAncmV0dXJuVVJJJyA9PiAkcmV0dXJuVVJJLAogICAgICAgICAgICAgICAgJ2dhdGV3YXlJZCcgPT4gJGdhdGV3YXlJZCwKICAgICAgICAgICAgICAgICdwYXltZW50SWQnID0+ICRwYXltZW50SWQs</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
