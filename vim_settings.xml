@@ -464,7 +464,7 @@
         <mark key="^" line="16" column="52" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/routes/media.php" timestamp="1527664784812">
+      <file name="$USER_HOME$/wuming/WeChatCasino/routes/media.php" timestamp="1534234350756">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="28" />
         <mark key="." line="2" column="28" />
@@ -632,7 +632,7 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/MediaController.php" timestamp="1534147124163" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/MediaController.php" timestamp="1534234346266" />
       <file name="/Dummy.txt" timestamp="1534156335781">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -692,6 +692,11 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/ThirdPartyPaymentService.php" timestamp="1534234860771">
+        <mark key="[" line="142" column="30" />
+        <mark key="]" line="142" column="30" />
+        <mark key="." line="142" column="30" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/js/app-demo.js" timestamp="1526090673299">
         <mark key="[" line="290" column="61" />
@@ -885,8 +890,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>!/media/*/site_file/
-!/media/*/site_file/**</text>
+        <text>asset</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -895,7 +899,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>tmp6.j</text>
+        <text>asset</text>
       </register>
       <register name="m" type="4">
         <keys>
