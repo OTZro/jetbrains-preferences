@@ -59,6 +59,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/BaseStageService.php" timestamp="1534486259748">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="53" column="43" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/MessageRepo.php" timestamp="1530588056961">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -454,7 +460,12 @@
         <mark key="." line="2" column="24" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/demo/dialog/service-dialog.blade.php" timestamp="1534788570649" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1534498504251" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1534917698150">
+        <mark key="[" line="171" column="47" />
+        <mark key="]" line="171" column="33" />
+        <mark key="^" line="171" column="33" />
+        <mark key="." line="171" column="33" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/DragonTiger/RoadService.php" timestamp="1534484206135">
         <mark key="[" line="99" column="45" />
         <mark key="]" line="99" column="45" />
@@ -730,6 +741,12 @@
         <mark key="]" line="31" column="29" />
         <mark key="." line="31" column="29" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/StageService.php" timestamp="1534485112547">
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="51" column="31" />
+        <mark key="." line="51" column="31" />
+        <mark key="^" line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/CashFlow.php" timestamp="1533742649444">
         <mark key="[" line="26" column="40" />
         <mark key="]" line="225" column="15" />
@@ -880,7 +897,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFdNX0NTICAgICAgICAgICAgICAgICA9ICd3bS1jcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2c6OmluZm8oJ1VzZXIgb3IgZGVwb3NpdCBpZCBub3QgZm91bmQnLCBbJ3JlcXVlc3REYXRhJyA9PiAkZGVwb3NpdERhdGFdKTsK</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -915,7 +932,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFdNX0NTICAgICAgICAgICAgICAgICA9ICd3bS1jcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2c6OmluZm8oJ1VzZXIgb3IgZGVwb3NpdCBpZCBub3QgZm91bmQnLCBbJ3JlcXVlc3REYXRhJyA9PiAkZGVwb3NpdERhdGFdKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -931,13 +948,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExhbmdFbnVtOjpXTV9DUyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9PiAnV00gY3VzdG9tZXIgc2VydmljZScsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IFdNX0NTICAgICAgICAgICAgICAgICA9ICd3bS1jcyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExhbmdFbnVtOjpXTV9DUyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9PiAnV03lrqLmnI0nLAo=</text>
+        <text encoding="base64">ICAgIExhbmdFbnVtOjpXTV9DUyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9PiAnV00gY3VzdG9tZXIgc2VydmljZScsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExhbmdFbnVtOjpXTV9DUyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9PiAnV03lrqLmnI0nLAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -954,13 +971,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">U3RhZ2VTZXJ2aWNlOjpDQUNIRV9LRVlfVEFCTEVfSU5GTwpTdGFnZVNlcnZpY2U6OkNBQ0hFX0tFWV9UQUJMRV9JTkZPClN0YWdlU2VydmljZTo6Q0FDSEVfS0VZX1RBQkxFX0lORk8KU3RhZ2VTZXJ2aWNlOjpDQUNIRV9LRVlfVEFCTEVfSU5GTwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
