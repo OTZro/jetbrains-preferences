@@ -128,7 +128,11 @@
         <mark key="." line="41" column="46" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/NiuNiu/ResultService.php" timestamp="1534928907691" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/bin/build-stage-img.sh" timestamp="1535442376536" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/bin/build-stage-img.sh" timestamp="1535448621737">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/TenancyCacheServiceProvider.php" timestamp="1530608068042">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -959,7 +963,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>${NGINX_PHP_UPSTREAM_CONTAINER}</text>
+        <text>yarn</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -968,7 +972,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>${NGINX_PHP_UPSTREAM_CONTAINER}</text>
+        <text>yarn</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -994,7 +998,37 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+        <text>server {
+    listen 80;
+    server_name sw-test.lx345.net;
+
+    location / {
+        if ($http_cf_connecting_ip) {
+            set $ip $http_cf_connecting_ip;
+            set $ip_whitelist $ip_whitelist_cf_connecting_ip;
+        }
+        if ($ip = &quot;&quot;) {
+            set $ip $http_lx_ip;
+            set $ip_whitelist $ip_whitelist_lx_ip;
+        }
+        if ($ip = &quot;&quot;) {
+            set $ip $http_x_forwarded_for;
+            set $ip_whitelist $ip_whitelist_x_forwarded_for;
+        }
+        if ($ip = &quot;&quot;) {
+            set $ip $http_x_real_ip;
+            set $ip_whitelist $ip_whitelist_http_x_real_ip;
+        }
+
+        access_log /var/log/nginx/single-wallet main;
+        proxy_set_header Host $http_host;
+        if ($ip_whitelist = 1) {
+            proxy_pass http://tpapi:10041;
+            break;
+        }
+        return 403;
+    }
+}</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1009,20 +1043,20 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CnNlcnZlciB7CiAgICBsaXN0ZW4gODA7CiAgICBzZXJ2ZXJfbmFtZSBzdy10ZXN0LndtbHgzNDUubmV0OwoKICAgIGxvY2F0aW9uIC8gewogICAgICAgIGFjY2Vzc19sb2cgL3Zhci9sb2cvbmdpbngvc2luZ2xlLXdhbGxldC1pbnRlcm5hbCBtYWluOwogICAgICAgIHByb3h5X3NldF9oZWFkZXIgSG9zdCAkaHR0cF9ob3N0OwogICAgICAgIHByb3h5X3Bhc3MgaHR0cDovL3RwYXBpOjEwMDQxOwogICAgfQp9</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiMjIyBOZXR3b3JrcyBTZXR1cCAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKbmV0d29ya3M6CiAgZnJvbnRlbmQ6CiAgICBkcml2ZXI6ICJicmlkZ2UiCiAgYmFja2VuZDoKICAgIGRyaXZlcjogImJyaWRnZSI=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtIGFwcGxpY2F0aW9ucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdm9sdW1lc19mcm9tOgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiMjIyBOZXR3b3JrcyBTZXR1cCAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKbmV0d29ya3M6CiAgZnJvbnRlbmQ6CiAgICBkcml2ZXI6ICJicmlkZ2UiCiAgYmFja2VuZDoKICAgIGRyaXZlcjogImJyaWRnZSI=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtIHBocC1mcG0K</text>
+        <text encoding="base64">ICAgICAgICAtIGFwcGxpY2F0aW9ucwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1033,13 +1067,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVwZW5kc19vbjoK</text>
+        <text encoding="base64">ICAgICAgdm9sdW1lc19mcm9tOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVzdGFydDogYWx3YXlzCiAgICAgIG5ldHdvcmtzOgogICAgICAgIC0gZnJvbnRlbmQKICAgICAgICAtIGJhY2tlbmQK</text>
+        <text encoding="base64">ICAgICAgICAtIHBocC1mcG0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtIC4vcGhwLWZwbS9waHAke1BIUF9WRVJTSU9OfS5pbmk6L3Vzci9sb2NhbC9ldGMvcGhwL3BocC5pbmkK</text>
+        <text encoding="base64">ICAgICAgZGVwZW5kc19vbjoK</text>
       </register>
       <register name="y" type="4">
         <text />
