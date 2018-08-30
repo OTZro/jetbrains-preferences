@@ -17,7 +17,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/.env.production" timestamp="1534747670221" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/SignalCollect/Baccarat/BaccaratHandleUnsettle.php" timestamp="1535016561536" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/SignalCollect/Baccarat/BaccaratHandleUnsettle.php" timestamp="1535570866274" />
       <file name="$USER_HOME$/wuming/WeChatCasino/composer.json" timestamp="1530608193661">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -113,6 +113,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="/ResetGame.php" timestamp="1535570130481" />
       <file name="$USER_HOME$/wuming/WeChatCasino/.env.example" timestamp="1535438472888" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/webserver.yml" timestamp="1535446913860">
         <mark key="'" line="52" column="41" />
@@ -160,6 +161,7 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/.env" timestamp="1535569555814" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/CheckUnfetchTransaction.php" timestamp="1533785708769">
         <mark key="[" line="45" column="225" />
         <mark key="]" line="45" column="226" />
@@ -470,6 +472,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/k8s/dashboard/cluster-role-binding.yml" timestamp="1535531655152">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/ResultService.php" timestamp="1535571507716" />
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/paymentSetting/ajax.php" timestamp="1533106838711">
         <mark key="[" line="32" column="72" />
       </file>
@@ -522,7 +525,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/NamespaceRegistry.php" timestamp="1534747151175" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/NamespaceRegistry.php" timestamp="1535569279648" />
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/monolog/monolog/src/Monolog/Handler/GelfHandler.php" timestamp="1527651227716">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -665,7 +668,7 @@
         <mark key="]" line="106" column="23" />
         <mark key="." line="106" column="23" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/BaseService.php" timestamp="1534928603348">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/BaseService.php" timestamp="1535570964119">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -732,6 +735,9 @@
         <mark key="." line="2" column="24" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/demo/dialog/service-dialog.blade.php" timestamp="1534788570649" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/WMBaccaratApi.php" timestamp="1535571078827">
+        <mark key="[" line="34" column="58" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1535082980450">
         <mark key="[" line="171" column="47" />
         <mark key="]" line="171" column="33" />
@@ -784,6 +790,13 @@
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/ResetGameService.php" timestamp="1535569978679" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/UpdateResetGame.php" timestamp="1535571526678">
+        <mark key="[" line="41" column="34" />
+        <mark key="]" line="41" column="34" />
+        <mark key="." line="41" column="34" />
+        <mark key="^" line="41" column="47" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/tx_list.php" timestamp="1528877500964">
         <mark key="[" line="322" column="0" />
