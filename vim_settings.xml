@@ -672,11 +672,11 @@
         <mark key="]" line="106" column="23" />
         <mark key="." line="106" column="23" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/BaseService.php" timestamp="1535698500444">
-        <mark key="[" line="360" column="27" />
-        <mark key="]" line="360" column="27" />
-        <mark key="." line="360" column="27" />
-        <mark key="^" line="351" column="6" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/BaseService.php" timestamp="1535699540966">
+        <mark key="[" line="360" column="0" />
+        <mark key="]" line="360" column="0" />
+        <mark key="." line="360" column="0" />
+        <mark key="^" line="360" column="4" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_04_29_133058_add_payment_id_to_czjl.php" timestamp="1524981003912">
         <mark key="[" line="16" column="20" />
@@ -1025,8 +1025,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -1061,7 +1061,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkaW5mbyA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1077,18 +1077,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkaW5mbyA9IFtdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkaGlzdG9yeURhdGEgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkaGlzdG9yeURhdGEgPSBbXTsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="v" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="7" type="4">
         <text>server {
     listen 80;
     server_name sw-test.lx345.net;
@@ -1121,21 +1132,10 @@
     }
 }</text>
       </register>
-      <register name="v" type="4">
-        <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CnNlcnZlciB7CiAgICBsaXN0ZW4gODA7CiAgICBzZXJ2ZXJfbmFtZSBzdy10ZXN0LndtbHgzNDUubmV0OwoKICAgIGxvY2F0aW9uIC8gewogICAgICAgIGFjY2Vzc19sb2cgL3Zhci9sb2cvbmdpbngvc2luZ2xlLXdhbGxldC1pbnRlcm5hbCBtYWluOwogICAgICAgIHByb3h5X3NldF9oZWFkZXIgSG9zdCAkaHR0cF9ob3N0OwogICAgICAgIHByb3h5X3Bhc3MgaHR0cDovL3RwYXBpOjEwMDQxOwogICAgfQp9</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
+      <register name="9" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
