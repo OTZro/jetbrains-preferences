@@ -22,11 +22,10 @@
       <file name="/a.dummy" timestamp="1534487023261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/SignalCollect/Baccarat/BaccaratHandleUnsettle.php" timestamp="1535617859084">
-        <mark key="[" line="97" column="17" />
-        <mark key="]" line="98" column="52" />
-        <mark key="^" line="98" column="52" />
-        <mark key="." line="98" column="52" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/SignalCollect/Baccarat/BaccaratHandleUnsettle.php" timestamp="1535706800884">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/composer.json" timestamp="1530608193661">
         <mark key="[" line="63" column="0" />
@@ -672,11 +671,11 @@
         <mark key="]" line="106" column="23" />
         <mark key="." line="106" column="23" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/BaseService.php" timestamp="1535700323041">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="360" column="4" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/BaseService.php" timestamp="1535707194465">
+        <mark key="[" line="354" column="0" />
+        <mark key="]" line="354" column="0" />
+        <mark key="." line="354" column="0" />
+        <mark key="^" line="354" column="39" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_04_29_133058_add_payment_id_to_czjl.php" timestamp="1524981003912">
         <mark key="[" line="16" column="20" />
@@ -743,10 +742,11 @@
         <mark key="]" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/WMBaccaratApi.php" timestamp="1535620128758">
-        <mark key="[" line="69" column="15" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/WMBaccaratApi.php" timestamp="1535706972979">
+        <mark key="[" line="69" column="29" />
+        <mark key="]" line="69" column="32" />
+        <mark key="." line="69" column="32" />
+        <mark key="^" line="69" column="32" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1535082980450">
         <mark key="[" line="171" column="47" />
@@ -1031,7 +1031,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJcbiIgLiAnSW5mbycgLiAkaW5mbyAuICJcbiI7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -1040,7 +1040,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>result</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -1066,7 +1066,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJcbiIgLiAnSW5mbycgLiAkaW5mbyAuICJcbiI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1081,26 +1081,20 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>/**
-     * @param $gameNo
-     * @param $gameNoRound
-     * @param $table
-     * @return ResultSignal|null
-     * @throws GameRoundCancelException
-     */</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICcxMjMnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW50dmFsKCRpbmZvWydyZXN1bHQnXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkaW5mbyA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkaW5mbyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRjb250ZW50Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkaGlzdG9yeURhdGEgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvZCAnMTIzJzsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1111,49 +1105,19 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRpbmZvKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICdpbmZvOicuJGluZm8uIlxuImMK</text>
       </register>
-      <register name="9" type="4">
-        <text>server {
-    listen 80;
-    server_name sw-test.lx345.net;
-
-    location / {
-        if ($http_cf_connecting_ip) {
-            set $ip $http_cf_connecting_ip;
-            set $ip_whitelist $ip_whitelist_cf_connecting_ip;
-        }
-        if ($ip = &quot;&quot;) {
-            set $ip $http_lx_ip;
-            set $ip_whitelist $ip_whitelist_lx_ip;
-        }
-        if ($ip = &quot;&quot;) {
-            set $ip $http_x_forwarded_for;
-            set $ip_whitelist $ip_whitelist_x_forwarded_for;
-        }
-        if ($ip = &quot;&quot;) {
-            set $ip $http_x_real_ip;
-            set $ip_whitelist $ip_whitelist_http_x_real_ip;
-        }
-
-        access_log /var/log/nginx/single-wallet main;
-        proxy_set_header Host $http_host;
-        if ($ip_whitelist = 1) {
-            proxy_pass http://tpapi:10041;
-            break;
-        }
-        return 403;
-    }
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRoaXN0b3J5KTsK</text>
       </register>
       <register name="y" type="4">
         <text />
       </register>
       <register name=":" type="4">
-        <text>25</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1194,7 +1158,6 @@
         <entry>617</entry>
         <entry>237</entry>
         <entry>22</entry>
-        <entry>wq</entry>
         <entry>78</entry>
         <entry>305</entry>
         <entry>152</entry>
@@ -1209,6 +1172,7 @@
         <entry>63</entry>
         <entry>54</entry>
         <entry>25</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
