@@ -615,8 +615,11 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/k8s/nginx-deployment.yaml" timestamp="1536119930977">
-        <mark key="[" line="60" column="20" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/k8s/nginx-deployment.yaml" timestamp="1536222559938">
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="50" column="6" />
+        <mark key="." line="50" column="6" />
+        <mark key="^" line="50" column="6" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/tx_list.php" timestamp="1528877500964">
         <mark key="[" line="322" column="0" />
@@ -962,7 +965,9 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>#      - name: applications-claim
+#        persistentVolumeClaim:
+#          claimName: applications-claim</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -996,8 +1001,10 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZWNobyAkUEFUSAo=</text>
+      <register name="1" type="4">
+        <text>#      - name: applications-claim
+#        persistentVolumeClaim:
+#          claimName: applications-claim</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1012,26 +1019,26 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ZWNobyAkUEFUSAo=</text>
+      </register>
+      <register name="3" type="8">
         <text>exec
 exec
 exec
 exec</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>app
 app
 app
 app</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IGV4dHJhX2hvc3RzOgogICAgICAgIC0gImRvY2tlcmhvc3Q6JHtET0NLRVJfSE9TVF9JUH0i</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IG5ldHdvcmtzOgogICAgLSBmcm9udGVuZAogICAgLSBiYWNrZW5kCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1041,14 +1048,14 @@ app</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJlc3RhcnQ6IGFsd2F5cwo=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICAgIGV4dHJhX2hvc3RzOgogICAgLSAiZG9ja2VyaG9zdDoke0RPQ0tFUl9IT1NUX0lQfSIKICAgIHBvcnRzOgogICAgLSAiJHtXT1JLU1BBQ0VfU1NIX1BPUlR9OjIyIg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiMgQ29weSBlbnYgZmlsZXMKY3AgLmVudi5zdGFnZSAuZW52</text>
       </register>
       <register name="y" type="4">
         <text />
