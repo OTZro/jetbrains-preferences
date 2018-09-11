@@ -26,17 +26,18 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/k8s/bin/update-env.sh" timestamp="1536124422794">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/build.yml" timestamp="1536210748283">
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/build.yml" timestamp="1536646220208">
         <mark key="[" line="59" column="33" />
         <mark key="]" line="51" column="26" />
         <mark key="." line="51" column="26" />
         <mark key="^" line="51" column="26" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/bin/install-dependency.sh" timestamp="1536213916413">
+      <file name="$USER_HOME$/wuming/WeChatCasino/bin/install-dependency.sh" timestamp="1536646439631">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="9" column="8" />
         <mark key="." line="9" column="8" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/k8s/nginx-service.yaml" timestamp="1536646879220" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/production/single-wallet.conf" timestamp="1535445171765">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="37" column="8" />
@@ -156,9 +157,6 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/BetLogService.php" timestamp="1536642534819">
         <mark key="[" line="693" column="36" />
-        <mark key="]" line="695" column="34" />
-        <mark key="." line="695" column="34" />
-        <mark key="^" line="695" column="34" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/BetLog/CheckerService.php" timestamp="1533719978771">
         <mark key="[" line="26" column="0" />
@@ -256,7 +254,7 @@
         <mark key="]" line="68" column="73" />
         <mark key="." line="68" column="73" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/bin/build-stage-img.sh" timestamp="1536212932459">
+      <file name="$USER_HOME$/wuming/WeChatCasino/bin/build-stage-img.sh" timestamp="1536646293145">
         <mark key="[" line="43" column="44" />
         <mark key="]" line="43" column="44" />
         <mark key="." line="43" column="44" />
@@ -515,11 +513,6 @@
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="/private/tmp/wechatcasion/application/bin/install-dependency.sh" timestamp="1536213641267">
-        <mark key="]" line="9" column="19" />
-        <mark key="^" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/.gitignore" timestamp="1534232284678">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -576,6 +569,7 @@
         <mark key="." line="57" column="34" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_09_10_115627_add_new_games.php" timestamp="1536643259661" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/bin/build-stage-env-img.sh" timestamp="1536646161078" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/PaymentDeposit.php" timestamp="1525837837765">
         <mark key="[" line="119" column="14" />
         <mark key="]" line="119" column="14" />
@@ -631,7 +625,7 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/k8s/nginx-deployment.yaml" timestamp="1536222559938">
+      <file name="$USER_HOME$/wuming/WeChatCasino/k8s/nginx-deployment.yaml" timestamp="1536646872132">
         <mark key="[" line="49" column="38" />
         <mark key="]" line="50" column="6" />
         <mark key="." line="50" column="6" />
@@ -745,6 +739,7 @@
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/public/admin/betlogReport/betlog_content_handler.php" timestamp="1536645967092" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/whitelist/dev/ip_white.conf" timestamp="1523609525248">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
