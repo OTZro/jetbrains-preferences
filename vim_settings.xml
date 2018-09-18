@@ -213,8 +213,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/bin/run-in-every-pod.sh" timestamp="1536045991537">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/PayController.php" timestamp="1537258078416">
-        <mark key="[" line="308" column="64" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/PayController.php" timestamp="1537258875481">
+        <mark key="[" line="322" column="39" />
+        <mark key="]" line="310" column="47" />
+        <mark key="^" line="310" column="47" />
+        <mark key="." line="310" column="47" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/Recharge.php" timestamp="1525944661696">
         <mark key="[" line="216" column="35" />
@@ -821,11 +824,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/UserController.php" timestamp="1537258131963">
-        <mark key="[" line="110" column="33" />
-        <mark key="]" line="168" column="55" />
-        <mark key="." line="168" column="55" />
-        <mark key="^" line="168" column="55" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/UserController.php" timestamp="1537259241133">
+        <mark key="[" line="111" column="13" />
+        <mark key="]" line="111" column="17" />
+        <mark key="." line="111" column="17" />
+        <mark key="^" line="111" column="17" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/NiuNiu/Card.php" timestamp="1535016751382">
         <mark key="[" line="11" column="18" />
@@ -1034,8 +1037,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxFeGNlcHRpb25zXFBhc3N3b3JkTm90QWNjZXB0RXhjZXB0aW9uOwo=</text>
+      <register name="&quot;" type="4">
+        <text>is_null</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -1044,7 +1047,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>is_null</text>
       </register>
       <register name="m" type="4">
         <keys>
