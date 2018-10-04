@@ -15,7 +15,7 @@
         <mark key="^" line="82" column="80" />
         <mark key="." line="82" column="80" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/AuthServiceProvider.php" timestamp="1538628059390">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/AuthServiceProvider.php" timestamp="1538636164505">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -23,6 +23,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/Client.php" timestamp="1538627435835" />
       <file name="$USER_HOME$/wuming/WeChatCasino/k8s/bin/update-env.sh" timestamp="1536124422794">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/config/auth.php" timestamp="1538635776822">
+        <mark key="[" line="43" column="25" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/bin/build.sh" timestamp="1536137845712">
         <mark key="[" line="1" column="0" />
@@ -92,6 +97,7 @@
         <mark key="^" line="94" column="39" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/config/passport.php" timestamp="1538627546799" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php" timestamp="1538635806966" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Logger/ActionLogger/ActionLogger.php" timestamp="1538131073664">
         <mark key="[" line="170" column="17" />
         <mark key="]" line="170" column="17" />
@@ -232,8 +238,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>token</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -242,7 +248,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5fYXJyYXkoJGJldExvZy0+Z2V0R2FtZUlkKCksIEdhbWVFbnVtOjpWUl9HQU1FUyk6</text>
+        <text>token</text>
       </register>
       <register name="m" type="4">
         <keys>
