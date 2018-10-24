@@ -20,7 +20,6 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/ResetGameService.php" timestamp="1540227836745" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/UpdateResetGame.php" timestamp="1540227844579" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/TenancyDown.php" timestamp="1540277090986" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/UserController.php" timestamp="1540282075457" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/stage/single-wallet.conf" timestamp="1540288110623" />
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/prettus/l5-repository/src/Prettus/Repository/Eloquent/BaseRepository.php" timestamp="1539936451412" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Wallet/WalletService.php" timestamp="1539934573784" />
@@ -36,11 +35,13 @@
         <mark key="]" line="270" column="4" />
         <mark key="." line="270" column="4" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/API/SingleWalletSignature.php" timestamp="1540354775603">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/API/SingleWalletSignature.php" timestamp="1540358146593">
         <mark key="[" line="9" column="33" />
-        <mark key="]" line="9" column="33" />
-        <mark key="." line="9" column="33" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/SingleWalletMiddleware.php" timestamp="1540358190038" />
     </filemarks>
     <jumps>
       <jump line="72" column="4" filename="$USER_HOME$/web-service/tests/api/MessageApiCest.php" />
