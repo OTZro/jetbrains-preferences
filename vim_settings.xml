@@ -18,6 +18,7 @@
         <mark key="[" line="16" column="9" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/PCLoginPageMiddleware.php" timestamp="1540282034699" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_01_15_164956_add_vr_game.php" timestamp="1540455282141" />
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1540403340961" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/API/WMBaccaratApi.php" timestamp="1540374959662" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/NamespaceRegistry.php" timestamp="1540445292365" />
@@ -34,6 +35,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/TenancyDown.php" timestamp="1540277090986" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/stage/single-wallet.conf" timestamp="1540451596465" />
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/Console/InstallCommand.php" timestamp="1540448744844" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_09_24_142920_close_game7_return_water_set.php" timestamp="1540455254407" />
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/prettus/l5-repository/src/Prettus/Repository/Eloquent/BaseRepository.php" timestamp="1539936451412" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Wallet/WalletService.php" timestamp="1539934573784" />
       <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1540282048695">
@@ -47,6 +49,12 @@
         <mark key="[" line="270" column="4" />
         <mark key="]" line="270" column="4" />
         <mark key="." line="270" column="4" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_10_25_161503_add_wm_live_games.php" timestamp="1540455423332">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="57" column="39" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/API/SingleWalletSignature.php" timestamp="1540371659761">
         <mark key="[" line="9" column="33" />
@@ -180,7 +188,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>4f3dd0a1dc32977ff2c5794d543d50ca</text>
+        <text>23</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -189,7 +197,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>4f3dd0a1dc32977ff2c5794d543d50ca</text>
+        <text>23</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -215,7 +223,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkcm91bmQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -230,20 +238,20 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">dGVuYW5jeTpkb3duIHtzdGFydC10aW1lP30ge2VuZC10aW1lP30ge3RlbmFudD99ICB7LS1tZXNzYWdlPSA6IFRoZSBtZXNzYWdlIGZvciB0aGUgbWFpbnRlbmFuY2UgbW9kZS4gfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LS1yZXRyeT0gOiBUaGUgbnVtYmVyIG9mIHNlY29uZHMgYWZ0ZXIgd2hpY2ggdGhlIHJlcXVlc3QgbWF5IGJlIHJldHJpZWQufQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LS1hbGxvdz0qIDogSVAgb3IgbmV0d29ya3MgYWxsb3dlZCB0byBhY2Nlc3MgdGhlIGFwcGxpY2F0aW9uIHdoaWxlIGluIG1haW50ZW5hbmNlIG1vZGUufSc7Cg==</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KQogICAgICAgICAgICA6IHJlZGlyZWN0KCktPmd1ZXN0KHJvdXRlKCdsb2dpbicpKQ==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgoK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">KiBbXSDkv67mraPovKrnm6TplosgMCDlo5Mg5aSn5bCP5Zau6ZuZ5pyD5rS+5b2p55qEIGJ1Zwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkcm91bmQpOwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">dGVuYW5jeTpkb3duIHtzdGFydC10aW1lP30ge2VuZC10aW1lP30ge3RlbmFudD99ICB7LS1tZXNzYWdlPSA6IFRoZSBtZXNzYWdlIGZvciB0aGUgbWFpbnRlbmFuY2UgbW9kZS4gfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LS1yZXRyeT0gOiBUaGUgbnVtYmVyIG9mIHNlY29uZHMgYWZ0ZXIgd2hpY2ggdGhlIHJlcXVlc3QgbWF5IGJlIHJldHJpZWQufQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LS1hbGxvdz0qIDogSVAgb3IgbmV0d29ya3MgYWxsb3dlZCB0byBhY2Nlc3MgdGhlIGFwcGxpY2F0aW9uIHdoaWxlIGluIG1haW50ZW5hbmNlIG1vZGUufSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgVGVuYW5jeURvd24gZXh0ZW5kcyBDb21tYW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -254,15 +262,13 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text>tenancy:down {start-time?} {end-time?} {tenant?}  {--message= : The message for the maintenance mode. }
-                                 {--retry= : The number of seconds after which the request may be retried.}
-                                 {--allow=* : IP or networks allowed to access the application while i</text>
+        <text encoding="base64">KQogICAgICAgICAgICA6IHJlZGlyZWN0KCktPmd1ZXN0KHJvdXRlKCdsb2dpbicpKQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGRvd24oKQogICAgewogICAgICAgICRkaXJlY3RvcnkgPSBhcHAoRGlyZWN0b3J5OjpjbGFzcyk7CiAgICAgICAgJGRpcmVjdG9yeS0+cHV0KCdmcmFtZXdvcmsvZG93bicsIGpzb25fZW5jb2RlKCR0aGlzLT5nZXREb3duRmlsZVBheWxvYWQoKSwgSlNPTl9QUkVUVFlfUFJJTlQpKTsKICAgICAgICAkdGhpcy0+Y29tbWVudCgnQXBwbGljYXRpb24gJyAuIFRlbmFuY3lIZWxwZXI6OmN1cnJlbnRUZW5hbnROYW1lKCkgLiAnIGlzIG5vdyBpbiBtYWludGVuYW5jZSBtb2RlLicpOwogICAgfQoKICAgIHByaXZhdGUgZnVuY3Rpb24gc2V0TWFpbnRhaW5EYXRlVGltZSgkc3RhcnRUaW1lID0gbnVsbCwgJGVuZFRpbWUgPSBudWxsKQogICAgewogICAgICAgIGlmICghaXNfbnVsbCgkc3RhcnRUaW1lKSBhbmQgIWlzX251bGwoJGVuZFRpbWUpKSB7CiAgICAgICAgICAgICRjb25maWcgPSBQbGF0Zm9ybUNvbmZpZ1JlcG86OmdldENvbmZpZygpOwogICAgICAgICAgICAkY29uZmlnLT5zZXRNYWludGVuYW5jZVN0YXJ0ZWRBdCgkc3RhcnRUaW1lKTsKICAgICAgICAgICAgJGNvbmZpZy0+c2V0TWFpbnRlbmFuY2VFbmRlZEF0KCRlbmRUaW1lKTsKICAgICAgICAgICAgUGxhdGZvcm1Db25maWdSZXBvOjpzYXZlKCRjb25maWcpOwogICAgICAgIH0KICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">KiBbXSDkv67mraPovKrnm6TplosgMCDlo5Mg5aSn5bCP5Zau6ZuZ5pyD5rS+5b2p55qEIGJ1Zwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgJHRlbmFudE5hbWUgPSAkdGhpcy0+YXJndW1lbnQoJ3RlbmFudCcpOwogICAgICAgICRzdGFydFRpbWUgID0gJHRoaXMtPmFyZ3VtZW50KCdzdGFydC10aW1lJyk7CiAgICAgICAgJGVuZFRpbWUgICAgPSAkdGhpcy0+YXJndW1lbnQoJ2VuZC10aW1lJyk7CiAgICAgICAgJGRhdGEgICAgICAgPSBbXTsKCiAgICAgICAgaWYgKCRzdGFydFRpbWUpIHsKICAgICAgICAgICAgJGRhdGFbJ3N0YXJ0VGltZSddID0gJHN0YXJ0VGltZTsKICAgICAgICB9CgogICAgICAgIGlmICgkZW5kVGltZSkgewogICAgICAgICAgICAkZGF0YVsnZW5kVGltZSddICAgPSAkZW5kVGltZTsKICAgICAgICB9CgogICAgICAgICR2YWxpZCA9IFZhbGlkYXRvcjo6bWFrZSgkZGF0YSwgWwogICAgICAgICAgICAnc3RhcnRUaW1lJyA9PiAnZGF0ZV9mb3JtYXQ6WS1tLWQgSDppOnMnLAogICAgICAgICAgICAnZW5kVGltZScgICA9PiAnZGF0ZV9mb3JtYXQ6WS1tLWQgSDppOnMnLAogICAgICAgIF0pOwoKICAgICAgICBpZiAoJHZhbGlkLT5mYWlscygpKSB7CiAgICAgICAgICAgICR0aGlzLT5vdXRwdXQtPndhcm5pbmcoJHZhbGlkLT5lcnJvcnMoKSk7CiAgICAgICAgICAgIGV4aXQ7CiAgICAgICAgfQoKICAgICAgICBpZiAoZW1wdHkoJHRlbmFudE5hbWUpKSB7CiAgICAgICAgICAgIFRlbmFuY3lIZWxwZXI6OnJ1bkluRXZlcnlUZW5hbnQoZnVuY3Rpb24gKCkgdXNlICgkc3RhcnRUaW1lLCAkZW5kVGltZSkgewogICAgICAgICAgICAgICAgJHRoaXMtPnNldE1haW50YWluRGF0ZVRpbWUoJHN0YXJ0VGltZSwgJGVuZFRpbWUpOwogICAgICAgICAgICAgICAgJHRoaXMtPmRvd24oKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgVGVuYW5jeUhlbHBlcjo6c3dpdGNoVGVuYW50KCR0ZW5hbnROYW1lKTsKICAgICAgICAgICAgJHRoaXMtPnNldE1haW50YWluRGF0ZVRpbWUoJHN0YXJ0VGltZSwgJGVuZFRpbWUpOwogICAgICAgICAgICAkdGhpcy0+ZG93bigpOwogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y2xhc3MgVGVuYW5jeURvd24gZXh0ZW5kcyBDb21tYW5kCg==</text>
       </register>
       <register name="y" type="4">
         <text />
