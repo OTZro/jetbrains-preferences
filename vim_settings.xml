@@ -18,7 +18,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/WMBaccaratBetlogMiddleware.php" timestamp="1540374167000">
         <mark key="[" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/BaseStageService.php" timestamp="1540950760132" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/BaseStageService.php" timestamp="1540952327324" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/PCLoginPageMiddleware.php" timestamp="1540282034699" />
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_01_15_164956_add_vr_game.php" timestamp="1540455282141" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/ChannelManagerEnum.php" timestamp="1540538112871" />
@@ -62,12 +62,15 @@
         <mark key="]" line="162" column="55" />
         <mark key="." line="162" column="55" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/TenancyUp.php" timestamp="1540952378143">
+        <mark key="[" line="32" column="6" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/js/components/demo/dialog/bind-account-dialog.vue" timestamp="1540282455524" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/ResettleBetlog.php" timestamp="1540227660110" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/BetLog/BetLogService.php" timestamp="1540228377108">
-        <mark key="[" line="270" column="4" />
-        <mark key="]" line="270" column="4" />
-        <mark key="." line="270" column="4" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/BetLog/BetLogService.php" timestamp="1540952495016">
+        <mark key="[" line="239" column="4" />
+        <mark key="]" line="239" column="4" />
+        <mark key="." line="239" column="4" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_10_25_161503_add_wm_live_games.php" timestamp="1540538031332">
         <mark key="[" line="26" column="23" />
@@ -213,7 +216,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>private</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -222,7 +225,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>private</text>
       </register>
       <register name="m" type="4">
         <keys>
