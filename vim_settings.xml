@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Signal/WMSignalCollector.php" timestamp="1540954769547">
-        <mark key="[" line="47" column="96" />
-        <mark key="]" line="47" column="47" />
-        <mark key="^" line="47" column="47" />
-        <mark key="." line="47" column="47" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Signal/WMSignalCollector.php" timestamp="1540957119843">
+        <mark key="[" line="43" column="123" />
+        <mark key="]" line="43" column="123" />
+        <mark key="." line="43" column="123" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/Recharge.php" timestamp="1540732933153" />
       <file name="$USER_HOME$/wuming/WeChatCasino/.env.production" timestamp="1540374414391" />
@@ -22,6 +21,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/production/single-wallet.conf" timestamp="1540451580380" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/BetService.php" timestamp="1539934583547" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/BaseStageService.php" timestamp="1540952327324" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/react/socket/src/TcpConnector.php" timestamp="1540955913173" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/PCLoginPageMiddleware.php" timestamp="1540282034699" />
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_01_15_164956_add_vr_game.php" timestamp="1540455282141" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/ChannelManagerEnum.php" timestamp="1540538112871" />
@@ -48,6 +48,7 @@
         <mark key="]" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/react/socket/src/Connector.php" timestamp="1540955835312" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/ResetGameService.php" timestamp="1540227836745" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/UpdateResetGame.php" timestamp="1540227844579" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/TenancyDown.php" timestamp="1540277090986" />
@@ -55,6 +56,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/Console/InstallCommand.php" timestamp="1540448744844" />
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_09_24_142920_close_game7_return_water_set.php" timestamp="1540455254407" />
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/prettus/l5-repository/src/Prettus/Repository/Eloquent/BaseRepository.php" timestamp="1539936451412" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/react/socket/src/Connection.php" timestamp="1540956996050" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Wallet/WalletService.php" timestamp="1539934573784" />
       <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1540730475784">
         <mark key="[" line="73" column="57" />
@@ -92,6 +94,7 @@
         <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/SingleWalletMiddleware.php" timestamp="1540358190038" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/react/promise/src/Promise.php" timestamp="1540956446349" />
     </filemarks>
     <jumps>
       <jump line="72" column="4" filename="$USER_HOME$/web-service/tests/api/MessageApiCest.php" />
@@ -217,7 +220,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>DownCommand</text>
+        <text>$serviceName</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -226,7 +229,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>DownCommand</text>
+        <text>$serviceName</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -303,7 +306,7 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>216</text>
+        <text>29</text>
       </register>
     </registers>
     <search>
@@ -339,7 +342,6 @@
         <entry>picture</entry>
       </history-search>
       <history-cmd>
-        <entry>56</entry>
         <entry>155</entry>
         <entry>26</entry>
         <entry>401</entry>
@@ -359,6 +361,7 @@
         <entry>51</entry>
         <entry>220</entry>
         <entry>216</entry>
+        <entry>29</entry>
       </history-cmd>
       <history-expr />
       <history-input />
