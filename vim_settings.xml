@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/Recharge.php" timestamp="1540732933153" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/HomeController.php" timestamp="1540197010167" />
       <file name="$USER_HOME$/wuming/WeChatCasino/.env.production" timestamp="1540374414391" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/SignalCollect/Baccarat/BaccaratHandleUnsettle.php" timestamp="1540275540878">
@@ -21,10 +22,15 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/PCLoginPageMiddleware.php" timestamp="1540282034699" />
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_01_15_164956_add_vr_game.php" timestamp="1540455282141" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/ChannelManagerEnum.php" timestamp="1540538112871" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/RechargeRepo.php" timestamp="1540732694193" />
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1540403340961" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/API/WMBaccaratApi.php" timestamp="1540374959662" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/NamespaceRegistry.php" timestamp="1540445292365" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1540731964696" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1540733552009">
+        <mark key="[" line="186" column="42" />
+        <mark key="]" line="186" column="42" />
+        <mark key="." line="186" column="42" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/SamGong/HistoryResultService.php" timestamp="1540276174492" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/ThirdPartyController.php" timestamp="1540540581867">
         <mark key="[" line="175" column="80" />
@@ -207,7 +213,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHQ=</text>
+        <text />
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -216,7 +222,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHQ=</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
