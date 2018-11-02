@@ -9,8 +9,16 @@
         <mark key="." line="43" column="123" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/hyn/multi-tenant/src/Environment.php" timestamp="1541043717051" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/WMBaccaratBetlogMiddleware.php" timestamp="1540374167000">
-        <mark key="[" line="16" column="9" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/GameEnum.php" timestamp="1541129126042">
+        <mark key="[" line="466" column="12" />
+        <mark key="]" line="469" column="12" />
+        <mark key="." line="469" column="12" />
+        <mark key="^" line="469" column="12" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/WMBaccaratBetlogMiddleware.php" timestamp="1541129383863">
+        <mark key="[" line="14" column="66" />
+        <mark key="]" line="14" column="66" />
+        <mark key="." line="14" column="66" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/hyn/multi-tenant/src/Models/Website.php" timestamp="1541043579912" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1540733552009">
@@ -18,6 +26,7 @@
         <mark key="]" line="192" column="42" />
         <mark key="." line="192" column="42" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/VRBetlogMiddleware.php" timestamp="1541128664243" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/BetLogRepo.php" timestamp="1540403901488">
         <mark key="[" line="359" column="36" />
       </file>
@@ -177,7 +186,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$serviceName</text>
+        <text>VR_GAMES</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -186,7 +195,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>$serviceName</text>
+        <text>VR_GAMES</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -211,8 +220,11 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>const
+const
+const
+const</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -228,19 +240,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgU1VQUE9SVF9HQU1FUz1bCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgoK</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -251,10 +263,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkcm91bmQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dGVuYW5jeTpkb3duIHtzdGFydC10aW1lP30ge2VuZC10aW1lP30ge3RlbmFudD99ICB7LS1tZXNzYWdlPSA6IFRoZSBtZXNzYWdlIGZvciB0aGUgbWFpbnRlbmFuY2UgbW9kZS4gfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LS1yZXRyeT0gOiBUaGUgbnVtYmVyIG9mIHNlY29uZHMgYWZ0ZXIgd2hpY2ggdGhlIHJlcXVlc3QgbWF5IGJlIHJldHJpZWQufQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7LS1hbGxvdz0qIDogSVAgb3IgbmV0d29ya3MgYWxsb3dlZCB0byBhY2Nlc3MgdGhlIGFwcGxpY2F0aW9uIHdoaWxlIGluIG1haW50ZW5hbmNlIG1vZGUufSc7Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
