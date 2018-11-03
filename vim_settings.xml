@@ -15,7 +15,7 @@
         <mark key="." line="469" column="12" />
         <mark key="^" line="469" column="12" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/WMBaccaratBetlogMiddleware.php" timestamp="1541137611361">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/WMBaccaratBetlogMiddleware.php" timestamp="1541207802431">
         <mark key="[" line="14" column="66" />
         <mark key="]" line="14" column="66" />
         <mark key="." line="14" column="66" />
@@ -57,7 +57,7 @@
         <mark key="]" line="199" column="31" />
         <mark key="." line="199" column="31" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionService.php" timestamp="1541058596881" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionService.php" timestamp="1541207754419" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/GameEloquent.php" timestamp="1541142664273">
         <mark key="[" line="20" column="45" />
       </file>
@@ -70,6 +70,11 @@
         <mark key="[" line="8" column="21" />
         <mark key="]" line="8" column="21" />
         <mark key="." line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/WMDonateLogMiddleware.php" timestamp="1541207923553">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/API/ChannelManagerApi.php" timestamp="1540966572879">
         <mark key="[" line="53" column="0" />
@@ -206,8 +211,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>BetLog</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -216,7 +221,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>FILED_BET_LOG_ID</text>
+        <text>BetLog</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -241,8 +246,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAoa2V5X2V4aXN0cygncmVzdWx0X3dhbGxldF9pZCcsICRkZXRhaWwpKSB7CiAgICAgICAgICAgICRyZXN1bHRXYWxsZXRJZHMgPSBleHBsb2RlKCcsJywgJGRldGFpbFsncmVzdWx0X3dhbGxldF9pZCddKTsKICAgICAgICAgICAgJG9yZGVySWRzICAgICAgICA9IGFycmF5X21lcmdlKCRyZXN1bHRXYWxsZXRJZHMsICRvcmRlcklkcyk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -257,23 +262,23 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="8">
         <text>const
 const
 const
 const</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIF07Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgU1VQUE9SVF9HQU1FUz1bCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgU1VQUE9SVF9HQU1FUz1bCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -284,7 +289,7 @@ const</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
