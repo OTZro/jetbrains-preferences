@@ -44,7 +44,6 @@
         <mark key="]" line="19" column="197" />
         <mark key="." line="19" column="197" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2017_10_31_171023_create_betlog.php" timestamp="1542005584651" />
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2018_11_12_145103_add_bet_log_wallet_request_pivot.php" timestamp="1542006060687">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="24" column="62" />
@@ -70,9 +69,9 @@
         <mark key="^" line="1143" column="108" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/WalletRequestRepoContract.php" timestamp="1542013253890">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/CancelBetLog.php" timestamp="1541574507791">
         <mark key="[" line="80" column="39" />
@@ -98,25 +97,23 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/BetLog/CheckerService.php" timestamp="1542013262796">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/BetLog/CheckerService.php" timestamp="1542092951415">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="19" column="38" />
         <mark key="^" line="19" column="38" />
         <mark key="." line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_01_02_000732_add_operator_time_to_cz_tx.php" timestamp="1541996896619" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/API/ChannelManagerApi.php" timestamp="1541409823666">
         <mark key="[" line="51" column="61" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/BetLog.php" timestamp="1542011941853">
         <mark key="[" line="589" column="63" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/WalletRequestRepo.php" timestamp="1542013257694">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/WalletRequestRepo.php" timestamp="1542092907067">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/InternalApiController.php" timestamp="1542003832550" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/VRBetlogMiddleware.php" timestamp="1542008184006">
         <mark key="[" line="30" column="62" />
       </file>
@@ -131,7 +128,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/ThirdPartyController.php" timestamp="1542007514434" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/production/default.conf" timestamp="1541391181694">
         <mark key="[" line="40" column="197" />
         <mark key="]" line="40" column="197" />
@@ -145,6 +141,11 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/SettleService.php" timestamp="1540276119914">
         <mark key="[" line="150" column="69" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/TenancyDown.php" timestamp="1542093117739">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -270,8 +271,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBBcHBcQ29uc29sZVxDb21tYW5kczsKCnVzZSBBcHBcQ29udHJhY3RzXEVudGl0eVxXYWxsZXRSZXF1ZXN0Owp1c2UgQXBwXEhlbHBlclxUZW5hbmN5SGVscGVyOwp1c2UgSHluXFRlbmFuY3lcV2Vic2l0ZVxEaXJlY3Rvcnk7CnVzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cQ29uc29sZVxEb3duQ29tbWFuZDsKdXNlIFBsYXRmb3JtQ29uZmlnUmVwbzsKCmNsYXNzIFRlbmFuY3lEb3duIGV4dGVuZHMgRG93bkNvbW1hbmQKewogICAgLyoqCiAgICAgKiBUaGUgbmFtZSBhbmQgc2lnbmF0dXJlIG9mIHRoZSBjb25zb2xlIGNvbW1hbmQuCiAgICAgKgogICAgICogQHZhciBzdHJpbmcKICAgICAqLwogICAgcHJvdGVjdGVkICRzaWduYXR1cmUgPSAnY3VzdG9tJzsKCiAgICAvKioKICAgICAqIFRoZSBjb25zb2xlIGNvbW1hbmQgZGVzY3JpcHRpb24uCiAgICAgKgogICAgICogQHZhciBzdHJpbmcKICAgICAqLwogICAgcHJvdGVjdGVkICRkZXNjcmlwdGlvbiA9ICdQdXQgdGhlIGFwcGxpY2F0aW9uIGludG8gbWFpbnRlbmFuY2UgbW9kZSc7CgogICAgLyoqCiAgICAgKiBFeGVjdXRlIHRoZSBjb25zb2xlIGNvbW1hbmQuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBoYW5kbGUoKQogICAgewogICAgICAgIFRlbmFuY3lIZWxwZXI6OnN3aXRjaFRlbmFudCgnYWEnKTsKICAgICAgICAkYmV0bG9nICAgICAgICAgPSBcQmV0TG9nUmVwbzo6ZmluZCg0MDk5OCk7CiAgICAgICAgJHdhbGxlclJlcXVlc3RzID0gJGJldGxvZy0+Z2V0V2FsbGV0UmVxdWVzdHMoKTsKICAgICAgICAkc3VtICAgICAgICAgICAgPSAwOwogICAgICAgIGZvcmVhY2ggKCR3YWxsZXJSZXF1ZXN0cyBhcyAkd2FsbGVyUmVxdWVzdCkgewogICAgICAgICAgICAvKiogQHZhciBXYWxsZXRSZXF1ZXN0ICR3YWxsZXJSZXF1ZXN0ICovCiAgICAgICAgICAgICRzdW0gKz0gJHdhbGxlclJlcXVlc3QtPmdldEFtb3VudCgpOwogICAgICAgICAgICBwcmludF9yKCR3YWxsZXJSZXF1ZXN0LT50b0FycmF5KCkpOwogICAgICAgIH0KICAgICAgICBlY2hvICRzdW07CiAgICAgICAgCiAgICB9CgogICAgcHJpdmF0ZSBmdW5jdGlvbiBkb3duKCkKICAgIHsKICAgICAgICAkZGlyZWN0b3J5ID0gYXBwKERpcmVjdG9yeTo6Y2xhc3MpOwogICAgICAgICRkaXJlY3RvcnktPnB1dCgnZnJhbWV3b3JrL2Rvd24nLCBqc29uX2VuY29kZSgkdGhpcy0+Z2V0RG93bkZpbGVQYXlsb2FkKCksIEpTT05fUFJFVFRZX1BSSU5UKSk7CiAgICAgICAgJHRoaXMtPmNvbW1lbnQoJ0FwcGxpY2F0aW9uICcgLiBUZW5hbmN5SGVscGVyOjpjdXJyZW50VGVuYW50TmFtZSgpIC4gJyBpcyBub3cgaW4gbWFpbnRlbmFuY2UgbW9kZS4nKTsKICAgIH0KCiAgICBwcml2YXRlIGZ1bmN0aW9uIHNldE1haW50YWluRGF0ZVRpbWUoJHN0YXJ0VGltZSA9IG51bGwsICRlbmRUaW1lID0gbnVsbCkKICAgIHsKICAgICAgICBpZiAoIWlzX251bGwoJHN0YXJ0VGltZSkgYW5kICFpc19udWxsKCRlbmRUaW1lKSkgewogICAgICAgICAgICAkY29uZmlnID0gUGxhdGZvcm1Db25maWdSZXBvOjpnZXRDb25maWcoKTsKICAgICAgICAgICAgJGNvbmZpZy0+c2V0TWFpbnRlbmFuY2VTdGFydGVkQXQoJHN0YXJ0VGltZSk7CiAgICAgICAgICAgICRjb25maWctPnNldE1haW50ZW5hbmNlRW5kZWRBdCgkZW5kVGltZSk7CiAgICAgICAgICAgIFBsYXRmb3JtQ29uZmlnUmVwbzo6c2F2ZSgkY29uZmlnKTsKICAgICAgICB9CiAgICB9Cn0K</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -280,7 +281,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>\App\Contracts\Entity\WalletRequest[]|\Illuminate\Support\Collection|void</text>
+        <text>808</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -305,8 +306,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBBcHBcQ29uc29sZVxDb21tYW5kczsKCnVzZSBBcHBcQ29udHJhY3RzXEVudGl0eVxXYWxsZXRSZXF1ZXN0Owp1c2UgQXBwXEhlbHBlclxUZW5hbmN5SGVscGVyOwp1c2UgSHluXFRlbmFuY3lcV2Vic2l0ZVxEaXJlY3Rvcnk7CnVzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cQ29uc29sZVxEb3duQ29tbWFuZDsKdXNlIFBsYXRmb3JtQ29uZmlnUmVwbzsKCmNsYXNzIFRlbmFuY3lEb3duIGV4dGVuZHMgRG93bkNvbW1hbmQKewogICAgLyoqCiAgICAgKiBUaGUgbmFtZSBhbmQgc2lnbmF0dXJlIG9mIHRoZSBjb25zb2xlIGNvbW1hbmQuCiAgICAgKgogICAgICogQHZhciBzdHJpbmcKICAgICAqLwogICAgcHJvdGVjdGVkICRzaWduYXR1cmUgPSAnY3VzdG9tJzsKCiAgICAvKioKICAgICAqIFRoZSBjb25zb2xlIGNvbW1hbmQgZGVzY3JpcHRpb24uCiAgICAgKgogICAgICogQHZhciBzdHJpbmcKICAgICAqLwogICAgcHJvdGVjdGVkICRkZXNjcmlwdGlvbiA9ICdQdXQgdGhlIGFwcGxpY2F0aW9uIGludG8gbWFpbnRlbmFuY2UgbW9kZSc7CgogICAgLyoqCiAgICAgKiBFeGVjdXRlIHRoZSBjb25zb2xlIGNvbW1hbmQuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBoYW5kbGUoKQogICAgewogICAgICAgIFRlbmFuY3lIZWxwZXI6OnN3aXRjaFRlbmFudCgnYWEnKTsKICAgICAgICAkYmV0bG9nICAgICAgICAgPSBcQmV0TG9nUmVwbzo6ZmluZCg0MDk5OCk7CiAgICAgICAgJHdhbGxlclJlcXVlc3RzID0gJGJldGxvZy0+Z2V0V2FsbGV0UmVxdWVzdHMoKTsKICAgICAgICAkc3VtICAgICAgICAgICAgPSAwOwogICAgICAgIGZvcmVhY2ggKCR3YWxsZXJSZXF1ZXN0cyBhcyAkd2FsbGVyUmVxdWVzdCkgewogICAgICAgICAgICAvKiogQHZhciBXYWxsZXRSZXF1ZXN0ICR3YWxsZXJSZXF1ZXN0ICovCiAgICAgICAgICAgICRzdW0gKz0gJHdhbGxlclJlcXVlc3QtPmdldEFtb3VudCgpOwogICAgICAgICAgICBwcmludF9yKCR3YWxsZXJSZXF1ZXN0LT50b0FycmF5KCkpOwogICAgICAgIH0KICAgICAgICBlY2hvICRzdW07CiAgICAgICAgCiAgICB9CgogICAgcHJpdmF0ZSBmdW5jdGlvbiBkb3duKCkKICAgIHsKICAgICAgICAkZGlyZWN0b3J5ID0gYXBwKERpcmVjdG9yeTo6Y2xhc3MpOwogICAgICAgICRkaXJlY3RvcnktPnB1dCgnZnJhbWV3b3JrL2Rvd24nLCBqc29uX2VuY29kZSgkdGhpcy0+Z2V0RG93bkZpbGVQYXlsb2FkKCksIEpTT05fUFJFVFRZX1BSSU5UKSk7CiAgICAgICAgJHRoaXMtPmNvbW1lbnQoJ0FwcGxpY2F0aW9uICcgLiBUZW5hbmN5SGVscGVyOjpjdXJyZW50VGVuYW50TmFtZSgpIC4gJyBpcyBub3cgaW4gbWFpbnRlbmFuY2UgbW9kZS4nKTsKICAgIH0KCiAgICBwcml2YXRlIGZ1bmN0aW9uIHNldE1haW50YWluRGF0ZVRpbWUoJHN0YXJ0VGltZSA9IG51bGwsICRlbmRUaW1lID0gbnVsbCkKICAgIHsKICAgICAgICBpZiAoIWlzX251bGwoJHN0YXJ0VGltZSkgYW5kICFpc19udWxsKCRlbmRUaW1lKSkgewogICAgICAgICAgICAkY29uZmlnID0gUGxhdGZvcm1Db25maWdSZXBvOjpnZXRDb25maWcoKTsKICAgICAgICAgICAgJGNvbmZpZy0+c2V0TWFpbnRlbmFuY2VTdGFydGVkQXQoJHN0YXJ0VGltZSk7CiAgICAgICAgICAgICRjb25maWctPnNldE1haW50ZW5hbmNlRW5kZWRBdCgkZW5kVGltZSk7CiAgICAgICAgICAgIFBsYXRmb3JtQ29uZmlnUmVwbzo6c2F2ZSgkY29uZmlnKTsKICAgICAgICB9CiAgICB9Cn0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -322,19 +323,21 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBpbmhlcml0RG9jCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBmaW5kQnlCZXRMb2coQmV0TG9nICRiZXRMb2cpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5maW5kV2hlcmUoW1dhbGxldFJlcXVlc3RFbG9xdWVudDo6RklMRURfQkVUX0xPR19JRCA9PiAkYmV0TG9nLT5nZXRJZCgpXSk7CiAgICB9</text>
+        <text encoding="base64">JHRlbmFudE5hbWUgPSAkdGhpcy0+YXJndW1lbnQoJ3RlbmFudCcpOwogICAgICAgICRzdGFydFRpbWUgID0gJHRoaXMtPmFyZ3VtZW50KCdzdGFydC10aW1lJyk7CiAgICAgICAgJGVuZFRpbWUgICAgPSAkdGhpcy0+YXJndW1lbnQoJ2VuZC10aW1lJyk7CiAgICAgICAgJGRhdGEgICAgICAgPSBbXTsKCiAgICAgICAgaWYgKCRzdGFydFRpbWUpIHsKICAgICAgICAgICAgJGRhdGFbJ3N0YXJ0VGltZSddID0gJHN0YXJ0VGltZTsKICAgICAgICB9CgogICAgICAgIGlmICgkZW5kVGltZSkgewogICAgICAgICAgICAkZGF0YVsnZW5kVGltZSddICAgPSAkZW5kVGltZTsKICAgICAgICB9CgogICAgICAgICR2YWxpZCA9IFZhbGlkYXRvcjo6bWFrZSgkZGF0YSwgWwogICAgICAgICAgICAnc3RhcnRUaW1lJyA9PiAnZGF0ZV9mb3JtYXQ6WS1tLWQgSDppOnMnLAogICAgICAgICAgICAnZW5kVGltZScgICA9PiAnZGF0ZV9mb3JtYXQ6WS1tLWQgSDppOnMnLAogICAgICAgIF0pOwoKICAgICAgICBpZiAoJHZhbGlkLT5mYWlscygpKSB7CiAgICAgICAgICAgICR0aGlzLT5vdXRwdXQtPndhcm5pbmcoJHZhbGlkLT5lcnJvcnMoKSk7CiAgICAgICAgICAgIGV4aXQ7CiAgICAgICAgfQoKICAgICAgICBpZiAoZW1wdHkoJHRlbmFudE5hbWUpKSB7CiAgICAgICAgICAgIFRlbmFuY3lIZWxwZXI6OnJ1bkluRXZlcnlUZW5hbnQoZnVuY3Rpb24gKCkgdXNlICgkc3RhcnRUaW1lLCAkZW5kVGltZSkgewogICAgICAgICAgICAgICAgJHRoaXMtPnNldE1haW50YWluRGF0ZVRpbWUoJHN0YXJ0VGltZSwgJGVuZFRpbWUpOwogICAgICAgICAgICAgICAgJHRoaXMtPmRvd24oKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgVGVuYW5jeUhlbHBlcjo6c3dpdGNoVGVuYW50KCR0ZW5hbnROYW1lKTsKICAgICAgICAgICAgJHRoaXMtPnNldE1haW50YWluRGF0ZVRpbWUoJHN0YXJ0VGltZSwgJGVuZFRpbWUpOwogICAgICAgICAgICAkdGhpcy0+ZG93bigpOwogICAgICAgIH0KICAgIH0=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>{start-time?} {end-time?} {tenant?}  {--message= : The message for the maintenance mode. }
+                                 {--retry= : The number of seconds after which the request may be retried.}
+                                 {--allow=* : IP or networks allowed to access the application while in maintenance mode.}</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBCZXRMb2cgJGJldExvZwogICAgICogQHJldHVybiBXYWxsZXRSZXF1ZXN0W118Q29sbGVjdGlvbgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZmluZEJ5QmV0TG9nKEJldExvZyAkYmV0TG9nKTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIEFwcFxDb250cmFjdHNcRW50aXR5XEJldExvZzsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBpbmhlcml0RG9jCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBmaW5kQnlCZXRMb2coQmV0TG9nICRiZXRMb2cpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5maW5kV2hlcmUoW1dhbGxldFJlcXVlc3RFbG9xdWVudDo6RklMRURfQkVUX0xPR19JRCA9PiAkYmV0TG9nLT5nZXRJZCgpXSk7CiAgICB9</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -348,10 +351,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBudWxsfGludAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0QmV0TG9nSWQoKTo/IGludDs=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBCZXRMb2cgJGJldExvZwogICAgICogQHJldHVybiBXYWxsZXRSZXF1ZXN0W118Q29sbGVjdGlvbgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZmluZEJ5QmV0TG9nKEJldExvZyAkYmV0TG9nKTs=</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">CgoKCgo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
