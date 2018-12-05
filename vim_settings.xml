@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/PayController.php" timestamp="1543993398896" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Signal/WMSignalCollector.php" timestamp="1540973680093">
         <mark key="[" line="43" column="123" />
         <mark key="]" line="43" column="123" />
@@ -148,10 +149,10 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="39" column="50" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/InternalApiController.php" timestamp="1543992099891">
-        <mark key="[" line="1237" column="12" />
-        <mark key="]" line="1237" column="12" />
-        <mark key="." line="1237" column="12" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/InternalApiController.php" timestamp="1543993419755">
+        <mark key="[" line="1216" column="35" />
+        <mark key="]" line="1216" column="35" />
+        <mark key="." line="1216" column="35" />
         <mark key="^" line="1206" column="9" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/CheckForMaintenanceMode.php" timestamp="1543302333754">
@@ -531,7 +532,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5yZXF1ZXN0LT5yZXF1ZXN0LT5nZXRCb29sZWFuKCdhcHByb3ZlJykpIHsKICAgICAgICAgICAgICAgICR0aGlzLT5wYXlTZXJ2aWNlLT5hcHByb3ZlUmVjaGFyZ2UoJHJlY2hhcmdlLCAkdGhpcy0+cmVxdWVzdC0+YWxsKCkpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgJHRoaXMtPnBheVNlcnZpY2UtPmRlY2xpbmVSZWNoYXJnZSgkcmVjaGFyZ2UsICR0aGlzLT5yZXF1ZXN0LT5hbGwoKSk7CiAgICAgICAgICAgIH0=</text>
+        <text>string</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -540,7 +541,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>warning</text>
+        <text>string</text>
       </register>
       <register name="m" type="4">
         <keys>
