@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/Recharge.php" timestamp="1544084034098">
-        <mark key="[" line="298" column="54" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/Recharge.php" timestamp="1544425635322">
+        <mark key="[" line="283" column="36" />
         <mark key="]" line="182" column="38" />
         <mark key="^" line="227" column="19" />
         <mark key="." line="182" column="38" />
@@ -30,19 +30,18 @@
         <mark key="[" line="34" column="35" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/SettleToUnsettle.php" timestamp="1544381163962" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/RechargeEloquent.php" timestamp="1544084073927">
-        <mark key="[" line="87" column="31" />
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="17" column="35" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/RechargeEloquent.php" timestamp="1544425652658">
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="39" column="22" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="39" column="22" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/BaseStageService.php" timestamp="1544380775021" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/PromotionsEloquent.php" timestamp="1544423345446">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/PromotionsEloquent.php" timestamp="1544425525450">
         <mark key="'" line="100" column="44" />
-        <mark key="[" line="100" column="14" />
-        <mark key="]" line="92" column="37" />
-        <mark key="^" line="92" column="37" />
-        <mark key="." line="92" column="37" />
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="23" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/ReturnWaterService.php" timestamp="1543299982059">
         <mark key="[" line="394" column="0" />
@@ -65,11 +64,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1544085186482">
-        <mark key="[" line="285" column="22" />
-        <mark key="]" line="285" column="81" />
-        <mark key="." line="285" column="81" />
-        <mark key="^" line="285" column="81" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1544425740071">
+        <mark key="[" line="120" column="55" />
+        <mark key="]" line="286" column="81" />
+        <mark key="." line="286" column="81" />
+        <mark key="^" line="286" column="81" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Promotion/PromotionService.php" timestamp="1543996717838">
         <mark key="[" line="50" column="9" />
@@ -228,7 +227,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text>audit</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -237,7 +236,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>audit</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -263,7 +262,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVjaGFyZ2UtPnNldEF1dG9Qcm9tb3Rpb24odHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -279,24 +278,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVjaGFyZ2UtPnNldEF1dG9Qcm9tb3Rpb24odHJ1ZSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">aWYgKCR0aGlzLT5yZXF1ZXN0LT5yZXF1ZXN0LT5nZXRCb29sZWFuKCdhcHByb3ZlJykpIHsKICAgICAgICAgICAgICAgICR0aGlzLT5wYXlTZXJ2aWNlLT5hcHByb3ZlUmVjaGFyZ2UoJHJlY2hhcmdlLCAkdGhpcy0+cmVxdWVzdC0+YWxsKCkpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgJHRoaXMtPnBheVNlcnZpY2UtPmRlY2xpbmVSZWNoYXJnZSgkcmVjaGFyZ2UsICR0aGlzLT5yZXF1ZXN0LT5hbGwoKSk7CiAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="5" type="8">
-        <text>secondOp
-secondOp
-secondOp
-secondOp
-secondOp
-secondOp</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -306,15 +300,20 @@ secondOp</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>Second
-SecondO</text>
+      <register name="7" type="8">
+        <text>secondOp
+secondOp
+secondOp
+secondOp
+secondOp
+secondOp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlY2hhcmdlLT5zZXRTdGF0dXMoUmVjaGFyZ2VFbnVtOjpTVEFUVVNfTk9UX0FQUFJPVkUpOwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>Second
+SecondO</text>
       </register>
       <register name="y" type="4">
         <text />
