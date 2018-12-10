@@ -9,6 +9,7 @@
         <mark key="^" line="227" column="19" />
         <mark key="." line="182" column="38" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Signal/WMSignalCollector.php" timestamp="1544423713570" />
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_12_05_153843_add_promotion_id_to_cashflow.php" timestamp="1543995627093">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="16" column="37" />
@@ -36,6 +37,13 @@
         <mark key="." line="17" column="35" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/BaseStageService.php" timestamp="1544380775021" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/PromotionsEloquent.php" timestamp="1544423345446">
+        <mark key="'" line="100" column="44" />
+        <mark key="[" line="100" column="14" />
+        <mark key="]" line="92" column="37" />
+        <mark key="^" line="92" column="37" />
+        <mark key="." line="92" column="37" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/ReturnWaterService.php" timestamp="1543299982059">
         <mark key="[" line="394" column="0" />
       </file>
@@ -48,6 +56,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/js/components/demo/dialog/refunds-dialog.vue" timestamp="1543997446507">
         <mark key="[" line="34" column="147" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/react/socket/src/Connection.php" timestamp="1544423764020" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Wallet/WalletService.php" timestamp="1543816076798">
         <mark key="[" line="63" column="78" />
       </file>
@@ -68,6 +77,7 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/react/stream/src/Util.php" timestamp="1544423769573" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/ResettleBetlog.php" timestamp="1544381059222" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/InternalApiController.php" timestamp="1544085173285">
         <mark key="[" line="1174" column="19" />
@@ -95,7 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="4" filename="$USER_HOME$/web-service/tests/api/MessageApiCest.php" />
       <jump line="307" column="1" filename="$USER_HOME$/web-service/tests/_support/Response/MessageApi/LoadRecentContactListResponse.php" />
       <jump line="69" column="21" filename="$USER_HOME$/web-service/application/Model/Message/Assistant/MessageAssetAssistant.php" />
       <jump line="111" column="52" filename="$USER_HOME$/web-service/application/Model/Message/Assistant/UserAssetsAssistant.php" />
@@ -195,6 +204,7 @@
       <jump line="57" column="0" filename="$USER_HOME$/wuming/WeChatCasino/app/Service/Baccarat/StageService.php" />
       <jump line="52" column="41" filename="$USER_HOME$/wuming/WeChatCasino/docker/webserver.yml" />
       <jump line="1134" column="20" filename="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/BetLogEloquent.php" />
+      <jump line="100" column="44" filename="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/PromotionsEloquent.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -217,8 +227,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVjaGFyZ2UtPnNldEF1dG9Qcm9tb3Rpb24odHJ1ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -227,7 +237,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>$</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -310,7 +320,7 @@ SecondO</text>
         <text />
       </register>
       <register name=":" type="4">
-        <text>1227</text>
+        <text>45</text>
       </register>
     </registers>
     <search>
@@ -346,7 +356,6 @@ SecondO</text>
         <entry encoding="base64">XDxDb250cmFjdHNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>256</entry>
         <entry>244</entry>
         <entry>165</entry>
         <entry>259</entry>
@@ -366,6 +375,7 @@ SecondO</text>
         <entry>465</entry>
         <entry>291</entry>
         <entry>1227</entry>
+        <entry>45</entry>
       </history-cmd>
       <history-expr />
       <history-input />
