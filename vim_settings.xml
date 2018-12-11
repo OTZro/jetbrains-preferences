@@ -12,6 +12,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Signal/WMSignalCollector.php" timestamp="1544504408122">
         <mark key="[" line="73" column="15" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/SignalCollect/Baccarat/BaccaratHandleUnsettle.php" timestamp="1544506918062" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/SettleToUnsettle.php" timestamp="1544381163962" />
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/react/event-loop/src/Factory.php" timestamp="1544433854346" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/RechargeEloquent.php" timestamp="1544425652658">
@@ -47,12 +48,16 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/react/stream/src/Util.php" timestamp="1544423769573" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/SignalCollect/Baccarat/BaccaratCheckRound.php" timestamp="1544504810590">
-        <mark key="[" line="20" column="6" />
-        <mark key="]" line="20" column="6" />
-        <mark key="." line="20" column="6" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/_ide_helper.php" timestamp="1544505692942" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/SignalCollect/Baccarat/BaccaratCheckRound.php" timestamp="1544507069959">
+        <mark key="[" line="61" column="6" />
+        <mark key="]" line="61" column="6" />
+        <mark key="." line="61" column="6" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/ResettleBetlog.php" timestamp="1544381059222" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/BaseService.php" timestamp="1544507148690">
+        <mark key="[" line="121" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/InternalApiController.php" timestamp="1544085173285">
         <mark key="[" line="1174" column="19" />
         <mark key="]" line="1240" column="40" />
@@ -66,7 +71,7 @@
         <mark key="^" line="16" column="50" />
         <mark key="." line="16" column="70" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/BetLogRepo.php" timestamp="1544504919153">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/BetLogRepo.php" timestamp="1544505586665">
         <mark key="[" line="567" column="0" />
         <mark key="]" line="567" column="0" />
         <mark key="." line="567" column="0" />
@@ -199,8 +204,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZU51bGwoQmV0TG9nRWxvcXVlbnQ6OkZJRUxEX1NFVFRMRURfQVQpCg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -209,7 +214,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>BaccaratHandleUnsettle</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
