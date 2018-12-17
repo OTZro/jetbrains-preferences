@@ -3,14 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/laravel-echo-server/Dockerfile" timestamp="1544687870339" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/GameEnum.php" timestamp="1544682679293" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Kernel.php" timestamp="1544520309811">
-        <mark key="[" line="37" column="41" />
-        <mark key="]" line="37" column="41" />
-        <mark key="." line="37" column="41" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1544681967965">
+        <mark key="[" line="76" column="16" />
+        <mark key="]" line="76" column="16" />
+        <mark key="." line="76" column="16" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/VRBetlogMiddleware.php" timestamp="1544676618170" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/.env" timestamp="1544519784416">
+        <mark key="[" line="65" column="19" />
+        <mark key="]" line="65" column="19" />
+        <mark key="." line="65" column="19" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/BetLogRepo.php" timestamp="1544520380117">
         <mark key="[" line="567" column="0" />
         <mark key="]" line="567" column="0" />
@@ -21,41 +23,25 @@
         <mark key="]" line="343" column="18" />
         <mark key="." line="343" column="18" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/LiveGame/TransferService.php" timestamp="1544723380809" />
       <file name="$USER_HOME$/wuming/WeChatCasino/routes/app-api.php" timestamp="1544682967005">
         <mark key="[" line="17" column="15" />
         <mark key="]" line="17" column="15" />
         <mark key="^" line="17" column="13" />
         <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/TransferRequestRepo.php" timestamp="1544721887994" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/URI/ChannelManagerURI.php" timestamp="1544721964821" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/.env" timestamp="1544519784416">
-        <mark key="[" line="65" column="19" />
-        <mark key="]" line="65" column="19" />
-        <mark key="." line="65" column="19" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Kernel.php" timestamp="1544520309811">
+        <mark key="[" line="37" column="41" />
+        <mark key="]" line="37" column="41" />
+        <mark key="." line="37" column="41" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/dev/default.conf" timestamp="1544686320107" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/laravel-echo-server/config/dev-laravel-echo-server.json" timestamp="1544721800968">
+        <mark key="^" line="16" column="1" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/GameInfoEnum.php" timestamp="1544682719886">
         <mark key="[" line="19" column="26" />
         <mark key="]" line="19" column="26" />
         <mark key="." line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1544681967965">
-        <mark key="[" line="76" column="16" />
-        <mark key="]" line="76" column="16" />
-        <mark key="." line="76" column="16" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/API/ChannelManagerApi.php" timestamp="1544722093845" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/API/SingleWalletSignature.php" timestamp="1544675014049" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/TransactionHandler.php" timestamp="1544676586210" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/laravel-echo-server/config/dev-laravel-echo-server.json" timestamp="1544721800968">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="18" />
-        <mark key="^" line="22" column="1" />
-        <mark key="." line="17" column="18" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_12_06_135754_add_game_group_id_into_bet_log.php" timestamp="1544685909226" />
     </filemarks>
     <jumps>
       <jump line="307" column="1" filename="$USER_HOME$/web-service/tests/_support/Response/MessageApi/LoadRecentContactListResponse.php" />
