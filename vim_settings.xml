@@ -9,23 +9,15 @@
         <mark key="." line="17" column="54" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/nginx.conf" timestamp="1546414290930" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/routes/api.php" timestamp="1545378090357">
-        <mark key="[" line="128" column="68" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/BetLogEloquent.php" timestamp="1545894140537">
-        <mark key="[" line="581" column="41" />
-      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/SessionIntegrateMiddleware.php" timestamp="1546581479798" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/RedirectMiddleware.php" timestamp="1546581516503" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/config/auth.php" timestamp="1546581317053" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/Promotions.php" timestamp="1546410924076" />
-      <file name="/Dummy.txt" timestamp="1545378960776">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1546498915416">
+      <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1546581349176" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1546581129892">
         <mark key="[" line="303" column="138" />
         <mark key="]" line="303" column="138" />
         <mark key="." line="303" column="138" />
-      </file>
-      <file name="/fragment.php" timestamp="1545894117868">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/User/UserService.php" timestamp="1545903104675">
         <mark key="[" line="100" column="36" />
@@ -39,12 +31,7 @@
         <mark key="^" line="27" column="55" />
         <mark key="." line="27" column="55" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/BetLog/BetLogService.php" timestamp="1545379757456">
-        <mark key="[" line="273" column="65" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/BetLog.php" timestamp="1545379861072">
-        <mark key="[" line="252" column="33" />
-      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/third-party/wm-redirect.blade.php" timestamp="1546582095621" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/BetLogRepo.php" timestamp="1545904304231">
         <mark key="[" line="567" column="0" />
         <mark key="]" line="567" column="0" />
