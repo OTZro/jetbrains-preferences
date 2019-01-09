@@ -3,14 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/HistoryResultFactory.php" timestamp="1545379376407">
-        <mark key="[" line="17" column="54" />
-        <mark key="]" line="17" column="54" />
-        <mark key="." line="17" column="54" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Kernel.php" timestamp="1546840368331" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/SessionIntegrateMiddleware.php" timestamp="1546846859201" />
       <file name="$USER_HOME$/wuming/WeChatCasino/config/tenancy.php" timestamp="1547015560412" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionService.php" timestamp="1547027923070" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/UserController.php" timestamp="1546849358780" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/RedirectMiddleware.php" timestamp="1546846355715" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/ForceAddSessionParameterMiddleware.php" timestamp="1546847039298">
@@ -24,10 +20,8 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/TestController.php" timestamp="1547022033486">
         <mark key="[" line="37" column="46" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1547026133446">
-        <mark key="[" line="27" column="71" />
-        <mark key="]" line="27" column="71" />
-        <mark key="." line="27" column="71" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1547026858600">
+        <mark key="[" line="81" column="48" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1547015815015">
         <mark key="[" line="235" column="77" />
@@ -36,20 +30,13 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/Dockerfile" timestamp="1546932221940" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/StartSessionCustom.php" timestamp="1546848501295" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/BetLogRepo.php" timestamp="1545904304231">
-        <mark key="[" line="567" column="0" />
-        <mark key="]" line="567" column="0" />
-        <mark key="." line="567" column="0" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/config/database.php" timestamp="1547015130789" />
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/Token.php" timestamp="1547025461110" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/ThirdPartyController.php" timestamp="1547026115232">
-        <mark key="[" line="310" column="5" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/TransactionHandler.php" timestamp="1546494739792">
-        <mark key="[" line="23" column="95" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/ThirdPartyController.php" timestamp="1547027397593">
+        <mark key="[" line="306" column="65" />
+        <mark key="]" line="298" column="63" />
+        <mark key="^" line="298" column="18" />
+        <mark key="." line="298" column="63" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/tenancy/tenant_ec/views/demo/main/game-list.blade.php" timestamp="1546842132714" />
     </filemarks>
@@ -177,7 +164,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>}</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -186,7 +173,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>}</text>
       </register>
       <register name="m" type="4">
         <keys>
