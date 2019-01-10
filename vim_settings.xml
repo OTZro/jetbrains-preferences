@@ -20,6 +20,13 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionService.php" timestamp="1547027923070" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/UserController.php" timestamp="1546849358780" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/RedirectMiddleware.php" timestamp="1546846355715" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/PassportServiceProvider.php" timestamp="1547100017755">
+        <mark key="[" line="265" column="18" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/config/auth.php" timestamp="1547099018906" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1547099615182">
+        <mark key="[" line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/ForceAddSessionParameterMiddleware.php" timestamp="1546847039298">
         <mark key="[" line="33" column="46" />
         <mark key="]" line="33" column="46" />
@@ -31,7 +38,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/TestController.php" timestamp="1547022033486">
         <mark key="[" line="37" column="46" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1547096684403">
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/Guards/TokenGuard.php" timestamp="1547100009822">
+        <mark key="[" line="87" column="38" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Factory.php" timestamp="1547098949405" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1547098813302">
         <mark key="[" line="26" column="85" />
         <mark key="]" line="26" column="85" />
         <mark key="." line="26" column="85" />
@@ -40,6 +51,16 @@
         <mark key="[" line="235" column="77" />
         <mark key="]" line="235" column="80" />
         <mark key="." line="235" column="80" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/Http/Middleware/CheckClientCredentials.php" timestamp="1547098257233">
+        <mark key="[" line="46" column="43" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" timestamp="1547099510803">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="65" column="51" />
+        <mark key="]" line="59" column="4" />
+        <mark key="^" line="59" column="4" />
+        <mark key="." line="59" column="4" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/Dockerfile" timestamp="1546932221940" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/StartSessionCustom.php" timestamp="1546848501295" />
@@ -54,7 +75,6 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/tenancy/tenant_ec/views/demo/main/game-list.blade.php" timestamp="1546842132714" />
     </filemarks>
     <jumps>
-      <jump line="69" column="21" filename="$USER_HOME$/web-service/application/Model/Message/Assistant/MessageAssetAssistant.php" />
       <jump line="111" column="52" filename="$USER_HOME$/web-service/application/Model/Message/Assistant/UserAssetsAssistant.php" />
       <jump line="63" column="57" filename="$USER_HOME$/web-service/migration/v9.2.x-&gt;v9.3.0/src/MessageRelationObjectsMigrator.php" />
       <jump line="105" column="53" filename="$USER_HOME$/web-service/application/controllers/InboxApi/DraftMessage.php" />
@@ -154,6 +174,7 @@
       <jump line="1134" column="20" filename="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/BetLogEloquent.php" />
       <jump line="100" column="44" filename="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/PromotionsEloquent.php" />
       <jump line="43" column="19" filename="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/ResetRoundService.php" />
+      <jump line="66" column="0" filename="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
