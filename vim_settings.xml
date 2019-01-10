@@ -3,11 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Kernel.php" timestamp="1547101232762">
-        <mark key="[" line="54" column="19" />
-        <mark key="]" line="98" column="95" />
-        <mark key="^" line="98" column="95" />
-        <mark key="." line="98" column="95" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Kernel.php" timestamp="1547106140287">
+        <mark key="[" line="34" column="53" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/SessionIntegrateMiddleware.php" timestamp="1546846859201" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/AuthServiceProvider.php" timestamp="1547097276647">
@@ -16,11 +13,13 @@
         <mark key="^" line="39" column="43" />
         <mark key="." line="39" column="43" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php" timestamp="1547106167444" />
       <file name="$USER_HOME$/wuming/WeChatCasino/config/tenancy.php" timestamp="1547015560412" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionService.php" timestamp="1547027923070" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/UserController.php" timestamp="1546849358780" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/RedirectMiddleware.php" timestamp="1546846355715" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/PassportServiceProvider.php" timestamp="1547100017755">
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Auth/RequestGuard.php" timestamp="1547102692846" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/PassportServiceProvider.php" timestamp="1547102423850">
         <mark key="[" line="265" column="18" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/config/auth.php" timestamp="1547099018906" />
@@ -34,26 +33,38 @@
         <mark key="." line="33" column="46" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/app.yml" timestamp="1546932215696" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/league/oauth2-server/src/AuthorizationValidators/BearerTokenValidator.php" timestamp="1547103342222">
+        <mark key="[" line="62" column="73" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/user/login.blade.php" timestamp="1546849445080" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Auth/TokenGuard.php" timestamp="1547102763364">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/RouteServiceProvider.php" timestamp="1547105989725">
+        <mark key="[" line="51" column="32" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/TestController.php" timestamp="1547022033486">
         <mark key="[" line="37" column="46" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/Guards/TokenGuard.php" timestamp="1547100009822">
-        <mark key="[" line="87" column="38" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/Guards/TokenGuard.php" timestamp="1547103068812">
+        <mark key="[" line="124" column="5" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Factory.php" timestamp="1547098949405" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1547101100782">
-        <mark key="[" line="26" column="99" />
-        <mark key="]" line="26" column="99" />
-        <mark key="." line="26" column="99" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1547105728713">
+        <mark key="[" line="30" column="62" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/PayService.php" timestamp="1547015815015">
-        <mark key="[" line="235" column="77" />
-        <mark key="]" line="235" column="80" />
-        <mark key="." line="235" column="80" />
-      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Routing/Router.php" timestamp="1547106192339" />
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/Http/Middleware/CheckClientCredentials.php" timestamp="1547098257233">
         <mark key="[" line="46" column="43" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/league/oauth2-server/src/Exception/OAuthServerException.php" timestamp="1547103405963">
+        <mark key="[" line="203" column="5" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" timestamp="1547099510803">
         <mark key="'" line="66" column="0" />
@@ -62,16 +73,40 @@
         <mark key="^" line="59" column="4" />
         <mark key="." line="59" column="4" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/User/UserService.php" timestamp="1545903104675">
+        <mark key="[" line="100" column="36" />
+        <mark key="]" line="100" column="36" />
+        <mark key="^" line="103" column="4" />
+        <mark key="." line="100" column="36" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/EnforceTenancy.php" timestamp="1547103834311">
+        <mark key="[" line="17" column="5" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/PromotionsRepo.php" timestamp="1546411054602">
+        <mark key="[" line="26" column="78" />
+        <mark key="]" line="27" column="55" />
+        <mark key="^" line="27" column="55" />
+        <mark key="." line="27" column="55" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/Dockerfile" timestamp="1546932221940" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/PassportServiceProvider.php" timestamp="1547100871880" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/StartSessionCustom.php" timestamp="1546848501295" />
       <file name="$USER_HOME$/wuming/WeChatCasino/config/database.php" timestamp="1547015130789" />
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/Token.php" timestamp="1547025461110" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/ThirdPartyController.php" timestamp="1547096671641">
-        <mark key="[" line="298" column="8" />
-        <mark key="]" line="298" column="9" />
-        <mark key="^" line="298" column="9" />
-        <mark key="." line="298" column="9" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/ThirdPartyController.php" timestamp="1547106384427">
+        <mark key="[" line="301" column="44" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/routes/app-api.php" timestamp="1544682967005">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="17" column="15" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/whitelist/stage/ip_white.conf" timestamp="1546414001753">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="37" column="17" />
+        <mark key="^" line="37" column="17" />
+        <mark key="." line="37" column="17" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/tenancy/tenant_ec/views/demo/main/game-list.blade.php" timestamp="1546842132714" />
     </filemarks>
