@@ -11,10 +11,19 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Kernel.php" timestamp="1547107617254">
         <mark key="[" line="34" column="53" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/SessionIntegrateMiddleware.php" timestamp="1547712302370">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/GameRepoContract.php" timestamp="1547539167015">
         <mark key="[" line="25" column="50" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/AuthController.php" timestamp="1547707230984" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/AuthController.php" timestamp="1547712213513">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/.env" timestamp="1547707786560">
         <mark key="]" line="84" column="23" />
         <mark key="^" line="84" column="23" />
@@ -63,6 +72,7 @@
         <mark key="." line="103" column="26" />
         <mark key="^" line="103" column="26" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/config/swoole_http.php" timestamp="1547712048546" />
       <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1547179957642">
         <mark key="[" line="26" column="54" />
         <mark key="]" line="26" column="54" />
@@ -106,6 +116,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/Dockerfile" timestamp="1547704825984" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/GameRepo.php" timestamp="1547540380828">
         <mark key="[" line="18" column="5" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Helper/SessionHelper.php" timestamp="1547712325506">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/GameMonitorServiceProvider.php" timestamp="1547531255982">
         <mark key="[" line="30" column="0" />
@@ -251,8 +266,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>9000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -261,7 +276,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>9000</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -286,8 +301,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGxvY2F0aW9uIC8gewogICAgICAgIHRyeV9maWxlcyAkdXJpICR1cmkvIEBzd29vbGU7CiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -302,47 +317,20 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>location ~ \.php$ {
-        try_files $uri /index.php =404;
-        fastcgi_pass php-upstream;
-        fastcgi_index index.php;
-        fastcgi_buffers 16 16k;
-        fastcgi_buffer_size 32k;
-        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
-        include fastcgi_params;
-
-        fastcgi_connect_timeout 300;
-        fastcgi_send_timeout 300;
-        fastcgi_busy_buffers_size 64k;
-        fastcgi_temp_file_write_size 64k;
-
-        if ($http_origin ~* (http?://.*\.localhost\.com$)) {
-            add_header Access-Control-Allow-Origin $http_origin always;
-            add_header 'Access-Control-Allow-Credentials' 'true' always;
-            add_header 'Access-Control-Allow-Methods' 'GET, POST, PUT, DELETE, OPTIONS' always;
-            add_header 'Access-Control-Allow-Headers' 'X-Requested-With, Content-Type, Accept, Authorization' always;
-        }
-
-        if ($http_origin ~* (http?://.*\.6661p\.cn)) {
-            add_header Access-Control-Allow-Origin $http_origin always;
-            add_header 'Access-Control-Allow-Credentials' 'true' always;
-            add_header 'Access-Control-Allow-Methods' 'GET, POST, PUT, DELETE, OPTIONS' always;
-            add_header 'Access-Control-Allow-Headers' 'X-Requested-With, Content-Type, Accept, Authorization' always;
-        }
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -352,14 +340,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CnNlcnZlciB7CiAgICBsaXN0ZW4gODA7CgogICAgaW5jbHVkZSAvZXRjL25naW54L3doaXRlbGlzdC9iYWNrZW5kX3NlcnZlcl9uYW1lLmNvbmY7CiAgICByb290IC92YXIvd3d3L3B1YmxpYy9hZG1pbjsKICAgIGluZGV4IGluZGV4LnBocCBpbmRleC5odG1sIGluZGV4Lmh0bTsKCiAgICBsb2NhdGlvbiAvIHsKICAgICAgICAgdHJ5X2ZpbGVzICR1cmkgJHVyaS8gL2luZGV4LnBocCRpc19hcmdzJGFyZ3M7CiAgICB9CgogICAgbG9jYXRpb24gfiBcLnBocCQgewogICAgICAgIHRyeV9maWxlcyAkdXJpIC9pbmRleC5waHAgPTQwNDsKICAgICAgICBmYXN0Y2dpX3Bhc3MgcGhwLXVwc3RyZWFtOwogICAgICAgIGZhc3RjZ2lfaW5kZXggaW5kZXgucGhwOwogICAgICAgIGZhc3RjZ2lfYnVmZmVycyAxNiAxNms7CiAgICAgICAgZmFzdGNnaV9idWZmZXJfc2l6ZSAzMms7CiAgICAgICAgZmFzdGNnaV9wYXJhbSBTQ1JJUFRfRklMRU5BTUUgJGRvY3VtZW50X3Jvb3QkZmFzdGNnaV9zY3JpcHRfbmFtZTsKICAgICAgICBpbmNsdWRlIGZhc3RjZ2lfcGFyYW1zOwoKICAgICAgICBmYXN0Y2dpX2Nvbm5lY3RfdGltZW91dCAzMDA7CiAgICAgICAgZmFzdGNnaV9zZW5kX3RpbWVvdXQgMzAwOwogICAgICAgIGZhc3RjZ2lfYnVzeV9idWZmZXJzX3NpemUgNjRrOwogICAgICAgIGZhc3RjZ2lfdGVtcF9maWxlX3dyaXRlX3NpemUgNjRrOwoKICAgIH0KCiAgICBsb2NhdGlvbiB+IC9cLmh0IHsKICAgICAgICBkZW55IGFsbDsKICAgIH0KfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2Vzc2lvbkhlbHBlcjo6YXV0aCgkYXV0aERhdGEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGdhbWVTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcGFyZW50ID0gJHVzZXItPmdldFBhcmVudCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBHYW1lU2VydmljZSAkZ2FtZVNlcnZpY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
