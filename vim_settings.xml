@@ -80,10 +80,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/production/default.conf" timestamp="1547715022490" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/UserController.php" timestamp="1548050382026" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/stage/single-wallet.conf" timestamp="1547709062165" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/dev/default.conf" timestamp="1547716187193">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/dev/default.conf" timestamp="1548060672364">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/league/oauth2-server/src/AuthorizationValidators/BearerTokenValidator.php" timestamp="1547108368929">
         <mark key="[" line="98" column="0" />
@@ -95,11 +96,11 @@
         <mark key="]" line="101" column="11" />
         <mark key="." line="101" column="11" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env" timestamp="1547714680386">
-        <mark key="[" line="103" column="23" />
-        <mark key="]" line="103" column="26" />
-        <mark key="." line="103" column="26" />
-        <mark key="^" line="103" column="26" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env" timestamp="1548059638158">
+        <mark key="[" line="83" column="23" />
+        <mark key="]" line="83" column="25" />
+        <mark key="." line="83" column="25" />
+        <mark key="^" line="83" column="25" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/config/swoole_http.php" timestamp="1547713569562" />
       <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1547179957642">
@@ -256,8 +257,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZWNobyAidXBzdHJlYW0gcGhwLXVwc3RyZWFtIHsgc2VydmVyICR7UEhQX1VQU1RSRUFNX0NPTlRBSU5FUn06JHtQSFBfVVBTVFJFQU1fUE9SVH07IH0iID4gL2V0Yy9uZ2lueC9jb25mLmQvdXBzdHJlYW0uY29uZiBcCiAgICAmJiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -266,7 +267,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -291,8 +292,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZWNobyAidXBzdHJlYW0gcGhwLXVwc3RyZWFtIHsgc2VydmVyICR7UEhQX1VQU1RSRUFNX0NPTlRBSU5FUn06JHtQSFBfVVBTVFJFQU1fUE9SVH07IH0iID4gL2V0Yy9uZ2lueC9jb25mLmQvdXBzdHJlYW0uY29uZiBcCiAgICAmJiA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -308,19 +309,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYXV0aERhdGEgICAgPSBbXTsK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIGxvY2F0aW9uID0gL2luZGV4LnBocCB7CiAgICAgICAgIyBFbnN1cmUgdGhhdCB0aGVyZSBpcyBubyBzdWNoIGZpbGUgbmFtZWQgIm5vdF9leGlzdHMiCiAgICAgICAgIyBpbiB5b3VyICJwdWJsaWMiIGRpcmVjdG9yeS4KICAgICAgICB0cnlfZmlsZXMgL25vdF9leGlzdHMgQHN3b29sZTsKICAgIH0=</text>
+        <text encoding="base64">ZWNobyAidXBzdHJlYW0gcGhwLXVwc3RyZWFtIHsgc2VydmVyICR7UEhQX1VQU1RSRUFNX0NPTlRBSU5FUn06JHtQSFBfVVBTVFJFQU1fUE9SVH07IH0iID4gL2V0Yy9uZ2lueC9jb25mLmQvdXBzdHJlYW0uY29uZiBcCiAgICAmJiA=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBzZXQgJHN1ZmZpeCAiIjsKICAgICAgICBpZiAoJHVyaSA9IC9pbmRleC5waHApIHsKICAgICAgICAgICAgc2V0ICRzdWZmaXggIi8iOwogICAgICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkYXV0aERhdGEgICAgPSBbXTsK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBwcm94eV9zZXRfaGVhZGVyIEhvc3QgJGhvc3Q7CiAgICAgICAgcHJveHlfc2V0X2hlYWRlciBTRVJWRVJfUE9SVCAkc2VydmVyX3BvcnQ7CiAgICAgICAgcHJveHlfc2V0X2hlYWRlciBSRU1PVEVfQUREUiAkcmVtb3RlX2FkZHI7CiAgICAgICAgcHJveHlfc2V0X2hlYWRlciBYLUZvcndhcmRlZC1Gb3IgJHByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3I7CiAgICAgICAgICAgICAgICBwcm94eV9odHRwX3ZlcnNpb24gMS4xOw==</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uID0gL2luZGV4LnBocCB7CiAgICAgICAgIyBFbnN1cmUgdGhhdCB0aGVyZSBpcyBubyBzdWNoIGZpbGUgbmFtZWQgIm5vdF9leGlzdHMiCiAgICAgICAgIyBpbiB5b3VyICJwdWJsaWMiIGRpcmVjdG9yeS4KICAgICAgICB0cnlfZmlsZXMgL25vdF9leGlzdHMgQHN3b29sZTsKICAgIH0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBzZXQgJHN1ZmZpeCAiIjsKICAgICAgICBpZiAoJHVyaSA9IC9pbmRleC5waHApIHsKICAgICAgICAgICAgc2V0ICRzdWZmaXggIi8iOwogICAgICAgIH0=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -330,11 +331,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBwcm94eV9zZXRfaGVhZGVyIEhvc3QgJGhvc3Q7CiAgICAgICAgcHJveHlfc2V0X2hlYWRlciBTRVJWRVJfUE9SVCAkc2VydmVyX3BvcnQ7CiAgICAgICAgcHJveHlfc2V0X2hlYWRlciBSRU1PVEVfQUREUiAkcmVtb3RlX2FkZHI7CiAgICAgICAgcHJveHlfc2V0X2hlYWRlciBYLUZvcndhcmRlZC1Gb3IgJHByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3I7CiAgICAgICAgICAgICAgICBwcm94eV9odHRwX3ZlcnNpb24gMS4xOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
