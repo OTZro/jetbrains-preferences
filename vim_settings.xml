@@ -104,6 +104,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/UserController.php" timestamp="1548223743087" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/dev/default.conf" timestamp="1548228227236" />
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1547099615182">
         <mark key="[" line="59" column="0" />
       </file>
@@ -134,6 +135,11 @@
         <mark key="]" line="23" column="56" />
         <mark key="." line="23" column="56" />
         <mark key="^" line="23" column="56" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/stage/default.conf" timestamp="1548228708653">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1548137727157">
         <mark key="[" line="197" column="75" />
@@ -185,6 +191,11 @@
         <mark key="]" line="17" column="26" />
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="26" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/stage-slave/default.conf" timestamp="1548228701258">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -310,8 +321,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcm94eV9zZW5kX3RpbWVvdXQgNTAwczsK</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -345,9 +356,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>ARG PHP_FPM_CMD=&quot;php-fpm&quot;
-CMD ${PHP_FPM_CMD}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcm94eV9zZW5kX3RpbWVvdXQgNTAwczsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -363,19 +373,19 @@ CMD ${PHP_FPM_CMD}</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm94eV9yZWFkX3RpbWVvdXQgNTAwczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm94eV9jb25uZWN0X3RpbWVvdXQgNTAwczsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZWNobyAidXBzdHJlYW0gcGhwLXVwc3RyZWFtIHsgc2VydmVyICR7UEhQX1VQU1RSRUFNX0NPTlRBSU5FUn06JHtQSFBfVVBTVFJFQU1fUE9SVH07IH0iID4gL2V0Yy9uZ2lueC9jb25mLmQvdXBzdHJlYW0uY29uZiBcCiAgICAmJiA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkYXV0aERhdGEgICAgPSBbXTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBwcm94eV9jb25uZWN0X3RpbWVvdXQgNTAwczsKICAgICAgICBwcm94eV9yZWFkX3RpbWVvdXQgNTAwczsKICAgICAgICBwcm94eV9zZW5kX3RpbWVvdXQgNTAwczs=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGxvY2F0aW9uID0gL2luZGV4LnBocCB7CiAgICAgICAgIyBFbnN1cmUgdGhhdCB0aGVyZSBpcyBubyBzdWNoIGZpbGUgbmFtZWQgIm5vdF9leGlzdHMiCiAgICAgICAgIyBpbiB5b3VyICJwdWJsaWMiIGRpcmVjdG9yeS4KICAgICAgICB0cnlfZmlsZXMgL25vdF9leGlzdHMgQHN3b29sZTsKICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -386,13 +396,13 @@ CMD ${PHP_FPM_CMD}</text>
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBzZXQgJHN1ZmZpeCAiIjsKICAgICAgICBpZiAoJHVyaSA9IC9pbmRleC5waHApIHsKICAgICAgICAgICAgc2V0ICRzdWZmaXggIi8iOwogICAgICAgIH0=</text>
+        <text encoding="base64">CnNlcnZlciB7CiAgICBsaXN0ZW4gMTAwMDYgZGVmYXVsdF9zZXJ2ZXI7CiAgICBsaXN0ZW4gWzo6XToxMDAwNiBkZWZhdWx0X3NlcnZlciBpcHY2b25seT1vbjsKCiAgICBzZXJ2ZXJfbmFtZSBsb2NhbGhvc3Q7CiAgICByb290IC92YXIvd3d3L3B1YmxpYy9hZG1pbjsKICAgIGluZGV4IGluZGV4LnBocCBpbmRleC5odG1sIGluZGV4Lmh0bTsKCiAgICB1bmRlcnNjb3Jlc19pbl9oZWFkZXJzIG9uOwoKICAgIGxvY2F0aW9uIC8gewogICAgICAgICB0cnlfZmlsZXMgJHVyaSAkdXJpLyAvaW5kZXgucGhwJGlzX2FyZ3MkYXJnczsKICAgIH0KCiAgICBsb2NhdGlvbiB+IFwucGhwJCB7CiAgICAgICAgdHJ5X2ZpbGVzICR1cmkgL2luZGV4LnBocCA9NDA0OwogICAgICAgIGZhc3RjZ2lfcGFzcyBwaHAtdXBzdHJlYW07CiAgICAgICAgZmFzdGNnaV9pbmRleCBpbmRleC5waHA7CiAgICAgICAgZmFzdGNnaV9idWZmZXJzIDE2IDE2azsKICAgICAgICBmYXN0Y2dpX2J1ZmZlcl9zaXplIDMyazsKICAgICAgICBmYXN0Y2dpX3BhcmFtIFNDUklQVF9GSUxFTkFNRSAkZG9jdW1lbnRfcm9vdCRmYXN0Y2dpX3NjcmlwdF9uYW1lOwogICAgICAgIGluY2x1ZGUgZmFzdGNnaV9wYXJhbXM7CgogICAgICAgIGZhc3RjZ2lfY29ubmVjdF90aW1lb3V0IDMwMDsKICAgICAgICBmYXN0Y2dpX3NlbmRfdGltZW91dCAzMDA7CiAgICAgICAgZmFzdGNnaV9idXN5X2J1ZmZlcnNfc2l6ZSA2NGs7CiAgICAgICAgZmFzdGNnaV90ZW1wX2ZpbGVfd3JpdGVfc2l6ZSA2NGs7CgogICAgfQp9</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBwcm94eV9zZXRfaGVhZGVyIEhvc3QgJGhvc3Q7CiAgICAgICAgcHJveHlfc2V0X2hlYWRlciBTRVJWRVJfUE9SVCAkc2VydmVyX3BvcnQ7CiAgICAgICAgcHJveHlfc2V0X2hlYWRlciBSRU1PVEVfQUREUiAkcmVtb3RlX2FkZHI7CiAgICAgICAgcHJveHlfc2V0X2hlYWRlciBYLUZvcndhcmRlZC1Gb3IgJHByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3I7CiAgICAgICAgICAgICAgICBwcm94eV9odHRwX3ZlcnNpb24gMS4xOw==</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBsb2NhdGlvbiAvbmdpbnhfc3RhdHVzIHsKICAgICAgICAjIOWVn+eUqCBzdHViX3N0YXR1cyDmqKHntYQKICAgICAgICBzdHViX3N0YXR1cyBvbjsKCiAgICAgICAgIyDpl5zplonntIDpjITlip/og70KICAgICAgICBhY2Nlc3NfbG9nIG9mZjsKCiAgICAgICAgIyDpmZDliLblj6/lrZjlj5bnmoQgSVAg5L2N5Z2ACiAgICAgICAgI2FsbG93IDE5Mi4xNjguNDAuODk7CiAgICAgICAgI2RlbnkgYWxsOwogICAgfQ==</text>
       </register>
       <register name="y" type="4">
         <text />
