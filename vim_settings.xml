@@ -6,16 +6,15 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Kernel.php" timestamp="1548137716310">
         <mark key="[" line="34" column="53" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/TenantMiddleware.php" timestamp="1549869253639">
-        <mark key="[" line="28" column="59" />
-        <mark key="]" line="28" column="16" />
-        <mark key="^" line="28" column="16" />
-        <mark key="." line="28" column="16" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/TenantMiddleware.php" timestamp="1549872302943">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="30" column="16" />
+        <mark key="^" line="30" column="16" />
+        <mark key="." line="30" column="16" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Repository/GameRepoContract.php" timestamp="1547539167015">
         <mark key="[" line="25" column="50" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/hyn/multi-tenant/src/Environment.php" timestamp="1549867448516" />
       <file name="/fragment.js" timestamp="1548668824388">
         <mark key="[" line="0" column="0" />
       </file>
@@ -25,16 +24,28 @@
         <mark key="." line="121" column="37" />
         <mark key="^" line="121" column="37" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionService.php" timestamp="1549859095333">
+        <mark key="[" line="154" column="13" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/PassportServiceProvider.php" timestamp="1547102423850">
         <mark key="[" line="265" column="18" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1547099615182">
+        <mark key="[" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-production-slave" timestamp="1548223397819">
         <mark key="[" line="32" column="23" />
       </file>
+      <file name="/PHP Console" timestamp="1549872301338">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/config/app.php" timestamp="1547699374792">
         <mark key="[" line="159" column="61" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/swooletw/laravel-swoole/src/Server/Sandbox.php" timestamp="1549869343211" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/swooletw/laravel-swoole/src/Server/Sandbox.php" timestamp="1549871587634" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/RouteServiceProvider.php" timestamp="1547105989725">
+        <mark key="[" line="51" column="32" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/TestController.php" timestamp="1549864468011">
         <mark key="[" line="41" column="5" />
         <mark key="]" line="45" column="0" />
@@ -48,38 +59,6 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/ReturnWaterService.php" timestamp="1548528699731">
         <mark key="[" line="183" column="67" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/dev/chat.conf" timestamp="1547714758583">
-        <mark key="[" line="11" column="45" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/hyn/multi-tenant/src/Jobs/HostnameIdentification.php" timestamp="1549868295428" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Listeners/Filesystem/LoadsErrorViews.php" timestamp="1549866079847" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/PersonalAccessTokenFactory.php" timestamp="1549869504652" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/GameRepo.php" timestamp="1547540380828">
-        <mark key="[" line="18" column="5" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/ThirdPartyController.php" timestamp="1549869468550" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/TenancyServiceProvider.php" timestamp="1549868783819">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="21" column="0" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1548320960365">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionService.php" timestamp="1549859095333">
-        <mark key="[" line="154" column="13" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1547099615182">
-        <mark key="[" line="59" column="0" />
-      </file>
-      <file name="/PHP Console" timestamp="1549870931023">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/swooletw/laravel-swoole/src/Server/Manager.php" timestamp="1549868984749" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/RouteServiceProvider.php" timestamp="1547105989725">
-        <mark key="[" line="51" column="32" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/config/swoole_http.php" timestamp="1549868998677">
         <mark key="[" line="23" column="38" />
@@ -99,6 +78,9 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/Http/Middleware/CheckClientCredentials.php" timestamp="1547098257233">
         <mark key="[" line="46" column="43" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/dev/chat.conf" timestamp="1547714758583">
+        <mark key="[" line="11" column="45" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/league/oauth2-server/src/Exception/OAuthServerException.php" timestamp="1547103405963">
         <mark key="[" line="203" column="5" />
       </file>
@@ -108,14 +90,24 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/EnforceTenancy.php" timestamp="1547103834311">
         <mark key="[" line="17" column="5" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/GameRepo.php" timestamp="1547540380828">
+        <mark key="[" line="18" column="5" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Logger/ActionLogger/ActionLogger.php" timestamp="1548657241780">
         <mark key="[" line="78" column="39" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Session/SessionServiceProvider.php" timestamp="1549865201895" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/EventServiceProvider.php" timestamp="1548658287585">
         <mark key="[" line="64" column="10" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/swooletw/laravel-swoole/src/Server/Resetters/ClearInstances.php" timestamp="1549869857197" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/TenancyServiceProvider.php" timestamp="1549868783819">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="21" column="0" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1548320960365">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="111" column="52" filename="$USER_HOME$/web-service/application/Model/Message/Assistant/UserAssetsAssistant.php" />
