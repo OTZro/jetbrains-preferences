@@ -28,7 +28,7 @@
         <mark key="^" line="121" column="37" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/NiuNiu/BetService.php" timestamp="1550477232906" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Transformer/AgencyTransformer.php" timestamp="1550477626955" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Transformer/AgencyTransformer.php" timestamp="1550479694706" />
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/PassportServiceProvider.php" timestamp="1547102423850">
         <mark key="[" line="265" column="18" />
       </file>
@@ -69,7 +69,12 @@
         <mark key="^" line="303" column="62" />
         <mark key="." line="303" column="62" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/WMGame/Enums/PlayType.php" timestamp="1550477636157" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/WMGame/Enums/PlayType.php" timestamp="1550479820788">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="37" column="3" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/GameRepo.php" timestamp="1547540380828">
         <mark key="[" line="18" column="5" />
       </file>
@@ -110,8 +115,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1547099615182">
         <mark key="[" line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Roulette/BetService.php" timestamp="1550478788771">
-        <mark key="[" line="190" column="48" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Roulette/BetService.php" timestamp="1550480151081">
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="0" />
+        <mark key="^" line="235" column="51" />
+        <mark key="." line="266" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/test.php" timestamp="1550210543848">
         <mark key="[" line="0" column="0" />
@@ -293,8 +301,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgJGFycmF5ID0gZXhwbG9kZSgnLCcsICRwbGF5VHlwZSk7CgogICAgICAgIHN3aXRjaCAoY291bnQoJGFycmF5KSkgewogICAgICAgICAgICBjYXNlIDE6CiAgICAgICAgICAgICAgICByZXR1cm4gJG9kZExpc3RbUGxheVR5cGU6OlJPVUxFVFRFX09ORV07CiAgICAgICAgICAgIGNhc2UgMjoKICAgICAgICAgICAgICAgIHJldHVybiAkb2RkTGlzdFtQbGF5VHlwZTo6Uk9VTEVUVEVfVFdPXTsKICAgICAgICAgICAgY2FzZSAzOgogICAgICAgICAgICAgICAgcmV0dXJuICRvZGRMaXN0W1BsYXlUeXBlOjpST1VMRVRURV9USFJFRV07CiAgICAgICAgICAgIGNhc2UgNDoKICAgICAgICAgICAgICAgIHJldHVybiAkb2RkTGlzdFtQbGF5VHlwZTo6Uk9VTEVUVEVfRk9VUl07CiAgICAgICAgICAgIGNhc2UgNjoKICAgICAgICAgICAgICAgIHJldHVybiAkb2RkTGlzdFtQbGF5VHlwZTo6Uk9VTEVUVEVfU0lYXTsKICAgICAgICAgICAgY2FzZSAxMjoKICAgICAgICAgICAgICAgIHJldHVybiAkb2RkTGlzdFtQbGF5VHlwZTo6Uk9VTEVUVEVfVFdFTFZFXTsKICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0=</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -303,7 +311,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQganNvblNlcmlhbGl6ZSgpIG1ldGhvZC4=</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -328,8 +336,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgJGFycmF5ID0gZXhwbG9kZSgnLCcsICRwbGF5VHlwZSk7CgogICAgICAgIHN3aXRjaCAoY291bnQoJGFycmF5KSkgewogICAgICAgICAgICBjYXNlIDE6CiAgICAgICAgICAgICAgICByZXR1cm4gJG9kZExpc3RbUGxheVR5cGU6OlJPVUxFVFRFX09ORV07CiAgICAgICAgICAgIGNhc2UgMjoKICAgICAgICAgICAgICAgIHJldHVybiAkb2RkTGlzdFtQbGF5VHlwZTo6Uk9VTEVUVEVfVFdPXTsKICAgICAgICAgICAgY2FzZSAzOgogICAgICAgICAgICAgICAgcmV0dXJuICRvZGRMaXN0W1BsYXlUeXBlOjpST1VMRVRURV9USFJFRV07CiAgICAgICAgICAgIGNhc2UgNDoKICAgICAgICAgICAgICAgIHJldHVybiAkb2RkTGlzdFtQbGF5VHlwZTo6Uk9VTEVUVEVfRk9VUl07CiAgICAgICAgICAgIGNhc2UgNjoKICAgICAgICAgICAgICAgIHJldHVybiAkb2RkTGlzdFtQbGF5VHlwZTo6Uk9VTEVUVEVfU0lYXTsKICAgICAgICAgICAgY2FzZSAxMjoKICAgICAgICAgICAgICAgIHJldHVybiAkb2RkTGlzdFtQbGF5VHlwZTo6Uk9VTEVUVEVfVFdFTFZFXTsKICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -344,20 +352,25 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>$oddList[
+$oddList[
+$oddList[
+$oddList[
+$oddList[
+$oddList[</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gaW50fG51bGwKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldERyYWdvblRpZ2VyTWluKCk6PyBpbnQ7CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIGludHxudWxsCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXREcmFnb25UaWdlck1heCgpOj8gaW50OwoKICAgIC8qKgogICAgICogQHJldHVybiBpbnR8bnVsbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0RHJhZ29uVGlnZXJEcmF3TWluKCk6PyBpbnQ7CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIGludHxudWxsCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXREcmFnb25UaWdlckRyYXdNYXgoKTo/IGludDs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0QmV0TGltaXQoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -367,20 +380,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIG1peGVkCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gaW50fG51bGwKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldERyYWdvblRpZ2VyTWluKCk6PyBpbnQ7CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIGludHxudWxsCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXREcmFnb25UaWdlck1heCgpOj8gaW50OwoKICAgIC8qKgogICAgICogQHJldHVybiBpbnR8bnVsbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0RHJhZ29uVGlnZXJEcmF3TWluKCk6PyBpbnQ7CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIGludHxudWxsCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXREcmFnb25UaWdlckRyYXdNYXgoKTo/IGludDs=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">QHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiAKQHJldHVybiA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2VyaWFsaXplKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0QmV0TGltaXQoKSBtZXRob2QuCg==</text>
       </register>
       <register name="y" type="4">
         <text />
       </register>
       <register name=":" type="4">
-        <text>25</text>
+        <text>399</text>
       </register>
     </registers>
     <search>
@@ -416,8 +429,6 @@
         <entry encoding="base64">XDxDb250cmFjdHNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>970</entry>
-        <entry>53</entry>
         <entry>213</entry>
         <entry>162</entry>
         <entry>482</entry>
@@ -436,6 +447,8 @@
         <entry>332</entry>
         <entry>39</entry>
         <entry>25</entry>
+        <entry>154</entry>
+        <entry>399</entry>
       </history-cmd>
       <history-expr />
       <history-input />
