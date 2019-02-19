@@ -71,7 +71,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/dev/chat.conf" timestamp="1547714758583">
         <mark key="[" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Agent/BetLimit.php" timestamp="1550564235704">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Agent/BetLimit.php" timestamp="1550568988294">
         <mark key="[" line="159" column="5" />
         <mark key="]" line="303" column="62" />
         <mark key="^" line="303" column="62" />
@@ -157,6 +157,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2019_02_19_171649_add_bet_limit_to_userinfo.php" timestamp="1550569209543">
+        <mark key="[" line="38" column="59" />
+        <mark key="]" line="38" column="59" />
+        <mark key="." line="38" column="59" />
+        <mark key="^" line="21" column="31" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/league/oauth2-server/src/Exception/OAuthServerException.php" timestamp="1547103405963">
         <mark key="[" line="203" column="5" />
       </file>
@@ -175,6 +181,7 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="148" column="74" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_04_17_172619_add_car_new_play.php" timestamp="1550568920339" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/EventServiceProvider.php" timestamp="1548658287585">
         <mark key="[" line="64" column="10" />
       </file>
@@ -308,11 +315,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>Equal
-Equal
-Equal
-Equal</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo=</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -321,7 +325,7 @@ Equal</text>
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>getBaccaratDrawMax</text>
+        <text>odd_group</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -346,11 +350,8 @@ Equal</text>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>Equal
-Equal
-Equal
-Equal</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -365,19 +366,39 @@ Equal</text>
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21heExpbWl0JyAgICAgICA9PiAkbWF4TGltaXQsCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21pbkxpbWl0JyAgICAgICA9PiAkbWluTGltaXQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbWF4TGltaXQgICAgICAgICAgPSAkdGhpcy0+YmV0U2VydmljZS0+Z2V0TWF4QmV0KCR1c2VyKTsK</text>
+      <register name="4" type="8">
+        <text>Equal
+Equal
+Equal
+Equal</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ21heExpbWl0JyAgICAgICA9PiAkbWF4TGltaXQsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ21pbkxpbWl0JyAgICAgICA9PiAkbWluTGltaXQsCg==</text>
+      </register>
+      <register name="v" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkbWF4TGltaXQgICAgICAgICAgPSAkdGhpcy0+YmV0U2VydmljZS0+Z2V0TWF4QmV0KCR1c2VyKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkbWluTGltaXQgICAgICAgICAgPSAkdGhpcy0+YmV0U2VydmljZS0+Z2V0TWluQmV0KCR1c2VyKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>ROULETTE_
 ROULETTE_
 ROULETTE_
@@ -390,23 +411,6 @@ ROULETTE_
 ROULETTE_
 ROULETTE_
 ROULETTE_</text>
-      </register>
-      <register name="v" type="4">
-        <keys>
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">dGhpcy0+CnRoaXMtPgp0aGlzLT4KdGhpcy0+CnRoaXMtPgp0aGlzLT4KdGhpcy0+CnRoaXMtPgp0aGlzLT4KdGhpcy0+CnRoaXMtPgp0aGlzLT4KdGhpcy0+CnRoaXMtPgp0aGlzLT4KdGhpcy0+CnRoaXMtPgp0aGlzLT4KdGhpcy0+CnRoaXMtPgp0aGlzLT4KdGhpcy0+CnRoaXMtPgp0aGlzLT5y</text>
-      </register>
-      <register name="8" type="8">
-        <text encoding="base64">TWF4Ck1heApNYXgKTWF4Ck1heApNYXgKTWF4Ck1heApNYXgKTWF4Ck1heApNYXgKTWF4Ck1heApNYXgKTWF4Ck1heApNYXgKTWF4Ck1heApNYXgKTWF4Ck1heApNYXgKTWF4CiAgIA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUGxheVR5cGU6OjoK</text>
       </register>
       <register name="y" type="4">
         <text />
