@@ -73,11 +73,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/dev/chat.conf" timestamp="1547714758583">
         <mark key="[" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Agent/BetLimit.php" timestamp="1550738859311">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Agent/BetLimit.php" timestamp="1550822530557">
         <mark key="[" line="384" column="49" />
-        <mark key="]" line="410" column="89" />
-        <mark key="^" line="410" column="89" />
-        <mark key="." line="410" column="89" />
+        <mark key="]" line="416" column="89" />
+        <mark key="^" line="416" column="89" />
+        <mark key="." line="416" column="89" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/WMGame/Enums/PlayType.php" timestamp="1550479820788">
         <mark key="[" line="47" column="0" />
@@ -120,6 +120,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_09_25_154256_add_bet_limit_default.php" timestamp="1550043249421">
         <mark key="[" line="24" column="26" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2019_02_22_153517_add_bet_max_win_limit_to_fcbl.php" timestamp="1550822815675">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Middleware/RedirectMiddleware.php" timestamp="1549957235043">
         <mark key="[" line="51" column="143" />
         <mark key="]" line="53" column="0" />
@@ -145,7 +150,7 @@
       <file name="/PHP Console" timestamp="1549957403853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/PlatformConfigEloquent.php" timestamp="1550820979105">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/PlatformConfigEloquent.php" timestamp="1550821601351">
         <mark key="[" line="349" column="48" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/RouteServiceProvider.php" timestamp="1547105989725">
@@ -336,7 +341,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -345,7 +350,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>RED</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -371,7 +376,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -386,17 +391,17 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICRkYXRhWydkcmFnb25UaWdlciddWydkcmFnb25UaWdlck1heCddID8/IG51bGw7CiAkZGF0YVsnZHJhZ29uVGlnZXInXVsnZHJhZ29uVGlnZXJEcmF3TWF4J10gPz8gbnVsbDs=</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text encoding="base64">RHJhdwogICAg</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
