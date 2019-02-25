@@ -60,6 +60,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Kernel.php" timestamp="1548665211760">
         <mark key="[" line="10" column="1" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/roulette/rule.blade.php" timestamp="1551079373222">
+        <mark key="[" line="47" column="31" />
+        <mark key="]" line="47" column="31" />
+        <mark key="." line="47" column="31" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/ReturnWaterService.php" timestamp="1548528699731">
         <mark key="[" line="183" column="67" />
       </file>
@@ -98,7 +103,7 @@
         <mark key="^" line="29" column="22" />
         <mark key="." line="29" column="22" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/niu-niu/rule.blade.php" timestamp="1550826175182">
+      <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/niu-niu/rule.blade.php" timestamp="1551078637379">
         <mark key="[" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/ThirdPartyController.php" timestamp="1549961487627">
@@ -172,6 +177,7 @@
       <file name="/Dummy.txt" timestamp="1550571909996">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1551079755504" />
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env-production" timestamp="1548223387430">
         <mark key="[" line="32" column="23" />
       </file>
@@ -197,7 +203,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Logger/ActionLogger/ActionLogger.php" timestamp="1548657241780">
         <mark key="[" line="78" column="39" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/RouletteController.php" timestamp="1550567180820">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/RouletteController.php" timestamp="1551079737481">
         <mark key="[" line="160" column="0" />
         <mark key="]" line="160" column="0" />
         <mark key="." line="160" column="0" />
@@ -336,8 +342,9 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>getOdds(NiuNiuOdds::DOUBLE_5P))</text>
+      <register name="&quot;" type="8">
+        <text>One
+One</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -371,8 +378,9 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="1" type="8">
+        <text>One
+One</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -387,20 +395,20 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      <register name="2" type="8">
+        <text encoding="base64">T25lCiAgIA==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICRkYXRhWydkcmFnb25UaWdlciddWydkcmFnb25UaWdlck1heCddID8/IG51bGw7CiAkZGF0YVsnZHJhZ29uVGlnZXInXVsnZHJhZ29uVGlnZXJEcmF3TWF4J10gPz8gbnVsbDs=</text>
-      </register>
-      <register name="5" type="8">
-        <text encoding="base64">RHJhdwogICAg</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -410,8 +418,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">RHJhdwogICAg</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
