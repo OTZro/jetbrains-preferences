@@ -46,7 +46,7 @@
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Lottery/RacingCarLotteryService.php" timestamp="1555657946527">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Lottery/RacingCarLotteryService.php" timestamp="1555666613778">
         <mark key="[" line="128" column="43" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/Guards/TokenGuard.php" timestamp="1547103068812">
@@ -106,6 +106,7 @@
       <file name="/Clipboard.txt" timestamp="1555322318726">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Helper/TenancyHelper.php" timestamp="1555664847135" />
       <file name="$USER_HOME$/wuming/WeChatCasino/public/RacingCar/yxgz/index.php" timestamp="1555603096732" />
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_09_25_154256_add_bet_limit_default.php" timestamp="1550043249421">
         <mark key="[" line="24" column="26" />
@@ -135,11 +136,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env" timestamp="1554708248111">
         <mark key="[" line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/RacingCar/BetLogConsistencyCheckService.php" timestamp="1555659673423">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="4" />
-        <mark key="^" line="15" column="22" />
-        <mark key="." line="11" column="4" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/RacingCar/BetLogConsistencyCheckService.php" timestamp="1555666484606">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="35" column="32" />
+        <mark key="^" line="35" column="32" />
+        <mark key="." line="35" column="32" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/bin/package.json" timestamp="1548320238300">
         <mark key="[" line="0" column="0" />
@@ -169,6 +170,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/EventServiceProvider.php" timestamp="1548658287585">
         <mark key="[" line="64" column="10" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/SettleToVoid.php" timestamp="1555664886144" />
     </filemarks>
     <jumps>
       <jump line="63" column="57" filename="$USER_HOME$/web-service/migration/v9.2.x-&gt;v9.3.0/src/MessageRelationObjectsMigrator.php" />
@@ -294,7 +296,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text />
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -303,7 +305,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -323,7 +325,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb250cmFjdHNcPg==</text>
+        <text>:136</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
@@ -380,21 +382,20 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>53</text>
+        <text>136</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb250cmFjdHNcPg==</last-search>
+      <last-search>:136</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb250cmFjdHNcPg==</last-pattern>
+      <last-pattern>:136</last-pattern>
       <last-replace>$is_super_admin</last-replace>
       <last-substitute>!$is_restricted</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>new_inbox_attachment</entry>
         <entry>ATTACHMENT</entry>
         <entry>WebSocket</entry>
         <entry>message_group_member</entry>
@@ -414,9 +415,9 @@
         <entry>csrf</entry>
         <entry>picture</entry>
         <entry encoding="base64">XDxDb250cmFjdHNcPg==</entry>
+        <entry>:136</entry>
       </history-search>
       <history-cmd>
-        <entry>162</entry>
         <entry>482</entry>
         <entry>465</entry>
         <entry>291</entry>
@@ -436,6 +437,7 @@
         <entry>154</entry>
         <entry>399</entry>
         <entry>53</entry>
+        <entry>136</entry>
       </history-cmd>
       <history-expr />
       <history-input />
