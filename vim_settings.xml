@@ -12,6 +12,12 @@
         <mark key="^" line="70" column="10" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2019_05_03_173300_add_le_game_name.php" timestamp="1556876770750">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="14" />
+        <mark key="." line="29" column="14" />
+        <mark key="^" line="29" column="14" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/tenancy/tenant_ge/views/demo/main/game-list.blade.php" timestamp="1553152466644">
         <mark key="[" line="29" column="84" />
       </file>
@@ -23,10 +29,6 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/.env.production" timestamp="1556186055869">
         <mark key="[" line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/RacingCar/BetService.php" timestamp="1555657532004">
-        <mark key="'" line="109" column="54" />
-        <mark key="[" line="35" column="56" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/PassportServiceProvider.php" timestamp="1547102423850">
         <mark key="[" line="265" column="18" />
@@ -73,6 +75,7 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/dev/chat.conf" timestamp="1547714758583">
         <mark key="[" line="11" column="45" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/2019_04_01_185903_revise_transactions_game_number_lenght.php" timestamp="1556876718836" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/errors/503.blade.php" timestamp="1554883619054">
         <mark key="[" line="28" column="50" />
       </file>
@@ -329,7 +332,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -338,7 +341,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -364,7 +367,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -380,20 +383,20 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRzY2hlbWUgLiAnOi8vJyAuICRob3N0Owo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICR1cmwgLiAiXG4iOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>'http://' . TenancyHelper::tenantFQDN() . '/game-hall?ck=' . \Crypt::encrypt(\Session::getId())
-'http://' . TenancyHelper::tenantFQDN() . '/game-hall?ck=' . \Crypt::encrypt(\Session::getId())</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICRzY2hlbWUgLiAnOi8vJyAuICRob3N0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICR1cmwgLiAiXG4iOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyc1Jlc3VsdCk7Cg==</text>
+      <register name="6" type="8">
+        <text>'http://' . TenancyHelper::tenantFQDN() . '/game-hall?ck=' . \Crypt::encrypt(\Session::getId())
+'http://' . TenancyHelper::tenantFQDN() . '/game-hall?ck=' . \Crypt::encrypt(\Session::getId())</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -407,10 +410,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyc1Jlc3VsdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXBwKCktPmVudmlyb25tZW50KCkgPT0gJ3Byb2R1Y3Rpb24nKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
