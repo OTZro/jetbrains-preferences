@@ -38,7 +38,11 @@
         <mark key="]" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/AuthController.php" timestamp="1557474282879" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/AuthController.php" timestamp="1557476452378">
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/passport/src/PassportServiceProvider.php" timestamp="1547102423850">
         <mark key="[" line="265" column="18" />
       </file>
@@ -83,8 +87,8 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/AppServiceProvider.php" timestamp="1549876109897">
         <mark key="[" line="19" column="43" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/NamespaceRegistry.php" timestamp="1555656539288">
-        <mark key="[" line="42" column="54" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/NamespaceRegistry.php" timestamp="1557476493183">
+        <mark key="[" line="47" column="65" />
         <mark key="]" line="42" column="54" />
         <mark key="." line="42" column="54" />
       </file>
@@ -102,6 +106,7 @@
         <mark key="]" line="39" column="35" />
         <mark key="." line="39" column="35" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Helper/helper.php" timestamp="1557476347977" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Presenter/BetLogResultPresenter.php" timestamp="1555317500037">
         <mark key="[" line="48" column="5" />
       </file>
@@ -141,6 +146,7 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Helper/UserHelper.php" timestamp="1557476338571" />
       <file name="/Clipboard.txt" timestamp="1555322318726">
         <mark key="[" line="0" column="0" />
       </file>
@@ -191,13 +197,19 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="32" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Auth/AuthService.php" timestamp="1557476575157">
+        <mark key="[" line="12" column="94" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/bin/package.json" timestamp="1548320238300">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/PlatformConfig.php" timestamp="1550739664189">
         <mark key="[" line="213" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555655673984">
+      <file name="/Dummy.txt" timestamp="1557476425822">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1555323830005">
@@ -352,8 +364,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>72</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGlkID0gCg==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -387,8 +399,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgJGRhdGEgPSBbCiAgICAgICAgICAgICdqc29uJyA9PiBbCiAgICAgICAgICAgICAgICAnVG9rZW4nID0+ICR0b2tlbiwKICAgICAgICAgICAgXSwKICAgICAgICBdOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGlkID0gCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -410,13 +422,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGF1dGhEYXRhWydjaXR5J10gICAgICAgICAgPSAkdXNlci0+Z2V0Q2l0eSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRzY2hlbWUgLiAnOi8vJyAuICRob3N0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGF1dGhEYXRhWydwcm92aW5jZSddICAgICAgPSAnJzsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -427,14 +439,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICR1cmwgLiAiXG4iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGF1dGhEYXRhWydjb3VudHJ5J10gICAgICAgPSAkdXNlci0+Z2V0Q291bnRyeSgpOwo=</text>
       </register>
-      <register name="8" type="8">
-        <text>'http://' . TenancyHelper::tenantFQDN() . '/game-hall?ck=' . \Crypt::encrypt(\Session::getId())
-'http://' . TenancyHelper::tenantFQDN() . '/game-hall?ck=' . \Crypt::encrypt(\Session::getId())</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGF1dGhEYXRhWydzZXgnXSAgICAgICAgICAgPSAkdXNlci0+Z2V0R2VuZGVyKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGF1dGhEYXRhWydwYXJlbnRfb3BlbmlkJ10gPSAhZW1wdHkoJHVzZXItPmdldFBhcmVudCgpKSA/ICR1c2VyLT5nZXRQYXJlbnQoKS0+Z2V0T3BlbklkKCkgOiAnJzsK</text>
       </register>
       <register name="y" type="4">
         <text />
