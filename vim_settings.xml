@@ -109,11 +109,6 @@
         <mark key="^" line="178" column="63" />
         <mark key="." line="178" column="63" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/User/UserService.php" timestamp="1559717368672">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/errors/503.blade.php" timestamp="1554883619054">
         <mark key="[" line="28" column="50" />
       </file>
@@ -154,11 +149,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_09_25_154256_add_bet_limit_default.php" timestamp="1550043249421">
         <mark key="[" line="24" column="26" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/UserController.php" timestamp="1559721417171">
-        <mark key="[" line="238" column="28" />
-        <mark key="]" line="242" column="32" />
-        <mark key="^" line="242" column="32" />
-        <mark key="." line="242" column="32" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/UserController.php" timestamp="1559723844591">
+        <mark key="[" line="182" column="39" />
+        <mark key="]" line="182" column="39" />
+        <mark key="^" line="217" column="84" />
+        <mark key="." line="182" column="39" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Dice/BetService.php" timestamp="1550824808161">
         <mark key="[" line="193" column="48" />
@@ -197,11 +192,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env" timestamp="1556005073059">
         <mark key="[" line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Auth/AuthService.php" timestamp="1559722792464">
-        <mark key="[" line="102" column="31" />
-        <mark key="]" line="102" column="31" />
-        <mark key="^" line="104" column="8" />
-        <mark key="." line="102" column="31" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Auth/AuthService.php" timestamp="1559724474779">
+        <mark key="[" line="114" column="64" />
+        <mark key="]" line="114" column="63" />
+        <mark key="^" line="114" column="63" />
+        <mark key="." line="114" column="63" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/bin/package.json" timestamp="1548320238300">
         <mark key="[" line="0" column="0" />
@@ -385,7 +380,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>DuplicateWalletRequestException</text>
+        <text />
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -394,7 +389,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>DuplicateWalletRequestException</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -420,7 +415,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9tb3RlTW9uZXkoKTogZmxvYXQgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -435,20 +430,20 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHByaXZhdGUgJG9yZGVySWQ7CgogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KHN0cmluZyAkb3JkZXJJZCwgaW50ICRjb2RlID0gMCwgVGhyb3dhYmxlICRwcmV2aW91cyA9IG51bGwpCiAgICB7CiAgICAgICAgJHRoaXMtPm9yZGVySWQgPSAkb3JkZXJJZDsKCiAgICAgICAgJG1lc3NhZ2UgPSBfXygnYXBpLWVycm9yLW1lc3NhZ2UuMTAwMTMnLCBbJ2lkJyA9PiAkb3JkZXJJZF0sICdlbicpOwoKICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRtZXNzYWdlLCAkY29kZSwgJHByZXZpb3VzKTsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRPcmRlcklkKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPm9yZGVySWQ7CiAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICcnOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGJpbmRBY2NvdW50KFVzZXIgJHVzZXIsIFJlcXVlc3QgJHJlcXVlc3QpCiAgICB7CiAgICAgICAgJHVzZXItPnNldEFjY291bnQoJHJlcXVlc3QtPmdldCgnYWNjb3VudCcpKTsKICAgICAgICAkdXNlci0+c2V0UGFzc3dvcmQoJHJlcXVlc3QtPmdldCgncGFzc3dvcmQnKSk7CiAgICAgICAgJHVzZXItPnNldFBob25lTnVtYmVyKCRyZXF1ZXN0LT5nZXQoJ3Bob25lX251bWJlcicpKTsKCiAgICAgICAgVXNlclJlcG86OnVwZGF0ZSgkdXNlcik7CiAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nOjplcnJvcigkZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHByaXZhdGUgJG9yZGVySWQ7CgogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KHN0cmluZyAkb3JkZXJJZCwgaW50ICRjb2RlID0gMCwgVGhyb3dhYmxlICRwcmV2aW91cyA9IG51bGwpCiAgICB7CiAgICAgICAgJHRoaXMtPm9yZGVySWQgPSAkb3JkZXJJZDsKCiAgICAgICAgJG1lc3NhZ2UgPSBfXygnYXBpLWVycm9yLW1lc3NhZ2UuMTAwMTMnLCBbJ2lkJyA9PiAkb3JkZXJJZF0sICdlbicpOwoKICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRtZXNzYWdlLCAkY29kZSwgJHByZXZpb3VzKTsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRPcmRlcklkKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPm9yZGVySWQ7CiAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICcnOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -458,11 +453,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ZXJyb3JNCmVycm9yTQplcnJvck0KICAgICAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nOjplcnJvcigkZGF0YSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
