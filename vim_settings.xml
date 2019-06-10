@@ -21,7 +21,7 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/AuthController.php" timestamp="1560146489715">
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/AuthController.php" timestamp="1560148566162">
         <mark key="[" line="281" column="42" />
         <mark key="]" line="282" column="7" />
         <mark key="^" line="282" column="7" />
@@ -125,8 +125,8 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Dice/BetService.php" timestamp="1550824808161">
         <mark key="[" line="193" column="48" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Auth/Auth.php" timestamp="1560139956686">
-        <mark key="[" line="118" column="72" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Auth/Auth.php" timestamp="1560148637204">
+        <mark key="[" line="118" column="75" />
         <mark key="]" line="118" column="75" />
         <mark key="." line="118" column="75" />
         <mark key="^" line="118" column="75" />
@@ -160,11 +160,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env" timestamp="1556005073059">
         <mark key="[" line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Auth/AuthService.php" timestamp="1560140110415">
-        <mark key="[" line="145" column="8" />
-        <mark key="]" line="145" column="8" />
-        <mark key="^" line="144" column="30" />
-        <mark key="." line="145" column="8" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Auth/AuthService.php" timestamp="1560148562095">
+        <mark key="[" line="179" column="13" />
+        <mark key="]" line="179" column="62" />
+        <mark key="^" line="179" column="62" />
+        <mark key="." line="179" column="62" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/bin/package.json" timestamp="1548320238300">
         <mark key="[" line="0" column="0" />
@@ -194,11 +194,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/User/Register.php" timestamp="1559802006117">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Validator/UserValidator.php" timestamp="1559803063691">
-        <mark key="[" line="39" column="50" />
-        <mark key="]" line="49" column="94" />
-        <mark key="^" line="49" column="94" />
-        <mark key="." line="49" column="94" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Validator/UserValidator.php" timestamp="1560148329335">
+        <mark key="[" line="36" column="13" />
+        <mark key="]" line="36" column="20" />
+        <mark key="^" line="36" column="20" />
+        <mark key="." line="36" column="20" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/API/Contracts/AuthApiContract.php" timestamp="1559802186970">
         <mark key="[" line="18" column="29" />
@@ -335,7 +335,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$promotionToken</text>
+        <text />
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -344,7 +344,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>$promotionToken</text>
+        <text />
       </register>
       <register name="m" type="4">
         <keys>
@@ -421,7 +421,7 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>136</text>
+        <text>322</text>
       </register>
     </registers>
     <search>
@@ -457,8 +457,6 @@
         <entry>:136</entry>
       </history-search>
       <history-cmd>
-        <entry>482</entry>
-        <entry>465</entry>
         <entry>291</entry>
         <entry>1227</entry>
         <entry>45</entry>
@@ -477,6 +475,8 @@
         <entry>399</entry>
         <entry>53</entry>
         <entry>136</entry>
+        <entry>104</entry>
+        <entry>322</entry>
       </history-cmd>
       <history-expr />
       <history-input />
