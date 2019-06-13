@@ -99,12 +99,6 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/errors/503.blade.php" timestamp="1554883619054">
         <mark key="[" line="28" column="50" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/InternalApiController.php" timestamp="1560161063920">
-        <mark key="[" line="1522" column="0" />
-        <mark key="]" line="1522" column="0" />
-        <mark key="." line="1522" column="0" />
-        <mark key="^" line="1522" column="0" />
-      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/GameRepo.php" timestamp="1547540380828">
         <mark key="[" line="18" column="5" />
       </file>
@@ -117,12 +111,6 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Providers/PassportServiceProvider.php" timestamp="1560164607663" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/js/demo.js" timestamp="1551690679305">
         <mark key="[" line="829" column="0" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/BetLogRepo.php" timestamp="1560398156209">
-        <mark key="[" line="293" column="36" />
-        <mark key="]" line="293" column="36" />
-        <mark key="." line="293" column="36" />
-        <mark key="^" line="293" column="47" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/SamGong/BetService.php" timestamp="1550824817756">
         <mark key="[" line="208" column="48" />
@@ -182,12 +170,6 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/.env" timestamp="1556005073059">
         <mark key="[" line="16" column="37" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Auth/AuthService.php" timestamp="1560405488804">
-        <mark key="[" line="190" column="38" />
-        <mark key="]" line="190" column="38" />
-        <mark key="." line="190" column="38" />
-        <mark key="^" line="196" column="26" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/bin/package.json" timestamp="1548320238300">
         <mark key="[" line="0" column="0" />
@@ -370,7 +352,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>commit</text>
+        <text>has unsettled betlog</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -379,7 +361,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>commit</text>
+        <text>has unsettled betlog</text>
       </register>
       <register name="m" type="4">
         <keys>
