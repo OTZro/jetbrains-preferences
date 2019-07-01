@@ -84,7 +84,6 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/docker/nginx/sites/dev/chat.conf" timestamp="1547714758583">
         <mark key="[" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/CHANGELOG.md" timestamp="1561614753891" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/User/MoveUserService.php" timestamp="1561113052706">
         <mark key="[" line="53" column="9" />
         <mark key="]" line="36" column="0" />
@@ -97,7 +96,6 @@
         <mark key="^" line="178" column="63" />
         <mark key="." line="178" column="63" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/User/UserService.php" timestamp="1561613816723" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/views/errors/503.blade.php" timestamp="1554883619054">
         <mark key="[" line="28" column="50" />
       </file>
@@ -106,7 +104,6 @@
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/InternalApiController.php" timestamp="1561535605157" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/GameRepo.php" timestamp="1547540380828">
         <mark key="[" line="18" column="5" />
       </file>
@@ -118,6 +115,12 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/assets/js/demo.js" timestamp="1551690679305">
         <mark key="[" line="829" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/ThirdPartyController.php" timestamp="1561951015172">
+        <mark key="[" line="331" column="9" />
+        <mark key="]" line="334" column="69" />
+        <mark key="^" line="334" column="69" />
+        <mark key="." line="334" column="69" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/SamGong/BetService.php" timestamp="1550824817756">
         <mark key="[" line="208" column="48" />
@@ -137,7 +140,6 @@
       <file name="/Clipboard.txt" timestamp="1555322318726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_08_21_105014_revise_niu_niu_odds_and_remove_result_table.php" timestamp="1561615201219" />
       <file name="$USER_HOME$/wuming/WeChatCasino/config/mail.php" timestamp="1556187137318">
         <mark key="[" line="155" column="11" />
       </file>
@@ -203,8 +205,10 @@
       <file name="/Dummy.txt" timestamp="1559801992973">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1560162015748">
-        <mark key="[" line="50" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1561951449474">
+        <mark key="[" line="96" column="60" />
+        <mark key="]" line="96" column="60" />
+        <mark key="." line="96" column="60" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/LangEnum.php" timestamp="1559803121409">
         <mark key="[" line="120" column="31" />
@@ -379,7 +383,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>phone_number</text>
+        <text>wmLiveGame</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -388,7 +392,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>phone_number</text>
+        <text>wmLiveGame</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -414,7 +418,7 @@
         <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyAkcGhvbmVfbnVtYmVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGlzUmVkaXJlY3QpIHsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -433,16 +437,16 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBEYQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICRjb25maWcgICAgICAgICAgICAgICAgICAgICAgPSBQbGF0Zm9ybUNvbmZpZ1JlcG86OmdldENvbmZpZygpOwogICAgICAgICRhdXRoRGF0YSAgICAgICAgICAgICAgICAgICAgPSAkYXV0aC0+bm9ybWFsaXplKCk7CiAgICAgICAgJGF1dGhEYXRhWydycyddICAgICAgICAgICAgICA9ICRjb25maWctPmdldFBjUVJDb2RlQWdlbnRJZCgpOwogICAgICAgICRhdXRoRGF0YVsncHJvbW90aW9uX3Rva2VuJ10gPSAnJzs=</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">JHJlcXVlc3QtPmdldCgncGFzc3dvcmQnKQokcmVxdWVzdC0+Z2V0KCdwYXNzd29yZCcp</text>
-      </register>
       <register name="6" type="8">
-        <text encoding="base64">JHJlcXVlc3QtPmdldCgndXNlcm5hbWUnKQokcmVxdWVzdC0+Z2V0KCd1c2VybmFtZScp</text>
+        <text encoding="base64">JHJlcXVlc3QtPmdldCgncGFzc3dvcmQnKQokcmVxdWVzdC0+Z2V0KCdwYXNzd29yZCcp</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -452,14 +456,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">JHJlcXVlc3QtPmdldCgndXNlcm5hbWUnKQokcmVxdWVzdC0+Z2V0KCd1c2VybmFtZScp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFVzZXIgJGNoaWxkICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFVzZXIgJGNoaWxkICovCg==</text>
       </register>
       <register name="y" type="4">
         <text />
