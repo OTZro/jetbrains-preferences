@@ -15,11 +15,12 @@
         <mark key="." line="12" column="45" />
         <mark key="^" line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/wuming/DomainGuard/public/main.php" timestamp="1562297446033">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/wuming/DomainGuard/public/main.php" timestamp="1562307267902">
+        <mark key="'" line="15" column="30" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="19" column="6" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/UserController.php" timestamp="1562058964679">
         <mark key="[" line="286" column="9" />
@@ -172,7 +173,6 @@
       <file name="$USER_HOME$/wuming/DomainGuard/vendor/autoload.php" timestamp="1562231581242" />
     </filemarks>
     <jumps>
-      <jump line="63" column="57" filename="$USER_HOME$/web-service/migration/v9.2.x-&gt;v9.3.0/src/MessageRelationObjectsMigrator.php" />
       <jump line="105" column="53" filename="$USER_HOME$/web-service/application/controllers/InboxApi/DraftMessage.php" />
       <jump line="328" column="20" filename="$USER_HOME$/web-service/vendor/propel/propel/src/Propel/Runtime/Adapter/Pdo/PdoAdapter.php" />
       <jump line="96" column="48" filename="$USER_HOME$/web-service/application/Model/Privilege/Entity/Privilege.php" />
@@ -272,6 +272,7 @@
       <jump line="43" column="19" filename="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/ResetRoundService.php" />
       <jump line="66" column="0" filename="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
       <jump line="106" column="54" filename="$USER_HOME$/wuming/WeChatCasino/app/Service/RacingCar/BetService.php" />
+      <jump line="14" column="30" filename="$USER_HOME$/wuming/DomainGuard/public/main.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -294,8 +295,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>WeChat</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyAnPGlmcmFtZSBzcmM9IicgLiAkdXJsIC4gJyIgaGVpZ2h0PSIxMDAlIiB3aWR0aD0iMTAwJSI+PC9pZnJhbWU+Jwo=</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -330,7 +331,7 @@
         <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyAkcGhvbmVfbnVtYmVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAkX0VOVlsnREJfVVNFUk5BTUUnXTsK</text>
+        <text encoding="base64">ZWNobyAnPGlmcmFtZSBzcmM9IicgLiAkdXJsIC4gJyIgaGVpZ2h0PSIxMDAlIiB3aWR0aD0iMTAwJSI+PC9pZnJhbWU+Jwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -345,20 +346,20 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ZW52KAplbnYoCmVudigKICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGlzUmVkaXJlY3QpIHsK</text>
+        <text encoding="base64">ZWNobyAkX0VOVlsnREJfVVNFUk5BTUUnXTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      <register name="5" type="8">
+        <text encoding="base64">ZW52KAplbnYoCmVudigKICAgIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -369,13 +370,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEYQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGlzUmVkaXJlY3QpIHsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICRjb25maWcgICAgICAgICAgICAgICAgICAgICAgPSBQbGF0Zm9ybUNvbmZpZ1JlcG86OmdldENvbmZpZygpOwogICAgICAgICRhdXRoRGF0YSAgICAgICAgICAgICAgICAgICAgPSAkYXV0aC0+bm9ybWFsaXplKCk7CiAgICAgICAgJGF1dGhEYXRhWydycyddICAgICAgICAgICAgICA9ICRjb25maWctPmdldFBjUVJDb2RlQWdlbnRJZCgpOwogICAgICAgICRhdXRoRGF0YVsncHJvbW90aW9uX3Rva2VuJ10gPSAnJzs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">JHJlcXVlc3QtPmdldCgncGFzc3dvcmQnKQokcmVxdWVzdC0+Z2V0KCdwYXNzd29yZCcp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="y" type="4">
         <text />
