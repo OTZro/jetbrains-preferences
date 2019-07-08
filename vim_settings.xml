@@ -69,12 +69,19 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
+      <file name="$USER_HOME$/wuming/DomainGuard/app/Model/AccountCenter/BigPondDomain.php" timestamp="1562577801892">
+        <mark key="[" line="111" column="36" />
+        <mark key="]" line="111" column="29" />
+        <mark key="." line="111" column="29" />
+        <mark key="^" line="111" column="29" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/UserEloquent.php" timestamp="1561618299424">
         <mark key="[" line="80" column="55" />
         <mark key="]" line="124" column="25" />
         <mark key="^" line="124" column="25" />
         <mark key="." line="124" column="25" />
       </file>
+      <file name="$USER_HOME$/wuming/DomainGuard/app/Service/AccountCenter/ApiResponseService.php" timestamp="1562577424125" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Auth/AuthService.php" timestamp="1562143310104">
         <mark key="[" line="428" column="54" />
         <mark key="]" line="151" column="14" />
@@ -174,7 +181,8 @@
         <mark key="." line="16" column="28" />
         <mark key="^" line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/wuming/DomainGuard/docker/nginx/sites/stage/default.conf" timestamp="1562573531815">
+      <file name="$USER_HOME$/wuming/DomainGuard/.env.stage" timestamp="1562576178216" />
+      <file name="$USER_HOME$/wuming/DomainGuard/docker/nginx/sites/stage/default.conf" timestamp="1562575717403">
         <mark key="[" line="37" column="16" />
         <mark key="]" line="37" column="16" />
         <mark key="." line="37" column="16" />
@@ -303,8 +311,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -313,7 +321,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>getGuardDomain</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -339,7 +347,7 @@
         <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyAkcGhvbmVfbnVtYmVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -355,20 +363,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzX251bGwoJGRvbWFpbikpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnlfZmlsZXMgJHVyaSAvaW5kZXgucGhwID00MDQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>10005
-10005</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnlfZmlsZXMgJHVyaSAvaW5kZXgucGhwID00MDQ7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -378,11 +385,12 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CnNlcnZlciB7CiAgICBsaXN0ZW4gODA7CiAgICBzZXJ2ZXJfbmFtZSBzaW5nbGUtd2FsbGV0Lmx4MzQ1Lm5ldDsKCiAgICBsb2NhdGlvbiAvIHsKICAgICAgICBwcm94eV9wYXNzICAgICAgaHR0cDovL3RwYXBpOjEwMDQxOwoKICAgICAgICBwcm94eV9zZXRfaGVhZGVyIEhvc3QgJGh0dHBfaG9zdDsKICAgICAgICBwcm94eV9zZXRfaGVhZGVyIFgtUmVhbC1JUCAkcmVtb3RlX2FkZHI7CiAgICAgICAgcHJveHlfc2V0X2hlYWRlciBYLUZvcndhcmRlZC1Gb3IgJHByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3I7CiAgICAgICAgcHJveHlfc2V0X2hlYWRlciBIVFRQX1hfRk9SV0FSREVEX0ZPUiAkcmVtb3RlX2FkZHI7CiAgICAgICAgcHJveHlfcmVkaXJlY3QgZGVmYXVsdDsKCiAgICB9Cn0=</text>
+      <register name="7" type="8">
+        <text>10005
+10005</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
