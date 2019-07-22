@@ -72,6 +72,7 @@
         <mark key="." line="111" column="29" />
         <mark key="^" line="111" column="29" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/BetLogEloquent.php" timestamp="1563792680384" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/UserEloquent.php" timestamp="1563786496986">
         <mark key="[" line="603" column="15" />
         <mark key="]" line="124" column="25" />
@@ -106,6 +107,9 @@
         <mark key="[" line="96" column="60" />
         <mark key="]" line="96" column="60" />
         <mark key="." line="96" column="60" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1563792715310">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/PromotionLogEloquent.php" timestamp="1563787077907" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/User/MoveUserService.php" timestamp="1563786231775">
@@ -170,6 +174,11 @@
         <mark key="]" line="32" column="43" />
         <mark key="." line="32" column="43" />
         <mark key="^" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/BetLogAccounting.php" timestamp="1563792756061">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/DomainGuard/public/close.html" timestamp="1562297424484">
         <mark key="[" line="8" column="75" />
@@ -317,8 +326,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>and</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -368,10 +377,16 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">Ci8qKgogKiBAcHJvcGVydHkgaW50ICAgICRiZXRfbG9nX2lkCiAqIEBwcm9wZXJ0eSBpbnQgICAgJGFnZW50X2lkCiAqIEBwcm9wZXJ0eSBmbG9hdCAgJHNoYXJlCiAqIEBwcm9wZXJ0eSBmbG9hdCAgJHRvdGFsCiAqIEBwcm9wZXJ0eSBmbG9hdCAgJHJlc3VsdAogKiBAcHJvcGVydHkgZmxvYXQgICRyZXR1cm5fYm9udXMKICogQHByb3BlcnR5IGZsb2F0ICAkd2F0ZXJfcmVzdWx0CiAqIEBwcm9wZXJ0eSBmbG9hdCAgJHRvdGFsX3dpdGhfcmV0dXJuX3dhdGVyCiAqIEBwcm9wZXJ0eSBzdHJpbmcgJGNyZWF0ZWRfYXQKICogQHByb3BlcnR5IHN0cmluZyAkdXBkYXRlZF9hdAogKi8=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="8">
         <text>1_
 1_
 1_
@@ -380,24 +395,13 @@
 1_
 1_</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text>lv1
 lv1
 lv1
 lv1
 lv1
 lv1</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>agent_lv1_
-agent_lv1_
-agent_lv1_
-agent_lv1_
-agent_lv1_
-agent_lv1_</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -408,13 +412,18 @@ agent_lv1_</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICR2YWx1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text>agent_lv1_
+agent_lv1_
+agent_lv1_
+agent_lv1_
+agent_lv1_
+agent_lv1_</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzX251bGwoJGRvbWFpbikpIHsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICR2YWx1ZTsK</text>
       </register>
       <register name="y" type="4">
         <text />
