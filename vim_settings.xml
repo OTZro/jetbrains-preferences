@@ -64,7 +64,13 @@
         <mark key="^" line="124" column="25" />
         <mark key="." line="124" column="25" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/ReturnWaterService.php" timestamp="1563866644117" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/ReturnWaterService.php" timestamp="1563868517801">
+        <mark key="'" line="112" column="51" />
+        <mark key="[" line="112" column="51" />
+        <mark key="]" line="113" column="15" />
+        <mark key="." line="113" column="15" />
+        <mark key="^" line="113" column="15" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1563784834053" />
       <file name="$USER_HOME$/wuming/WeChatCasino/resources/lang/en/common.php" timestamp="1559803198591">
         <mark key="[" line="117" column="80" />
@@ -155,6 +161,7 @@
         <mark key="]" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Agent/Share.php" timestamp="1563868314727" />
       <file name="$USER_HOME$/wuming/WeChatCasino/routes/web.php" timestamp="1561951449474">
         <mark key="[" line="96" column="60" />
         <mark key="]" line="96" column="60" />
@@ -225,7 +232,6 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/CashFlow.php" timestamp="1563866312891" />
     </filemarks>
     <jumps>
-      <jump line="105" column="53" filename="$USER_HOME$/web-service/application/controllers/InboxApi/DraftMessage.php" />
       <jump line="328" column="20" filename="$USER_HOME$/web-service/vendor/propel/propel/src/Propel/Runtime/Adapter/Pdo/PdoAdapter.php" />
       <jump line="96" column="48" filename="$USER_HOME$/web-service/application/Model/Privilege/Entity/Privilege.php" />
       <jump line="65" column="43" filename="$USER_HOME$/web-service/application/Model/Message/Assistant/SubmitMessageAssistant.php" />
@@ -325,6 +331,7 @@
       <jump line="66" column="0" filename="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php" />
       <jump line="106" column="54" filename="$USER_HOME$/wuming/WeChatCasino/app/Service/RacingCar/BetService.php" />
       <jump line="14" column="30" filename="$USER_HOME$/wuming/DomainGuard/public/main.php" />
+      <jump line="112" column="51" filename="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/ReturnWaterService.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -348,7 +355,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -357,7 +364,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
