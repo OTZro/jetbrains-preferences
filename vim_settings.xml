@@ -70,11 +70,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/TenancyUp.php" timestamp="1563952132013" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2019_07_24_154028_migrate_level_to_relationship.php" timestamp="1564036332402">
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="31" column="28" />
-        <mark key="." line="31" column="28" />
-        <mark key="^" line="31" column="28" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2019_07_24_154028_migrate_level_to_relationship.php" timestamp="1564038290752">
+        <mark key="[" line="30" column="63" />
+        <mark key="]" line="30" column="63" />
+        <mark key="." line="30" column="63" />
+        <mark key="^" line="45" column="28" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/API/ChannelManagerApi.php" timestamp="1563257882467">
         <mark key="[" line="107" column="76" />
@@ -256,8 +256,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyAkcGhvbmVfbnVtYmVyCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">YmV0X2xvZwpiZXRfbG9nCmJldF9sb2cKYmV0X2xvZwpiZXRfbG9nCmJldF9sb2cKICAgICAgIA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -279,14 +279,14 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGFjY291bnRpbmctPnNldFRvdGFsV2l0aFJldHVybldhdGVyKCkK</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>$returnWaterKey
 $returnWaterKey</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -296,7 +296,10 @@ $returnWaterKey</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>lv_
 lv_
 lv_
@@ -313,15 +316,12 @@ lv_
 lv_
 lv_</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>AgentLv1
 AgentLv1
 AgentLv1
 AgentLv1
 AgentLv1</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICoge0Bpbmhlcml0ZG9jfQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZmluZEJ5RG9uYXRlTG9nSWRGb3JVcGRhdGUoc3RyaW5nICRkb25hdGVMb2dJZCk6ID9Eb25hdGVMb2cKICAgIHsKICAgICAgICByZXR1cm4gQmV0TG9nQWNjb3VudGluZ0Vsb3F1ZW50Ojpsb2NrRm9yVXBkYXRlKCktPndoZXJlKEJldExvZ0FjY291bnRpbmdFbG9xdWVudDo6RklFTERfRE9OQVRFX0xPR19JRCwgJGRvbmF0ZUxvZ0lkKQogICAgICAgICAgICAtPmZpcnN0KCk7CiAgICB9</text>
       </register>
       <register name="y" type="4">
         <text />
