@@ -3,14 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/TransactionService.php" timestamp="1565081563526" />
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2018_06_29_010231_change_bet_log_level_info_type.php" timestamp="1563790994106">
         <mark key="[" line="17" column="24" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2019_07_29_160126_add_field_to_bet_log_accounting_table.php" timestamp="1564388970992">
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="39" column="12" />
-        <mark key="." line="39" column="12" />
-        <mark key="^" line="25" column="57" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Support/Enums/GameEnum.php" timestamp="1565080312187">
         <mark key="[" line="829" column="17" />
@@ -24,15 +19,6 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/API/AuthApi.php" timestamp="1564992008233" />
       <file name="$USER_HOME$/wuming/WeChatCasino/config/app.php" timestamp="1563866046189">
         <mark key="[" line="232" column="75" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/BetLogEloquent.php" timestamp="1564467151877">
-        <mark key="[" line="406" column="9" />
-        <mark key="]" line="408" column="29" />
-        <mark key="." line="408" column="29" />
-        <mark key="^" line="408" column="29" />
-      </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/ReturnWaterService.php" timestamp="1564411089416">
-        <mark key="'" line="221" column="110" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/CashFlowEloquent.php" timestamp="1564046573956">
         <mark key="[" line="422" column="5" />
@@ -62,6 +48,11 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/API/ChannelManagerApi.php" timestamp="1564987850613" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/ThirdPartyPaymentService.php" timestamp="1564989692838" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/BetLog.php" timestamp="1565081090434">
+        <mark key="[" line="242" column="30" />
+        <mark key="]" line="242" column="30" />
+        <mark key="." line="242" column="30" />
+      </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/GameController.php" timestamp="1565080283673" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/RefundsEloquent.php" timestamp="1564047497417">
         <mark key="[" line="12" column="23" />
@@ -69,16 +60,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Logger/ActionLogger/ActionLogger.php" timestamp="1564413146805">
         <mark key="[" line="660" column="5" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/ThirdParty/TransactionService/VRBetlogMiddleware.php" timestamp="1565081049858" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/BetLogAccounting.php" timestamp="1564389640057">
         <mark key="[" line="86" column="82" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2019_08_01_152443_add_le_new_games_0801.php" timestamp="1564996267297" />
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/BetLogAccountingEloquent.php" timestamp="1564389513612">
-        <mark key="[" line="192" column="15" />
-        <mark key="]" line="192" column="15" />
-        <mark key="." line="192" column="15" />
-        <mark key="^" line="194" column="33" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="96" column="48" filename="$USER_HOME$/web-service/application/Model/Privilege/Entity/Privilege.php" />
@@ -203,8 +189,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -213,7 +199,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
