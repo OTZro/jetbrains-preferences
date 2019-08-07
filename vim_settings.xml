@@ -23,7 +23,11 @@
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/CashFlowEloquent.php" timestamp="1564046573956">
         <mark key="[" line="422" column="5" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Auth/AuthService.php" timestamp="1564990599660" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Auth/AuthService.php" timestamp="1565152590788">
+        <mark key="[" line="147" column="23" />
+        <mark key="]" line="147" column="23" />
+        <mark key="." line="147" column="23" />
+      </file>
       <file name="/Dummy.txt" timestamp="1564389290582">
         <mark key="[" line="0" column="0" />
       </file>
@@ -48,6 +52,7 @@
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/API/ChannelManagerApi.php" timestamp="1564987850613" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Service/Pay/ThirdPartyPaymentService.php" timestamp="1564989692838" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/User/Register.php" timestamp="1565152162655" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Contracts/Entity/BetLog.php" timestamp="1565081090434">
         <mark key="[" line="242" column="30" />
         <mark key="]" line="242" column="30" />
@@ -65,6 +70,8 @@
         <mark key="[" line="86" column="82" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2019_08_01_152443_add_le_new_games_0801.php" timestamp="1564996267297" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/tenancy/tenant_ge/config/pcdomain.php" timestamp="1565151525423" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/tenancy/tenant_aa/config/pcdomain.php" timestamp="1565151533852" />
     </filemarks>
     <jumps>
       <jump line="96" column="48" filename="$USER_HOME$/web-service/application/Model/Privilege/Entity/Privilege.php" />
@@ -190,7 +197,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>parent_openid</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -199,7 +206,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>parent_openid</text>
       </register>
       <register name="m" type="4">
         <keys>
