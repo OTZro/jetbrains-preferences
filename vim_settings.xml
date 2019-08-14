@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2019_08_14_142349_add_member_transfer_point_request.php" timestamp="1565764807162">
-        <mark key="[" line="20" column="43" />
-        <mark key="]" line="20" column="0" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2019_08_14_142349_add_member_transfer_point_request.php" timestamp="1565766148141">
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="24" column="44" />
         <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="." line="24" column="44" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/UserController.php" timestamp="1565162964390">
         <mark key="[" line="213" column="9" />
@@ -70,6 +70,7 @@
         <mark key="]" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
+      <file name="$USER_HOME$/wuming/WeChatCasino/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php" timestamp="1565766141157" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Console/Commands/UpdateUserChild.php" timestamp="1565763789224" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Repository/UserChildRepo.php" timestamp="1565763761573" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/BetLogAccountingEloquent.php" timestamp="1564389513612">
@@ -208,7 +209,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>result_money</text>
+        <text>$precision</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -217,7 +218,7 @@
         <text>2ddkkkk2dd</text>
       </register>
       <register name="-" type="4">
-        <text>result_money</text>
+        <text>$precision</text>
       </register>
       <register name="m" type="4">
         <keys>
