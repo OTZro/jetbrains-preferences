@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2019_08_14_142349_add_member_transfer_point_request.php" timestamp="1565766148141">
-        <mark key="[" line="24" column="44" />
-        <mark key="]" line="24" column="44" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="24" column="44" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2019_08_14_142349_add_member_transfer_point_request.php" timestamp="1565767652037">
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="6" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Http/Controllers/UserController.php" timestamp="1565162964390">
         <mark key="[" line="213" column="9" />
@@ -27,7 +27,7 @@
         <mark key="." line="718" column="33" />
         <mark key="^" line="718" column="33" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2017_10_31_171023_create_betlog.php" timestamp="1565764146063" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2017_10_31_171023_create_betlog.php" timestamp="1565767605866" />
       <file name="$USER_HOME$/wuming/WeChatCasino/app/Exceptions/InvalidParentException.php" timestamp="1565162820056">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="6" />
@@ -79,14 +79,13 @@
         <mark key="." line="192" column="15" />
         <mark key="^" line="194" column="33" />
       </file>
-      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2019_08_08_143406_add_vr_lottery_new_five_games.php" timestamp="1565246151842">
-        <mark key="[" line="87" column="22" />
+      <file name="$USER_HOME$/wuming/WeChatCasino/database/migrations/tenant/2019_08_08_143406_add_vr_lottery_new_five_games.php" timestamp="1565767818487">
+        <mark key="[" line="6" column="21" />
         <mark key="]" line="87" column="22" />
         <mark key="." line="87" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="48" filename="$USER_HOME$/web-service/application/Model/Privilege/Entity/Privilege.php" />
       <jump line="65" column="43" filename="$USER_HOME$/web-service/application/Model/Message/Assistant/SubmitMessageAssistant.php" />
       <jump line="325" column="15" filename="$USER_HOME$/web-service/application/Http/ApiAdapter/MessageAdapter.php" />
       <jump line="28" column="20" filename="$USER_HOME$/web-service/application/Model/MessageTopic/Assistant/TopicParticipantAssistant.php" />
@@ -186,6 +185,7 @@
       <jump line="14" column="30" filename="$USER_HOME$/wuming/DomainGuard/public/main.php" />
       <jump line="112" column="51" filename="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/ReturnWaterService.php" />
       <jump line="190" column="110" filename="$USER_HOME$/wuming/WeChatCasino/app/Service/WMGame/ReturnWaterService.php" />
+      <jump line="38" column="0" filename="$USER_HOME$/wuming/WeChatCasino/app/Model/Eloquent/MemberTransferRequestEloquent.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -208,8 +208,8 @@
           <key char="117" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>$precision</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <text>2ddj2dd</text>
@@ -243,8 +243,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyAkcGhvbmVfbnVtYmVyCg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">CgoKCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -259,20 +259,20 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJHBhcmVudF9vcGVuaWQ7Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGFnZW50X2lkOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHBhcmVudF9vcGVuaWQ7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgJGFnZW50X2lkOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IC8qKgogICAgICogQHJldHVybiBtaXhlZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0UGFyZW50T3BlbmlkKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnBhcmVudF9vcGVuaWQ7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gbWl4ZWQgJHBhcmVudF9vcGVuaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNldFBhcmVudE9wZW5pZCgkcGFyZW50X29wZW5pZCk6IHZvaWQKICAgIHsKICAgICAgICAkdGhpcy0+cGFyZW50X29wZW5pZCA9ICRwYXJlbnRfb3BlbmlkOwogICAgfQ==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -283,18 +283,18 @@
         </keys>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGsK</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>13
 13
 13
 13
 13
 13</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
