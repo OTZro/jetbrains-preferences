@@ -37,6 +37,8 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="Jdbc.RunSqlScript" />
+  <action id="NextParameter" />
+  <action id="NextTemplateParameter" />
   <action id="ParameterInfo" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
