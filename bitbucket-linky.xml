@@ -1,0 +1,34 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup />
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="8b39c98d-6e58-3220-9eaf-cd693f1e8265" baseUri="http://git.hardcoretech.co/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="git.hardcoretech.co" port="7999" path="/" uuid="8b39c98d-6e58-3220-9eaf-cd693f1e8265" />
+    </lookup>
+  </component>
+  <component name="Instance" id="5b8f2661-96e3-4a27-9877-4cf019eb5934" version="8.1.115" />
+  <component name="UsageLog">
+    <event name="FindRelatedPullRequests" place="Vcs.Log.ContextMenu" timestamp="2020-03-25T07:35:34.225247Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="OpenPullRequest" place="unknown" timestamp="2020-03-25T07:35:39.109418Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="OpenCommit" place="Vcs.Log.ContextMenu" timestamp="2020-03-25T07:36:10.504533Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="FindRelatedPullRequests" place="Vcs.Log.ContextMenu" timestamp="2020-03-25T07:37:12.324544Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="OpenPullRequest" place="unknown" timestamp="2020-03-25T07:37:16.789994Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="FindRelatedPullRequests" place="" timestamp="2020-03-25T07:39:59.556227Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+  </component>
+</application>
