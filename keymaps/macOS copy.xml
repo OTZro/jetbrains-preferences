@@ -6,6 +6,10 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.NavigateAction">
+    <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Console.TableResult.Reload" />
   <action id="DatabaseView.Refresh" />
   <action id="Diff.NextChange">
@@ -17,11 +21,6 @@
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="meta down" />
-    <keyboard-shortcut first-keystroke="f4" />
-    <keyboard-shortcut first-keystroke="meta back_slash" />
-  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
@@ -38,6 +37,12 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="GotoTest" />
   <action id="Jdbc.OpenEditor.DDL">
@@ -78,5 +83,13 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.EditSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Vcs.Log.Refresh" />
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
 </keymap>
