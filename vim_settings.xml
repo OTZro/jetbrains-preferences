@@ -112,16 +112,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/views/api.py" timestamp="1586836068838">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/types/user.type.ts" timestamp="1586838651258" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/types/only-name-user.type.ts" timestamp="1586838696107">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/views/api.py" timestamp="1586838550479">
         <mark key="[" line="202" column="15" />
         <mark key="]" line="202" column="15" />
         <mark key="." line="202" column="15" />
         <mark key="^" line="184" column="41" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/static/metronic/sass/custom.scss" timestamp="1586769149963">
-        <mark key="[" line="1100" column="11" />
-        <mark key="]" line="1100" column="11" />
-        <mark key="." line="1100" column="11" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.ts" timestamp="1586836801002">
         <mark key="[" line="11" column="9" />
@@ -129,8 +130,8 @@
         <mark key="^" line="19" column="74" />
         <mark key="." line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/approval-rule.service.ts" timestamp="1586771256922">
-        <mark key="[" line="18" column="21" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/partial_keyname.py" timestamp="1586838734267">
+        <mark key="[" line="111" column="91" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/core/state_manager.py" timestamp="1586772419749" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/approval.type.ts" timestamp="1586835731575">
@@ -138,33 +139,34 @@
         <mark key="]" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1586833254124">
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1586838398832">
         <mark key="[" line="71" column="57" />
         <mark key="]" line="71" column="67" />
         <mark key="." line="71" column="66" />
         <mark key="^" line="71" column="67" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/mbl_list/sz_ocean.py" timestamp="1586833230491" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1586836650915">
-        <mark key="[" line="50" column="67" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1586837671486">
+        <mark key="[" line="46" column="57" />
         <mark key="]" line="50" column="67" />
         <mark key="." line="50" column="67" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/models.py" timestamp="1586832328309" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/approval.service.ts" timestamp="1586836125556">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/approval.service.ts" timestamp="1586837718024">
         <mark key="[" line="74" column="41" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/amendment.py" timestamp="1586772025767" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/rate/sz.py" timestamp="1586832584330" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1586836662668">
-        <mark key="[" line="148" column="8" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1586837723927">
+        <mark key="[" line="49" column="27" />
         <mark key="]" line="148" column="8" />
         <mark key="." line="148" column="8" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/condition.py" timestamp="1586830784059">
-        <mark key="[" line="12" column="52" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/condition.py" timestamp="1586838243143">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="29" />
+        <mark key="^" line="21" column="30" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/modules.py" timestamp="1586771743337">
         <mark key="[" line="14" column="19" />
@@ -206,7 +208,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>TUser</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -336,7 +338,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>TUser</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -372,7 +374,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9ImN1c3RvbWVyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -380,13 +382,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgZ2V0X2Rpc2FibGUob2JqKToKICAgICAgICByZXR1cm4gbm90IG9iai5pc19hY3RpdmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGljdChNT0RVTEVTX0RJU1BMQVlfTUFQUElORylbYXBwcm92YWwuam9iLmpvYl9mbG93Lm1vZHVsZV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfdHlwZShhcHByb3ZhbDogQXBwcm92YWwpOgo=</text>
+        <text encoding="base64">ICAgIGRpc2FibGUgPSBzZXJpYWxpemVycy5TZXJpYWxpemVyTWV0aG9kRmllbGQoKQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -443,10 +445,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhdGVfc3VibWl0dGVkID0gc2VyaWFsaXplcnMuRGF0ZVRpbWVGaWVsZChzb3VyY2U9J2pvYi5jcmVhdGVkX2F0JykK</text>
+        <text encoding="base64">ICAgIGRpc2FibGUgPSBzZXJpYWxpemVycy5TZXJpYWxpemVyTWV0aG9kRmllbGQoKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -473,7 +475,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -489,15 +491,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>latest_approval_query = Approval.objects \
-            .filter(job__object_id=OuterRef('job__object_id')) \
-            .filter(job__content_type=OuterRef('job__content_type')) \
-            .filter(Q(permitted_approvers__in=[user]) | Q(job__creator=user)) \
-            .order_by('-created_at') \
-            .values('id')</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGljdChNT0RVTEVTX0RJU1BMQVlfTUFQUElORylbYXBwcm92YWwuam9iLmpvYl9mbG93Lm1vZHVsZV0K</text>
       </register>
       <register name="y" type="4">
         <text />
