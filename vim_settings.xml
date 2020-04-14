@@ -129,7 +129,12 @@
         <mark key="^" line="9" column="2" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1586837723927">
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/core/state_mapping.py" timestamp="1586853381655" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ag-grid-community/dist/lib/rendering/cellRenderers/iCellRenderer.d.ts" timestamp="1586855474034" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/state.py" timestamp="1586853795522" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/models.py" timestamp="1586853513311" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/core/state_manager.py" timestamp="1586853800751" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1586855152999">
         <mark key="[" line="49" column="27" />
         <mark key="]" line="148" column="8" />
         <mark key="." line="148" column="8" />
@@ -140,25 +145,18 @@
         <mark key="." line="12" column="67" />
         <mark key="^" line="12" column="68" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.ts" timestamp="1586836801002">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="9" />
-        <mark key="^" line="19" column="74" />
-        <mark key="." line="11" column="9" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/approval.service.ts" timestamp="1586837718024">
-        <mark key="[" line="74" column="41" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/approval.type.ts" timestamp="1586835731575">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/approval.type.ts" timestamp="1586854518076">
+        <mark key="[" line="21" column="19" />
         <mark key="]" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.ts" timestamp="1586849442018">
-        <mark key="[" line="16" column="33" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1586854268602">
+        <mark key="[" line="93" column="64" />
+        <mark key="]" line="93" column="64" />
+        <mark key="." line="93" column="64" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1586837671486">
-        <mark key="]" line="3" column="67" />
-        <mark key="." line="3" column="67" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-action.component.ts" timestamp="1586854838230">
+        <mark key="[" line="28" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -196,8 +194,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>ser</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -327,7 +325,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>approval_set__</text>
+        <text>ser</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -363,7 +361,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9ImN1c3RvbWVyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBqc29uLmxvYWQoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -371,13 +369,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBzdGF0dXModik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzdGF0dXModik6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgZ2V0X2Rpc2FibGUob2JqKToKICAgICAgICByZXR1cm4gbm90IG9iai5pc19hY3RpdmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -434,10 +432,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgZ2V0X2Rpc2FibGUob2JqKToKICAgICAgICByZXR1cm4gbm90IG9iai5pc19hY3RpdmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRpc2FibGUgPSBzZXJpYWxpemVycy5TZXJpYWxpemVyTWV0aG9kRmllbGQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -464,7 +462,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpc2FibGUgPSBzZXJpYWxpemVycy5TZXJpYWxpemVyTWV0aG9kRmllbGQoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -480,10 +478,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpc2FibGUgPSBzZXJpYWxpemVycy5TZXJpYWxpemVyTWV0aG9kRmllbGQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgIGRpc2FibGUgPSBzZXJpYWxpemVycy5TZXJpYWxpemVyTWV0aG9kRmllbGQoKQo=</text>
       </register>
       <register name="y" type="4">
         <text />
