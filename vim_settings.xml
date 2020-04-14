@@ -112,11 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/types/only-name-user.type.ts" timestamp="1586838696107">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/views/api.py" timestamp="1586840129325">
         <mark key="[" line="158" column="16" />
         <mark key="]" line="157" column="30" />
@@ -133,6 +128,12 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ag-grid-community/dist/lib/rendering/cellRenderers/iCellRenderer.d.ts" timestamp="1586855474034" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/state.py" timestamp="1586853795522" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/models.py" timestamp="1586853513311" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.ts" timestamp="1586857382898">
+        <mark key="[" line="28" column="117" />
+        <mark key="]" line="28" column="117" />
+        <mark key="^" line="21" column="74" />
+        <mark key="." line="28" column="117" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/core/state_manager.py" timestamp="1586853800751" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1586855152999">
         <mark key="[" line="49" column="27" />
@@ -145,18 +146,22 @@
         <mark key="." line="12" column="67" />
         <mark key="^" line="12" column="68" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/approval.type.ts" timestamp="1586854518076">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/approval.type.ts" timestamp="1586857143342">
         <mark key="[" line="21" column="19" />
         <mark key="]" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry.controller.js" timestamp="1586857945446" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1586854268602">
         <mark key="[" line="93" column="64" />
         <mark key="]" line="93" column="64" />
         <mark key="." line="93" column="64" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-action.component.ts" timestamp="1586854838230">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-action.component.ts" timestamp="1586856576964">
         <mark key="[" line="28" column="29" />
+        <mark key="]" line="20" column="6" />
+        <mark key="^" line="20" column="6" />
+        <mark key="." line="20" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -195,7 +200,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ser</text>
+        <text>s</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -325,7 +330,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ser</text>
+        <text>s</text>
       </register>
       <register name="m" type="4">
         <keys>
