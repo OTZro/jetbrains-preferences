@@ -115,11 +115,11 @@
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/views/api.py" timestamp="1586933333381" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/state.py" timestamp="1586932638140" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/modal.service.ts" timestamp="1586926664794" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.ts" timestamp="1586941143171">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="^" line="117" column="31" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.ts" timestamp="1586942290352">
+        <mark key="[" line="120" column="53" />
+        <mark key="]" line="114" column="31" />
+        <mark key="^" line="114" column="31" />
+        <mark key="." line="114" column="30" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/app.component.ts" timestamp="1586926656867">
         <mark key="[" line="101" column="0" />
@@ -134,8 +134,10 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/core/state_manager.py" timestamp="1586934140445" />
       <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ag-grid-angular/dist/interfaces.d.ts" timestamp="1586938752761" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.module.ts" timestamp="1586941145894">
-        <mark key="[" line="18" column="55" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.module.ts" timestamp="1586941812398">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/終極密碼.py" timestamp="1586940761591">
         <mark key="[" line="12" column="0" />
@@ -185,8 +187,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjZWxsUmVuZGVyZXJGcmFtZXdvcmsgPSBJbnB1dENlbGxDb21wb25lbnQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VENvbHVtblBhcmFtcyAmIHsgaW5wdXRUeXBlPzogc3RyaW5nLCBkZWNpbWFsPzogbnVtYmVyfQ==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -316,7 +318,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>param</text>
+        <text encoding="base64">VENvbHVtblBhcmFtcyAmIHsgaW5wdXRUeXBlPzogc3RyaW5nLCBkZWNpbWFsPzogbnVtYmVyfQ==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -351,8 +353,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5lR3VpLmlubmVySFRNTCArPSBgPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXNtICR7dGhpcy5nZXRUYWdDbGFzcyhTVEFUVVMuUEVORElORyl9Ij4ke3RoaXMuZ2V0VGV4dE1hcHBpbmcoU1RBVFVTLlBFTkRJTkcpfTwvc3Bhbj5gOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjZWxsUmVuZGVyZXJGcmFtZXdvcmsgPSBJbnB1dENlbGxDb21wb25lbnQ7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">dGhpcy5jb2x1bW5QYXJhbXMgPSBwYXJhbXMuY29sRGVmLmNlbGxSZW5kZXJlclBhcmFtcy5jb2x1bW5QYXJhbXM7CiAgICB0aGlzLnJvd0luZGV4ID0gcGFyYW1zLnJvd0luZGV4OwogICAgdGhpcy5wYXJlbnQgPSBwYXJhbXMuZUdyaWRDZWxsOwogICAgdGhpcy5wYXJlbnQuYWRkRXZlbnRMaXN0ZW5lcignZm9jdXMnLCAoKSA9PiB7CiAgICAgICh0aGlzLmlucHV0RWxlLm5hdGl2ZUVsZW1lbnQgYXMgSFRNTEVsZW1lbnQpLmZvY3VzKCk7CiAgICB9KTsKICAgIHRoaXMuY29sdW1uUGFyYW1zID0gcGFyYW1zLmNvbERlZi5jZWxsUmVuZGVyZXJQYXJhbXMuY29sdW1uUGFyYW1zOwogICAgaWYgKCF0aGlzLmNvbHVtblBhcmFtcy5pbnB1dFR5cGUpIHsKICAgICAgdGhpcy5jb2x1bW5QYXJhbXMuaW5wdXRUeXBlID0gJ3RleHQnOwogICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -360,13 +362,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RhdHVzVGFnIH0gZnJvbSAnUGFnZS9mcmVpZ2h0L2FwcHJvdmFsL2NlbnRlci9zdGF0dXMtdGFnLmNvbXBvbmVudCc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3Vyck9mZmljZSk7Cg==</text>
+        <text encoding="base64">ICBjZWxsUmVuZGVyZXJGcmFtZXdvcmsgPSBJbnB1dENlbGxDb21wb25lbnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIidCTCciCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -423,10 +425,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIidDQiciCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3Vyck9mZmljZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIidUSyciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIidCTCciCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -453,7 +455,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIidPVCciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIidDQiciCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -469,10 +471,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIidDTiciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIidUSyciCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIidTSCciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIidPVCciCg==</text>
       </register>
       <register name="y" type="4">
         <text />
