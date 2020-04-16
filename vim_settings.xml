@@ -112,15 +112,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/static/metronic/sass/custom.scss" timestamp="1587020850939">
-        <mark key="[" line="6038" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/bootstrap-4.4.1/dist/css/bootstrap.css" timestamp="1587035544577" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.html" timestamp="1587034611010">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.html" timestamp="1587023628925">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/bootstrap-4.4.1/scss/_popover.scss" timestamp="1587020758083" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/department-filter.directive.ts" timestamp="1587030423149" />
       <file name="$USER_HOME$/code/ng-bootstrap/src/datepicker/adapters/ngb-date-adapter.ts" timestamp="1587033111473" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/hc-popover.directive.ts" timestamp="1587031998786">
@@ -129,9 +127,17 @@
         <mark key="^" line="29" column="15" />
         <mark key="." line="40" column="72" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/static/metronic/plugins/bootstrap4-popover/css/bootstrap4-popover.css" timestamp="1587035613059">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@ng-bootstrap/ng-bootstrap/ng-bootstrap.d.ts" timestamp="1587029472196" />
       <file name="$USER_HOME$/code/ng-bootstrap/node_modules/@angular/core/core.d.ts" timestamp="1587034254248" />
       <file name="$USER_HOME$/code/ng-bootstrap/package.json" timestamp="1587033928396" />
+      <file name="$USER_HOME$/gofreight/fms/bootstrap-4.4.1/scss/bootstrap.scss" timestamp="1587035478474">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/code/ng-bootstrap/src/popover/popover.ts" timestamp="1587034061327">
         <mark key="[" line="179" column="65" />
         <mark key="]" line="179" column="65" />
@@ -144,26 +150,32 @@
         <mark key="." line="3" column="24" />
       </file>
       <file name="$USER_HOME$/code/ng-bootstrap/node_modules/@angular/common/common.d.ts" timestamp="1587032170338" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/base.module.ts" timestamp="1587022908821">
-        <mark key="[" line="10" column="66" />
-        <mark key="]" line="10" column="66" />
-        <mark key="." line="10" column="66" />
-      </file>
       <file name="$USER_HOME$/code/ng-bootstrap/src/popover/popover.module.ts" timestamp="1587034323068">
         <mark key="[" line="34" column="62" />
         <mark key="]" line="34" column="62" />
         <mark key="." line="34" column="62" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ng-bootstrap-to-bootstrap-3/src/overrides/_popovers.scss" timestamp="1587022227279" />
+      <file name="$USER_HOME$/gofreight/fms/static/metronic/plugins/ng-bootstrap-to-bootstrap-3/css/ng-bootstrap-to-bootstrap-3.min.css" timestamp="1587035633171" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.module.ts" timestamp="1587034597095">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/code/ng-bootstrap/src/util/popup.ts" timestamp="1587034286814">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/popover.scss" timestamp="1587029982774" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/package.json" timestamp="1587021692973" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/bootstrap-tool.module.ts" timestamp="1587029075683">
-        <mark key="[" line="28" column="96" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/index.html" timestamp="1587035654107">
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="16" column="44" />
+        <mark key="." line="16" column="44" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/bootstrap-tool.module.ts" timestamp="1587034657952">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -203,7 +215,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ng-bootstrap-to-bootstrap-3</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -333,7 +345,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ng-bootstrap-to-bootstrap-3</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -369,7 +381,7 @@
         <text encoding="base64">ICAgICAgdGhpcy5lR3VpLmlubmVySFRNTCArPSBgPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXNtICR7dGhpcy5nZXRUYWdDbGFzcyhTVEFUVVMuUEVORElORyl9Ij4ke3RoaXMuZ2V0VGV4dE1hcHBpbmcoU1RBVFVTLlBFTkRJTkcpfTwvc3Bhbj5gOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5faW5qZWN0b3IuCg==</text>
+        <text encoding="base64">QGltcG9ydCAiY2Fyb3VzZWwiOwpAaW1wb3J0ICJzcGlubmVycyI7CkBpbXBvcnQgInV0aWxpdGllcyI7CkBpbXBvcnQgInByaW50IjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -377,13 +389,70 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>@import &quot;type&quot;;
+@import &quot;images&quot;;
+@import &quot;code&quot;;
+@import &quot;grid&quot;;
+@import &quot;tables&quot;;
+@import &quot;forms&quot;;
+@import &quot;buttons&quot;;
+@import &quot;transitions&quot;;
+@import &quot;dropdown&quot;;
+@import &quot;button-group&quot;;
+@import &quot;input-group&quot;;
+@import &quot;custom-forms&quot;;
+@import &quot;nav&quot;;
+@import &quot;navbar&quot;;
+@import &quot;card&quot;;
+@import &quot;breadcrumb&quot;;
+@import &quot;pagination&quot;;
+@import &quot;badge&quot;;
+@import &quot;jumbotron&quot;;
+@import &quot;alert&quot;;
+@import &quot;progress&quot;;
+@import &quot;media&quot;;
+@import &quot;list-group&quot;;
+@import &quot;close&quot;;
+@import &quot;toasts&quot;;
+@import &quot;modal&quot;;
+@import &quot;tooltip&quot;;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">QGltcG9ydCAiY2Fyb3VzZWwiOwpAaW1wb3J0ICJzcGlubmVycyI7CkBpbXBvcnQgInV0aWxpdGllcyI7CkBpbXBvcnQgInByaW50IjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text>@import &quot;functions&quot;;
+@import &quot;variables&quot;;
+@import &quot;mixins&quot;;
+@import &quot;root&quot;;
+@import &quot;reboot&quot;;
+@import &quot;type&quot;;
+@import &quot;images&quot;;
+@import &quot;code&quot;;
+@import &quot;grid&quot;;
+@import &quot;tables&quot;;
+@import &quot;forms&quot;;
+@import &quot;buttons&quot;;
+@import &quot;transitions&quot;;
+@import &quot;dropdown&quot;;
+@import &quot;button-group&quot;;
+@import &quot;input-group&quot;;
+@import &quot;custom-forms&quot;;
+@import &quot;nav&quot;;
+@import &quot;navbar&quot;;
+@import &quot;card&quot;;
+@import &quot;breadcrumb&quot;;
+@import &quot;pagination&quot;;
+@import &quot;badge&quot;;
+@import &quot;jumbotron&quot;;
+@import &quot;alert&quot;;
+@import &quot;progress&quot;;
+@import &quot;media&quot;;
+@import &quot;list-group&quot;;
+@import &quot;close&quot;;
+@import &quot;toasts&quot;;
+@import &quot;modal&quot;;
+@import &quot;tooltip&quot;;</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -440,10 +509,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">QGltcG9ydCAiY2Fyb3VzZWwiOwpAaW1wb3J0ICJzcGlubmVycyI7CkBpbXBvcnQgInV0aWxpdGllcyI7CkBpbXBvcnQgInByaW50IjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">CkBpbXBvcnQgImZ1bmN0aW9ucyI7CkBpbXBvcnQgInZhcmlhYmxlcyI7CkBpbXBvcnQgIm1peGlucyI7CkBpbXBvcnQgInJvb3QiOwpAaW1wb3J0ICJyZWJvb3QiOwpAaW1wb3J0ICJ0eXBlIjsKQGltcG9ydCAiaW1hZ2VzIjsKQGltcG9ydCAiY29kZSI7CkBpbXBvcnQgImdyaWQiOwpAaW1wb3J0ICJ0YWJsZXMiOwpAaW1wb3J0ICJmb3JtcyI7CkBpbXBvcnQgImJ1dHRvbnMiOwpAaW1wb3J0ICJ0cmFuc2l0aW9ucyI7CkBpbXBvcnQgImRyb3Bkb3duIjsKQGltcG9ydCAiYnV0dG9uLWdyb3VwIjsKQGltcG9ydCAiaW5wdXQtZ3JvdXAiOwpAaW1wb3J0ICJjdXN0b20tZm9ybXMiOwpAaW1wb3J0ICJuYXYiOwpAaW1wb3J0ICJuYXZiYXIiOwpAaW1wb3J0ICJjYXJkIjsKQGltcG9ydCAiYnJlYWRjcnVtYiI7CkBpbXBvcnQgInBhZ2luYXRpb24iOwpAaW1wb3J0ICJiYWRnZSI7CkBpbXBvcnQgImp1bWJvdHJvbiI7CkBpbXBvcnQgImFsZXJ0IjsKQGltcG9ydCAicHJvZ3Jlc3MiOwpAaW1wb3J0ICJtZWRpYSI7CkBpbXBvcnQgImxpc3QtZ3JvdXAiOwpAaW1wb3J0ICJjbG9zZSI7CkBpbXBvcnQgInRvYXN0cyI7CkBpbXBvcnQgIm1vZGFsIjsKQGltcG9ydCAidG9vbHRpcCI7</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -470,7 +539,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcm92aWRlcnM6IFsKICAgIHsKICAgICAgcHJvdmlkZTogUE9QVVBfU0VSVklDRSwKICAgICAgdXNlRmFjdG9yeTogKAogICAgICAgIGluamVjdG9yOiBJbmplY3RvciwgY29tcG9uZW50RmFjdG9yeVJlc29sdmVyOiBDb21wb25lbnRGYWN0b3J5UmVzb2x2ZXIsIHZpZXdDb250YWluZXJSZWY6IFZpZXdDb250YWluZXJSZWYsCiAgICAgICAgYXBwbGljYXRpb25SZWY6IEFwcGxpY2F0aW9uUmVmLCBfcmVuZGVyZXI6IFJlbmRlcmVyMgogICAgICApID0+IHs=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJzsKaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsKaW1wb3J0IHsgQmFzaWNEaWFsb2dDb21wb25lbnQgfSBmcm9tICdMaWIvYW5ndWxhci9ib290c3RyYXAtdG9vbC9iYXNpYy1kaWFsb2cvYmFzaWMtZGlhbG9nLmNvbXBvbmVudCc7CmltcG9ydCB7IEhjUG9wb3ZlckhvdmVyRGlyZWN0aXZlIH0gZnJvbSAnTGliL2FuZ3VsYXIvYm9vdHN0cmFwLXRvb2wvaGMtcG9wb3Zlci1ob3Zlci5kaXJlY3RpdmUnOwppbXBvcnQgeyBIY1BvcG92ZXIsIEhjUG9wb3ZlcldpbmRvdyB9IGZyb20gJ0xpYi9hbmd1bGFyL2Jvb3RzdHJhcC10b29sL2hjLXBvcG92ZXIuZGlyZWN0aXZlJzsKaW1wb3J0IHsgTG9nU2hvd0RldGFpbERpYWxvZ0NvbXBvbmVudCB9IGZyb20gJ0xpYi9hbmd1bGFyL2Jvb3RzdHJhcC10b29sL2xvZy1zaG93LWRldGFpbC1kaWFsb2cvbG9nLXNob3ctZGV0YWlsLWRpYWxvZy5jb21wb25lbnQnOwppbXBvcnQgeyBUZXh0SW5wdXREaWFsb2dDb21wb25lbnQgfSBmcm9tICdMaWIvYW5ndWxhci9ib290c3RyYXAtdG9vbC90ZXh0LWlucHV0LWRpYWxvZy90ZXh0LWlucHV0LWRpYWxvZy5jb21wb25lbnQnOwppbXBvcnQgeyBTaGFyZWRQaXBlTW9kdWxlIH0gZnJvbSAnTGliL2FuZ3VsYXIvc2hhcmVkLXBpcGUvc2hhcmVkLXBpcGUubW9kdWxlJzsKaW1wb3J0IHsgQnNEcm9wZG93bk1vZHVsZSwgTW9kYWxNb2R1bGUsIFBvcG92ZXJNb2R1bGUsIFRvb2x0aXBNb2R1bGUgfSBmcm9tICduZ3gtYm9vdHN0cmFwJzsKCkBOZ01vZHVsZSh7CiAgZGVjbGFyYXRpb25zOiBbQmFzaWNEaWFsb2dDb21wb25lbnQsIExvZ1Nob3dEZXRhaWxEaWFsb2dDb21wb25lbnQsIFRleHRJbnB1dERpYWxvZ0NvbXBvbmVudCwgSGNQb3BvdmVySG92ZXJEaXJlY3RpdmVdLAogIGV4cG9ydHM6IFtUb29sdGlwTW9kdWxlLCBNb2RhbE1vZHVsZSwgSGNQb3BvdmVySG92ZXJEaXJlY3RpdmUsIFBvcG92ZXJNb2R1bGUsIEJzRHJvcGRvd25Nb2R1bGVdLAogIGltcG9ydHM6IFtDb21tb25Nb2R1bGUsIFNoYXJlZFBpcGVNb2R1bGUsIFRvb2x0aXBNb2R1bGUuZm9yUm9vdCgpLAogICAgTW9kYWxNb2R1bGUuZm9yUm9vdCgpLCBCc0Ryb3Bkb3duTW9kdWxlLmZvclJvb3QoKSwgUG9wb3Zlck1vZHVsZS5mb3JSb290KCldLAogIGVudHJ5Q29tcG9uZW50czogW0Jhc2ljRGlhbG9nQ29tcG9uZW50LCBMb2dTaG93RGV0YWlsRGlhbG9nQ29tcG9uZW50LCBUZXh0SW5wdXREaWFsb2dDb21wb25lbnRdLAp9KQpleHBvcnQgY2xhc3MgQm9vdHN0cmFwVG9vbE1vZHVsZSB7CiAgY29uc3RydWN0b3IoKSB7fQp9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -486,10 +555,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVwczpbSW5qZWN0b3IsIENvbXBvbmVudEZhY3RvcnlSZXNvbHZlciwgQXBwbGljYXRpb25SZWZdLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQm9vdHN0cmFwVG9vbE1vZHVsZSB9IGZyb20gJ0xpYi9hbmd1bGFyL2Jvb3RzdHJhcC10b29sL2Jvb3RzdHJhcC10b29sLm1vZHVsZSc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJvdmlkZTogUE9QVVBfU0VSVklDRSwK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5faW5qZWN0b3IuCg==</text>
       </register>
       <register name="y" type="4">
         <text />
