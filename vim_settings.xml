@@ -112,11 +112,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/hc-popover-hover.directive.ts" timestamp="1587013051638">
-        <mark key="[" line="43" column="38" />
-        <mark key="]" line="55" column="33" />
-        <mark key="." line="55" column="32" />
-        <mark key="^" line="55" column="33" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/tp-select-cell/tp-select-cell.component.html" timestamp="1587017074902">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1587003798428">
         <mark key="[" line="49" column="27" />
@@ -124,21 +123,12 @@
         <mark key="^" line="177" column="15" />
         <mark key="." line="49" column="27" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.html" timestamp="1587012725446">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="16" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.html" timestamp="1587017516289">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.module.ts" timestamp="1587012388628">
-        <mark key="[" line="19" column="88" />
-        <mark key="]" line="19" column="79" />
-        <mark key="." line="19" column="79" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover.d.ts" timestamp="1587013030840" />
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/models.py" timestamp="1586946620121">
-        <mark key="[" line="90" column="0" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover.d.ts" timestamp="1587017482924" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.ts" timestamp="1587010879510">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -161,14 +151,14 @@
         <mark key="]" line="76" column="49" />
         <mark key="." line="76" column="49" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ngx-bootstrap/popover/popover.directive.d.ts" timestamp="1587012932212" />
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1586946646736">
-        <mark key="[" line="66" column="34" />
-        <mark key="]" line="63" column="52" />
-        <mark key="." line="63" column="52" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ngx-bootstrap/popover/popover.directive.d.ts" timestamp="1587017040367" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/cell.interface.ts" timestamp="1587004911772">
         <mark key="[" line="4" column="45" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.html" timestamp="1587017101843">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1587004680616">
         <mark key="[" line="56" column="57" />
@@ -213,7 +203,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>hide</text>
+        <text>popover</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -343,7 +333,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hide</text>
+        <text>popover</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -378,9 +368,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5lR3VpLmlubmVySFRNTCArPSBgPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXNtICR7dGhpcy5nZXRUYWdDbGFzcyhTVEFUVVMuUEVORElORyl9Ij4ke3RoaXMuZ2V0VGV4dE1hcHBpbmcoU1RBVFVTLlBFTkRJTkcpfTwvc3Bhbj5gOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>[mdePopoverTargetAt]=&quot;appPopover&quot;
-                mdePopoverTriggerOn=&quot;hover&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -388,20 +377,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdC1yYWlzZWQtYnV0dG9uCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>[popover]=&quot;popover&quot; [popoverTitle]=&quot;tag.popoverTitle&quot;
-                [popoverContext]=&quot;{ content:tag.popoverContent, date:tag.popoverDate, users:tag.popoverUser }&quot;
-                container=&quot;body&quot;
-                containerClass=&quot;popover-lg&quot;
-                trigger=&quot;&quot;
-                [adaptivePosition]=&quot;true&quot;
-                hcPopoverHover
-                [enablePopover]=&quot;true&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -458,10 +440,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdFRvb2x0aXA9IiIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8UG9wcGVyPjwvUG9wcGVyPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -488,7 +470,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFBvcHBlciBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9Qb3BwZXInOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -504,10 +486,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUG9wb3ZlckRpcmVjdGl2ZSB9IGZyb20gJ25neC1ib290c3RyYXAnOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwb3BvdmVyVXNlcjogdGhpcy5nZXRQb3BvdmVyVXNlcihhcHByb3ZhbERldGFpbCksCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="y" type="4">
         <text />
