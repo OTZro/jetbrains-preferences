@@ -112,35 +112,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1587109971407">
-        <mark key="[" line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/state.py" timestamp="1587111383847">
         <mark key="[" line="66" column="30" />
         <mark key="]" line="66" column="31" />
         <mark key="^" line="66" column="31" />
         <mark key="." line="66" column="30" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/demo/approval_center/app.component.ts" timestamp="1587105306399">
-        <mark key="[" line="908" column="7" />
-        <mark key="]" line="26" column="12" />
-        <mark key="." line="26" column="12" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.html" timestamp="1587112624944">
-        <mark key="]" line="8" column="41" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.html" timestamp="1587118710788">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
         <mark key="^" line="8" column="41" />
-        <mark key="." line="8" column="40" />
+        <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/fms/urls_superuser.py" timestamp="1587105151704">
-        <mark key="[" line="46" column="46" />
-        <mark key="]" line="46" column="46" />
-        <mark key="." line="46" column="46" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/hc-popover.directive.ts" timestamp="1587119199378">
+        <mark key="^" line="9" column="50" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/migrations_helper/0004.py" timestamp="1587108333738">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/hc-popover-hover.directive.ts" timestamp="1587118522349">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.module.ts" timestamp="1587118725620">
+        <mark key="[" line="15" column="68" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ngx-bootstrap/tooltip/tooltip.directive.d.ts" timestamp="1587118286320" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover.d.ts" timestamp="1587118915458" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/models.py" timestamp="1587110139077">
         <mark key="[" line="87" column="4" />
         <mark key="]" line="87" column="4" />
@@ -148,26 +144,8 @@
         <mark key="^" line="87" column="48" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/lib/util.py" timestamp="1587111382756" />
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/migrations/0004_approval_approved_at.py" timestamp="1587109974281">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="35" />
-        <mark key="." line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@ng-bootstrap/ng-bootstrap/index.d.ts" timestamp="1587113161896" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/condition.py" timestamp="1587112243607" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0026_v1_17_0017_grid_preference_item.py" timestamp="1587106714489">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/_nav.html" timestamp="1587105285574">
-        <mark key="[" line="1037" column="79" />
-        <mark key="]" line="1037" column="79" />
-        <mark key="^" line="1036" column="75" />
-        <mark key="." line="1037" column="79" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations_helper/v1_17.py" timestamp="1587106773339" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/demo/approval_center/app.module.ts" timestamp="1587113165235">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="49" />
@@ -175,6 +153,12 @@
         <mark key="^" line="6" column="49" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/security_filing/isf/serializer.py" timestamp="1587110232374" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/bootstrap-tool.module.ts" timestamp="1587119209177">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
+        <mark key="^" line="19" column="16" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -213,7 +197,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>latest</text>
+        <text>as NgbPopover</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -343,7 +327,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>latest</text>
+        <text>as NgbPopover</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -379,7 +363,7 @@
         <text encoding="base64">ICAgICAgdGhpcy5lR3VpLmlubmVySFRNTCArPSBgPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXNtICR7dGhpcy5nZXRUYWdDbGFzcyhTVEFUVVMuUEVORElORyl9Ij4ke3RoaXMuZ2V0VGV4dE1hcHBpbmcoU1RBVFVTLlBFTkRJTkcpfTwvc3Bhbj5gOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICNUT0RPIFVzZSBvcGVyYXRlZF9hdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -387,13 +371,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAnJzsK</text>
       </register>
       <register name="4" type="2">
-        <text>from django.db.models import F</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRwKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -450,10 +434,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0cE9mZmljZVRvb2x0aXAodHA6IGFueSk6IHN0cmluZyB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIG1pZ3JhdGVfZXhjZWxfZ3JpZF9wcmVmZXJlbmNlX2l0ZW1fdG9fZ3JpZF9wcmVmZXJlbmNlKGFwcHMsIHNjaGVtYV9lZGl0b3IpOgogICAgVXNlciA9IGFwcHMuZ2V0X21vZGVsKCdmcmVpZ2h0JywgJ1VzZXInKQogICAgR3JpZFByZWZlcmVuY2UgPSBhcHBzLmdldF9tb2RlbCgnZnJlaWdodCcsICdHcmlkUHJlZmVyZW5jZScpCgogICAgd2l0aCB0cmFuc2FjdGlvbi5hdG9taWMoKToKICAgICAgICBmb3IgdXNlciBpbiBVc2VyLm9iamVjdHMuZmlsdGVyKGV4Y2VsX2dyaWRfcHJlZmVyZW5jZV9zZXRfX2lzbnVsbD1GYWxzZSkuZGlzdGluY3QoKToKICAgICAgICAgICAgYWxsX2dyaWRfcHJlZl9zZXQgPSB1c2VyLmV4Y2VsX2dyaWRfcHJlZmVyZW5jZV9zZXQudmFsdWVzKCkKICAgICAgICAgICAgZ3JpZF90eXBlX3NldCA9IHtwcmVmWydncmlkX3R5cGUnXSBmb3IgcHJlZiBpbiBhbGxfZ3JpZF9wcmVmX3NldH0KICAgICAgICAgICAgZm9yIGdyaWRfdHlwZSBpbiBncmlkX3R5cGVfc2V0OgogICAgICAgICAgICAgICAgZ3JpZF9wcmVmX3NldCA9IHNvcnRlZCgKICAgICAgICAgICAgICAgICAgICAocHJlZiBmb3IgcHJlZiBpbiBhbGxfZ3JpZF9wcmVmX3NldCBpZiBwcmVmWydncmlkX3R5cGUnXSA9PSBncmlkX3R5cGUpLAogICAgICAgICAgICAgICAgICAgIGtleT1sYW1iZGEgcDogcFsnb3JkZXInXSwKICAgICAgICAgICAgICAgICkKCiAgICAgICAgICAgICAgICBncmlkX3ByZWZlcmVuY2VfanNvbiA9IGpzb24uZHVtcHMoWwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgJ25hbWUnOiBwcmVmWyduYW1lJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICd0ZXh0JzogcHJlZlsndGV4dCddLAogICAgICAgICAgICAgICAgICAgICAgICAnc2hvdyc6IHByZWZbJ3Nob3cnXSwKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgZm9yIHByZWYgaW4gZ3JpZF9wcmVmX3NldAogICAgICAgICAgICAgICAgXSkKCiAgICAgICAgICAgICAgICBHcmlkUHJlZmVyZW5jZS5vYmplY3RzLmNyZWF0ZSgKICAgICAgICAgICAgICAgICAgICB1c2VyPXVzZXIsCiAgICAgICAgICAgICAgICAgICAgZ3JpZF90eXBlPWdyaWRfdHlwZSwKICAgICAgICAgICAgICAgICAgICBncmlkX3ByZWZlcmVuY2U9Z3JpZF9wcmVmZXJlbmNlX2pzb24sCiAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBgT2ZmaWNlOiAke3RoaXMub2ZmaWNlTWFwcGluZ1tvZmZpY2VdPy5zaG9ydF9uYW1lfVxuR2xvYmFsOiAke3RwLmdsb2JhbF90cD8ubmFtZX1gOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -480,7 +464,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICcnOwogICAgfQoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -495,33 +479,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>for user in User.objects.filter(excel_grid_preference_set__isnull=False).distinct():
-            all_grid_pref_set = user.excel_grid_preference_set.values()
-            grid_type_set = {pref['grid_type'] for pref in all_grid_pref_set}
-            for grid_type in grid_type_set:
-                grid_pref_set = sorted(
-                    (pref for pref in all_grid_pref_set if pref['grid_type'] == grid_type),
-                    key=lambda p: p['order'],
-                )
-
-                grid_preference_json = json.dumps([
-                    {
-                        'name': pref['name'],
-                        'text': pref['text'],
-                        'show': pref['show'],
-                    }
-                    for pref in grid_pref_set
-                ])
-
-                GridPreference.objects.create(
-                    user=user,
-                    grid_type=grid_type,
-                    grid_preference=grid_preference_json,
-                )</text>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICBjb25zdCBvZmZpY2UgPSB0cC5vZmZpY2U7CiAgICBpZiAoIW9mZmljZSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLk1pZ3JhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgIGlmICh0cC5vZmZpY2UgPT09IDApIHsKICAgICAgcmV0dXJuICdPZmZpY2U6IEdsb2JhbCc7CiAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
