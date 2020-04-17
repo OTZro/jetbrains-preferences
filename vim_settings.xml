@@ -166,7 +166,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/popover.scss" timestamp="1587029982774" />
+      <file name="$USER_HOME$/gofreight/fms/static/metronic/_popover.html" timestamp="1587092411252">
+        <mark key="[" line="447" column="0" />
+        <mark key="]" line="447" column="0" />
+        <mark key="." line="447" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/bootstrap-tool.module.ts" timestamp="1587034657952">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -210,7 +214,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>date</text>
+        <text encoding="base64">ICAgIDwhLS1iaW5kaW5ncz17CiAgIm5nLXJlZmxlY3QtbmctaWYiOiAidHJ1ZSIKfS0tPg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -375,79 +379,22 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5lR3VpLmlubmVySFRNTCArPSBgPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXNtICR7dGhpcy5nZXRUYWdDbGFzcyhTVEFUVVMuUEVORElORyl9Ij4ke3RoaXMuZ2V0VGV4dE1hcHBpbmcoU1RBVFVTLlBFTkRJTkcpfTwvc3Bhbj5gOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">QGltcG9ydCAiY2Fyb3VzZWwiOwpAaW1wb3J0ICJzcGlubmVycyI7CkBpbXBvcnQgInV0aWxpdGllcyI7CkBpbXBvcnQgInByaW50IjsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIDwhLS1iaW5kaW5ncz17CiAgIm5nLXJlZmxlY3QtbmctaWYiOiAidHJ1ZSIKfS0tPg==</text>
       </register>
       <register name="q" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text>@import &quot;type&quot;;
-@import &quot;images&quot;;
-@import &quot;code&quot;;
-@import &quot;grid&quot;;
-@import &quot;tables&quot;;
-@import &quot;forms&quot;;
-@import &quot;buttons&quot;;
-@import &quot;transitions&quot;;
-@import &quot;dropdown&quot;;
-@import &quot;button-group&quot;;
-@import &quot;input-group&quot;;
-@import &quot;custom-forms&quot;;
-@import &quot;nav&quot;;
-@import &quot;navbar&quot;;
-@import &quot;card&quot;;
-@import &quot;breadcrumb&quot;;
-@import &quot;pagination&quot;;
-@import &quot;badge&quot;;
-@import &quot;jumbotron&quot;;
-@import &quot;alert&quot;;
-@import &quot;progress&quot;;
-@import &quot;media&quot;;
-@import &quot;list-group&quot;;
-@import &quot;close&quot;;
-@import &quot;toasts&quot;;
-@import &quot;modal&quot;;
-@import &quot;tooltip&quot;;</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIDwhLS0tLT4KICAgIDwhLS1iaW5kaW5ncz17CiJuZy1yZWZsZWN0LW5nLXRlbXBsYXRlLW91dGxldCI6ICJbb2JqZWN0IE9iamVjdF0iCn0tLT4=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">QGltcG9ydCAiY2Fyb3VzZWwiOwpAaW1wb3J0ICJzcGlubmVycyI7CkBpbXBvcnQgInV0aWxpdGllcyI7CkBpbXBvcnQgInByaW50IjsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">PCEtLWJpbmRpbmdzPXsKIm5nLXJlZmxlY3QtbmctaWYiOiBudWxsCn0tLT4KICAgICAgICA8IS0tYmluZGluZ3M9ewoibmctcmVmbGVjdC1uZy1pZiI6ICIwNC0xMy0yMDIwIgp9LS0+PCEtLS0tPg==</text>
       </register>
       <register name="4" type="2">
-        <text>@import &quot;functions&quot;;
-@import &quot;variables&quot;;
-@import &quot;mixins&quot;;
-@import &quot;root&quot;;
-@import &quot;reboot&quot;;
-@import &quot;type&quot;;
-@import &quot;images&quot;;
-@import &quot;code&quot;;
-@import &quot;grid&quot;;
-@import &quot;tables&quot;;
-@import &quot;forms&quot;;
-@import &quot;buttons&quot;;
-@import &quot;transitions&quot;;
-@import &quot;dropdown&quot;;
-@import &quot;button-group&quot;;
-@import &quot;input-group&quot;;
-@import &quot;custom-forms&quot;;
-@import &quot;nav&quot;;
-@import &quot;navbar&quot;;
-@import &quot;card&quot;;
-@import &quot;breadcrumb&quot;;
-@import &quot;pagination&quot;;
-@import &quot;badge&quot;;
-@import &quot;jumbotron&quot;;
-@import &quot;alert&quot;;
-@import &quot;progress&quot;;
-@import &quot;media&quot;;
-@import &quot;list-group&quot;;
-@import &quot;close&quot;;
-@import &quot;toasts&quot;;
-@import &quot;modal&quot;;
-@import &quot;tooltip&quot;;</text>
+        <text encoding="base64">QGltcG9ydCAiY2Fyb3VzZWwiOwpAaW1wb3J0ICJzcGlubmVycyI7CkBpbXBvcnQgInV0aWxpdGllcyI7CkBpbXBvcnQgInByaW50IjsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -504,10 +451,36 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGltcG9ydCAiY2Fyb3VzZWwiOwpAaW1wb3J0ICJzcGlubmVycyI7CkBpbXBvcnQgInV0aWxpdGllcyI7CkBpbXBvcnQgInByaW50IjsK</text>
+        <text>@import &quot;type&quot;;
+@import &quot;images&quot;;
+@import &quot;code&quot;;
+@import &quot;grid&quot;;
+@import &quot;tables&quot;;
+@import &quot;forms&quot;;
+@import &quot;buttons&quot;;
+@import &quot;transitions&quot;;
+@import &quot;dropdown&quot;;
+@import &quot;button-group&quot;;
+@import &quot;input-group&quot;;
+@import &quot;custom-forms&quot;;
+@import &quot;nav&quot;;
+@import &quot;navbar&quot;;
+@import &quot;card&quot;;
+@import &quot;breadcrumb&quot;;
+@import &quot;pagination&quot;;
+@import &quot;badge&quot;;
+@import &quot;jumbotron&quot;;
+@import &quot;alert&quot;;
+@import &quot;progress&quot;;
+@import &quot;media&quot;;
+@import &quot;list-group&quot;;
+@import &quot;close&quot;;
+@import &quot;toasts&quot;;
+@import &quot;modal&quot;;
+@import &quot;tooltip&quot;;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CkBpbXBvcnQgImZ1bmN0aW9ucyI7CkBpbXBvcnQgInZhcmlhYmxlcyI7CkBpbXBvcnQgIm1peGlucyI7CkBpbXBvcnQgInJvb3QiOwpAaW1wb3J0ICJyZWJvb3QiOwpAaW1wb3J0ICJ0eXBlIjsKQGltcG9ydCAiaW1hZ2VzIjsKQGltcG9ydCAiY29kZSI7CkBpbXBvcnQgImdyaWQiOwpAaW1wb3J0ICJ0YWJsZXMiOwpAaW1wb3J0ICJmb3JtcyI7CkBpbXBvcnQgImJ1dHRvbnMiOwpAaW1wb3J0ICJ0cmFuc2l0aW9ucyI7CkBpbXBvcnQgImRyb3Bkb3duIjsKQGltcG9ydCAiYnV0dG9uLWdyb3VwIjsKQGltcG9ydCAiaW5wdXQtZ3JvdXAiOwpAaW1wb3J0ICJjdXN0b20tZm9ybXMiOwpAaW1wb3J0ICJuYXYiOwpAaW1wb3J0ICJuYXZiYXIiOwpAaW1wb3J0ICJjYXJkIjsKQGltcG9ydCAiYnJlYWRjcnVtYiI7CkBpbXBvcnQgInBhZ2luYXRpb24iOwpAaW1wb3J0ICJiYWRnZSI7CkBpbXBvcnQgImp1bWJvdHJvbiI7CkBpbXBvcnQgImFsZXJ0IjsKQGltcG9ydCAicHJvZ3Jlc3MiOwpAaW1wb3J0ICJtZWRpYSI7CkBpbXBvcnQgImxpc3QtZ3JvdXAiOwpAaW1wb3J0ICJjbG9zZSI7CkBpbXBvcnQgInRvYXN0cyI7CkBpbXBvcnQgIm1vZGFsIjsKQGltcG9ydCAidG9vbHRpcCI7</text>
+        <text encoding="base64">QGltcG9ydCAiY2Fyb3VzZWwiOwpAaW1wb3J0ICJzcGlubmVycyI7CkBpbXBvcnQgInV0aWxpdGllcyI7CkBpbXBvcnQgInByaW50IjsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -534,7 +507,38 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJzsKaW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsKaW1wb3J0IHsgQmFzaWNEaWFsb2dDb21wb25lbnQgfSBmcm9tICdMaWIvYW5ndWxhci9ib290c3RyYXAtdG9vbC9iYXNpYy1kaWFsb2cvYmFzaWMtZGlhbG9nLmNvbXBvbmVudCc7CmltcG9ydCB7IEhjUG9wb3ZlckhvdmVyRGlyZWN0aXZlIH0gZnJvbSAnTGliL2FuZ3VsYXIvYm9vdHN0cmFwLXRvb2wvaGMtcG9wb3Zlci1ob3Zlci5kaXJlY3RpdmUnOwppbXBvcnQgeyBIY1BvcG92ZXIsIEhjUG9wb3ZlcldpbmRvdyB9IGZyb20gJ0xpYi9hbmd1bGFyL2Jvb3RzdHJhcC10b29sL2hjLXBvcG92ZXIuZGlyZWN0aXZlJzsKaW1wb3J0IHsgTG9nU2hvd0RldGFpbERpYWxvZ0NvbXBvbmVudCB9IGZyb20gJ0xpYi9hbmd1bGFyL2Jvb3RzdHJhcC10b29sL2xvZy1zaG93LWRldGFpbC1kaWFsb2cvbG9nLXNob3ctZGV0YWlsLWRpYWxvZy5jb21wb25lbnQnOwppbXBvcnQgeyBUZXh0SW5wdXREaWFsb2dDb21wb25lbnQgfSBmcm9tICdMaWIvYW5ndWxhci9ib290c3RyYXAtdG9vbC90ZXh0LWlucHV0LWRpYWxvZy90ZXh0LWlucHV0LWRpYWxvZy5jb21wb25lbnQnOwppbXBvcnQgeyBTaGFyZWRQaXBlTW9kdWxlIH0gZnJvbSAnTGliL2FuZ3VsYXIvc2hhcmVkLXBpcGUvc2hhcmVkLXBpcGUubW9kdWxlJzsKaW1wb3J0IHsgQnNEcm9wZG93bk1vZHVsZSwgTW9kYWxNb2R1bGUsIFBvcG92ZXJNb2R1bGUsIFRvb2x0aXBNb2R1bGUgfSBmcm9tICduZ3gtYm9vdHN0cmFwJzsKCkBOZ01vZHVsZSh7CiAgZGVjbGFyYXRpb25zOiBbQmFzaWNEaWFsb2dDb21wb25lbnQsIExvZ1Nob3dEZXRhaWxEaWFsb2dDb21wb25lbnQsIFRleHRJbnB1dERpYWxvZ0NvbXBvbmVudCwgSGNQb3BvdmVySG92ZXJEaXJlY3RpdmVdLAogIGV4cG9ydHM6IFtUb29sdGlwTW9kdWxlLCBNb2RhbE1vZHVsZSwgSGNQb3BvdmVySG92ZXJEaXJlY3RpdmUsIFBvcG92ZXJNb2R1bGUsIEJzRHJvcGRvd25Nb2R1bGVdLAogIGltcG9ydHM6IFtDb21tb25Nb2R1bGUsIFNoYXJlZFBpcGVNb2R1bGUsIFRvb2x0aXBNb2R1bGUuZm9yUm9vdCgpLAogICAgTW9kYWxNb2R1bGUuZm9yUm9vdCgpLCBCc0Ryb3Bkb3duTW9kdWxlLmZvclJvb3QoKSwgUG9wb3Zlck1vZHVsZS5mb3JSb290KCldLAogIGVudHJ5Q29tcG9uZW50czogW0Jhc2ljRGlhbG9nQ29tcG9uZW50LCBMb2dTaG93RGV0YWlsRGlhbG9nQ29tcG9uZW50LCBUZXh0SW5wdXREaWFsb2dDb21wb25lbnRdLAp9KQpleHBvcnQgY2xhc3MgQm9vdHN0cmFwVG9vbE1vZHVsZSB7CiAgY29uc3RydWN0b3IoKSB7fQp9Cg==</text>
+        <text>@import &quot;functions&quot;;
+@import &quot;variables&quot;;
+@import &quot;mixins&quot;;
+@import &quot;root&quot;;
+@import &quot;reboot&quot;;
+@import &quot;type&quot;;
+@import &quot;images&quot;;
+@import &quot;code&quot;;
+@import &quot;grid&quot;;
+@import &quot;tables&quot;;
+@import &quot;forms&quot;;
+@import &quot;buttons&quot;;
+@import &quot;transitions&quot;;
+@import &quot;dropdown&quot;;
+@import &quot;button-group&quot;;
+@import &quot;input-group&quot;;
+@import &quot;custom-forms&quot;;
+@import &quot;nav&quot;;
+@import &quot;navbar&quot;;
+@import &quot;card&quot;;
+@import &quot;breadcrumb&quot;;
+@import &quot;pagination&quot;;
+@import &quot;badge&quot;;
+@import &quot;jumbotron&quot;;
+@import &quot;alert&quot;;
+@import &quot;progress&quot;;
+@import &quot;media&quot;;
+@import &quot;list-group&quot;;
+@import &quot;close&quot;;
+@import &quot;toasts&quot;;
+@import &quot;modal&quot;;
+@import &quot;tooltip&quot;;</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -550,10 +554,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQm9vdHN0cmFwVG9vbE1vZHVsZSB9IGZyb20gJ0xpYi9hbmd1bGFyL2Jvb3RzdHJhcC10b29sL2Jvb3RzdHJhcC10b29sLm1vZHVsZSc7Cg==</text>
+        <text encoding="base64">QGltcG9ydCAiY2Fyb3VzZWwiOwpAaW1wb3J0ICJzcGlubmVycyI7CkBpbXBvcnQgInV0aWxpdGllcyI7CkBpbXBvcnQgInByaW50IjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5faW5qZWN0b3IuCg==</text>
+        <text encoding="base64">CkBpbXBvcnQgImZ1bmN0aW9ucyI7CkBpbXBvcnQgInZhcmlhYmxlcyI7CkBpbXBvcnQgIm1peGlucyI7CkBpbXBvcnQgInJvb3QiOwpAaW1wb3J0ICJyZWJvb3QiOwpAaW1wb3J0ICJ0eXBlIjsKQGltcG9ydCAiaW1hZ2VzIjsKQGltcG9ydCAiY29kZSI7CkBpbXBvcnQgImdyaWQiOwpAaW1wb3J0ICJ0YWJsZXMiOwpAaW1wb3J0ICJmb3JtcyI7CkBpbXBvcnQgImJ1dHRvbnMiOwpAaW1wb3J0ICJ0cmFuc2l0aW9ucyI7CkBpbXBvcnQgImRyb3Bkb3duIjsKQGltcG9ydCAiYnV0dG9uLWdyb3VwIjsKQGltcG9ydCAiaW5wdXQtZ3JvdXAiOwpAaW1wb3J0ICJjdXN0b20tZm9ybXMiOwpAaW1wb3J0ICJuYXYiOwpAaW1wb3J0ICJuYXZiYXIiOwpAaW1wb3J0ICJjYXJkIjsKQGltcG9ydCAiYnJlYWRjcnVtYiI7CkBpbXBvcnQgInBhZ2luYXRpb24iOwpAaW1wb3J0ICJiYWRnZSI7CkBpbXBvcnQgImp1bWJvdHJvbiI7CkBpbXBvcnQgImFsZXJ0IjsKQGltcG9ydCAicHJvZ3Jlc3MiOwpAaW1wb3J0ICJtZWRpYSI7CkBpbXBvcnQgImxpc3QtZ3JvdXAiOwpAaW1wb3J0ICJjbG9zZSI7CkBpbXBvcnQgInRvYXN0cyI7CkBpbXBvcnQgIm1vZGFsIjsKQGltcG9ydCAidG9vbHRpcCI7</text>
       </register>
       <register name="y" type="4">
         <text />
