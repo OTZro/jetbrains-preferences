@@ -113,12 +113,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/gofreight/fms/bootstrap-4.4.1/dist/css/bootstrap.css" timestamp="1587035544577" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.html" timestamp="1587034611010">
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="19" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.html" timestamp="1587091462626">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="16" column="33" />
+        <mark key="." line="16" column="33" />
         <mark key="^" line="6" column="20" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover.d.ts" timestamp="1587091080587" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/department-filter.directive.ts" timestamp="1587030423149" />
       <file name="$USER_HOME$/code/ng-bootstrap/src/datepicker/adapters/ngb-date-adapter.ts" timestamp="1587033111473" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/hc-popover.directive.ts" timestamp="1587031998786">
@@ -127,10 +128,9 @@
         <mark key="^" line="29" column="15" />
         <mark key="." line="40" column="72" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/static/metronic/plugins/bootstrap4-popover/css/bootstrap4-popover.css" timestamp="1587035613059">
+      <file name="$USER_HOME$/gofreight/fms/static/metronic/plugins/bootstrap4-popover/css/bootstrap4-popover.css" timestamp="1587090089351">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@ng-bootstrap/ng-bootstrap/ng-bootstrap.d.ts" timestamp="1587029472196" />
       <file name="$USER_HOME$/code/ng-bootstrap/node_modules/@angular/core/core.d.ts" timestamp="1587034254248" />
       <file name="$USER_HOME$/code/ng-bootstrap/package.json" timestamp="1587033928396" />
       <file name="$USER_HOME$/gofreight/fms/bootstrap-4.4.1/scss/bootstrap.scss" timestamp="1587035478474">
@@ -144,18 +144,18 @@
         <mark key="." line="179" column="65" />
         <mark key="^" line="58" column="40" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/ng-bootstrap-tool/hc-popover.directive.ts" timestamp="1587023116576">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-      </file>
       <file name="$USER_HOME$/code/ng-bootstrap/node_modules/@angular/common/common.d.ts" timestamp="1587032170338" />
       <file name="$USER_HOME$/code/ng-bootstrap/src/popover/popover.module.ts" timestamp="1587034323068">
         <mark key="[" line="34" column="62" />
         <mark key="]" line="34" column="62" />
         <mark key="." line="34" column="62" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/static/metronic/plugins/ng-bootstrap-to-bootstrap-3/css/ng-bootstrap-to-bootstrap-3.min.css" timestamp="1587035633171" />
+      <file name="$USER_HOME$/gofreight/fms/static/metronic/plugins/ng-bootstrap-to-bootstrap-3/css/ng-bootstrap-to-bootstrap-3.min.css" timestamp="1587090502091">
+        <mark key="[" line="68" column="92" />
+        <mark key="]" line="68" column="104" />
+        <mark key="." line="68" column="103" />
+        <mark key="^" line="68" column="104" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.module.ts" timestamp="1587034597095">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -167,11 +167,6 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/popover.scss" timestamp="1587029982774" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/index.html" timestamp="1587035654107">
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="16" column="44" />
-        <mark key="." line="16" column="44" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/bootstrap-tool.module.ts" timestamp="1587034657952">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -215,7 +210,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ng-bootstrap-to-bootstrap-3</text>
+        <text>date</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -345,7 +340,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ng-bootstrap-to-bootstrap-3</text>
+        <text>date</text>
       </register>
       <register name="m" type="4">
         <keys>
