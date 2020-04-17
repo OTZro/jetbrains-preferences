@@ -112,19 +112,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gofreight/fms/static/metronic/sass/custom.scss" timestamp="1587101955788">
+        <mark key="[" line="6038" column="0" />
+        <mark key="]" line="6038" column="0" />
+        <mark key="." line="6038" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/bootstrap-4.4.1/dist/css/bootstrap.css" timestamp="1587035544577" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.html" timestamp="1587096159609">
-        <mark key="[" line="10" column="55" />
         <mark key="^" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover.d.ts" timestamp="1587091080587" />
       <file name="$USER_HOME$/code/ng-bootstrap/src/datepicker/adapters/ngb-date-adapter.ts" timestamp="1587033111473" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/hc-popover.directive.ts" timestamp="1587031998786">
-        <mark key="[" line="40" column="72" />
-        <mark key="]" line="40" column="72" />
-        <mark key="^" line="29" column="15" />
-        <mark key="." line="40" column="72" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/static/metronic/plugins/bootstrap4-popover/css/bootstrap4-popover.css" timestamp="1587090089351">
         <mark key="[" line="0" column="0" />
       </file>
@@ -157,11 +155,6 @@
         <mark key="]" line="68" column="104" />
         <mark key="." line="68" column="103" />
         <mark key="^" line="68" column="104" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.module.ts" timestamp="1587034597095">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/code/ng-bootstrap/src/util/popup.ts" timestamp="1587034286814">
         <mark key="[" line="26" column="0" />
@@ -216,8 +209,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -382,22 +375,22 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5lR3VpLmlubmVySFRNTCArPSBgPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXNtICR7dGhpcy5nZXRUYWdDbGFzcyhTVEFUVVMuUEVORElORyl9Ij4ke3RoaXMuZ2V0VGV4dE1hcHBpbmcoU1RBVFVTLlBFTkRJTkcpfTwvc3Bhbj5gOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIDwhLS1iaW5kaW5ncz17CiAgIm5nLXJlZmxlY3QtbmctaWYiOiAidHJ1ZSIKfS0tPg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIDwhLS0tLT4KICAgIDwhLS1iaW5kaW5ncz17CiJuZy1yZWZsZWN0LW5nLXRlbXBsYXRlLW91dGxldCI6ICJbb2JqZWN0IE9iamVjdF0iCn0tLT4=</text>
+      <register name="2" type="2">
+        <text>@import &quot;global/plugins/_bootstrap4-popover.scss&quot;;</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PCEtLWJpbmRpbmdzPXsKIm5nLXJlZmxlY3QtbmctaWYiOiBudWxsCn0tLT4KICAgICAgICA8IS0tYmluZGluZ3M9ewoibmctcmVmbGVjdC1uZy1pZiI6ICIwNC0xMy0yMDIwIgp9LS0+PCEtLS0tPg==</text>
+        <text encoding="base64">ICAgIDwhLS1iaW5kaW5ncz17CiAgIm5nLXJlZmxlY3QtbmctaWYiOiAidHJ1ZSIKfS0tPg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">QGltcG9ydCAiY2Fyb3VzZWwiOwpAaW1wb3J0ICJzcGlubmVycyI7CkBpbXBvcnQgInV0aWxpdGllcyI7CkBpbXBvcnQgInByaW50IjsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIDwhLS0tLT4KICAgIDwhLS1iaW5kaW5ncz17CiJuZy1yZWZsZWN0LW5nLXRlbXBsYXRlLW91dGxldCI6ICJbb2JqZWN0IE9iamVjdF0iCn0tLT4=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -453,34 +446,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text>@import &quot;type&quot;;
-@import &quot;images&quot;;
-@import &quot;code&quot;;
-@import &quot;grid&quot;;
-@import &quot;tables&quot;;
-@import &quot;forms&quot;;
-@import &quot;buttons&quot;;
-@import &quot;transitions&quot;;
-@import &quot;dropdown&quot;;
-@import &quot;button-group&quot;;
-@import &quot;input-group&quot;;
-@import &quot;custom-forms&quot;;
-@import &quot;nav&quot;;
-@import &quot;navbar&quot;;
-@import &quot;card&quot;;
-@import &quot;breadcrumb&quot;;
-@import &quot;pagination&quot;;
-@import &quot;badge&quot;;
-@import &quot;jumbotron&quot;;
-@import &quot;alert&quot;;
-@import &quot;progress&quot;;
-@import &quot;media&quot;;
-@import &quot;list-group&quot;;
-@import &quot;close&quot;;
-@import &quot;toasts&quot;;
-@import &quot;modal&quot;;
-@import &quot;tooltip&quot;;</text>
+      <register name="5" type="4">
+        <text encoding="base64">PCEtLWJpbmRpbmdzPXsKIm5nLXJlZmxlY3QtbmctaWYiOiBudWxsCn0tLT4KICAgICAgICA8IS0tYmluZGluZ3M9ewoibmctcmVmbGVjdC1uZy1pZiI6ICIwNC0xMy0yMDIwIgp9LS0+PCEtLS0tPg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">QGltcG9ydCAiY2Fyb3VzZWwiOwpAaW1wb3J0ICJzcGlubmVycyI7CkBpbXBvcnQgInV0aWxpdGllcyI7CkBpbXBvcnQgInByaW50IjsK</text>
@@ -510,12 +477,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text>@import &quot;functions&quot;;
-@import &quot;variables&quot;;
-@import &quot;mixins&quot;;
-@import &quot;root&quot;;
-@import &quot;reboot&quot;;
-@import &quot;type&quot;;
+        <text>@import &quot;type&quot;;
 @import &quot;images&quot;;
 @import &quot;code&quot;;
 @import &quot;grid&quot;;
@@ -560,7 +522,38 @@
         <text encoding="base64">QGltcG9ydCAiY2Fyb3VzZWwiOwpAaW1wb3J0ICJzcGlubmVycyI7CkBpbXBvcnQgInV0aWxpdGllcyI7CkBpbXBvcnQgInByaW50IjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CkBpbXBvcnQgImZ1bmN0aW9ucyI7CkBpbXBvcnQgInZhcmlhYmxlcyI7CkBpbXBvcnQgIm1peGlucyI7CkBpbXBvcnQgInJvb3QiOwpAaW1wb3J0ICJyZWJvb3QiOwpAaW1wb3J0ICJ0eXBlIjsKQGltcG9ydCAiaW1hZ2VzIjsKQGltcG9ydCAiY29kZSI7CkBpbXBvcnQgImdyaWQiOwpAaW1wb3J0ICJ0YWJsZXMiOwpAaW1wb3J0ICJmb3JtcyI7CkBpbXBvcnQgImJ1dHRvbnMiOwpAaW1wb3J0ICJ0cmFuc2l0aW9ucyI7CkBpbXBvcnQgImRyb3Bkb3duIjsKQGltcG9ydCAiYnV0dG9uLWdyb3VwIjsKQGltcG9ydCAiaW5wdXQtZ3JvdXAiOwpAaW1wb3J0ICJjdXN0b20tZm9ybXMiOwpAaW1wb3J0ICJuYXYiOwpAaW1wb3J0ICJuYXZiYXIiOwpAaW1wb3J0ICJjYXJkIjsKQGltcG9ydCAiYnJlYWRjcnVtYiI7CkBpbXBvcnQgInBhZ2luYXRpb24iOwpAaW1wb3J0ICJiYWRnZSI7CkBpbXBvcnQgImp1bWJvdHJvbiI7CkBpbXBvcnQgImFsZXJ0IjsKQGltcG9ydCAicHJvZ3Jlc3MiOwpAaW1wb3J0ICJtZWRpYSI7CkBpbXBvcnQgImxpc3QtZ3JvdXAiOwpAaW1wb3J0ICJjbG9zZSI7CkBpbXBvcnQgInRvYXN0cyI7CkBpbXBvcnQgIm1vZGFsIjsKQGltcG9ydCAidG9vbHRpcCI7</text>
+        <text>@import &quot;functions&quot;;
+@import &quot;variables&quot;;
+@import &quot;mixins&quot;;
+@import &quot;root&quot;;
+@import &quot;reboot&quot;;
+@import &quot;type&quot;;
+@import &quot;images&quot;;
+@import &quot;code&quot;;
+@import &quot;grid&quot;;
+@import &quot;tables&quot;;
+@import &quot;forms&quot;;
+@import &quot;buttons&quot;;
+@import &quot;transitions&quot;;
+@import &quot;dropdown&quot;;
+@import &quot;button-group&quot;;
+@import &quot;input-group&quot;;
+@import &quot;custom-forms&quot;;
+@import &quot;nav&quot;;
+@import &quot;navbar&quot;;
+@import &quot;card&quot;;
+@import &quot;breadcrumb&quot;;
+@import &quot;pagination&quot;;
+@import &quot;badge&quot;;
+@import &quot;jumbotron&quot;;
+@import &quot;alert&quot;;
+@import &quot;progress&quot;;
+@import &quot;media&quot;;
+@import &quot;list-group&quot;;
+@import &quot;close&quot;;
+@import &quot;toasts&quot;;
+@import &quot;modal&quot;;
+@import &quot;tooltip&quot;;</text>
       </register>
       <register name="y" type="4">
         <text />
