@@ -113,14 +113,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/gofreight/fms/bootstrap-4.4.1/dist/css/bootstrap.css" timestamp="1587035544577" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.html" timestamp="1587091462626">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="16" column="33" />
-        <mark key="." line="16" column="33" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.html" timestamp="1587096159609">
+        <mark key="[" line="10" column="55" />
         <mark key="^" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover.d.ts" timestamp="1587091080587" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/department-filter.directive.ts" timestamp="1587030423149" />
       <file name="$USER_HOME$/code/ng-bootstrap/src/datepicker/adapters/ngb-date-adapter.ts" timestamp="1587033111473" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/hc-popover.directive.ts" timestamp="1587031998786">
         <mark key="[" line="40" column="72" />
@@ -138,7 +135,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/code/ng-bootstrap/src/popover/popover.ts" timestamp="1587034061327">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/hc-popover-hover.directive.ts" timestamp="1587095509039">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/ng-bootstrap/src/popover/popover.ts" timestamp="1587095286343">
         <mark key="[" line="179" column="65" />
         <mark key="]" line="179" column="65" />
         <mark key="." line="179" column="65" />
@@ -171,6 +173,7 @@
         <mark key="]" line="447" column="0" />
         <mark key="." line="447" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/index.html" timestamp="1587096145479" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/bootstrap-tool.module.ts" timestamp="1587034657952">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -214,7 +217,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIDwhLS1iaW5kaW5ncz17CiAgIm5nLXJlZmxlY3QtbmctaWYiOiAidHJ1ZSIKfS0tPg==</text>
+        <text>true</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -344,7 +347,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>date</text>
+        <text>true</text>
       </register>
       <register name="m" type="4">
         <keys>
