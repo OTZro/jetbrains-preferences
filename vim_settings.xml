@@ -112,10 +112,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.ts" timestamp="1587442650642">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="62" column="17" />
-        <mark key="." line="62" column="17" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.ts" timestamp="1587446176383">
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/app.component.ts" timestamp="1587441985998">
         <mark key="[" line="98" column="84" />
@@ -140,12 +139,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.html" timestamp="1587442874921">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="8" column="41" />
-        <mark key="." line="6" column="17" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/views/api.py" timestamp="1587452530695" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/ngb-bootstrap-tool/tooltip/theme/tooltip.css" timestamp="1587437263943">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -160,11 +154,6 @@
         <mark key="]" line="8" column="2" />
         <mark key="." line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/package.json" timestamp="1587375683820">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_entry/app.component.html" timestamp="1587441365440" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-directive/focus-invalid-field.directive.ts" timestamp="1587441586420" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1587442817062">
@@ -172,7 +161,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover.d.ts" timestamp="1587442876543" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover.d.ts" timestamp="1587446273261" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/amendment.py" timestamp="1587442523815" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/mbl_list.controller.js" timestamp="1587377263325" />
     </filemarks>
@@ -213,7 +202,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICE9PSAw</text>
+        <text>mouseout</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -343,7 +332,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICE9PSAw</text>
+        <text>mouseout</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -379,7 +368,7 @@
         <text encoding="base64">QGltcG9ydCAnZ2xvYmFsL3BsdWdpbnNfY3VzdG9tL19uZy1zZWxlY3Quc2Nzcyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVFVzZXIgfSBmcm9tICdMaWIvYW5ndWxhci90eXBlcy91c2VyLnR5cGUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyaWdnZXJzPSJtb3VzZWVudGVyOm1vdXNlbGVhdmUiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -387,44 +376,13 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChtb3VzZW91dCk9ImNsb3NlKHApIgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHsgVFVzZXIgfSBmcm9tICdMaWIvYW5ndWxhci90eXBlcy91c2VyLnR5cGUnOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="4">
-        <text>APPROVE: _('Approve'),
-  REJECT: _('Reject'),
-  CANCEL: _('Cancel'),
-  EXECUTE_ACTION_FAIL: _('Execute Action Failed'),
-
-  HEADER: {
-    CHK: _('chk'),
-    TYPE: _('Type'),
-    REFERENCE_NO: _('Reference No.'),
-    SUBMIT_BY: _('Submit By'),
-    SUBMIT_DATE: _('Submit Date'),
-    APPROVER: _('Approver'),
-    STATUS: _('Status'),
-    REMARK: _('Remark'),
-    ACTION: _('Action'),
-  },</text>
-      </register>
-      <register name="4" type="4">
-        <text>ACTION: _('Action'),
-  APPROVE: _('Approve'),
-  REJECT: _('Reject'),
-  CANCEL: _('Cancel'),
-  EXECUTE_ACTION_FAIL: _('Execute Action Failed'),
-
-  HEADER: {
-    CHK: _('chk'),
-    TYPE: _('Type'),
-    REFERENCE_NO: _('Reference No.'),
-    SUBMIT_BY: _('Submit By'),
-    SUBMIT_DATE: _('Submit Date'),
-    APPROVER: _('Approver'),
-    STATUS: _('Status'),
-    REMARK: _('Remark'),
-    ACTION: _('Action'),
-  },</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -480,11 +438,42 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ29mZmljZScsCg==</text>
+      <register name="5" type="4">
+        <text>APPROVE: _('Approve'),
+  REJECT: _('Reject'),
+  CANCEL: _('Cancel'),
+  EXECUTE_ACTION_FAIL: _('Execute Action Failed'),
+
+  HEADER: {
+    CHK: _('chk'),
+    TYPE: _('Type'),
+    REFERENCE_NO: _('Reference No.'),
+    SUBMIT_BY: _('Submit By'),
+    SUBMIT_DATE: _('Submit Date'),
+    APPROVER: _('Approver'),
+    STATUS: _('Status'),
+    REMARK: _('Remark'),
+    ACTION: _('Action'),
+  },</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ29mZmljZScsCg==</text>
+      <register name="6" type="4">
+        <text>ACTION: _('Action'),
+  APPROVE: _('Approve'),
+  REJECT: _('Reject'),
+  CANCEL: _('Cancel'),
+  EXECUTE_ACTION_FAIL: _('Execute Action Failed'),
+
+  HEADER: {
+    CHK: _('chk'),
+    TYPE: _('Type'),
+    REFERENCE_NO: _('Reference No.'),
+    SUBMIT_BY: _('Submit By'),
+    SUBMIT_DATE: _('Submit Date'),
+    APPROVER: _('Approver'),
+    STATUS: _('Status'),
+    REMARK: _('Remark'),
+    ACTION: _('Action'),
+  },</text>
       </register>
       <register name="v" type="4">
         <keys>
