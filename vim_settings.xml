@@ -142,12 +142,17 @@
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/modules.py" timestamp="1587531628089">
         <mark key="[" line="29" column="59" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/ts/global.ts" timestamp="1587537576771">
-        <mark key="[" line="97" column="2" />
-        <mark key="]" line="13" column="71" />
-        <mark key="." line="13" column="71" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/ts/global.ts" timestamp="1587538537301">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0029_v1_20_olc_0021_move_pod_eta_from_booking_to_hbl.py" timestamp="1587523285993" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1587538994048">
+        <mark key="[" line="40" column="46" />
+        <mark key="]" line="40" column="46" />
+        <mark key="." line="40" column="46" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -187,7 +192,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>true</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -317,7 +322,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>true</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -367,7 +372,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW46IDAuM3JlbSAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -427,7 +432,7 @@
         <text encoding="base64">ICAgICAgICBtYXJnaW46IDAuM3JlbSAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW46IDAgMC4zcmVtOwo=</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW46IDAuM3JlbSAwOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -470,122 +475,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICYucG9wb3ZlciAuYXJyb3cgewogICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICB3aWR0aDogMXJlbTsKICAgICAgICBoZWlnaHQ6IDAuNXJlbTsKICAgICAgICBtYXJnaW46IDAgMC4zcmVtOwogICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW46IDAgMC4zcmVtOwo=</text>
       </register>
       <register name="9" type="2">
-        <text>/*!
- * Bootstrap v4.4.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
-ngb-tooltip-window {
-
-.tooltip {
-    position: absolute;
-    display: block;
-    margin: 0;
-    line-height: 1.5;
-    text-decoration: none;
-    text-shadow: none;
-    text-transform: none;
-    letter-spacing: normal;
-    word-break: normal;
-    word-spacing: normal;
-    white-space: normal;
-    line-break: auto;
-    word-wrap: break-word;
-    opacity: 0;
-}
-
-.tooltip.show {
-    opacity: 0.9;
-}
-
-.tooltip .arrow {
-    position: absolute;
-    display: block;
-    width: 0.8rem;
-    height: 0.4rem;
-}
-
-.tooltip .arrow::before {
-    position: absolute;
-    content: &quot;&quot;;
-    border-color: transparent;
-    border-style: solid;
-}
-
-.bs-tooltip-top, .bs-tooltip-auto[x-placement^=&quot;top&quot;] {
-    padding: 0.4rem 0;
-}
-
-.bs-tooltip-top .arrow, .bs-tooltip-auto[x-placement^=&quot;top&quot;] .arrow {
-    bottom: 0;
-}
-
-.bs-tooltip-top .arrow::before, .bs-tooltip-auto[x-placement^=&quot;top&quot;] .arrow::before {
-    top: 0;
-    border-width: 0.4rem 0.4rem 0;
-    border-top-color: #444;
-}
-
-.bs-tooltip-right, .bs-tooltip-auto[x-placement^=&quot;right&quot;] {
-    padding: 0 0.4rem;
-}
-
-.bs-tooltip-right .arrow, .bs-tooltip-auto[x-placement^=&quot;right&quot;] .arrow {
-    left: 0;
-    width: 0.4rem;
-    height: 0.8rem;
-}
-
-.bs-tooltip-right .arrow::before, .bs-tooltip-auto[x-placement^=&quot;right&quot;] .arrow::before {
-    right: 0;
-    border-width: 0.4rem 0.4rem 0.4rem 0;
-    border-right-color: #444;
-}
-
-.bs-tooltip-bottom, .bs-tooltip-auto[x-placement^=&quot;bottom&quot;] {
-    padding: 0.4rem 0;
-}
-
-.bs-tooltip-bottom .arrow, .bs-tooltip-auto[x-placement^=&quot;bottom&quot;] .arrow {
-    top: 0;
-}
-
-.bs-tooltip-bottom .arrow::before, .bs-tooltip-auto[x-placement^=&quot;bottom&quot;] .arrow::before {
-    bottom: 0;
-    border-width: 0 0.4rem 0.4rem;
-    border-bottom-color: #444;
-}
-
-.bs-tooltip-left, .bs-tooltip-auto[x-placement^=&quot;left&quot;] {
-    padding: 0 0.4rem;
-}
-
-.bs-tooltip-left .arrow, .bs-tooltip-auto[x-placement^=&quot;left&quot;] .arrow {
-    right: 0;
-    width: 0.4rem;
-    height: 0.8rem;
-}
-
-.bs-tooltip-left .arrow::before, .bs-tooltip-auto[x-placement^=&quot;left&quot;] .arrow::before {
-    left: 0;
-    border-width: 0.4rem 0 0.4rem 0.4rem;
-    border-left-color: #444;
-}
-
-.tooltip-inner {
-    max-width: 200px;
-    padding: 0.25rem 0.5rem;
-    color: #fff;
-    text-align: center;
-    background-color: #444;
-    border-radius: 0.25rem;
-}
-
-}</text>
+        <text encoding="base64">ICAgICYucG9wb3ZlciAuYXJyb3cgewogICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICB3aWR0aDogMXJlbTsKICAgICAgICBoZWlnaHQ6IDAuNXJlbTsKICAgICAgICBtYXJnaW46IDAgMC4zcmVtOwogICAgfQ==</text>
       </register>
       <register name="y" type="4">
         <text />
