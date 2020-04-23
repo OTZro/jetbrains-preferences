@@ -122,10 +122,10 @@
       <file name="/Python Console" timestamp="1587610238068">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-memo-document/hc-memo/hc-memo.component.ts" timestamp="1587626340870" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_basic_entry/index.html" timestamp="1587626620400" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-memo-document/hc-memo/hc-memo.component.ts" timestamp="1587630098667" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/document/api.py" timestamp="1587610160330" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/accounting/accounting_entry.py" timestamp="1587613838618" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/app.component.ts" timestamp="1587550778911" />
       <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1587613632021">
         <mark key="[" line="2" column="58" />
         <mark key="]" line="2" column="59" />
@@ -133,30 +133,29 @@
         <mark key="." line="2" column="59" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-memo-document/hc-doc-btn/hc-doc-btn.component.ts" timestamp="1587625121116" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-memo-document/hc-memo/hc-memo.component.html" timestamp="1587625431382">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/memo/memo.html" timestamp="1587629463843" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-memo-document/hc-memo/hc-memo.component.html" timestamp="1587630091886">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="42" />
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="41" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-memo-document/hc-doc-btn/hc-doc-btn.component.html" timestamp="1587625231221" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1587552579961">
-        <mark key="[" line="51" column="7" />
-        <mark key="]" line="51" column="7" />
-        <mark key="." line="51" column="7" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/views_ocean.py" timestamp="1587626616354" />
       <file name="$USER_HOME$/gofreight/fms/bin/command/restore_db.command" timestamp="1587614177444" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_entry/app.component.html" timestamp="1587630124783" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-animation/hc-slide-container/hc-slide-container.component.ts" timestamp="1587625923028">
         <mark key="[" line="93" column="16" />
         <mark key="]" line="93" column="16" />
         <mark key="." line="93" column="16" />
         <mark key="^" line="93" column="7" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0016_v1_9_0019_company.py" timestamp="1587613477129" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1587550741638">
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="35" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/memo/memo.component.js" timestamp="1587629473999">
+        <mark key="[" line="69" column="19" />
+        <mark key="]" line="69" column="19" />
+        <mark key="." line="69" column="19" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0016_v1_9_0019_company.py" timestamp="1587613477129" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -195,8 +194,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>this.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGlzQ3JlYXRpbmcgPSAhIXRoaXMua2V5Owo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -326,7 +325,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>!</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -362,7 +361,7 @@
         <text encoding="base64">QGltcG9ydCAnZ2xvYmFsL3BsdWdpbnNfY3VzdG9tL19uZy1zZWxlY3Quc2Nzcyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bmctY29udGlhbmVyICpuZ0lmPSIiPgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGlzQ3JlYXRpbmcgPSAhIXRoaXMua2V5Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -370,13 +369,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1ibCA9IGtucy5TaGlwbWVudE1CTFNlcmlhbGl6ZXIoKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhibCA9IGtucy5TaGlwbWVudEhCTFNlcmlhbGl6ZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5kaXNhYmxlQWRkID0gdHJ1ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYXBwcm92ZXJzTGlzdCA9IHBhcmFtcy5kYXRhLmFwcHJvdmVyc19saXN0Owo=</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5rZXkpIHsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -433,10 +432,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYXBwcm92YWxEZXRhaWxzID0gcGFyYW1zLnZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihmaW5pc2hlZD1GYWxzZSkgXAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRpc2FibGVBZGQgPSBmYWxzZTsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -463,7 +462,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByb3dJbmRleDogbnVtYmVyOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMua2V5KSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -478,11 +477,13 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBmb3JtR3JvdXA6IEZvcm1Hcm91cDsK</text>
+      <register name="8" type="4">
+        <text>else {
+        this.slideContainer.collapse();
+      }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwYXJlbnQ6IEhUTUxFbGVtZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICA8bmctY29udGlhbmVyICpuZ0lmPSIiPgo=</text>
       </register>
       <register name="y" type="4">
         <text />
