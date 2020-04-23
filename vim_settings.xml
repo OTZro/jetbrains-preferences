@@ -118,14 +118,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/lib/rest_apimixins.py" timestamp="1587610069886" />
-      <file name="/Python Console" timestamp="1587610238068">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_basic_entry/index.html" timestamp="1587632035604">
+        <mark key="[" line="776" column="41" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_basic_entry/index.html" timestamp="1587626620400" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-memo-document/hc-memo/hc-memo.component.ts" timestamp="1587630098667" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/document/api.py" timestamp="1587610160330" />
+      <file name="/a.dummy" timestamp="1587632800406">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-memo-document/hc-memo/hc-memo.component.ts" timestamp="1587632868617">
+        <mark key="[" line="56" column="26" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/accounting/accounting_entry.py" timestamp="1587613838618" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/autogen/permission-mapping.constant.ts" timestamp="1587631697532">
+        <mark key="[" line="535" column="36" />
+        <mark key="]" line="535" column="36" />
+        <mark key="." line="535" column="36" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1587613632021">
         <mark key="[" line="2" column="58" />
         <mark key="]" line="2" column="59" />
@@ -143,7 +152,10 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-memo-document/hc-doc-btn/hc-doc-btn.component.html" timestamp="1587625231221" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/views_ocean.py" timestamp="1587626616354" />
       <file name="$USER_HOME$/gofreight/fms/bin/command/restore_db.command" timestamp="1587614177444" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_entry/app.component.html" timestamp="1587630124783" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_entry/app.component.ts" timestamp="1587632762857" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_entry/app.component.html" timestamp="1587632781398">
+        <mark key="[" line="489" column="74" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-animation/hc-slide-container/hc-slide-container.component.ts" timestamp="1587625923028">
         <mark key="[" line="93" column="16" />
         <mark key="]" line="93" column="16" />
@@ -194,8 +206,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlzQ3JlYXRpbmcgPSAhIXRoaXMua2V5Owo=</text>
+      <register name="&quot;" type="4">
+        <text>isFirstCreate</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -325,7 +337,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>isFirstCreate</text>
       </register>
       <register name="m" type="4">
         <keys>
