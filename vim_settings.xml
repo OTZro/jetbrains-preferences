@@ -153,13 +153,11 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_entry/app.component.html" timestamp="1587696731012">
         <mark key="[" line="489" column="45" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1587718363109">
-        <mark key="[" line="259" column="38" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_entry/qutotation-data.service.ts" timestamp="1587635911450">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1587720858305">
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="287" column="4" />
+        <mark key="." line="287" column="4" />
+        <mark key="^" line="280" column="56" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-memo-document/hc-memo/hc-memo.component.ts" timestamp="1587696756551">
         <mark key="[" line="28" column="31" />
@@ -170,7 +168,7 @@
         <mark key="[" line="489" column="73" />
         <mark key="]" line="489" column="73" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/models.py" timestamp="1587718071223" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/models.py" timestamp="1587719601423" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-memo-document/hc-attachment/hc-attachment.component.ts" timestamp="1587637414319" />
       <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1587697351248">
         <mark key="[" line="2" column="62" />
@@ -181,6 +179,7 @@
       <file name="/Dummy.txt" timestamp="1587696542793">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1587719216965" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -220,7 +219,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_DELETE</text>
+        <text>salvage</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -350,7 +349,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_DELETE</text>
+        <text>salvage</text>
       </register>
       <register name="m" type="4">
         <keys>
