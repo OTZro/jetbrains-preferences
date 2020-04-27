@@ -118,6 +118,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1587958310630">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_entry/quotation-field-name.ts" timestamp="1587638784185">
         <mark key="[" line="61" column="62" />
         <mark key="]" line="63" column="52" />
@@ -134,29 +139,18 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-memo-document/hc-memo/hc-memo.component.html" timestamp="1587636648060">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="42" />
-        <mark key="^" line="2" column="42" />
-        <mark key="." line="2" column="41" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/lib/log/log_helper.py" timestamp="1587638932303" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/rate_entry/app.component.ts" timestamp="1587639310694" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-memo-document/hc-attachment/hc-attachment.component.html" timestamp="1587637327657">
         <mark key="[" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_entry/app.component.ts" timestamp="1587956517460">
-        <mark key="[" line="217" column="41" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_entry/app.component.html" timestamp="1587956469569">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_entry/app.component.ts" timestamp="1587958356357" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_entry/app.component.html" timestamp="1587958200116">
         <mark key="[" line="489" column="74" />
         <mark key="]" line="489" column="74" />
         <mark key="." line="489" column="74" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-memo-document/hc-memo/hc-memo.component.ts" timestamp="1587955317825">
-        <mark key="[" line="174" column="3" />
         <mark key="]" line="22" column="40" />
         <mark key="." line="22" column="40" />
       </file>
@@ -213,8 +207,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -344,7 +338,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFtleHBhbmRdPSJpc05ldyI=</text>
+        <text>true</text>
       </register>
       <register name="m" type="4">
         <keys>
