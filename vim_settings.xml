@@ -128,6 +128,11 @@
         <mark key="]" line="521" column="59" />
         <mark key="." line="521" column="59" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1587983013418">
+        <mark key="[" line="192" column="33" />
+        <mark key="]" line="192" column="33" />
+        <mark key="." line="192" column="33" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.module.ts" timestamp="1587976152261">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -177,7 +182,6 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/migrations/0003_fixedasset_prepaidexpense.py" timestamp="1587973882209" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/controller.text_def.js" timestamp="1587979937392">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -195,12 +199,7 @@
         <mark key="^" line="21" column="14" />
         <mark key="." line="38" column="36" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/_nav.html" timestamp="1587975324577">
-        <mark key="[" line="414" column="45" />
-        <mark key="]" line="414" column="45" />
-        <mark key="." line="414" column="45" />
-        <mark key="^" line="411" column="80" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/lib/rest_apiview.py" timestamp="1587982924436" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -240,7 +239,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>accounting/</text>
+        <text>FreightInfo</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -370,7 +369,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>accounting/</text>
+        <text>FreightInfo</text>
       </register>
       <register name="m" type="4">
         <keys>
