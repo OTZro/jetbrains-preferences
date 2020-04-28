@@ -140,8 +140,8 @@
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/cell-renderers/hc-pagination-list-col-text.ts" timestamp="1588041534036" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/controller.js" timestamp="1587980000989" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/core/filter/filter.component.js" timestamp="1587979595547" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/index.html" timestamp="1587979891151">
         <mark key="[" line="82" column="94" />
         <mark key="]" line="74" column="95" />
@@ -152,6 +152,7 @@
       <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1587984380339">
         <mark key="[" line="312" column="63" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/acct-wizard-view/acct-wizard-view.component.html" timestamp="1588041674991" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/index.ts" timestamp="1587980047509">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -166,21 +167,15 @@
       <file name="/Dummy.txt" timestamp="1587985584785">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.html" timestamp="1587980355421">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="10" column="39" />
-        <mark key="." line="10" column="39" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.html" timestamp="1588041647781">
+        <mark key="[" line="46" column="7" />
+        <mark key="]" line="43" column="5" />
+        <mark key="." line="43" column="5" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/controller.text_def.js" timestamp="1587979937392">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.text_def.ts" timestamp="1587978306386">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/controller.js" timestamp="1587979629803">
         <mark key="[" line="38" column="50" />
@@ -228,8 +223,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>hcPaginationListColText</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -359,7 +354,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, name='invoice-list-view'</text>
+        <text>hcPaginationListColText</text>
       </register>
       <register name="m" type="4">
         <keys>
