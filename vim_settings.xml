@@ -128,10 +128,13 @@
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/company/sz.py" timestamp="1588674058154">
         <mark key="[" line="38" column="20" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1588675054484">
-        <mark key="[" line="13" column="13" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1588676657945">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="42" column="97" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1588674994620">
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1588675957567">
         <mark key="[" line="317" column="108" />
         <mark key="]" line="291" column="6" />
         <mark key="." line="291" column="6" />
@@ -141,7 +144,7 @@
         <mark key="]" line="11" column="14" />
         <mark key="." line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/depreciation.service.ts" timestamp="1588669031837">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/depreciation.service.ts" timestamp="1588676404809">
         <mark key="[" line="27" column="50" />
         <mark key="]" line="27" column="50" />
         <mark key="^" line="33" column="87" />
@@ -161,7 +164,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/freight.py" timestamp="1588671285142" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/freight.py" timestamp="1588675934186">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/wizard-table-manager.service.ts" timestamp="1588668530047">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -222,8 +229,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>FixedAsset</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -353,7 +360,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FixedAsset</text>
+        <text>term</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -389,7 +396,7 @@
         <text encoding="base64">ICAgICAgeyBuYW1lOiAnY2hrJywgdGV4dDogX1QuSEVBREVSLkNISywgd2lkdGg6IDUsIHNob3c6IHRydWUsIGZyZWV6ZTogdHJ1ZSB9IGFzIEdyaWRDb2x1bW4sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoJ2ZyZWlnaHQnLCAnMDAzMF9hdXRvXzIwMjAwNTA1XzEwMTAnKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -397,13 +404,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICghZmxhZykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yY2Vfc2VsZWN0X2Zvcl91cGRhdGVfbG9ja3Nfcm93cyhxdWVyeSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiBsb2NrX2ZyZWlnaHRzOgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -460,10 +467,15 @@
         </keys>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">LmZvckVhY2goY29udHJvbCA9PiB7CiAgICAgICAgICBsZXQgZmxhZyA9IGZhbHNlOwogICAgICAgICAgY29udHJvbC52YWx1ZUNoYW5nZXMuc3Vic2NyaWJlKGl0ZW0gPT4gewogICAgICAgICAgICBpZiAoIWZsYWcpIHsKICAgICAgICAgICAgICBjb25zb2xlLmxvZygnUGF0Y2ggdmFsdWUnKTsKICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjb250cm9sKTsKICAgICAgICAgICAgICBmbGFnID0gdHJ1ZTsKICAgICAgICAgICAgICBjb250cm9sLnBhdGNoVmFsdWUoaXRlbSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbSk7CiAgICAgICAgICB9KTs=</text>
+        <text>.annotate(
+            debit=Case(When(type__in=['B', 'C'], then=F('amount')), default=Value(0)),
+            credit=Case(When(type__in=['S', 'D'], then=F('amount')), default=Value(0)),
+            post_date=F('invoice__post_date'),
+            office_id=F('invoice__office_id'),
+        ).only('pk', 'type', 'billing_id')</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LnN1YnNjcmliZSgpCiAgICAgICAgICAgIC5waXBlKAogICAgICAgICAgICAgIGZpbHRlcihpdGVtID0+IHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0pOwogICAgICAgICAgICAgICAgcmV0dXJuIGl0ZW0uZnJvbVVzZXI7CiAgICAgICAgICAgICAgfSksCiAgICAgICAgICAgICAgbWFwKHZhbHVlID0+IHZhbHVlLnZhbHVlKSwKICAgICAgICAgICAgKQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW52b2ljZV9fb2ZmaWNlX19pc251bGw9RmFsc2UsCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -490,7 +502,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW52b2ljZV9faXNudWxsPUZhbHNlLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -506,13 +518,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzZXRUaW1lb3V0KCgpPT57Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZV9faW49WydTJywgJ0InLCAnRCcsICdDJ10sCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>, {
-                  emitEvent: false,
-                  onlySelf: true,
-                }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcl9hY2NvdW50aW5nX2F3YXJlKCkgXAo=</text>
       </register>
       <register name="y" type="4">
         <text />
