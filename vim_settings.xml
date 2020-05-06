@@ -124,12 +124,6 @@
         <mark key="." line="185" column="0" />
         <mark key="^" line="173" column="39" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1588746899893">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="13" />
-        <mark key="^" line="22" column="4" />
-        <mark key="." line="22" column="13" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1588748944142">
         <mark key="[" line="74" column="8" />
         <mark key="]" line="63" column="38" />
@@ -143,6 +137,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/input-cell/input-cell.component.html" timestamp="1588760176023" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/depreciation.service.ts" timestamp="1588761291583">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="27" />
+        <mark key="^" line="35" column="87" />
+        <mark key="." line="17" column="27" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/hc-grid-container/hc-grid-container.component.ts" timestamp="1588756547675">
         <mark key="[" line="209" column="33" />
         <mark key="]" line="209" column="33" />
@@ -161,7 +161,7 @@
         <mark key="." line="563" column="0" />
         <mark key="^" line="579" column="17" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/cell-renderers/hc-pagination-list-col-text.ts" timestamp="1588760236089">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/cell-renderers/hc-pagination-list-col-text.ts" timestamp="1588760293631">
         <mark key="[" line="33" column="48" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
@@ -173,16 +173,13 @@
         <mark key="." line="1302" column="39" />
         <mark key="^" line="1302" column="40" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/asset.typs.ts" timestamp="1588757581768">
-        <mark key="[" line="5" column="17" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/asset.typs.ts" timestamp="1588761286299">
+        <mark key="[" line="8" column="26" />
         <mark key="]" line="5" column="23" />
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="23" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1588759600732">
-        <mark key="[" line="105" column="33" />
-        <mark key="]" line="105" column="33" />
-        <mark key="." line="105" column="33" />
         <mark key="^" line="102" column="104" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1588750098573">
@@ -196,8 +193,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.html" timestamp="1588759918821">
-        <mark key="[" line="63" column="94" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.html" timestamp="1588760349361">
+        <mark key="[" line="58" column="144" />
         <mark key="]" line="27" column="0" />
         <mark key="^" line="27" column="32" />
         <mark key="." line="27" column="0" />
@@ -245,7 +242,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>refreshColumn</text>
+        <text>null</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -375,7 +372,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>refreshColumn</text>
+        <text>null</text>
       </register>
       <register name="m" type="4">
         <keys>
