@@ -133,11 +133,11 @@
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/company/sz.py" timestamp="1588674058154">
         <mark key="[" line="38" column="20" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1588745462128">
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="33" column="12" />
-        <mark key="^" line="59" column="33" />
-        <mark key="." line="33" column="12" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1588746433375">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="13" />
+        <mark key="^" line="22" column="4" />
+        <mark key="." line="22" column="13" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1588739382569">
         <mark key="[" line="74" column="8" />
@@ -237,7 +237,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>//</text>
+        <text>straight_line_method</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -367,7 +367,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>//</text>
+        <text>straight_line_method</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -403,7 +403,7 @@
         <text encoding="base64">ICAgICAgeyBuYW1lOiAnY2hrJywgdGV4dDogX1QuSEVBREVSLkNISywgd2lkdGg6IDUsIHNob3c6IHRydWUsIGZyZWV6ZTogdHJ1ZSB9IGFzIEdyaWRDb2x1bW4sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgbm90IGZvcmNlIGFuZCBcCiAgICAgICAgICAgICAgICBzZWxmLl9jb21wYW55LmlzX2dlbmVyYXRlZF90cmFuc2FjdGlvbnNfb25fZGVtYW5kIGFuZCBcCiAgICAgICAgICAgICAgICBub3Qgc2VsZi5fY29tcGFueS5lbmFibGVfbW9uaXRvcl9hY2NvdW50aW5nX3RyYW5zYWN0aW9uczoKICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -411,13 +411,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRlbGV0ZV9leGlzdGVkX3RyYW5zYWN0aW9ucyhwa19saXN0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHRlcm0gaW4gcmFuZ2UodG90YWxfdGVybSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeSA9IEZpeGVkQXNzZXQub2JqZWN0cy5maWx0ZXIoaWRfX2luPXBrX2xpc3QpCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -474,10 +474,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbF9jbnQgPSBxdWVyeS5jb3VudCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yY2Vfc2VsZWN0X2Zvcl91cGRhdGVfbG9ja3Nfcm93cyhxdWVyeSkK</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbF9jbnQgPSBxdWVyeS5jb3VudCgpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -504,7 +504,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsb2NrX2ZyZWlnaHRzOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9kZWJ1Z19tc2coJ1tEZXByZWNpYXRpb25UcmFuc2FjdGlvblVwZGF0ZXJdJywgY250LCB0b3RhbF9jbnQsIGludGVydmFsPU5vbmUpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -519,16 +519,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>.annotate(
-            debit=Case(When(type__in=['B', 'C'], then=F('amount')), default=Value(0)),
-            credit=Case(When(type__in=['S', 'D'], then=F('amount')), default=Value(0)),
-            post_date=F('invoice__post_date'),
-            office_id=F('invoice__office_id'),
-        ).only('pk', 'type', 'billing_id')</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW52b2ljZV9fb2ZmaWNlX19pc251bGw9RmFsc2UsCg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgbm90IGZvcmNlIGFuZCBcCiAgICAgICAgICAgICAgICBzZWxmLl9jb21wYW55LmlzX2dlbmVyYXRlZF90cmFuc2FjdGlvbnNfb25fZGVtYW5kIGFuZCBcCiAgICAgICAgICAgICAgICBub3Qgc2VsZi5fY29tcGFueS5lbmFibGVfbW9uaXRvcl9hY2NvdW50aW5nX3RyYW5zYWN0aW9uczoKICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="y" type="4">
         <text />
