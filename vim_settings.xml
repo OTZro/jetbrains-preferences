@@ -29,7 +29,6 @@
         <entry>:136</entry>
       </history-search>
       <history-cmd>
-        <entry>134</entry>
         <entry>74</entry>
         <entry>92</entry>
         <entry>124</entry>
@@ -49,6 +48,7 @@
         <entry>w</entry>
         <entry>172</entry>
         <entry>10</entry>
+        <entry>1273</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,17 +118,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/gl_mapping.py" timestamp="1588738488711">
-        <mark key="[" line="84" column="37" />
-        <mark key="]" line="84" column="37" />
-        <mark key="." line="84" column="37" />
-      </file>
       <file name="/a.dummy" timestamp="1588739695677">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/signals/company_handlers.py" timestamp="1588737231794" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/migrations/0004_auto_20200506_0428.py" timestamp="1588739376792" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/report_collector.py" timestamp="1588751769933">
         <mark key="[" line="182" column="36" />
@@ -150,6 +144,9 @@
       <file name="/Python Console" timestamp="1588750394015">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/fragment.py" timestamp="1588752806976">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/depreciation.service.ts" timestamp="1588745446286">
         <mark key="[" line="27" column="50" />
         <mark key="]" line="27" column="50" />
@@ -163,11 +160,11 @@
         <mark key="." line="25" column="41" />
         <mark key="^" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction_collector.py" timestamp="1588752474930">
-        <mark key="[" line="575" column="0" />
-        <mark key="]" line="575" column="0" />
-        <mark key="." line="575" column="0" />
-        <mark key="^" line="580" column="17" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction_collector.py" timestamp="1588752963446">
+        <mark key="[" line="563" column="0" />
+        <mark key="]" line="563" column="0" />
+        <mark key="." line="563" column="0" />
+        <mark key="^" line="579" column="17" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1588745021694">
         <mark key="[" line="11" column="63" />
@@ -177,7 +174,7 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/fms/settings/dev.py" timestamp="1588750118666" />
       <file name="$USER_HOME$/gofreight/fms/app/warehouse/views_rest/entry.py" timestamp="1588738717454" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction_on_demand_collector.py" timestamp="1588751717063">
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction_on_demand_collector.py" timestamp="1588753165998">
         <mark key="[" line="1323" column="29" />
         <mark key="]" line="1302" column="40" />
         <mark key="." line="1302" column="39" />
@@ -194,6 +191,11 @@
         <mark key="]" line="2" column="59" />
         <mark key="^" line="2" column="62" />
         <mark key="." line="2" column="59" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588752992527">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction.py" timestamp="1588750683436">
         <mark key="[" line="9" column="33" />
@@ -237,7 +239,12 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text>Revert &quot;feat(tp-select): Make all form trade partner select use tp-select and change the css to fix hc-tp-select&quot;
+This reverts commit 8271b3e8
+
+[why]
+Cause the style of tp-select need to include custom.css in form, this will cause unexpect style
+We will use hc-tp-select in form after we move style of ng-select from custom.scss to _ng-select.scss</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -403,21 +410,26 @@
         <text encoding="base64">ICAgICAgeyBuYW1lOiAnY2hrJywgdGV4dDogX1QuSEVBREVSLkNISywgd2lkdGg6IDUsIHNob3c6IHRydWUsIGZyZWV6ZTogdHJ1ZSB9IGFzIEdyaWRDb2x1bW4sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text>Revert &quot;feat(tp-select): Make all form trade partner select use tp-select and change the css to fix hc-tp-select&quot;
+This reverts commit 8271b3e8
+
+[why]
+Cause the style of tp-select need to include custom.css in form, this will cause unexpect style
+We will use hc-tp-select in form after we move style of ng-select from custom.scss to _ng-select.scss</text>
       </register>
       <register name="q" type="4">
         <keys>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBpZiBzZWxmLmxpbWl0X2dsX2NvZGVzOgogICAgICAgICAgICBxdWVyeSA9IHNlbGYuZ2VuZXJhdGVfcXVlcnkoKS5maWx0ZXIoZ2xfbm9faWRfX2luPXNlbGYubGltaXRfZ2xfY29kZXMpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcXVlcnkgPSBzZWxmLmdlbmVyYXRlX3F1ZXJ5KCkuZmlsdGVyKGdsX25vX19pc251bGw9RmFsc2UpCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeSA9IHNlbGYuZ2VuZXJhdGVfcXVlcnkoKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text>OnDemand</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBpZiBzZWxmLmxpbWl0X2dsX2NvZGVzOgogICAgICAgICAgICBxdWVyeSA9IHNlbGYuZ2VuZXJhdGVfcXVlcnkoKS5maWx0ZXIoZ2xfbm9faWRfX2luPXNlbGYubGltaXRfZ2xfY29kZXMpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcXVlcnkgPSBzZWxmLmdlbmVyYXRlX3F1ZXJ5KCkuZmlsdGVyKGdsX25vX19pc251bGw9RmFsc2UpCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -474,10 +486,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeSA9IHNlbGYuZ2VuZXJhdGVfcXVlcnkoKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBxID0gUShqb3VybmFsX19pc19kZWw9RmFsc2UpICYgc2VsZi5nZXRfc3BlY2lhbF9xdWVyeV9jb25kKCkKCiAgICAgICAgaWYgc2VsZi5wZXJpb2Rfc3RhcnQ6CiAgICAgICAgICAgIHEgJj0gUShqb3VybmFsX19wb3N0X2RhdGVfX2d0ZT1zZWxmLnBlcmlvZF9zdGFydCkKICAgICAgICBpZiBzZWxmLnBlcmlvZF9lbmQ6CiAgICAgICAgICAgIHEgJj0gUShqb3VybmFsX19wb3N0X2RhdGVfX2x0ZT1zZWxmLnBlcmlvZF9lbmQpCiAgICAgICAgaWYgc2VsZi5vZmZpY2U6CiAgICAgICAgICAgIHEgJj0gUShqb3VybmFsX19vZmZpY2U9c2VsZi5vZmZpY2UpCgogICAgICAgIHJldHVybiBmbXNfbW9kZWxzLkpvdXJuYWxEZXRhaWwub2JqZWN0cy5maWx0ZXIocSk=</text>
+      <register name="6" type="2">
+        <text>OnDemand</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -504,7 +516,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEZXByZWNpYXRpb25UcmFuc2FjdGlvbkNvbGxlY3RvciwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -519,8 +531,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEZXByZWNpYXRpb25UcmFuc2FjdGlvbkNvbGxlY3RvciwK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBxID0gUShqb3VybmFsX19pc19kZWw9RmFsc2UpICYgc2VsZi5nZXRfc3BlY2lhbF9xdWVyeV9jb25kKCkKCiAgICAgICAgaWYgc2VsZi5wZXJpb2Rfc3RhcnQ6CiAgICAgICAgICAgIHEgJj0gUShqb3VybmFsX19wb3N0X2RhdGVfX2d0ZT1zZWxmLnBlcmlvZF9zdGFydCkKICAgICAgICBpZiBzZWxmLnBlcmlvZF9lbmQ6CiAgICAgICAgICAgIHEgJj0gUShqb3VybmFsX19wb3N0X2RhdGVfX2x0ZT1zZWxmLnBlcmlvZF9lbmQpCiAgICAgICAgaWYgc2VsZi5vZmZpY2U6CiAgICAgICAgICAgIHEgJj0gUShqb3VybmFsX19vZmZpY2U9c2VsZi5vZmZpY2UpCgogICAgICAgIHJldHVybiBmbXNfbW9kZWxzLkpvdXJuYWxEZXRhaWwub2JqZWN0cy5maWx0ZXIocSk=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBEZXByZWNpYXRpb25UcmFuc2FjdGlvbkNvbGxlY3RvciwK</text>
@@ -529,7 +541,7 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>10</text>
+        <text>1273</text>
       </register>
     </registers>
   </component>
