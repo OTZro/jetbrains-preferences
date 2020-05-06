@@ -125,7 +125,7 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/app.component.ts" timestamp="1588666612624" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/approval-rule.service.ts" timestamp="1588666229903" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/signals/company_handlers.py" timestamp="1588735458217" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/signals/company_handlers.py" timestamp="1588737231794" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/company/sz.py" timestamp="1588674058154">
         <mark key="[" line="38" column="20" />
       </file>
@@ -135,10 +135,10 @@
         <mark key="^" line="50" column="35" />
         <mark key="." line="67" column="26" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1588736184366">
-        <mark key="[" line="66" column="20" />
-        <mark key="]" line="62" column="20" />
-        <mark key="." line="62" column="20" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1588737725405">
+        <mark key="[" line="75" column="38" />
+        <mark key="]" line="75" column="38" />
+        <mark key="." line="75" column="38" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/utility/grid-handler.ts" timestamp="1588670118422">
         <mark key="[" line="11" column="14" />
@@ -182,7 +182,7 @@
         <mark key="^" line="98" column="24" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/invoice.py" timestamp="1588734001368" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/company/company_entry/index.html" timestamp="1588736344042">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/company/company_entry/index.html" timestamp="1588737103517">
         <mark key="[" line="1297" column="75" />
         <mark key="]" line="1294" column="85" />
         <mark key="^" line="1293" column="96" />
@@ -230,7 +230,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>company_advance_invoice_revenue</text>
+        <text>ADV_INV_REV</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -360,7 +360,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>company_advance_invoice_revenue</text>
+        <text>ADV_INV_REV</text>
       </register>
       <register name="m" type="4">
         <keys>
