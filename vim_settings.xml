@@ -128,13 +128,13 @@
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/company/sz.py" timestamp="1588674058154">
         <mark key="[" line="38" column="20" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1588676657945">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="42" column="97" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1588733819518">
+        <mark key="[" line="76" column="27" />
+        <mark key="]" line="67" column="26" />
+        <mark key="^" line="50" column="35" />
+        <mark key="." line="67" column="26" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1588675957567">
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1588734027783">
         <mark key="[" line="317" column="108" />
         <mark key="]" line="291" column="6" />
         <mark key="." line="291" column="6" />
@@ -180,7 +180,7 @@
         <mark key="." line="98" column="0" />
         <mark key="^" line="98" column="24" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/invoice.py" timestamp="1588670975797" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/invoice.py" timestamp="1588734001368" />
       <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@angular/forms/forms.d.ts" timestamp="1588665385507" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/company/company_entry/index.html" timestamp="1588674013945">
         <mark key="[" line="1297" column="75" />
@@ -229,8 +229,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>Freight</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -360,7 +360,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>term</text>
+        <text>Freight</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -396,7 +396,7 @@
         <text encoding="base64">ICAgICAgeyBuYW1lOiAnY2hrJywgdGV4dDogX1QuSEVBREVSLkNISywgd2lkdGg6IDUsIHNob3c6IHRydWUsIGZyZWV6ZTogdHJ1ZSB9IGFzIEdyaWRDb2x1bW4sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -404,13 +404,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHRlcm0gaW4gcmFuZ2UodG90YWxfdGVybSk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yY2Vfc2VsZWN0X2Zvcl91cGRhdGVfbG9ja3Nfcm93cyhxdWVyeSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsb2NrX2ZyZWlnaHRzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -466,16 +466,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
-        <text>.annotate(
-            debit=Case(When(type__in=['B', 'C'], then=F('amount')), default=Value(0)),
-            credit=Case(When(type__in=['S', 'D'], then=F('amount')), default=Value(0)),
-            post_date=F('invoice__post_date'),
-            office_id=F('invoice__office_id'),
-        ).only('pk', 'type', 'billing_id')</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yY2Vfc2VsZWN0X2Zvcl91cGRhdGVfbG9ja3Nfcm93cyhxdWVyeSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW52b2ljZV9fb2ZmaWNlX19pc251bGw9RmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsb2NrX2ZyZWlnaHRzOgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -501,8 +496,13 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW52b2ljZV9faXNudWxsPUZhbHNlLAo=</text>
+      <register name="7" type="4">
+        <text>.annotate(
+            debit=Case(When(type__in=['B', 'C'], then=F('amount')), default=Value(0)),
+            credit=Case(When(type__in=['S', 'D'], then=F('amount')), default=Value(0)),
+            post_date=F('invoice__post_date'),
+            office_id=F('invoice__office_id'),
+        ).only('pk', 'type', 'billing_id')</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -518,10 +518,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZV9faW49WydTJywgJ0InLCAnRCcsICdDJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW52b2ljZV9fb2ZmaWNlX19pc251bGw9RmFsc2UsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcl9hY2NvdW50aW5nX2F3YXJlKCkgXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW52b2ljZV9faXNudWxsPUZhbHNlLAo=</text>
       </register>
       <register name="y" type="4">
         <text />
