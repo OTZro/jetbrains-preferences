@@ -125,10 +125,10 @@
         <mark key="^" line="565" column="59" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/static/metronic/sass/custom.scss" timestamp="1588845580926" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/sz.py" timestamp="1588908916330">
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="7" column="40" />
-        <mark key="." line="7" column="40" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/sz.py" timestamp="1588910787568">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/status-cell.component.ts" timestamp="1588844293883">
         <mark key="[" line="1" column="0" />
@@ -148,7 +148,7 @@
         <mark key="." line="10" column="91" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/currency/office_currency.service.js" timestamp="1588849284680" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1588907056049">
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1588910046619">
         <mark key="[" line="295" column="0" />
         <mark key="]" line="295" column="0" />
         <mark key="." line="295" column="0" />
@@ -230,7 +230,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>max_length=100</text>
+        <text>__all__</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -360,7 +360,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>max_length=100</text>
+        <text>__all__</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -396,7 +396,7 @@
         <text encoding="base64">ICAgICAgeyBuYW1lOiAnY2hrJywgdGV4dDogX1QuSEVBREVSLkNISywgd2lkdGg6IDUsIHNob3c6IHRydWUsIGZyZWV6ZTogdHJ1ZSB9IGFzIEdyaWRDb2x1bW4sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbmN5ID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -404,13 +404,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfY3VycmVuY3koc2VsZiwgYXNzZXQ6IEZpeGVkQXNzZXQpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IEZpeGVkQXNzZXQK</text>
+        <text encoding="base64">ICAgIGN1cnJlbmN5ID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -467,10 +467,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlID0gWydzdGF0dXMnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGEob2JqZWN0KToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -497,7 +497,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgRml4ZWRBc3NldFVwZGF0ZVNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IEZpeGVkQXNzZXQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -513,10 +513,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbmN5ID0gbW9kZWxzLkZvcmVpZ25LZXkoQ3VycmVuY3ksIG9uX2RlbGV0ZT1tb2RlbHMuU0VUX05VTEwsIG51bGw9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBleGNsdWRlID0gWydzdGF0dXMnXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgc3RhdHVzID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEsIGNob2ljZXM9U1RBVFVTX0NIT0lDRSkK</text>
+        <text encoding="base64">ICAgIGNsYXNzIE1ldGEob2JqZWN0KToK</text>
       </register>
       <register name="y" type="4">
         <text />
