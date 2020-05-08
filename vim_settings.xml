@@ -138,12 +138,26 @@
         <mark key="." line="379" column="32" />
         <mark key="^" line="9" column="38" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.text_def.ts" timestamp="1588933319036">
+        <mark key="'" line="8" column="34" />
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="11" column="53" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/static/metronic/sass/global/plugins_custom/_ag-grid.scss" timestamp="1588929482013">
         <mark key="[" line="147" column="17" />
         <mark key="]" line="231" column="0" />
         <mark key="." line="231" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1588933282412" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/currency.service.ts" timestamp="1588928391704" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.html" timestamp="1588933339257">
+        <mark key="[" line="116" column="4" />
+        <mark key="]" line="116" column="4" />
+        <mark key="^" line="90" column="58" />
+        <mark key="." line="116" column="4" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/fms/permission/perm_nav.py" timestamp="1588930441261">
         <mark key="[" line="402" column="56" />
         <mark key="]" line="398" column="56" />
@@ -168,22 +182,21 @@
         <mark key="]" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.module.ts" timestamp="1588933290103">
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="6" column="54" />
+        <mark key="." line="6" column="54" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/fms/permission/base.py" timestamp="1588930104424">
         <mark key="[" line="81" column="22" />
         <mark key="]" line="52" column="31" />
         <mark key="^" line="52" column="31" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-autocomplete-base/hc-autocomplete-base.component.ts" timestamp="1588927645960" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/ts/company-info.ts" timestamp="1588927877281" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/company.py" timestamp="1588928281774" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/_nav.html" timestamp="1588931084404">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/_nav.html" timestamp="1588932014810">
         <mark key="[" line="416" column="0" />
         <mark key="]" line="416" column="0" />
         <mark key="." line="416" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/hc-grid-container/hc-grid-container.component.ts" timestamp="1588927742960">
-        <mark key="[" line="164" column="8" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/currency/currency.service.js" timestamp="1588928311429" />
     </filemarks>
@@ -198,6 +211,7 @@
       <jump line="163" column="39" filename="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/trade_partner_entry/index.html" />
       <jump line="6" column="19" filename="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/rule.type.ts" />
       <jump line="34" column="24" filename="/amendment.py" />
+      <jump line="8" column="34" filename="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.text_def.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -224,8 +238,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Save</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -355,7 +369,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>INVOICE_LIST_VIEW_SELF</text>
+        <text>Save</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -388,24 +402,44 @@
         <text>:136</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgeyBuYW1lOiAnY2hrJywgdGV4dDogX1QuSEVBREVSLkNISywgd2lkdGg6IDUsIHNob3c6IHRydWUsIGZyZWV6ZTogdHJ1ZSB9IGFzIEdyaWRDb2x1bW4sCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0dGV4dCBhcyBfIH0gZnJvbSAnTGliL2pzL3RyYW5zbGF0aW9uL2dldHRleHQnOwoK</text>
+      </register>
+      <register name="p" type="4">
+        <keys>
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="65535" code="27" mods="0" />
-        </keys>
+        <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExPQ0FUSU9OOiBfKCdMb2NhdGlvbicpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFTU0VUX0xJRkU6IF8oJ0Fzc2V0IExpZmUgKE1vbnRocyknKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeyUgaWYgdXNlci5oYXNfcGVybShQLk5BVl9BQ0NPVU5USU5HX1BSRVBBSURfRVhQRU5TRV9MSVNUKSAlfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIHslIGlmIHBhdGguc3RhcnRzd2l0aCgiL2FjY291bnRpbmcvYXNzZXQvcHJlcGFpZC1leHBlbnNlL2xpc3QvIikgJX0gY2xhc3M9ImFjdGl2ZSIgeyUgZW5kaWYgJX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2FjY291bnRpbmcvYXNzZXQvcHJlcGFpZC1leHBlbnNlL2xpc3QvIj5QcmVwYWlkIEV4cGVuc2UgTGlzdDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHslIGVuZGlmICV9</text>
+        <text encoding="base64">ICAgIERFUFJFQ0lBVElPTl9NRVRIT0Q6IF8oJ0RlcHJlY2lhdGlvbiBNZXRob2QnKSwK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -462,10 +496,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNBTFZBR0U6IF8oJ1NhbHZhZ2UnKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -492,7 +526,7 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBmcm9tIGZtcy5wZXJtaXNzaW9uIGltcG9ydA==</text>
+        <text encoding="base64">PGNlbGxTZWxlY3QKICAgICAgI2NlbGwKICAgICAgW2hlYWRlclBhcmFtc109InsgaGVhZGVyTmFtZTogX1QuSEVBREVSLkRFUFJFQ0lBVElPTl9NRVRIT0QgfSIKICAgICAgW2NvbHVtblBhcmFtc109InsKICAgICAgICBuYW1lOiAnZGVwcmVjaWF0aW9uX21ldGhvZCcsCiAgICAgICAgZGVmYXVsdFdpZHRoOiAnNyUnLAogICAgICAgIG9wdGlvbnMkOiBkZXByZWNpYXRpb25NZXRob2QkLAogICAgICAgIGNlbGxDbGFzc1J1bGVzOiBjZWxsQ2xhc3NSdWxlcwogICAgICB9IgogICAgPgogICAgPC9jZWxsU2VsZWN0PgogICAgPGNlbGxJbnB1dAogICAgICAjY2VsbAogICAgICBbaGVhZGVyUGFyYW1zXT0ieyBoZWFkZXJOYW1lOiBfVC5IRUFERVIuQVNTRVRfTElGRSB9IgogICAgICBbY29sdW1uUGFyYW1zXT0iewogICAgICAgIG5hbWU6ICdhc3NldF9saWZlJywKICAgICAgICBjZWxsQ2xhc3NSdWxlczogY2VsbENsYXNzUnVsZXMsCiAgICAgICAgZGVmYXVsdFdpZHRoOiAnNyUnLAogICAgICAgIGlucHV0VHlwZTogJ251bWJlcicsCiAgICAgICAgZGVjaW1hbDogMAogICAgICB9IgogICAgPjwvY2VsbElucHV0Pg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -507,12 +541,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="8">
-        <text>NAV_ACCOUNTING
-NAV_ACCOUNTING</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxjZWxsSW5wdXQKICAgICAgI2NlbGwKICAgICAgW2hlYWRlclBhcmFtc109InsgaGVhZGVyTmFtZTogX1QuSEVBREVSLlNBTFZBR0UgfSIKICAgICAgW2NvbHVtblBhcmFtc109InsKICAgICAgICBuYW1lOiAnc2FsdmFnZScsCiAgICAgICAgY2VsbENsYXNzUnVsZXM6IGNlbGxDbGFzc1J1bGVzLAogICAgICAgIGRlZmF1bHRXaWR0aDogJzYlJywKICAgICAgICBpbnB1dFR5cGU6ICdudW1iZXInLAogICAgICAgIGRlY2ltYWw6IDIKICAgICAgfSIKICAgID48L2NlbGxJbnB1dD4=</text>
       </register>
       <register name="y" type="4">
         <text />
