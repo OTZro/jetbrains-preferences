@@ -118,7 +118,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.html" timestamp="1588848770483">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.html" timestamp="1588918875377">
         <mark key="[" line="26" column="40" />
         <mark key="]" line="26" column="40" />
         <mark key="^" line="19" column="13" />
@@ -138,16 +138,17 @@
         <mark key="." line="20" column="18" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/views/approval.py" timestamp="1588917698233" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/date-picker-cell/date-picker-cell.component.ts" timestamp="1588919270906">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="37" column="36" />
+        <mark key="." line="32" column="7" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1588848655930">
         <mark key="[" line="128" column="56" />
         <mark key="]" line="128" column="62" />
         <mark key="." line="128" column="61" />
         <mark key="^" line="128" column="62" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/status-cell.component.ts" timestamp="1588844293883">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/input-cell/input-cell.component.html" timestamp="1588846767978">
         <mark key="[" line="0" column="41" />
@@ -166,16 +167,15 @@
         <mark key="." line="0" column="72" />
         <mark key="^" line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/date-picker-cell/date-picker-cell.component.html" timestamp="1588919282957">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1588910046619">
         <mark key="[" line="295" column="0" />
         <mark key="]" line="295" column="0" />
         <mark key="." line="295" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.module.ts" timestamp="1588844101025">
-        <mark key="[" line="10" column="91" />
-        <mark key="]" line="10" column="91" />
-        <mark key="^" line="15" column="24" />
-        <mark key="." line="10" column="91" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/cell-renderers/hc-pagination-list-col-text.ts" timestamp="1588844313653">
         <mark key="[" line="23" column="49" />
@@ -221,7 +221,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>__all__</text>
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -351,7 +351,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>__all__</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -386,8 +386,9 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgeyBuYW1lOiAnY2hrJywgdGV4dDogX1QuSEVBREVSLkNISywgd2lkdGg6IDUsIHNob3c6IHRydWUsIGZyZWV6ZTogdHJ1ZSB9IGFzIEdyaWRDb2x1bW4sCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>columnParams
+columnParams</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -395,13 +396,15 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZm9ybUdyb3VwLmRpc2FibGVkKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfY3VycmVuY3koc2VsZiwgYXNzZXQ6IEZpeGVkQXNzZXQpOgo=</text>
+      <register name="3" type="8">
+        <text>null
+null</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbmN5ID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
+      <register name="4" type="8">
+        <text>null
+null</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -458,7 +461,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY29sdW1uUGFyYW1zID0gcGFyYW1zLmNvbERlZi5jZWxsUmVuZGVyZXJQYXJhbXMuY29sdW1uUGFyYW1zOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -488,7 +491,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IEZpeGVkQXNzZXQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -504,10 +507,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlID0gWydzdGF0dXMnXQo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfY3VycmVuY3koc2VsZiwgYXNzZXQ6IEZpeGVkQXNzZXQpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGEob2JqZWN0KToK</text>
+        <text encoding="base64">ICAgIGN1cnJlbmN5ID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
       </register>
       <register name="y" type="4">
         <text />
