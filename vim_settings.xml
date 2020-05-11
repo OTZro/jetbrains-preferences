@@ -118,6 +118,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/general/url.service.js" timestamp="1589164013764">
+        <mark key="[" line="490" column="40" />
+        <mark key="]" line="490" column="40" />
+        <mark key="." line="490" column="40" />
+        <mark key="^" line="490" column="45" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/fms/urls.py" timestamp="1589164049040">
+        <mark key="[" line="579" column="21" />
+        <mark key="]" line="579" column="21" />
+        <mark key="^" line="579" column="21" />
+        <mark key="." line="579" column="21" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/sz.py" timestamp="1588935249354">
         <mark key="[" line="2" column="44" />
         <mark key="]" line="2" column="44" />
@@ -137,6 +149,7 @@
         <mark key="]" line="34" column="23" />
         <mark key="." line="34" column="23" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/controller.js" timestamp="1589163990753" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.text_def.ts" timestamp="1588933319036">
         <mark key="'" line="8" column="34" />
         <mark key="[" line="28" column="4" />
@@ -168,19 +181,8 @@
         <mark key="." line="116" column="4" />
       </file>
       <file name="/0029_v1_20_olc_0014_add_nav_approval_center_permission.py" timestamp="1588934155733" />
-      <file name="/controller.js" timestamp="1588930569076" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views/views.py" timestamp="1588931256892">
-        <mark key="[" line="137" column="33" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
-      </file>
       <file name="/Django Console" timestamp="1588934757683">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/permission/permission_management/controller.js" timestamp="1588930587719">
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="34" column="24" />
-        <mark key="." line="34" column="24" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.module.ts" timestamp="1588933290103">
         <mark key="[" line="7" column="61" />
@@ -244,7 +246,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>asset_instance</text>
+        <text>fixed-asset</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -374,7 +376,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>asset_instance</text>
+        <text>fixed-asset</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -431,21 +433,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="8">
+        <text>fixed-asset/
+fixed-asset/</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuYWNjb3VudGluZy5maXhlZF9hc3NldC5zeiBpbXBvcnQgUHJlcGFpZEV4cGVuc2VTZXJpYWxpemVyCg==</text>
+      <register name="2" type="8">
+        <text>fixed-asset/
+fixed-asset/</text>
       </register>
-      <register name="3" type="4">
-        <text>'asset_no', 'description', 'quantity', 'purchase_date', 'acquired_date', 'cost', 'salvage',
-                  'depreciation_method', 'asset_life', 'office</text>
+      <register name="3" type="8">
+        <text>fixed-asset/
+fixed-asset/</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -502,10 +506,11 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2V0X25vID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MzIpCiAgICBkZXNjcmlwdGlvbiA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwMCkKICAgIHF1YW50aXR5ID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKCkKICAgIHB1cmNoYXNlX2RhdGUgPSBzZXJpYWxpemVycy5EYXRlRmllbGQoKQogICAgYWNxdWlyZWRfZGF0ZSA9IHNlcmlhbGl6ZXJzLkRhdGVGaWVsZCgpCiAgICBjb3N0ID0gc2VyaWFsaXplcnMuRGVjaW1hbEZpZWxkKG1heF9kaWdpdHM9REVDSU1BTF9NQVhfRElHSVRBTCwgZGVjaW1hbF9wbGFjZXM9REVDSU1BTF9QTEFDRVMpCiAgICBzYWx2YWdlID0gc2VyaWFsaXplcnMuRGVjaW1hbEZpZWxkKG1heF9kaWdpdHM9REVDSU1BTF9NQVhfRElHSVRBTCwgZGVjaW1hbF9wbGFjZXM9REVDSU1BTF9QTEFDRVMsIHJlcXVpcmVkPUZhbHNlKQogICAgZGVwcmVjaWF0aW9uX21ldGhvZCA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEpCiAgICBhc3NldF9saWZlID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKHJlcXVpcmVkPUZhbHNlKQogICAgb2ZmaWNlID0gc2VyaWFsaXplcnMuUHJpbWFyeUtleVJlbGF0ZWRGaWVsZChxdWVyeXNldD1PZmZpY2Uub2JqZWN0cy5hbGwoKSkK</text>
+        <text encoding="base64">ZnJvbSBhcHAuYWNjb3VudGluZy5maXhlZF9hc3NldC5zeiBpbXBvcnQgUHJlcGFpZEV4cGVuc2VTZXJpYWxpemVyCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbmN5ID0gc2VyaWFsaXplcnMuRm9yZWlnbktleShDdXJyZW5jeSwgb25fZGVsZXRlPXNlcmlhbGl6ZXJzLlNFVF9OVUxMLCBudWxsPVRydWUpCg==</text>
+      <register name="6" type="4">
+        <text>'asset_no', 'description', 'quantity', 'purchase_date', 'acquired_date', 'cost', 'salvage',
+                  'depreciation_method', 'asset_life', 'office</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -532,7 +537,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlkID0gc2VyaWFsaXplcnMuQXV0b0ZpZWxkKHByaW1hcnlfa2V5PVRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -548,10 +553,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2V0X25vID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MzIpCiAgICBkZXNjcmlwdGlvbiA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwMCkKICAgIHF1YW50aXR5ID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKCkKICAgIHB1cmNoYXNlX2RhdGUgPSBzZXJpYWxpemVycy5EYXRlRmllbGQoKQogICAgYWNxdWlyZWRfZGF0ZSA9IHNlcmlhbGl6ZXJzLkRhdGVGaWVsZCgpCiAgICBjb3N0ID0gc2VyaWFsaXplcnMuRGVjaW1hbEZpZWxkKG1heF9kaWdpdHM9REVDSU1BTF9NQVhfRElHSVRBTCwgZGVjaW1hbF9wbGFjZXM9REVDSU1BTF9QTEFDRVMpCiAgICBzYWx2YWdlID0gc2VyaWFsaXplcnMuRGVjaW1hbEZpZWxkKG1heF9kaWdpdHM9REVDSU1BTF9NQVhfRElHSVRBTCwgZGVjaW1hbF9wbGFjZXM9REVDSU1BTF9QTEFDRVMsIHJlcXVpcmVkPUZhbHNlKQogICAgZGVwcmVjaWF0aW9uX21ldGhvZCA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEpCiAgICBhc3NldF9saWZlID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKHJlcXVpcmVkPUZhbHNlKQogICAgb2ZmaWNlID0gc2VyaWFsaXplcnMuUHJpbWFyeUtleVJlbGF0ZWRGaWVsZChxdWVyeXNldD1PZmZpY2Uub2JqZWN0cy5hbGwoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1cnJlbmN5ID0gc2VyaWFsaXplcnMuRm9yZWlnbktleShDdXJyZW5jeSwgb25fZGVsZXRlPXNlcmlhbGl6ZXJzLlNFVF9OVUxMLCBudWxsPVRydWUpCg==</text>
       </register>
       <register name="y" type="4">
         <text />
