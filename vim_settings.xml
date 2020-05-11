@@ -124,7 +124,12 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/depreciation.service.ts" timestamp="1589177454269" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction_collector.py" timestamp="1589182798265" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/migrations/0003_asset_tables.py" timestamp="1589166143992" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1589187511391">
+      <file name="$USER_HOME$/gofreight/fms/static/freight/sass/page/_acct-fixedasset-list.scss" timestamp="1589189415823">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1589188076057">
         <mark key="[" line="143" column="46" />
         <mark key="]" line="142" column="4" />
         <mark key="^" line="142" column="4" />
@@ -151,7 +156,12 @@
       <file name="/Django Console" timestamp="1589184452910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/depreciation.service.ts" timestamp="1589183348194" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/depreciation.service.ts" timestamp="1589189255532">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="19" column="5" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.module.ts" timestamp="1589176387061">
         <mark key="[" line="17" column="48" />
         <mark key="]" line="6" column="54" />
@@ -218,8 +228,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>deleteAssetIds</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -349,7 +359,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>deleteAssetIds</text>
+        <text>null</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -407,19 +417,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29udHJvbC5nZXQoJ2Fzc2V0X2xpZmUnKT8uZW5hYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29udHJvbC5nZXQoJ3NhbHZhZ2UnKT8uZW5hYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgY29udHJvbC5nZXQoJ2Fzc2V0X2xpZmUnKT8uZW5hYmxlKCk7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -476,10 +486,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29udHJvbC5nZXQoJ2Fzc2V0X2xpZmUnKT8ucGF0Y2hWYWx1ZSgnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29udHJvbC5nZXQoJ3NhbHZhZ2UnKT8uZW5hYmxlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29udHJvbC5nZXQoJ2Fzc2V0X2xpZmUnKT8uZGlzYWJsZSgpOwo=</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -506,7 +516,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29udHJvbC5nZXQoJ3NhbHZhZ2UnKT8uZGlzYWJsZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgY29udHJvbC5nZXQoJ2Fzc2V0X2xpZmUnKT8ucGF0Y2hWYWx1ZSgnJyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -522,10 +532,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29udHJvbC5nZXQoJ3NhbHZhZ2UnKT8ucGF0Y2hWYWx1ZSgnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29udHJvbC5nZXQoJ2Fzc2V0X2xpZmUnKT8uZGlzYWJsZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChpdGVtLmRlcHJlY2lhdGlvbl9tZXRob2QgPT09IFNUQVRVU19OQSkgewo=</text>
+        <text encoding="base64">ICAgICAgY29udHJvbC5nZXQoJ3NhbHZhZ2UnKT8uZGlzYWJsZSgpOwo=</text>
       </register>
       <register name="y" type="4">
         <text />
