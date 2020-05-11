@@ -118,10 +118,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/depreciation.service.ts" timestamp="1589177454269" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction_collector.py" timestamp="1589189795331" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/migrations/0003_asset_tables.py" timestamp="1589166143992" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1589192182948">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0029_v1_20_olc_0032_add_asset_permission.py" timestamp="1589194374079">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/gl_mapping.py" timestamp="1589194079065" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/sz.py" timestamp="1589194032321">
+        <mark key="[" line="2" column="44" />
+        <mark key="]" line="2" column="44" />
+        <mark key="." line="2" column="44" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/accounting/accounting_entry.py" timestamp="1589192978063" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction_collector.py" timestamp="1589194263645" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1589193314277">
         <mark key="^" line="11" column="42" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/lib/log/log_helper.py" timestamp="1589192078886" />
@@ -130,6 +140,8 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1589194005870" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction_on_demand_collector.py" timestamp="1589194306363" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1589188076057">
         <mark key="[" line="143" column="46" />
         <mark key="]" line="142" column="4" />
@@ -144,7 +156,6 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1589191823546" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/asset.typs.ts" timestamp="1589186505263" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ag-grid-community/dist/lib/gridApi.d.ts" timestamp="1589184781861" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.html" timestamp="1589186815429">
         <mark key="[" line="20" column="91" />
         <mark key="]" line="116" column="4" />
@@ -154,25 +165,17 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1589187506145">
         <mark key="[" line="89" column="52" />
       </file>
-      <file name="/Django Console" timestamp="1589184452910">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/depreciation.service.ts" timestamp="1589189848373">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.module.ts" timestamp="1589176387061">
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="6" column="54" />
-        <mark key="." line="6" column="54" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.html" timestamp="1589183258913">
-        <mark key="[" line="133" column="52" />
-        <mark key="]" line="68" column="63" />
-        <mark key="^" line="19" column="13" />
-        <mark key="." line="68" column="63" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/fixed_asset_service.py" timestamp="1589193273463">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="22" column="5" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/prepaid-expense.service.ts" timestamp="1589187096326">
         <mark key="[" line="46" column="41" />
@@ -180,12 +183,7 @@
         <mark key="^" line="49" column="79" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/hc-grid-container/hc-grid-container.component.ts" timestamp="1589185445896">
-        <mark key="[" line="342" column="59" />
-        <mark key="]" line="342" column="77" />
-        <mark key="." line="342" column="77" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction.py" timestamp="1589183164153">
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction.py" timestamp="1589194326310">
         <mark key="[" line="86" column="98" />
         <mark key="]" line="86" column="98" />
         <mark key="." line="86" column="98" />
