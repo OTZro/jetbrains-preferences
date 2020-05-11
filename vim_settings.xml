@@ -157,7 +157,11 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1589168617051" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1589176563276">
+        <mark key="[" line="230" column="18" />
+        <mark key="]" line="47" column="21" />
+        <mark key="." line="47" column="21" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1589165954259" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.html" timestamp="1589168495732">
         <mark key="[" line="20" column="91" />
@@ -171,7 +175,7 @@
       <file name="/Django Console" timestamp="1588934757683">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.module.ts" timestamp="1589164995505">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.module.ts" timestamp="1589176387061">
         <mark key="[" line="17" column="48" />
         <mark key="]" line="6" column="54" />
         <mark key="." line="6" column="54" />
@@ -227,8 +231,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbmN5ID0gbW9kZWxzLkZvcmVpZ25LZXkoQ3VycmVuY3ksIG9uX2RlbGV0ZT1tb2RlbHMuU0VUX05VTEwsIG51bGw9VHJ1ZSkK</text>
+      <register name="&quot;" type="4">
+        <text>TFixedAsset</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -358,7 +362,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fixed_asset</text>
+        <text>TFixedAsset</text>
       </register>
       <register name="m" type="4">
         <keys>
