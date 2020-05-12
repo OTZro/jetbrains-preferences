@@ -133,15 +133,20 @@
       <file name="/a.dummy" timestamp="1589269111820">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/accounting/accounting_entry.py" timestamp="1589192978063" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction_collector.py" timestamp="1589194263645" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1589269267119">
-        <mark key="[" line="224" column="52" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1589272404448">
+        <mark key="[" line="196" column="52" />
         <mark key="]" line="224" column="52" />
         <mark key="^" line="224" column="66" />
         <mark key="." line="224" column="52" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1589269875661">
+      <file name="$USER_HOME$/gofreight/fms/fms/permission/perm_accounting.py" timestamp="1589272053642">
+        <mark key="[" line="394" column="31" />
+        <mark key="]" line="394" column="31" />
+        <mark key="." line="394" column="31" />
+        <mark key="^" line="8" column="48" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1589271392890">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="9" />
         <mark key="^" line="23" column="40" />
@@ -158,6 +163,10 @@
         <mark key="]" line="215" column="0" />
         <mark key="." line="215" column="0" />
         <mark key="^" line="209" column="36" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations_helper/v1_20.py" timestamp="1589272905423">
+        <mark key="]" line="159" column="99" />
+        <mark key="." line="159" column="99" />
       </file>
       <file name="/Django Console" timestamp="1589269040858">
         <mark key="[" line="0" column="0" />
@@ -184,12 +193,6 @@
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="28" />
         <mark key="." line="5" column="28" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/fixed_asset_service.py" timestamp="1589193273463">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="22" column="5" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction.py" timestamp="1589194326310">
         <mark key="[" line="86" column="98" />
@@ -236,7 +239,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>import</text>
+        <text encoding="base64">IEZpeGVkIEFzc2V0</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -366,7 +369,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>import</text>
+        <text encoding="base64">IEZpeGVkIEFzc2V0</text>
       </register>
       <register name="m" type="4">
         <keys>
