@@ -125,14 +125,15 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/gl_mapping.py" timestamp="1589194079065" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/vs_mbl_board.html" timestamp="1589260015753" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/sz.py" timestamp="1589260606002">
-        <mark key="[" line="32" column="44" />
-        <mark key="]" line="32" column="40" />
-        <mark key="." line="32" column="40" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/sz.py" timestamp="1589262785922">
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/accounting/accounting_entry.py" timestamp="1589192978063" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction_collector.py" timestamp="1589194263645" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1589193314277">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1589262455608">
+        <mark key="[" line="206" column="5" />
         <mark key="^" line="11" column="42" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/lib/log/log_helper.py" timestamp="1589192078886" />
@@ -222,7 +223,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>not</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -352,7 +353,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>not</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -410,23 +411,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvcik7Cg==</text>
+        <text encoding="base64">ICAgIG9mZmljZSA9IHNlcmlhbGl6ZXJzLlByaW1hcnlLZXlSZWxhdGVkRmllbGQocXVlcnlzZXQ9T2ZmaWNlLm9iamVjdHMuYWxsKCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICh0aGlzLnN1YnNjcmlwdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgIG9mZmljZSA9IHNlcmlhbGl6ZXJzLlByaW1hcnlLZXlSZWxhdGVkRmllbGQocXVlcnlzZXQ9T2ZmaWNlLm9iamVjdHMuYWxsKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zdWJzY3JpcHRpb25zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>const id = this.getSubscriptionId(control);
-      console.log(id);
-      this.subscriptions[id].unsubscribe();
-      delete this.subscriptions[id];
-      console.log(this.subscriptions);</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGFzc2V0X25vID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MzIpCiAgICBkZXNjcmlwdGlvbiA9IHNlcmlhbGl6ZXJzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwMCkKICAgIHF1YW50aXR5ID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKCkKICAgIHB1cmNoYXNlX2RhdGUgPSBzZXJpYWxpemVycy5EYXRlRmllbGQoKQogICAgYWNxdWlyZWRfZGF0ZSA9IHNlcmlhbGl6ZXJzLkRhdGVGaWVsZCgpCiAgICBjb3N0ID0gc2VyaWFsaXplcnMuRGVjaW1hbEZpZWxkKG1heF9kaWdpdHM9REVDSU1BTF9NQVhfRElHSVRBTCwgZGVjaW1hbF9wbGFjZXM9REVDSU1BTF9QTEFDRVMp</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -482,13 +479,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
-        <text>this.subscriptions[id].unsubscribe();
-            delete this.subscriptions[id];</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlcHJlY2lhdGlvbl9tZXRob2QgPSBzZXJpYWxpemVycy5DaGFyRmllbGQobWF4X2xlbmd0aD0xKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>this.subscriptions[id]?.unsubscribe();
-    console.log(this.subscriptions[id]);</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlcHJlY2lhdGlvbl9tZXRob2QgPSBzZXJpYWxpemVycy5DaGFyRmllbGQobWF4X2xlbmd0aD0xKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -515,7 +510,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3Vic2NyaXB0aW9uc1tpZF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvcik7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -530,13 +525,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>for (const subscriptionin this.subscriptions) {
-            subscription;
-          }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICh0aGlzLnN1YnNjcmlwdGlvbnMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zdWJzY3JpcHRpb25zKTsK</text>
       </register>
       <register name="y" type="4">
         <text />
