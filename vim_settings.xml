@@ -161,13 +161,13 @@
         <mark key="^" line="90" column="58" />
         <mark key="." line="116" column="4" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1589254662387">
-        <mark key="[" line="183" column="13" />
-        <mark key="]" line="183" column="13" />
-        <mark key="." line="183" column="13" />
-        <mark key="^" line="143" column="10" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1589256823991">
+        <mark key="[" line="103" column="49" />
+        <mark key="]" line="102" column="20" />
+        <mark key="." line="102" column="19" />
+        <mark key="^" line="102" column="20" />
       </file>
-      <file name="/Django Console" timestamp="1589195723623">
+      <file name="/Django Console" timestamp="1589256600389">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/depreciation.service.ts" timestamp="1589189848373">
@@ -233,7 +233,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -363,7 +363,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -420,20 +420,22 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>for (const subscriptionin this.subscriptions) {
+            subscription;
+          }</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmYWtlSW5kZXggPSAwOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmYWtlSW5kZXggPSAwOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -490,10 +492,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdDoK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -520,7 +522,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29udHJvbC5nZXQoJ2Fzc2V0X2xpZmUnKT8uZW5hYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -536,10 +538,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29udHJvbC5nZXQoJ3NhbHZhZ2UnKT8uZW5hYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29udHJvbC5nZXQoJ2Fzc2V0X2xpZmUnKT8uZW5hYmxlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgY29udHJvbC5nZXQoJ3NhbHZhZ2UnKT8uZW5hYmxlKCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
@@ -556,7 +558,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
