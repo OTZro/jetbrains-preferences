@@ -118,11 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0029_v1_20_olc_0032_add_asset_permission.py" timestamp="1589194374079">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="21" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/vs_mbl_board.html" timestamp="1589260015753" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/sz.py" timestamp="1589262785922">
         <mark key="[" line="7" column="39" />
@@ -132,12 +127,15 @@
       <file name="/a.dummy" timestamp="1589269111820">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction_collector.py" timestamp="1589194263645" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1589272404448">
         <mark key="[" line="196" column="52" />
         <mark key="]" line="224" column="52" />
         <mark key="^" line="224" column="66" />
         <mark key="." line="224" column="52" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/cell-renderers/hc-pagination-list-col-text.ts" timestamp="1589338763138">
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/fms/permission/perm_accounting.py" timestamp="1589272053642">
         <mark key="[" line="394" column="31" />
@@ -150,13 +148,13 @@
         <mark key="]" line="225" column="31" />
         <mark key="." line="225" column="31" />
       </file>
+      <file name="/hc-pagination-list-col-text.ts" timestamp="1589338760404" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1589271392890">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="9" />
         <mark key="^" line="23" column="40" />
         <mark key="." line="7" column="9" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction_on_demand_collector.py" timestamp="1589194306363" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1589269042237">
         <mark key="[" line="318" column="43" />
         <mark key="]" line="334" column="46" />
@@ -172,6 +170,12 @@
         <mark key="]" line="159" column="99" />
         <mark key="." line="159" column="99" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/input-cell/input-cell.component.html" timestamp="1589338479844">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="21" />
+      </file>
       <file name="/Django Console" timestamp="1589269040858">
         <mark key="[" line="0" column="0" />
       </file>
@@ -182,11 +186,11 @@
         <mark key="." line="400" column="33" />
         <mark key="^" line="400" column="15" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.html" timestamp="1589260038491">
-        <mark key="[" line="32" column="54" />
-        <mark key="]" line="68" column="63" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.html" timestamp="1589338533460">
+        <mark key="[" line="122" column="20" />
+        <mark key="]" line="122" column="20" />
         <mark key="^" line="19" column="13" />
-        <mark key="." line="68" column="63" />
+        <mark key="." line="122" column="20" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/controller.text_def.js" timestamp="1589259049470">
         <mark key="[" line="13" column="29" />
@@ -197,11 +201,6 @@
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="28" />
         <mark key="." line="5" column="28" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/transaction.py" timestamp="1589194326310">
-        <mark key="[" line="86" column="98" />
-        <mark key="]" line="86" column="98" />
-        <mark key="." line="86" column="98" />
       </file>
     </filemarks>
     <jumps>
@@ -243,7 +242,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>positiveInteger</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -373,7 +372,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>positiveInteger</text>
       </register>
       <register name="m" type="4">
         <keys>
