@@ -172,11 +172,11 @@
       <file name="/fragment.ts" timestamp="1589424319570">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/utility/form-error-handler.ts" timestamp="1589427782671">
-        <mark key="[" line="16" column="47" />
-        <mark key="]" line="45" column="23" />
-        <mark key="." line="45" column="23" />
-        <mark key="^" line="22" column="9" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/utility/form-error-handler.ts" timestamp="1589428671413">
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="20" column="82" />
+        <mark key="." line="20" column="81" />
+        <mark key="^" line="20" column="82" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment_entry/controller.js" timestamp="1589365768752" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/trade_partner_credit_entry/index.html" timestamp="1589364612541" />
@@ -221,7 +221,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>`${keyPrefix}.${key}`</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -351,7 +351,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>`${keyPrefix}.${key}`</text>
       </register>
       <register name="m" type="4">
         <keys>
