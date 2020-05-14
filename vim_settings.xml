@@ -141,11 +141,7 @@
         <mark key="]" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1589443552266">
-        <mark key="[" line="138" column="29" />
-        <mark key="]" line="138" column="29" />
-        <mark key="." line="138" column="29" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1589445191708" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/input-cell/input-cell.component.html" timestamp="1589441620521">
         <mark key="[" line="14" column="77" />
         <mark key="]" line="16" column="0" />
@@ -163,10 +159,9 @@
         <mark key="." line="28" column="6" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/utility/form-error-handler.ts" timestamp="1589443410546">
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="39" column="10" />
-        <mark key="." line="39" column="10" />
-        <mark key="^" line="48" column="41" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="45" column="41" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/utility/form-error-message.ts" timestamp="1589430755045">
         <mark key="[" line="0" column="0" />
@@ -220,8 +215,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>valueChanges</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdTdGF0dXMgQ2hhbmdlZCcpOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -351,7 +346,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>valueChanges</text>
+        <text>statusChanges</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -409,50 +404,20 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvY3VzSW52YWxpZEZpZWxkCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdTdGF0dXMgQ2hhbmdlZCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGZvY3VzSW52YWxpZEZpZWxkCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIE1vY2tHcmlkUHJlZmVyZW5jZVNlcnZpY2UsCg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>POSITIVE
 POSITIVE</text>
-      </register>
-      <register name="4" type="4">
-        <text>HEADER: {
-    CHK: _('chk'),
-    ASSET_NO: _('Asset Number'),
-    DESCRIPTION: _('Description'),
-    QUANTITY: _('Quantity'),
-    PURCHASE_DATE: _('Purchase Date'),
-    ACQUIRED_DATE: _('Acquired Date'),
-    DEPRECIATION_COST: _('Depreciation Cost'),
-    ACCUMULATED_DEPRECIATION: _('Accumulated Depreciation'),
-    BOOK_VALUE: _('Book Value'),
-    SALVAGE: _('Salvage'),
-    CURRENCY: _('Currency'),
-    DEPRECIATION_METHOD: _('Depreciation Method'),
-    ASSET_LIFE: _('Asset Life (Months)'),
-    LOCATION: _('Location'),
-    STATUS: _('Status'),
-  },
-  MSG: {
-    REQUIRE_FILL_MANDATORY: _(
-      'It is required to fill in all mandatory field(s) before saving, please fill in and save again.',
-    ),
-    SAVE_DATA_SUCC: _('Save Data Successfully'),
-    SAVE_DATA_FAIL: _('Save Data Failed'),
-  },
-  TOOLTIPS: {
-    NEW: _('New'),
-    DELETE: _('Delete'),
-  },
-  BTN: {
-    SAVE: _('Save'),
-  },</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -541,8 +506,38 @@ POSITIVE</text>
     SAVE: _('Save'),
   },</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGdlbmVyYXRlRXJyb3IoZXJyb3I6IHN0cmluZywgdmFsdWU6IGFueSkgewogIGNvbnN0IAoKfQo=</text>
+      <register name="6" type="4">
+        <text>HEADER: {
+    CHK: _('chk'),
+    ASSET_NO: _('Asset Number'),
+    DESCRIPTION: _('Description'),
+    QUANTITY: _('Quantity'),
+    PURCHASE_DATE: _('Purchase Date'),
+    ACQUIRED_DATE: _('Acquired Date'),
+    DEPRECIATION_COST: _('Depreciation Cost'),
+    ACCUMULATED_DEPRECIATION: _('Accumulated Depreciation'),
+    BOOK_VALUE: _('Book Value'),
+    SALVAGE: _('Salvage'),
+    CURRENCY: _('Currency'),
+    DEPRECIATION_METHOD: _('Depreciation Method'),
+    ASSET_LIFE: _('Asset Life (Months)'),
+    LOCATION: _('Location'),
+    STATUS: _('Status'),
+  },
+  MSG: {
+    REQUIRE_FILL_MANDATORY: _(
+      'It is required to fill in all mandatory field(s) before saving, please fill in and save again.',
+    ),
+    SAVE_DATA_SUCC: _('Save Data Successfully'),
+    SAVE_DATA_FAIL: _('Save Data Failed'),
+  },
+  TOOLTIPS: {
+    NEW: _('New'),
+    DELETE: _('Delete'),
+  },
+  BTN: {
+    SAVE: _('Save'),
+  },</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -569,7 +564,7 @@ POSITIVE</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGdlbmVyYXRlRXJyb3IoZXJyb3I6IHN0cmluZywgdmFsdWU6IGFueSkgewogIGNvbnN0IAoKfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -585,7 +580,7 @@ POSITIVE</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
