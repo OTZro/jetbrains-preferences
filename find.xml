@@ -3,14 +3,15 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.xml</mask>
     <mask>*.md</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
-    <mask>*.py</mask>
     <mask>*.js</mask>
     <mask>*.text_def.js</mask>
     <mask>*.ts</mask>
+    <mask>*.py</mask>
   </component>
 </application>
