@@ -118,6 +118,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1589876226711">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0039_add_gl_group_administrative.py" timestamp="1589876229546">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/controller.text_def.js" timestamp="1589873192612">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="16" column="29" />
@@ -181,22 +191,16 @@
         <mark key="." line="90" column="28" />
         <mark key="^" line="90" column="29" />
       </file>
-      <file name="/app.component.html" timestamp="1589869678666" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/index.ts" timestamp="1589873297739">
         <mark key="[" line="7" column="44" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1589869490746">
-        <mark key="[" line="88" column="35" />
-        <mark key="]" line="86" column="13" />
-        <mark key="^" line="113" column="45" />
-        <mark key="." line="86" column="13" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.html" timestamp="1589876390089">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1589872118033">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/sz.py" timestamp="1589870696346">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="70" />
       </file>
     </filemarks>
     <jumps>
@@ -237,8 +241,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>assetsFormArray</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxjZWxsRGF0ZVBpY2tlcgogICAgICAjY2VsbAogICAgICBbaGVhZGVyUGFyYW1zXT0ieyBoZWFkZXJOYW1lOiBfVC5IRUFERVIuUFVSQ0hBU0VfREFURSwgaGVhZGVyQ2xhc3M6ICdtYW5kYXRvcnktbWFyaycgfSIKICAgICAgW2NvbHVtblBhcmFtc109InsgbmFtZTogJ3B1cmNoYXNlX2RhdGUnLCBjZWxsQ2xhc3NSdWxlczogY2VsbENsYXNzUnVsZXMsIGRlZmF1bHRXaWR0aDogJzglJyB9IgogICAgPjwvY2VsbERhdGVQaWNrZXI+CiAgICA8Y2VsbERhdGVQaWNrZXIKICAgICAgI2NlbGwKICAgICAgW2hlYWRlclBhcmFtc109InsgaGVhZGVyTmFtZTogX1QuSEVBREVSLkFDUVVJUkVEX0RBVEUsIGhlYWRlckNsYXNzOiAnbWFuZGF0b3J5LW1hcmsnIH0iCiAgICAgIFtjb2x1bW5QYXJhbXNdPSJ7CiAgICAgICAgbmFtZTogJ2FjcXVpcmVkX2RhdGUnLAogICAgICAgIGNlbGxDbGFzc1J1bGVzOiBjZWxsQ2xhc3NSdWxlcywKICAgICAgICBkZWZhdWx0V2lkdGg6ICc4JScsCiAgICAgICAgbWluRGF0ZTogbmV4dERheU9mTGFzdEJsb2NrRGF0ZQogICAgICB9IgogICAgPjwvY2VsbERhdGVQaWNrZXI+</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -368,7 +372,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>assetsFormArray</text>
+        <text>0030_v1_20_olc_0036_add_gl_setting_for_prepaid_expense</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -426,19 +430,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAsCg==</text>
+        <text encoding="base64">ICAgIDxjZWxsRGF0ZVBpY2tlcgogICAgICAjY2VsbAogICAgICBbaGVhZGVyUGFyYW1zXT0ieyBoZWFkZXJOYW1lOiBfVC5IRUFERVIuUFVSQ0hBU0VfREFURSwgaGVhZGVyQ2xhc3M6ICdtYW5kYXRvcnktbWFyaycgfSIKICAgICAgW2NvbHVtblBhcmFtc109InsgbmFtZTogJ3B1cmNoYXNlX2RhdGUnLCBjZWxsQ2xhc3NSdWxlczogY2VsbENsYXNzUnVsZXMsIGRlZmF1bHRXaWR0aDogJzglJyB9IgogICAgPjwvY2VsbERhdGVQaWNrZXI+CiAgICA8Y2VsbERhdGVQaWNrZXIKICAgICAgI2NlbGwKICAgICAgW2hlYWRlclBhcmFtc109InsgaGVhZGVyTmFtZTogX1QuSEVBREVSLkFDUVVJUkVEX0RBVEUsIGhlYWRlckNsYXNzOiAnbWFuZGF0b3J5LW1hcmsnIH0iCiAgICAgIFtjb2x1bW5QYXJhbXNdPSJ7CiAgICAgICAgbmFtZTogJ2FjcXVpcmVkX2RhdGUnLAogICAgICAgIGNlbGxDbGFzc1J1bGVzOiBjZWxsQ2xhc3NSdWxlcywKICAgICAgICBkZWZhdWx0V2lkdGg6ICc4JScsCiAgICAgICAgbWluRGF0ZTogbmV4dERheU9mTGFzdEJsb2NrRGF0ZQogICAgICB9IgogICAgPjwvY2VsbERhdGVQaWNrZXI+</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkYXRlR2V0dGVyID0gKHY6IHN0cmluZyk6IHN0cmluZyA9PiAodiA/IGdldFVpU3RyRnJvbURhdGVTZXJ2ZXJTdHIodikgOiAnJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNpbWFsOiAwCg==</text>
+        <text encoding="base64">ICBkYXRlR2V0dGVyID0gKHY6IHN0cmluZyk6IHN0cmluZyA9PiAodiA/IGdldFVpU3RyRnJvbURhdGVTZXJ2ZXJTdHIodikgOiAnJyk7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -495,11 +499,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmYWtlSW5kZXggPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWNpbWFsOiAwCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>purchase_date
-purchase_date</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBmYWtlSW5kZXggPSAwOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -546,8 +549,9 @@ purchase_date</text>
         <text>purchase_date
 purchase_date</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGdsX2dhX2V4cGVuc2VfZW5kID0ga25zLkdlbmVyYWxMZWRnZXJTZXJpYWxpemVyKGFsbG93X251bGw9VHJ1ZSkK</text>
+      <register name="9" type="8">
+        <text>purchase_date
+purchase_date</text>
       </register>
       <register name="y" type="4">
         <text />
