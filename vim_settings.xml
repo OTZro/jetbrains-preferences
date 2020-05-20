@@ -118,7 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/amortization.py" timestamp="1589944035642" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/ts/global.ts" timestamp="1589941896918">
         <mark key="[" line="63" column="39" />
         <mark key="]" line="63" column="69" />
@@ -131,10 +130,9 @@
         <mark key="." line="219" column="20" />
         <mark key="^" line="219" column="21" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/prepaid-expense-data.service.ts" timestamp="1589944123514">
-        <mark key="[" line="69" column="5" />
-        <mark key="]" line="80" column="7" />
-        <mark key="." line="80" column="7" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/prepaid-expense-data.service.ts" timestamp="1589947655889">
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="69" column="5" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/sz.py" timestamp="1589886079332">
         <mark key="[" line="7" column="136" />
@@ -147,11 +145,11 @@
         <mark key="^" line="240" column="48" />
         <mark key="." line="240" column="47" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1589945566720">
-        <mark key="[" line="286" column="48" />
-        <mark key="]" line="286" column="31" />
-        <mark key="." line="286" column="31" />
-        <mark key="^" line="226" column="21" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1589947152717">
+        <mark key="[" line="174" column="29" />
+        <mark key="]" line="174" column="49" />
+        <mark key="." line="174" column="48" />
+        <mark key="^" line="174" column="49" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1589886058813">
         <mark key="[" line="271" column="34" />
@@ -163,6 +161,9 @@
         <mark key="[" line="15" column="27" />
         <mark key="]" line="11" column="93" />
         <mark key="." line="11" column="93" />
+      </file>
+      <file name="/" timestamp="1589945965725">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -203,8 +204,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAj</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -391,55 +392,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">WwogICAgICAgIG1pZ3JhdGlvbnMuQWRkRmllbGQoCiAgICAgICAgICAgIG1vZGVsX25hbWU9J3ByZXBhaWRleHBlbnNlJywKICAgICAgICAgICAgbmFtZT0nZXhwZW5zZV9nbF9jb2RlJywKICAgICAgICAgICAgZmllbGQ9bW9kZWxzLkZvcmVpZ25LZXkobnVsbD1UcnVlLCBvbl9kZWxldGU9ZGphbmdvLmRiLm1vZGVscy5kZWxldGlvbi5TRVRfTlVMTCwgcmVsYXRlZF9uYW1lPSdwcmVwYWlkX2V4cGVuc2Vfc2V0JywgdG89J2ZyZWlnaHQuR2VuZXJhbExlZGdlcicpLAogICAgICAgICksCiAgICAgICAgbWlncmF0aW9ucy5BZGRGaWVsZCgKICAgICAgICAgICAgbW9kZWxfbmFtZT0ncHJlcGFpZGV4cGVuc2UnLAogICAgICAgICAgICBuYW1lPSdwcmVwYWlkX3R5cGUnLAogICAgICAgICAgICBmaWVsZD1tb2RlbHMuQ2hhckZpZWxkKGNob2ljZXM9WygnUicsICdQcmVwYWlkIFJlbnRhbCcpLCAoJ0QnLCAnTG9uZy1UZXJtIERlZmVycmVkIEV4cGVuc2UnKV0sIGRlZmF1bHQ9Tm9uZSwgbWF4X2xlbmd0aD0xKSwKICAgICAgICAgICAgcHJlc2VydmVfZGVmYXVsdD1GYWxzZSwKICAgICAgICApLAogICAgXQo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IFsKICAgICAgICBtaWdyYXRpb25zLkFsdGVyRmllbGQoCiAgICAgICAgICAgIG1vZGVsX25hbWU9J2RlcHJlY2lhdGlvbnRyYW5zYWN0aW9uJywKICAgICAgICAgICAgbmFtZT0nZml4ZWRfYXNzZXQnLAogICAgICAgICAgICBmaWVsZD1tb2RlbHMuRm9yZWlnbktleShvbl9kZWxldGU9ZGphbmdvLmRiLm1vZGVscy5kZWxldGlvbi5DQVNDQURFLCByZWxhdGVkX25hbWU9J2RlcHJlY2lhdGlvbl90cmFuc2FjdGlvbl9zZXQnLCB0bz0nYWNjb3VudGluZy5GaXhlZEFzc2V0JyksCiAgICAgICAgKSwKICAgICAgICBtaWdyYXRpb25zLkFsdGVyRmllbGQoCiAgICAgICAgICAgIG1vZGVsX25hbWU9J2RlcHJlY2lhdGlvbnRyYW5zYWN0aW9uJywKICAgICAgICAgICAgbmFtZT0nZ2xfbWFwcGluZycsCiAgICAgICAgICAgIGZpZWxkPW1vZGVscy5Gb3JlaWduS2V5KG51bGw9VHJ1ZSwgb25fZGVsZXRlPWRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24uQ0FTQ0FERSwgcmVsYXRlZF9uYW1lPSdkZXByZWNpYXRpb25fdHJhbnNhY3Rpb25fc2V0JywgdG89J2FjY291bnRpbmcuVHJhbnNhY3Rpb25HTE1hcCcpLAogICAgICAgICksCiAgICAgICAgbWlncmF0aW9ucy5DcmVhdGVNb2RlbCgKICAgICAgICAgICAgbmFtZT0nQW1vcnRpemF0aW9uVHJhbnNhY3Rpb24nLAogICAgICAgICAgICBmaWVsZHM9WwogICAgICAgICAgICAgICAgKCdpZCcsIG1vZGVscy5BdXRvRmllbGQocHJpbWFyeV9rZXk9VHJ1ZSwgc2VyaWFsaXplPUZhbHNlKSksCiAgICAgICAgICAgICAgICAoJ2lzc3VlX2RhdGUnLCBtb2RlbHMuRGF0ZUZpZWxkKCkpLAogICAgICAgICAgICAgICAgKCdkZWJpdCcsIG1vZGVscy5EZWNpbWFsRmllbGQoZGVjaW1hbF9wbGFjZXM9MiwgZGVmYXVsdD0wLCBtYXhfZGlnaXRzPTIwKSksCiAgICAgICAgICAgICAgICAoJ2NyZWRpdCcsIG1vZGVscy5EZWNpbWFsRmllbGQoZGVjaW1hbF9wbGFjZXM9MiwgZGVmYXVsdD0wLCBtYXhfZGlnaXRzPTIwKSksCiAgICAgICAgICAgICAgICAoJ2NhdGVnb3J5JywgbW9kZWxzLkNoYXJGaWVsZChjaG9pY2VzPVsoJ2EnLCAnYScpLCAoJ2UnLCAnZScpXSwgbWF4X2xlbmd0aD0xKSksCiAgICAgICAgICAgICAgICAoJ2dsX21hcHBpbmcnLCBtb2RlbHMuRm9yZWlnbktleShudWxsPVRydWUsIG9uX2RlbGV0ZT1kamFuZ28uZGIubW9kZWxzLmRlbGV0aW9uLkNBU0NBREUsIHJlbGF0ZWRfbmFtZT0nYW1vcnRpemF0aW9uX3RyYW5zYWN0aW9uX3NldCcsIHRvPSdhY2NvdW50aW5nLlRyYW5zYWN0aW9uR0xNYXAnKSksCiAgICAgICAgICAgICAgICAoJ29mZmljZScsIG1vZGVscy5Gb3JlaWduS2V5KG9uX2RlbGV0ZT1kamFuZ28uZGIubW9kZWxzLmRlbGV0aW9uLkNBU0NBREUsIHJlbGF0ZWRfbmFtZT0nYW1vcnRpemF0aW9uX3RyYW5zYWN0aW9uX3NldCcsIHRvPSdmcmVpZ2h0Lk9mZmljZScpKSwKICAgICAgICAgICAgICAgICgncHJlcGFpZF9leHBlbnNlJywgbW9kZWxzLkZvcmVpZ25LZXkob25fZGVsZXRlPWRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24uQ0FTQ0FERSwgcmVsYXRlZF9uYW1lPSdhbW9ydGl6YXRpb25fdHJhbnNhY3Rpb25fc2V0JywgdG89J2FjY291bnRpbmcuUHJlcGFpZEV4cGVuc2UnKSksCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIG9wdGlvbnM9ewogICAgICAgICAgICAgICAgJ2RiX3RhYmxlJzogJ2FjY19hbW9ydGl6YXRpb25fdHJhbnNhY3Rpb24nLAogICAgICAgICAgICB9LAogICAgICAgICksCiAgICAgICAgbWlncmF0aW9ucy5BZGRJbmRleCgKICAgICAgICAgICAgbW9kZWxfbmFtZT0nYW1vcnRpemF0aW9udHJhbnNhY3Rpb24nLAogICAgICAgICAgICBpbmRleD1tb2RlbHMuSW5kZXgoZmllbGRzPVsnaXNzdWVfZGF0ZScsICdvZmZpY2UnLCAnZ2xfbWFwcGluZycsICdkZWJpdCcsICdjcmVkaXQnXSwgbmFtZT0nYW1vcnRpemF0aW9uX3RyYW5zYWN0aW9uJyksCiAgICAgICAgKSwKICAgIF0=</text>
+        <text encoding="base64">dmFsdWVXaXRoU291cmNlJDxUUHJlcGFpZEV4cGVuc2U+KGNvbnRyb2wpCiAgICAgIC5waXBlKAogICAgICAgIGZpbHRlcihpdGVtID0+IGl0ZW0uZnJvbVVzZXIpLAogICAgICAgIG1hcCh2YWx1ZSA9PiB2YWx1ZS52YWx1ZSksCiAgICAgICk=</text>
       </register>
-      <register name="3" type="4">
-        <text>[
-        migrations.AlterField(
-            model_name='generalledger',
-            name='group_type',
-            field=models.CharField(choices=[(None, ''), ('AS01', 'CURRENT ASSET'), ('AS02', 'FIXED ASSET'), ('AS03', 'INVESTMENT ASSET'), ('AS04', 'OTHER ASSET'), ('LI01', 'CURRENT LIABILITY'), ('LI02', 'LONGTERM LIABILITY'), ('EQ01', 'CAPITAL STOCK'), ('EQ02', 'RETAINED EARNING'), ('EQ03', 'NET INCOME'), ('EQ04', &quot;SHARE HOLDER'S EQUITY&quot;), ('IN01', 'AIR EXPORT'), ('IN02', 'AIR IMPORT'), ('IN03', 'OCEAN EXPORT'), ('IN04', 'OCEAN IMPORT'), ('IN05', 'WAREHOUSE'), ('CO01', 'AIR EXPORT'), ('CO02', 'AIR IMPORT'), ('CO03', 'OCEAN EXPORT'), ('CO04', 'OCEAN IMPORT'), ('CO05', 'WAREHOUSE'), ('CO06', 'OTHER'), ('EX01', 'EXPENSE'), ('EX02', 'ADMINISTRATIVE'), ('OI01', 'OTHER INCOME'), ('OE01', 'OTHER EXPENSE'), ('IT01', 'INCOME TAX'), ('IN06', 'OTHER'), ('IN7', 'DOMESTIC'), ('CO7', 'DOMESTIC')], max_length=10, null=True),
-        ),
-    ]</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>[
-        migrations.RemoveField(
-            model_name='company',
-            name='gl_prepaid_asset',
-        ),
-        migrations.RemoveField(
-            model_name='company',
-            name='gl_prepaid_expense',
-        ),
-        migrations.AddField(
-            model_name='company',
-            name='gl_long_term_deferred_expense',
-            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.SET_NULL, related_name='company_long_term_deferred_expense_set', to='freight.GeneralLedger'),
-        ),
-        migrations.AddField(
-            model_name='company',
-            name='gl_prepaid_rental',
-            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.SET_NULL, related_name='company_prepaid_rental_set', to='freight.GeneralLedger'),
-        ),
-        migrations.AddField(
-            model_name='company',
-            name='gl_rental_expense',
-            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.SET_NULL, related_name='company_rental_expense_set', to='freight.GeneralLedger'),
-        ),
-        migrations.AddField(
-            model_name='company',
-            name='is_asset_manager_enabled',
-            field=models.BooleanField(default=False),
-        ),
-    ]</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -495,11 +461,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAoJ2ZyZWlnaHQnLCAnMDAzMF92MV8yMF9vbGNfMDAzNl9hZGRfZ2xfc2V0dGluZ19mb3JfcHJlcGFpZF9leHBlbnNlJyksCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">WwogICAgICAgIG1pZ3JhdGlvbnMuQWRkRmllbGQoCiAgICAgICAgICAgIG1vZGVsX25hbWU9J3ByZXBhaWRleHBlbnNlJywKICAgICAgICAgICAgbmFtZT0nZXhwZW5zZV9nbF9jb2RlJywKICAgICAgICAgICAgZmllbGQ9bW9kZWxzLkZvcmVpZ25LZXkobnVsbD1UcnVlLCBvbl9kZWxldGU9ZGphbmdvLmRiLm1vZGVscy5kZWxldGlvbi5TRVRfTlVMTCwgcmVsYXRlZF9uYW1lPSdwcmVwYWlkX2V4cGVuc2Vfc2V0JywgdG89J2ZyZWlnaHQuR2VuZXJhbExlZGdlcicpLAogICAgICAgICksCiAgICAgICAgbWlncmF0aW9ucy5BZGRGaWVsZCgKICAgICAgICAgICAgbW9kZWxfbmFtZT0ncHJlcGFpZGV4cGVuc2UnLAogICAgICAgICAgICBuYW1lPSdwcmVwYWlkX3R5cGUnLAogICAgICAgICAgICBmaWVsZD1tb2RlbHMuQ2hhckZpZWxkKGNob2ljZXM9WygnUicsICdQcmVwYWlkIFJlbnRhbCcpLCAoJ0QnLCAnTG9uZy1UZXJtIERlZmVycmVkIEV4cGVuc2UnKV0sIGRlZmF1bHQ9Tm9uZSwgbWF4X2xlbmd0aD0xKSwKICAgICAgICAgICAgcHJlc2VydmVfZGVmYXVsdD1GYWxzZSwKICAgICAgICApLAogICAgXQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxjZWxsRGF0ZVBpY2tlcgogICAgICAjY2VsbAogICAgICBbaGVhZGVyUGFyYW1zXT0ieyBoZWFkZXJOYW1lOiBfVC5IRUFERVIuUFVSQ0hBU0VfREFURSwgaGVhZGVyQ2xhc3M6ICdtYW5kYXRvcnktbWFyaycgfSIKICAgICAgW2NvbHVtblBhcmFtc109InsgbmFtZTogJ3B1cmNoYXNlX2RhdGUnLCBjZWxsQ2xhc3NSdWxlczogY2VsbENsYXNzUnVsZXMsIGRlZmF1bHRXaWR0aDogJzglJyB9IgogICAgPjwvY2VsbERhdGVQaWNrZXI+CiAgICA8Y2VsbERhdGVQaWNrZXIKICAgICAgI2NlbGwKICAgICAgW2hlYWRlclBhcmFtc109InsgaGVhZGVyTmFtZTogX1QuSEVBREVSLkFDUVVJUkVEX0RBVEUsIGhlYWRlckNsYXNzOiAnbWFuZGF0b3J5LW1hcmsnIH0iCiAgICAgIFtjb2x1bW5QYXJhbXNdPSJ7CiAgICAgICAgbmFtZTogJ2FjcXVpcmVkX2RhdGUnLAogICAgICAgIGNlbGxDbGFzc1J1bGVzOiBjZWxsQ2xhc3NSdWxlcywKICAgICAgICBkZWZhdWx0V2lkdGg6ICc4JScsCiAgICAgICAgbWluRGF0ZTogbmV4dERheU9mTGFzdEJsb2NrRGF0ZQogICAgICB9IgogICAgPjwvY2VsbERhdGVQaWNrZXI+</text>
+      <register name="6" type="4">
+        <text encoding="base64">IFsKICAgICAgICBtaWdyYXRpb25zLkFsdGVyRmllbGQoCiAgICAgICAgICAgIG1vZGVsX25hbWU9J2RlcHJlY2lhdGlvbnRyYW5zYWN0aW9uJywKICAgICAgICAgICAgbmFtZT0nZml4ZWRfYXNzZXQnLAogICAgICAgICAgICBmaWVsZD1tb2RlbHMuRm9yZWlnbktleShvbl9kZWxldGU9ZGphbmdvLmRiLm1vZGVscy5kZWxldGlvbi5DQVNDQURFLCByZWxhdGVkX25hbWU9J2RlcHJlY2lhdGlvbl90cmFuc2FjdGlvbl9zZXQnLCB0bz0nYWNjb3VudGluZy5GaXhlZEFzc2V0JyksCiAgICAgICAgKSwKICAgICAgICBtaWdyYXRpb25zLkFsdGVyRmllbGQoCiAgICAgICAgICAgIG1vZGVsX25hbWU9J2RlcHJlY2lhdGlvbnRyYW5zYWN0aW9uJywKICAgICAgICAgICAgbmFtZT0nZ2xfbWFwcGluZycsCiAgICAgICAgICAgIGZpZWxkPW1vZGVscy5Gb3JlaWduS2V5KG51bGw9VHJ1ZSwgb25fZGVsZXRlPWRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24uQ0FTQ0FERSwgcmVsYXRlZF9uYW1lPSdkZXByZWNpYXRpb25fdHJhbnNhY3Rpb25fc2V0JywgdG89J2FjY291bnRpbmcuVHJhbnNhY3Rpb25HTE1hcCcpLAogICAgICAgICksCiAgICAgICAgbWlncmF0aW9ucy5DcmVhdGVNb2RlbCgKICAgICAgICAgICAgbmFtZT0nQW1vcnRpemF0aW9uVHJhbnNhY3Rpb24nLAogICAgICAgICAgICBmaWVsZHM9WwogICAgICAgICAgICAgICAgKCdpZCcsIG1vZGVscy5BdXRvRmllbGQocHJpbWFyeV9rZXk9VHJ1ZSwgc2VyaWFsaXplPUZhbHNlKSksCiAgICAgICAgICAgICAgICAoJ2lzc3VlX2RhdGUnLCBtb2RlbHMuRGF0ZUZpZWxkKCkpLAogICAgICAgICAgICAgICAgKCdkZWJpdCcsIG1vZGVscy5EZWNpbWFsRmllbGQoZGVjaW1hbF9wbGFjZXM9MiwgZGVmYXVsdD0wLCBtYXhfZGlnaXRzPTIwKSksCiAgICAgICAgICAgICAgICAoJ2NyZWRpdCcsIG1vZGVscy5EZWNpbWFsRmllbGQoZGVjaW1hbF9wbGFjZXM9MiwgZGVmYXVsdD0wLCBtYXhfZGlnaXRzPTIwKSksCiAgICAgICAgICAgICAgICAoJ2NhdGVnb3J5JywgbW9kZWxzLkNoYXJGaWVsZChjaG9pY2VzPVsoJ2EnLCAnYScpLCAoJ2UnLCAnZScpXSwgbWF4X2xlbmd0aD0xKSksCiAgICAgICAgICAgICAgICAoJ2dsX21hcHBpbmcnLCBtb2RlbHMuRm9yZWlnbktleShudWxsPVRydWUsIG9uX2RlbGV0ZT1kamFuZ28uZGIubW9kZWxzLmRlbGV0aW9uLkNBU0NBREUsIHJlbGF0ZWRfbmFtZT0nYW1vcnRpemF0aW9uX3RyYW5zYWN0aW9uX3NldCcsIHRvPSdhY2NvdW50aW5nLlRyYW5zYWN0aW9uR0xNYXAnKSksCiAgICAgICAgICAgICAgICAoJ29mZmljZScsIG1vZGVscy5Gb3JlaWduS2V5KG9uX2RlbGV0ZT1kamFuZ28uZGIubW9kZWxzLmRlbGV0aW9uLkNBU0NBREUsIHJlbGF0ZWRfbmFtZT0nYW1vcnRpemF0aW9uX3RyYW5zYWN0aW9uX3NldCcsIHRvPSdmcmVpZ2h0Lk9mZmljZScpKSwKICAgICAgICAgICAgICAgICgncHJlcGFpZF9leHBlbnNlJywgbW9kZWxzLkZvcmVpZ25LZXkob25fZGVsZXRlPWRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24uQ0FTQ0FERSwgcmVsYXRlZF9uYW1lPSdhbW9ydGl6YXRpb25fdHJhbnNhY3Rpb25fc2V0JywgdG89J2FjY291bnRpbmcuUHJlcGFpZEV4cGVuc2UnKSksCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIG9wdGlvbnM9ewogICAgICAgICAgICAgICAgJ2RiX3RhYmxlJzogJ2FjY19hbW9ydGl6YXRpb25fdHJhbnNhY3Rpb24nLAogICAgICAgICAgICB9LAogICAgICAgICksCiAgICAgICAgbWlncmF0aW9ucy5BZGRJbmRleCgKICAgICAgICAgICAgbW9kZWxfbmFtZT0nYW1vcnRpemF0aW9udHJhbnNhY3Rpb24nLAogICAgICAgICAgICBpbmRleD1tb2RlbHMuSW5kZXgoZmllbGRzPVsnaXNzdWVfZGF0ZScsICdvZmZpY2UnLCAnZ2xfbWFwcGluZycsICdkZWJpdCcsICdjcmVkaXQnXSwgbmFtZT0nYW1vcnRpemF0aW9uX3RyYW5zYWN0aW9uJyksCiAgICAgICAgKSwKICAgIF0=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -525,8 +491,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAsCg==</text>
+      <register name="7" type="4">
+        <text>[
+        migrations.AlterField(
+            model_name='generalledger',
+            name='group_type',
+            field=models.CharField(choices=[(None, ''), ('AS01', 'CURRENT ASSET'), ('AS02', 'FIXED ASSET'), ('AS03', 'INVESTMENT ASSET'), ('AS04', 'OTHER ASSET'), ('LI01', 'CURRENT LIABILITY'), ('LI02', 'LONGTERM LIABILITY'), ('EQ01', 'CAPITAL STOCK'), ('EQ02', 'RETAINED EARNING'), ('EQ03', 'NET INCOME'), ('EQ04', &quot;SHARE HOLDER'S EQUITY&quot;), ('IN01', 'AIR EXPORT'), ('IN02', 'AIR IMPORT'), ('IN03', 'OCEAN EXPORT'), ('IN04', 'OCEAN IMPORT'), ('IN05', 'WAREHOUSE'), ('CO01', 'AIR EXPORT'), ('CO02', 'AIR IMPORT'), ('CO03', 'OCEAN EXPORT'), ('CO04', 'OCEAN IMPORT'), ('CO05', 'WAREHOUSE'), ('CO06', 'OTHER'), ('EX01', 'EXPENSE'), ('EX02', 'ADMINISTRATIVE'), ('OI01', 'OTHER INCOME'), ('OE01', 'OTHER EXPENSE'), ('IT01', 'INCOME TAX'), ('IN06', 'OTHER'), ('IN7', 'DOMESTIC'), ('CO7', 'DOMESTIC')], max_length=10, null=True),
+        ),
+    ]</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -541,11 +513,40 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>[
+        migrations.RemoveField(
+            model_name='company',
+            name='gl_prepaid_asset',
+        ),
+        migrations.RemoveField(
+            model_name='company',
+            name='gl_prepaid_expense',
+        ),
+        migrations.AddField(
+            model_name='company',
+            name='gl_long_term_deferred_expense',
+            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.SET_NULL, related_name='company_long_term_deferred_expense_set', to='freight.GeneralLedger'),
+        ),
+        migrations.AddField(
+            model_name='company',
+            name='gl_prepaid_rental',
+            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.SET_NULL, related_name='company_prepaid_rental_set', to='freight.GeneralLedger'),
+        ),
+        migrations.AddField(
+            model_name='company',
+            name='gl_rental_expense',
+            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.SET_NULL, related_name='company_rental_expense_set', to='freight.GeneralLedger'),
+        ),
+        migrations.AddField(
+            model_name='company',
+            name='is_asset_manager_enabled',
+            field=models.BooleanField(default=False),
+        ),
+    ]</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkYXRlR2V0dGVyID0gKHY6IHN0cmluZyk6IHN0cmluZyA9PiAodiA/IGdldFVpU3RyRnJvbURhdGVTZXJ2ZXJTdHIodikgOiAnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAoJ2ZyZWlnaHQnLCAnMDAzMF92MV8yMF9vbGNfMDAzNl9hZGRfZ2xfc2V0dGluZ19mb3JfcHJlcGFpZF9leHBlbnNlJyksCg==</text>
       </register>
       <register name="y" type="4">
         <text />
