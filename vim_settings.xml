@@ -139,7 +139,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/app.component.html" timestamp="1589950064949" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/amortization.py" timestamp="1589957014340">
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/amortization.py" timestamp="1589961046819">
         <mark key="[" line="31" column="19" />
         <mark key="]" line="60" column="12" />
         <mark key="." line="60" column="12" />
@@ -164,7 +164,10 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1589957088698" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/api.py" timestamp="1589961166616">
+        <mark key="[" line="59" column="41" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1589957113399" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/prepaid_expense_service.py" timestamp="1589951422766">
         <mark key="[" line="30" column="32" />
         <mark key="]" line="30" column="42" />
@@ -182,17 +185,16 @@
         <mark key="]" line="111" column="29" />
         <mark key="." line="111" column="29" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/fixed_asset_service.py" timestamp="1589961226045">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1589956785688">
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
         <mark key="^" line="124" column="64" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/readonly-date-input-cell.component.ts.ts" timestamp="1589949319529">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-        <mark key="^" line="8" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -233,8 +235,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>commenceDay</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -422,20 +424,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0RhdGEgbGlzdCBjaGFuZ2VkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="8">
-        <text>import
-import</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBEZXByZWNpYXRpb25UcmFuc2FjdGlvblVwZGF0ZXIoKS51cGRhdGUoW2luc3RhbmNlLmlkXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEZXByZWNpYXRpb25UcmFuc2FjdGlvblVwZGF0ZXIoKS51cGRhdGUoW2luc3RhbmNlLmlkXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0RhdGEgbGlzdCBjaGFuZ2VkJyk7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -491,11 +492,12 @@ import</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text>import
+import</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoUHJlcGFpZEV4cGVuc2VMaXN0Vmlldywgc2VsZikuZ2V0KHJlcXVlc3QsICphcmdzLCAqKmt3YXJncykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -522,7 +524,7 @@ import</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkRlbmllZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -538,10 +540,10 @@ import</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBoYXNfbGlzdF9wZXJtaXNzaW9uKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoUHJlcGFpZEV4cGVuc2VMaXN0Vmlldywgc2VsZikuZ2V0KHJlcXVlc3QsICphcmdzLCAqKmt3YXJncykK</text>
       </register>
       <register name="y" type="4">
         <text />
