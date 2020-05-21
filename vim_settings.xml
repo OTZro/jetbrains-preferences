@@ -149,10 +149,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/choices.py" timestamp="1590034306700" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/helper.py" timestamp="1590046634851">
-        <mark key="[" line="353" column="27" />
-        <mark key="]" line="340" column="0" />
-        <mark key="." line="339" column="7" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/helper.py" timestamp="1590047306256">
+        <mark key="[" line="366" column="12" />
+        <mark key="]" line="356" column="26" />
+        <mark key="." line="356" column="26" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/api.py" timestamp="1589973517805">
         <mark key="[" line="58" column="41" />
@@ -217,8 +217,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdyb3VwIGpvdXJuYWxpemUgaXRlbXMgYnkgYHN1YmluZm9gIGFuZCBgZGF0ZWAsIGNhbGN1bGF0ZSB0aGUgc3VtbWFyeSBvZiBkZWJpdCAmIGNyZWRpdAo=</text>
+      <register name="&quot;" type="4">
+        <text>': 0, 'credit': 0</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -348,7 +348,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>': 0, 'credit': 0</text>
       </register>
       <register name="m" type="4">
         <keys>
