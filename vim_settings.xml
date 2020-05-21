@@ -118,17 +118,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gofreight/fms/static/metronic/acctGlReport.html.erb" timestamp="1590051198747" />
       <file name="$USER_HOME$/gofreight/fms/fms/urls_reports.py" timestamp="1590044552520">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590050537557">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1590044749017">
+      <file name="/Python Console" timestamp="1590053083071">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/office.service.ts" timestamp="1590044282079">
@@ -137,16 +133,30 @@
       <file name="/a.dummy" timestamp="1590034551892">
         <mark key="[" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/api.py" timestamp="1589973517805">
-        <mark key="[" line="58" column="41" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/report_collector.py" timestamp="1589972503059">
-        <mark key="[" line="227" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_ga_report.html" timestamp="1590034160766">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_ga_report.html" timestamp="1590053324893">
         <mark key="[" line="83" column="59" />
         <mark key="]" line="83" column="59" />
         <mark key="." line="83" column="59" />
+      </file>
+      <file name="/fms.freight_user" timestamp="1590051569057">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/gl_summary/views_report.py" timestamp="1590053770100">
+        <mark key="[" line="315" column="114" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590053083108">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/helper.py" timestamp="1590053298064">
+        <mark key="[" line="397" column="0" />
+        <mark key="]" line="397" column="0" />
+        <mark key="." line="397" column="0" />
+        <mark key="^" line="340" column="117" />
+      </file>
+      <file name="/freight_user [MySQL - @127.0.0.1]" timestamp="1590051568759">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/prepaid_expense_service.py" timestamp="1590049588223">
         <mark key="[" line="30" column="32" />
@@ -154,12 +164,13 @@
         <mark key="." line="30" column="41" />
         <mark key="^" line="30" column="42" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/fixed_asset_service.py" timestamp="1590027530537">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="/foo.bar" timestamp="1590051569124">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/acct_gl_summary.html" timestamp="1590034070346">
+      <file name="/Clipboard.txt" timestamp="1590053615177">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/acct_gl_summary.html" timestamp="1590051356759">
         <mark key="[" line="152" column="67" />
       </file>
     </filemarks>
@@ -202,13 +213,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text>tmp
-
-[why]
-Cause no filter for limit_gl_codes when generate GL detail report
-
-[how]
-Force all query filter by limit_gl_codes</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsX3N1bV9kY1snY3JlZGl0J10gKz0gY3JlZGl0Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -338,7 +343,7 @@ Force all query filter by limit_gl_codes</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Date</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -396,25 +401,20 @@ Force all query filter by limit_gl_codes</text>
         </keys>
       </register>
       <register name="1" type="2">
-        <text>tmp
-
-[why]
-Cause no filter for limit_gl_codes when generate GL detail report
-
-[how]
-Force all query filter by limit_gl_codes</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsX3N1bV9kY1snY3JlZGl0J10gKz0gY3JlZGl0Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zml4KGFjY291bnRpbmcpOiBGaXggZ2wgY29kZSBsaW1pdCBkb2Vzbid0IHdvcmsgZm9yIEdMIGRldGFpbCByZXBvcnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VtX2RjX2l0ZW1bJ2RlYml0J10gKz0gZGViaXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdyb3VwIGpvdXJuYWxpemUgaXRlbXMgYnkgYHN1YmluZm9gIGFuZCBgZGF0ZWAsIGNhbGN1bGF0ZSB0aGUgc3VtbWFyeSBvZiBkZWJpdCAmIGNyZWRpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YV9kY19pdGVtWydjcmVkaXQnXSArPSBjcmVkaXQK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>data_dc_item['debit'] += debit
+            data_dc_item['credit'] += credit</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -471,10 +471,16 @@ Force all query filter by limit_gl_codes</text>
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGV4dC1yaWdodCI+e3sgZGF0YS5jcmVkaXQgfCBmbG9hdF9wcmVjaXNpb24oMikgfX08L3RkPg==</text>
+        <text>tmp
+
+[why]
+Cause no filter for limit_gl_codes when generate GL detail report
+
+[how]
+Force all query filter by limit_gl_codes</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Zml4KGFjY291bnRpbmcpOiBGaXggZ2wgY29kZSBsaW1pdCBkb2Vzbid0IHdvcmsgZm9yIEdMIGRldGFpbCByZXBvcnQK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -500,8 +506,8 @@ Force all query filter by limit_gl_codes</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">eyUgaWYgZ2xfc3RhcnQgJX0KICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJnbF9zdGFydCIgdmFsdWU9Int7Z2xfc3RhcnR9fSI+CiAgICB7JSBlbmRpZiAlfQogICAgeyUgaWYgZ2xfZW5kICV9CiAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0iZ2xfZW5kIiB2YWx1ZT0ie3tnbF9lbmR9fSI+CiAgICB7JSBlbmRpZiAlfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGdyb3VwIGpvdXJuYWxpemUgaXRlbXMgYnkgYHN1YmluZm9gIGFuZCBgZGF0ZWAsIGNhbGN1bGF0ZSB0aGUgc3VtbWFyeSBvZiBkZWJpdCAmIGNyZWRpdAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -516,11 +522,11 @@ Force all query filter by limit_gl_codes</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgbWlncmF0aW9ucy5BZGRGaWVsZCgKICAgICAgICAgICAgbW9kZWxfbmFtZT0ncHJlcGFpZGV4cGVuc2UnLAogICAgICAgICAgICBuYW1lPSdleHBlbnNlX2dsX2NvZGUnLAogICAgICAgICAgICBmaWVsZD1tb2RlbHMuRm9yZWlnbktleShudWxsPVRydWUsIG9uX2RlbGV0ZT1kamFuZ28uZGIubW9kZWxzLmRlbGV0aW9uLlNFVF9OVUxMLCByZWxhdGVkX25hbWU9J3ByZXBhaWRfZXhwZW5zZV9zZXQnLCB0bz0nZnJlaWdodC5HZW5lcmFsTGVkZ2VyJyksCiAgICAgICAgKSwKICAgICAgICBtaWdyYXRpb25zLkFkZEZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdwcmVwYWlkZXhwZW5zZScsCiAgICAgICAgICAgIG5hbWU9J3ByZXBhaWRfdHlwZScsCiAgICAgICAgICAgIGZpZWxkPW1vZGVscy5DaGFyRmllbGQoY2hvaWNlcz1bKCdSJywgJ1ByZXBhaWQgUmVudGFsJyksICgnRCcsICdMb25nLVRlcm0gRGVmZXJyZWQgRXhwZW5zZScpXSwgZGVmYXVsdD1Ob25lLCBtYXhfbGVuZ3RoPTEpLAogICAgICAgICAgICBwcmVzZXJ2ZV9kZWZhdWx0PUZhbHNlLAogICAgICAgICks</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgbWlncmF0aW9ucy5BbHRlckZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdkZXByZWNpYXRpb250cmFuc2FjdGlvbicsCiAgICAgICAgICAgIG5hbWU9J2ZpeGVkX2Fzc2V0JywKICAgICAgICAgICAgZmllbGQ9bW9kZWxzLkZvcmVpZ25LZXkob25fZGVsZXRlPWRqYW5nby5kYi5tb2RlbHMuZGVsZXRpb24uQ0FTQ0FERSwgcmVsYXRlZF9uYW1lPSdkZXByZWNpYXRpb25fdHJhbnNhY3Rpb25fc2V0JywgdG89J2FjY291bnRpbmcuRml4ZWRBc3NldCcpLAogICAgICAgICksCiAgICAgICAgbWlncmF0aW9ucy5BbHRlckZpZWxkKAogICAgICAgICAgICBtb2RlbF9uYW1lPSdkZXByZWNpYXRpb250cmFuc2FjdGlvbicsCiAgICAgICAgICAgIG5hbWU9J2dsX21hcHBpbmcnLAogICAgICAgICAgICBmaWVsZD1tb2RlbHMuRm9yZWlnbktleShudWxsPVRydWUsIG9uX2RlbGV0ZT1kamFuZ28uZGIubW9kZWxzLmRlbGV0aW9uLkNBU0NBREUsIHJlbGF0ZWRfbmFtZT0nZGVwcmVjaWF0aW9uX3RyYW5zYWN0aW9uX3NldCcsIHRvPSdhY2NvdW50aW5nLlRyYW5zYWN0aW9uR0xNYXAnKSwKICAgICAgICApLAogICAgICAgIG1pZ3JhdGlvbnMuQ3JlYXRlTW9kZWwoCiAgICAgICAgICAgIG5hbWU9J0Ftb3J0aXphdGlvblRyYW5zYWN0aW9uJywKICAgICAgICAgICAgZmllbGRzPVsKICAgICAgICAgICAgICAgICgnaWQnLCBtb2RlbHMuQXV0b0ZpZWxkKHByaW1hcnlfa2V5PVRydWUsIHNlcmlhbGl6ZT1GYWxzZSkpLAogICAgICAgICAgICAgICAgKCdpc3N1ZV9kYXRlJywgbW9kZWxzLkRhdGVGaWVsZCgpKSwKICAgICAgICAgICAgICAgICgnZGViaXQnLCBtb2RlbHMuRGVjaW1hbEZpZWxkKGRlY2ltYWxfcGxhY2VzPTIsIGRlZmF1bHQ9MCwgbWF4X2RpZ2l0cz0yMCkpLAogICAgICAgICAgICAgICAgKCdjcmVkaXQnLCBtb2RlbHMuRGVjaW1hbEZpZWxkKGRlY2ltYWxfcGxhY2VzPTIsIGRlZmF1bHQ9MCwgbWF4X2RpZ2l0cz0yMCkpLAogICAgICAgICAgICAgICAgKCdjYXRlZ29yeScsIG1vZGVscy5DaGFyRmllbGQoY2hvaWNlcz1bKCdhJywgJ2EnKSwgKCdlJywgJ2UnKV0sIG1heF9sZW5ndGg9MSkpLAogICAgICAgICAgICAgICAgKCdnbF9tYXBwaW5nJywgbW9kZWxzLkZvcmVpZ25LZXkobnVsbD1UcnVlLCBvbl9kZWxldGU9ZGphbmdvLmRiLm1vZGVscy5kZWxldGlvbi5DQVNDQURFLCByZWxhdGVkX25hbWU9J2Ftb3J0aXphdGlvbl90cmFuc2FjdGlvbl9zZXQnLCB0bz0nYWNjb3VudGluZy5UcmFuc2FjdGlvbkdMTWFwJykpLAogICAgICAgICAgICAgICAgKCdvZmZpY2UnLCBtb2RlbHMuRm9yZWlnbktleShvbl9kZWxldGU9ZGphbmdvLmRiLm1vZGVscy5kZWxldGlvbi5DQVNDQURFLCByZWxhdGVkX25hbWU9J2Ftb3J0aXphdGlvbl90cmFuc2FjdGlvbl9zZXQnLCB0bz0nZnJlaWdodC5PZmZpY2UnKSksCiAgICAgICAgICAgICAgICAoJ3ByZXBhaWRfZXhwZW5zZScsIG1vZGVscy5Gb3JlaWduS2V5KG9uX2RlbGV0ZT1kamFuZ28uZGIubW9kZWxzLmRlbGV0aW9uLkNBU0NBREUsIHJlbGF0ZWRfbmFtZT0nYW1vcnRpemF0aW9uX3RyYW5zYWN0aW9uX3NldCcsIHRvPSdhY2NvdW50aW5nLlByZXBhaWRFeHBlbnNlJykpLAogICAgICAgICAgICBdLAogICAgICAgICAgICBvcHRpb25zPXsKICAgICAgICAgICAgICAgICdkYl90YWJsZSc6ICdhY2NfYW1vcnRpemF0aW9uX3RyYW5zYWN0aW9uJywKICAgICAgICAgICAgfSwKICAgICAgICApLAogICAgICAgIG1pZ3JhdGlvbnMuQWRkSW5kZXgoCiAgICAgICAgICAgIG1vZGVsX25hbWU9J2Ftb3J0aXphdGlvbnRyYW5zYWN0aW9uJywKICAgICAgICAgICAgaW5kZXg9bW9kZWxzLkluZGV4KGZpZWxkcz1bJ2lzc3VlX2RhdGUnLCAnb2ZmaWNlJywgJ2dsX21hcHBpbmcnLCAnZGViaXQnLCAnY3JlZGl0J10sIG5hbWU9J2Ftb3J0aXphdGlvbl90cmFuc2FjdGlvbicpLAogICAgICAgICksCiAgICBd</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGV4dC1yaWdodCI+e3sgZGF0YS5jcmVkaXQgfCBmbG9hdF9wcmVjaXNpb24oMikgfX08L3RkPg==</text>
       </register>
       <register name="y" type="4">
         <text />
