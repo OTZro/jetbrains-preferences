@@ -133,30 +133,36 @@
       <file name="/a.dummy" timestamp="1590034551892">
         <mark key="[" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_ga_report.html" timestamp="1590053324893">
-        <mark key="[" line="83" column="59" />
-        <mark key="]" line="83" column="59" />
-        <mark key="." line="83" column="59" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_ga_report.html" timestamp="1590056500081">
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="47" />
       </file>
       <file name="/fms.freight_user" timestamp="1590051569057">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/gl_summary/views_report.py" timestamp="1590053770100">
-        <mark key="[" line="315" column="114" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/gl_summary/views_report.py" timestamp="1590057213394">
+        <mark key="[" line="287" column="22" />
+        <mark key="]" line="287" column="22" />
+        <mark key="." line="287" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1590053083108">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/helper.py" timestamp="1590053298064">
-        <mark key="[" line="397" column="0" />
-        <mark key="]" line="397" column="0" />
-        <mark key="." line="397" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/choices.py" timestamp="1590055036834" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/helper.py" timestamp="1590056784699">
+        <mark key="[" line="339" column="22" />
+        <mark key="]" line="398" column="0" />
+        <mark key="." line="398" column="0" />
         <mark key="^" line="340" column="117" />
       </file>
       <file name="/freight_user [MySQL - @127.0.0.1]" timestamp="1590051568759">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/report_collector.py" timestamp="1590056676949">
+        <mark key="[" line="242" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/prepaid_expense_service.py" timestamp="1590049588223">
         <mark key="[" line="30" column="32" />
@@ -170,7 +176,7 @@
       <file name="/Clipboard.txt" timestamp="1590053615177">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/acct_gl_summary.html" timestamp="1590051356759">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/acct_gl_summary.html" timestamp="1590056647394">
         <mark key="[" line="152" column="67" />
       </file>
     </filemarks>
@@ -212,8 +218,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsX3N1bV9kY1snY3JlZGl0J10gKz0gY3JlZGl0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>debit': 0, 'credit</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -343,7 +349,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Date</text>
+        <text>debit': 0, 'credit</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -401,20 +407,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsX3N1bV9kY1snY3JlZGl0J10gKz0gY3JlZGl0Cg==</text>
+        <text encoding="base64">ICAgICAgICBnYV9leHBlbnNlID0gc2VsZi5wYXJhbXMuZ2V0KCdnYV9leHBlbnNlJywgTm9uZSkK</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VtX2RjX2l0ZW1bJ2RlYml0J10gKz0gZGViaXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2FfZXhwZW5zZSA9IGJvb2woZ2FfZXhwZW5zZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YV9kY19pdGVtWydjcmVkaXQnXSArPSBjcmVkaXQK</text>
+        <text encoding="base64">ICAgICAgICBpZiBnYV9leHBlbnNlOgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>data_dc_item['debit'] += debit
-            data_dc_item['credit'] += credit</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3RkPgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -471,16 +476,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text>tmp
-
-[why]
-Cause no filter for limit_gl_codes when generate GL detail report
-
-[how]
-Force all query filter by limit_gl_codes</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zml4KGFjY291bnRpbmcpOiBGaXggZ2wgY29kZSBsaW1pdCBkb2Vzbid0IHdvcmsgZm9yIEdMIGRldGFpbCByZXBvcnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZW5kaWYgJX0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -507,7 +506,7 @@ Force all query filter by limit_gl_codes</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdyb3VwIGpvdXJuYWxpemUgaXRlbXMgYnkgYHN1YmluZm9gIGFuZCBgZGF0ZWAsIGNhbGN1bGF0ZSB0aGUgc3VtbWFyeSBvZiBkZWJpdCAmIGNyZWRpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7Z2xfc3RhcnR8bm9uZTJlbXB0eX19IH4ge3tnbF9lbmR8bm9uZTJlbXB0eX19Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -523,10 +522,10 @@ Force all query filter by limit_gl_codes</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgaWYgZ2xfc3RhcnQgb3IgZ2xfZW5kICV9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGV4dC1yaWdodCI+e3sgZGF0YS5jcmVkaXQgfCBmbG9hdF9wcmVjaXNpb24oMikgfX08L3RkPg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsX3N1bV9kY1snY3JlZGl0J10gKz0gY3JlZGl0Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
