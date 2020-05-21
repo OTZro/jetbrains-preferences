@@ -123,6 +123,9 @@
         <mark key="]" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/office.service.ts" timestamp="1590040677315">
+        <mark key="[" line="35" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1590034551892">
         <mark key="[" line="0" column="2" />
       </file>
@@ -138,19 +141,14 @@
         <mark key="." line="12" column="18" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_gl_summary.html" timestamp="1589972234626" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/gl_summary/views_report.py" timestamp="1590039371146">
-        <mark key="[" line="315" column="13" />
-        <mark key="]" line="315" column="13" />
-        <mark key="." line="315" column="13" />
-        <mark key="^" line="315" column="10" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/gl_summary/views_report.py" timestamp="1590040387271">
+        <mark key="[" line="117" column="53" />
+        <mark key="]" line="117" column="53" />
+        <mark key="." line="117" column="53" />
+        <mark key="^" line="308" column="10" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/choices.py" timestamp="1590034306700" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/helper.py" timestamp="1590034336581" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0039_add_tp_acct_fields.py" timestamp="1589969485148">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/helper.py" timestamp="1590040674571" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/api.py" timestamp="1589973517805">
         <mark key="[" line="58" column="41" />
       </file>
@@ -219,7 +217,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>G/L Summary</text>
+        <text>acct_gl_summary</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -349,7 +347,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>G/L Summary</text>
+        <text>acct_gl_summary</text>
       </register>
       <register name="m" type="4">
         <keys>
