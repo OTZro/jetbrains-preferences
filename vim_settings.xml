@@ -118,10 +118,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/static/metronic/acctGlReport.html.erb" timestamp="1590051198747" />
-      <file name="/Python Console" timestamp="1590053083071">
+      <file name="/Python Console" timestamp="1590131681791">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/general/url.service.js" timestamp="1590131974128" />
       <file name="/a.dummy" timestamp="1590116554570">
         <mark key="[" line="0" column="22" />
       </file>
@@ -130,8 +130,17 @@
         <mark key="]" line="54" column="23" />
         <mark key="." line="54" column="23" />
       </file>
-      <file name="/fms.freight_user" timestamp="1590051569057">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_ga_expense_report.html" timestamp="1590132361753">
+        <mark key="[" line="52" column="50" />
+        <mark key="]" line="42" column="31" />
+        <mark key="^" line="42" column="31" />
+        <mark key="." line="42" column="30" />
+      </file>
+      <file name="/Django Console" timestamp="1590131681792">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/gl_summary/views_report.py" timestamp="1590132363106">
+        <mark key="[" line="114" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1590053083108">
         <mark key="[" line="0" column="0" />
@@ -140,13 +149,8 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/choices.py" timestamp="1590055036834" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/helper.py" timestamp="1590116756889" />
-      <file name="/freight_user [MySQL - @127.0.0.1]" timestamp="1590051568759">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1590120758691" />
-      <file name="/foo.bar" timestamp="1590051569124">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/report.service.js" timestamp="1590131986633" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/report/gl_report/index.html" timestamp="1590115673572">
         <mark key="[" line="83" column="106" />
       </file>
@@ -207,7 +211,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>M</text>
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -337,7 +341,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>M</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -394,21 +398,21 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="8">
-        <text>class=&quot;text-right&quot;
-class=&quot;text-right&quot;</text>
+      <register name="1" type="2">
+        <text>dddd</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="8">
+        <text>class=&quot;text-right&quot;
+class=&quot;text-right&quot;</text>
+      </register>
+      <register name="4" type="8">
         <text encoding="base64">IHRleHQtcmlnaHQKIHRleHQtcmlnaHQ=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+PC90ZD4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+PC90ZD4K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -465,10 +469,10 @@ class=&quot;text-right&quot;</text>
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InctNDAiPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+PC90ZD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InctMTAiPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+PC90ZD4K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -495,7 +499,7 @@ class=&quot;text-right&quot;</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3JlcG9ydF90eXBlX3N0cic6IGdldF9nbF9yZXBvcnRfdHlwZV9zdHIoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InctNDAiPjwvdGQ+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -511,10 +515,10 @@ class=&quot;text-right&quot;</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InctMTAiPjwvdGQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InctMTAiUmVwb3J0IFR5cGUgOjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3JlcG9ydF90eXBlX3N0cic6IGdldF9nbF9yZXBvcnRfdHlwZV9zdHIoKSwK</text>
       </register>
       <register name="y" type="4">
         <text />
@@ -531,7 +535,7 @@ class=&quot;text-right&quot;</text>
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
