@@ -148,7 +148,7 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/controller.text_def.js" timestamp="1590135914013">
         <mark key="[" line="3" column="50" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/controller.js" timestamp="1590137214330">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/controller.js" timestamp="1590137721332">
         <mark key="[" line="58" column="16" />
         <mark key="]" line="58" column="16" />
         <mark key="." line="58" column="16" />
@@ -165,7 +165,12 @@
         <mark key="]" line="79" column="40" />
         <mark key="." line="79" column="40" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/report.service.ts" timestamp="1590135542093" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/report.service.ts" timestamp="1590137874447">
+        <mark key="[" line="1591" column="30" />
+        <mark key="]" line="1591" column="30" />
+        <mark key="^" line="1584" column="55" />
+        <mark key="." line="1591" column="30" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/index.html" timestamp="1590136146753">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
@@ -211,7 +216,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>warehouse/receipt/dock-receipt/:id/</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -341,7 +346,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>warehouse/receipt/dock-receipt/:id/</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -398,7 +403,13 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGlkID0gb3B0aW9ucy5pZDsK</text>
+      </register>
+      <register name="q" type="4">
+        <text>kkjk</text>
+      </register>
+      <register name="2" type="4">
         <text>{
       client_id: config.client_id,
       redirect_uri: config.redirect_uri,
@@ -408,17 +419,11 @@
       prompt: 'consent',
     }</text>
       </register>
-      <register name="q" type="4">
-        <text>kkjk</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludCgpIHsKICAgIAogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludCgpIHsKICAgIAogIH0K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -475,10 +480,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJidG4tZ3JvdXAiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -504,8 +509,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICBuZy1pZj0idm0uc2hvd0Rvd25sb2FkQnRuIg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJidG4tZ3JvdXAiPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -520,11 +525,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICBuZy1pZj0idm0uc2hvd0Rvd25sb2FkQnRuIg==</text>
       </register>
       <register name="9" type="2">
-        <text>dddd</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
