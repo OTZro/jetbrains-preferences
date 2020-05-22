@@ -119,16 +119,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/gofreight/fms/static/metronic/acctGlReport.html.erb" timestamp="1590051198747" />
-      <file name="$USER_HOME$/gofreight/fms/fms/urls_reports.py" timestamp="1590044552520">
-        <mark key="[" line="16" column="46" />
-        <mark key="]" line="16" column="4" />
-        <mark key="." line="16" column="4" />
-      </file>
       <file name="/Python Console" timestamp="1590053083071">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/office.service.ts" timestamp="1590044282079">
-        <mark key="[" line="35" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1590116554570">
         <mark key="[" line="0" column="22" />
@@ -141,36 +133,17 @@
       <file name="/fms.freight_user" timestamp="1590051569057">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/gl_summary/views_report.py" timestamp="1590116661671">
-        <mark key="[" line="114" column="22" />
-        <mark key="]" line="114" column="22" />
-        <mark key="." line="114" column="22" />
-        <mark key="^" line="180" column="35" />
-      </file>
       <file name="/Dummy.txt" timestamp="1590053083108">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/choices.py" timestamp="1590055036834" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/helper.py" timestamp="1590116756889">
-        <mark key="[" line="339" column="22" />
-        <mark key="]" line="398" column="0" />
-        <mark key="." line="398" column="0" />
-        <mark key="^" line="340" column="117" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/helper.py" timestamp="1590116756889" />
       <file name="/freight_user [MySQL - @127.0.0.1]" timestamp="1590051568759">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/report_collector.py" timestamp="1590056676949">
-        <mark key="[" line="242" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/prepaid_expense_service.py" timestamp="1590049588223">
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="30" column="42" />
-        <mark key="." line="30" column="41" />
-        <mark key="^" line="30" column="42" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1590120758691" />
       <file name="/foo.bar" timestamp="1590051569124">
         <mark key="[" line="0" column="0" />
       </file>
@@ -182,6 +155,11 @@
         <mark key="]" line="64" column="30" />
         <mark key="." line="64" column="29" />
         <mark key="^" line="64" column="30" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1590121413111">
+        <mark key="[" line="79" column="40" />
+        <mark key="]" line="79" column="40" />
+        <mark key="." line="79" column="40" />
       </file>
       <file name="/Clipboard.txt" timestamp="1590053615177">
         <mark key="[" line="0" column="0" />
@@ -229,7 +207,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>General Ledger Report</text>
+        <text>M</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -359,7 +337,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>General Ledger Report</text>
+        <text>M</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -553,7 +531,7 @@ class=&quot;text-right&quot;</text>
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
