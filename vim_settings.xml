@@ -130,6 +130,7 @@
         <mark key="." line="57" column="38" />
         <mark key="^" line="30" column="21" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/agent_local_statement/excel.py" timestamp="1590375784001" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_ga_expense_report.html" timestamp="1590143456255">
         <mark key="[" line="10" column="58" />
         <mark key="]" line="10" column="54" />
@@ -145,10 +146,10 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3/typing.pyi" timestamp="1590375267757" />
       <file name="$USER_HOME$/gofreight/fms/lib/util.py" timestamp="1590375099728" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1590375345598" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/calculator.py" timestamp="1590375705446">
-        <mark key="[" line="43" column="9" />
-        <mark key="]" line="39" column="12" />
-        <mark key="." line="39" column="12" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/calculator.py" timestamp="1590375841237">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="12" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -189,8 +190,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>expense_per_term</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -320,7 +321,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>expense_per_term</text>
+        <text>AmortizationResult</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -377,25 +378,25 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text>return {
-            total_term: total_term,
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="4">
+        <text>return {
+            total_term: total_term,
+        }</text>
+      </register>
+      <register name="3" type="4">
         <text>AmortizationResult({
             total_term: total_term,
             
         })</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0WydVUkwnXVsnZXhjZWwnXSA9ICcvYXBpL2V4Y2VsL2dsLXJlcG9ydC8nCg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0WydVUkwnXVsnZXhjZWwnXSA9ICcvYXBpL2V4Y2VsL2dsLXJlcG9ydC8nCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -451,15 +452,15 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>// eslint-disable-next-line no-undef
     const params = new URLSearchParams(FilterNullData());
     const url = `${this.printUrl}?${params.toString()}`;
     // eslint-disable-next-line no-undef
     window.open(url, '', genFormWindowFeatures(1100, 800));</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlkID0gb3B0aW9ucy5pZDsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -485,15 +486,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>{
-      client_id: config.client_id,
-      redirect_uri: config.redirect_uri,
-      response_type: 'code',
-      scope: config.scope,
-      access_type: 'offline',
-      prompt: 'consent',
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGlkID0gb3B0aW9ucy5pZDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -508,11 +502,18 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>{
+      client_id: config.client_id,
+      redirect_uri: config.redirect_uri,
+      response_type: 'code',
+      scope: config.scope,
+      access_type: 'offline',
+      prompt: 'consent',
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludCgpIHsKICAgIAogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
