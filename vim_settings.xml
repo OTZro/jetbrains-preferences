@@ -118,39 +118,45 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/views_report.py" timestamp="1590144705724">
-        <mark key="[" line="16" column="49" />
-        <mark key="]" line="16" column="50" />
-        <mark key="." line="16" column="50" />
-        <mark key="^" line="23" column="55" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/views_report.py" timestamp="1590380840017">
+        <mark key="[" line="27" column="59" />
+        <mark key="]" line="27" column="60" />
+        <mark key="." line="27" column="60" />
+        <mark key="^" line="34" column="57" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_prepaid_expense_list.html" timestamp="1590373835081">
-        <mark key="[" line="57" column="38" />
-        <mark key="]" line="57" column="38" />
-        <mark key="." line="57" column="38" />
-        <mark key="^" line="30" column="21" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/currency.service.ts" timestamp="1590380001650" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.html" timestamp="1590379934185" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_prepaid_expense_list.html" timestamp="1590380911721">
+        <mark key="[" line="27" column="39" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/agent_local_statement/excel.py" timestamp="1590375784001" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_ga_expense_report.html" timestamp="1590143456255">
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="10" column="54" />
-        <mark key="^" line="10" column="54" />
-        <mark key="." line="10" column="53" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/agent_local_statement/views_report.py" timestamp="1590380758898" />
+      <file name="/Django Console" timestamp="1590378074640">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/amortization.py" timestamp="1590375536128">
-        <mark key="[" line="52" column="28" />
-        <mark key="]" line="52" column="12" />
-        <mark key="." line="52" column="12" />
-        <mark key="^" line="51" column="62" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_aging_report_summary_by_month.html" timestamp="1590380651536" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/partial_keyname.py" timestamp="1590380014665" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/calculator.py" timestamp="1590378997089">
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="56" column="16" />
+        <mark key="." line="56" column="16" />
+        <mark key="^" line="60" column="44" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3/typing.pyi" timestamp="1590375267757" />
-      <file name="$USER_HOME$/gofreight/fms/lib/util.py" timestamp="1590375099728" />
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1590375345598" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/calculator.py" timestamp="1590375841237">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="12" column="25" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_payment_deposit_normal.html" timestamp="1590379382282" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/agent_local_statement/excel.py" timestamp="1590380814443" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_fixed_asset_list.html" timestamp="1590380725824">
+        <mark key="[" line="27" column="39" />
+        <mark key="]" line="109" column="53" />
+        <mark key="." line="109" column="53" />
+        <mark key="^" line="94" column="63" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1590379297337" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/aging_report/handler.py" timestamp="1590380910023" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/base_report.py" timestamp="1590380836674" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/prepaid-expense-data.service.ts" timestamp="1590379922349" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/currency/currency.service.js" timestamp="1590379895666" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1590379942797" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1590380026047" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/views_report.py" timestamp="1590380228265" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -190,8 +196,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>user</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -321,7 +327,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AmortizationResult</text>
+        <text>user</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -384,19 +390,19 @@
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>return {
             total_term: total_term,
         }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>AmortizationResult({
             total_term: total_term,
             
         })</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0WydVUkwnXVsnZXhjZWwnXSA9ICcvYXBpL2V4Y2VsL2dsLXJlcG9ydC8nCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -453,14 +459,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0WydVUkwnXVsnZXhjZWwnXSA9ICcvYXBpL2V4Y2VsL2dsLXJlcG9ydC8nCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>// eslint-disable-next-line no-undef
-    const params = new URLSearchParams(FilterNullData());
-    const url = `${this.printUrl}?${params.toString()}`;
-    // eslint-disable-next-line no-undef
-    window.open(url, '', genFormWindowFeatures(1100, 800));</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -486,8 +488,12 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlkID0gb3B0aW9ucy5pZDsK</text>
+      <register name="7" type="4">
+        <text>// eslint-disable-next-line no-undef
+    const params = new URLSearchParams(FilterNullData());
+    const url = `${this.printUrl}?${params.toString()}`;
+    // eslint-disable-next-line no-undef
+    window.open(url, '', genFormWindowFeatures(1100, 800));</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -502,7 +508,10 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGlkID0gb3B0aW9ucy5pZDsK</text>
+      </register>
+      <register name="9" type="4">
         <text>{
       client_id: config.client_id,
       redirect_uri: config.redirect_uri,
@@ -511,9 +520,6 @@
       access_type: 'offline',
       prompt: 'consent',
     }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
