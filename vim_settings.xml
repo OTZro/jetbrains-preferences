@@ -122,6 +122,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/acct_fixedasset_list.html" timestamp="1590460415878" />
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_depreciation_updater.py" timestamp="1590475788178">
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="16" column="6" />
+        <mark key="." line="16" column="6" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/bank/query_utility.py" timestamp="1590461724451" />
       <file name="/" timestamp="1590474776360">
         <mark key="[" line="0" column="0" />
@@ -144,7 +149,6 @@
         <mark key="." line="101" column="66" />
         <mark key="^" line="51" column="64" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/lib/crawler/vendor/ifms_checker.py" timestamp="1590459896670" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/condition.py" timestamp="1590460173022">
         <mark key="[" line="32" column="24" />
         <mark key="]" line="51" column="12" />
@@ -222,8 +226,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TestPaymentUpdaterOldPolicy</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -353,7 +357,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>latest</text>
+        <text>TestPaymentUpdaterOldPolicy</text>
       </register>
       <register name="m" type="4">
         <keys>
