@@ -118,25 +118,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1590465738809">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/acct_fixedasset_list.html" timestamp="1590460415878" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1590459844497" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/bank/query_utility.py" timestamp="1590461724451" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/prepaid_expense_service.py" timestamp="1590401961660" />
       <file name="/" timestamp="1590460114537">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1590463551794" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1590459772430" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/views_report.py" timestamp="1590462307701">
-        <mark key="[" line="48" column="77" />
-        <mark key="]" line="50" column="23" />
-        <mark key="^" line="20" column="27" />
-        <mark key="." line="50" column="23" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1590466371676">
+        <mark key="[" line="159" column="126" />
+        <mark key="]" line="159" column="107" />
+        <mark key="." line="159" column="107" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_prepaid_expense_list.html" timestamp="1590462221082">
-        <mark key="[" line="51" column="51" />
-        <mark key="]" line="51" column="64" />
-        <mark key="." line="51" column="63" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1590459772430" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/views_report.py" timestamp="1590465472479">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="20" column="27" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_prepaid_expense_list.html" timestamp="1590465971633">
+        <mark key="[" line="121" column="68" />
+        <mark key="]" line="101" column="66" />
+        <mark key="." line="101" column="66" />
         <mark key="^" line="51" column="64" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/lib/crawler/vendor/ifms_checker.py" timestamp="1590459896670" />
@@ -145,27 +151,37 @@
         <mark key="]" line="51" column="12" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/Django Console" timestamp="1590459735727">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1590466028374">
+        <mark key="[" line="65" column="35" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/calculator.py" timestamp="1590465713697">
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/bank/bank_reconciliation/views_report.py" timestamp="1590461331265" />
-      <file name="/acct_prepaidexpense_list.html" timestamp="1590403112626" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/calculator.py" timestamp="1590465665402">
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="56" column="16" />
+        <mark key="." line="56" column="16" />
+        <mark key="^" line="61" column="44" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/choices.py" timestamp="1590459957482">
         <mark key="[" line="235" column="20" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_fixed_asset_list.html" timestamp="1590462269901">
-        <mark key="[" line="25" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_fixed_asset_list.html" timestamp="1590465814325">
+        <mark key="[" line="105" column="77" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="130" column="82" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/options/api.py" timestamp="1590463531585" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/options.py" timestamp="1590459948708" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/views_report.py" timestamp="1590462148883">
-        <mark key="[" line="48" column="57" />
-        <mark key="]" line="47" column="12" />
-        <mark key="." line="47" column="12" />
-        <mark key="^" line="25" column="73" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/options.py" timestamp="1590464982626" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/views_report.py" timestamp="1590465466291">
+        <mark key="[" line="45" column="27" />
+        <mark key="]" line="48" column="12" />
+        <mark key="." line="48" column="12" />
+        <mark key="^" line="57" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -206,8 +222,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>latest</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -337,7 +353,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>payment</text>
+        <text>latest</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -395,21 +411,20 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5X29mZmljZSA9IGdldF9hY2NvdW50aW5nX2Rpc3BsYXlfb2ZmaWNlKHNlbGYucmVxdWVzdC51c2VyKQo=</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InctNiI+RGF0ZTo8L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idy00NCI+e3sgY3VycmVudF9kYXRlIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InctMzMgdGV4dC1yaWdodCI+PC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InctMTcgdGV4dC1yaWdodCI+PC90ZD4KICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ3LTYiPjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ3LTQ0Ij48L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idy0zMyB0ZXh0LXJpZ2h0Ij48L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idy0xNyB0ZXh0LXJpZ2h0Ij48L3RkPgogICAgICAgICAgICAgICAgPC90cj4=</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>payment
 payment</text>
-      </register>
-      <register name="4" type="4">
-        <text>'expense_type': expense_type_map.get(self.params.get('expense_type'), 'All'),
-            'prepaid_type': prepaid_type_map.get(self.params.get('prepaid_type'), 'All'),</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -465,11 +480,12 @@ payment</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>'expense_type': expense_type_map.get(self.params.get('expense_type'), 'All'),
+            'prepaid_type': prepaid_type_map.get(self.params.get('prepaid_type'), 'All'),</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -496,7 +512,7 @@ payment</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -512,10 +528,10 @@ payment</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InctNiI+RGF0ZTo8L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idy00NCI+e3sgY3VycmVudF9kYXRlIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InctMzMgdGV4dC1yaWdodCI+PC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InctMTcgdGV4dC1yaWdodCI+PC90ZD4KICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ3LTYiPjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ3LTQ0Ij48L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idy0zMyB0ZXh0LXJpZ2h0Ij48L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idy0xNyB0ZXh0LXJpZ2h0Ij48L3RkPgogICAgICAgICAgICAgICAgPC90cj4=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
