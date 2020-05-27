@@ -118,9 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/gl_mapping.py" timestamp="1590560515933">
-        <mark key="[" line="78" column="54" />
-      </file>
       <file name="/a.dummy" timestamp="1590560975816">
         <mark key="[" line="0" column="40" />
       </file>
@@ -131,9 +128,7 @@
         <mark key="^" line="298" column="23" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/hbl_entry/sz_air.py" timestamp="1590566589469" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/company/sz.py" timestamp="1590560595846">
-        <mark key="[" line="38" column="21" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/rate/entry/log_handler.py" timestamp="1590567388908" />
       <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_amortization_updater.py" timestamp="1590565056407">
         <mark key="[" line="289" column="38" />
         <mark key="]" line="289" column="38" />
@@ -180,10 +175,16 @@
         <mark key="." line="226" column="41" />
         <mark key="^" line="226" column="19" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/prepaid_expense_service.py" timestamp="1590567693407" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/prepaid-expense-data.service.ts" timestamp="1590561869221">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="2" />
         <mark key="." line="15" column="2" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/log_handler.py" timestamp="1590567606458">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1590564254633">
         <mark key="[" line="20" column="0" />
@@ -198,7 +199,6 @@
         <mark key="." line="156" column="27" />
         <mark key="^" line="156" column="27" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/company.py" timestamp="1590560597850" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -240,9 +240,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>CREATE
-CREATE</text>
+      <register name="&quot;" type="4">
+        <text>PrepaidExpenseCreateLogHandler</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -372,7 +371,7 @@ CREATE</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CREATE</text>
+        <text>PrepaidExpenseCreateLogHandler</text>
       </register>
       <register name="m" type="4">
         <keys>
