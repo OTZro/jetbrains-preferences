@@ -124,7 +124,7 @@
       <file name="/a.dummy" timestamp="1590560975816">
         <mark key="[" line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_depreciation_updater.py" timestamp="1590562251777">
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_depreciation_updater.py" timestamp="1590563630918">
         <mark key="[" line="106" column="84" />
         <mark key="]" line="180" column="12" />
         <mark key="." line="180" column="12" />
@@ -135,10 +135,11 @@
         <mark key="[" line="38" column="21" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/test/base.py" timestamp="1590554314593" />
-      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_amortization_updater.py" timestamp="1590562690675">
-        <mark key="[" line="68" column="39" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_amortization_updater.py" timestamp="1590564229268">
+        <mark key="[" line="289" column="38" />
+        <mark key="]" line="289" column="38" />
+        <mark key="." line="289" column="38" />
+        <mark key="^" line="130" column="32" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1590561870930">
         <mark key="[" line="159" column="126" />
@@ -150,7 +151,7 @@
         <mark key="]" line="335" column="81" />
         <mark key="." line="335" column="81" />
       </file>
-      <file name="/Python Console" timestamp="1590552623962">
+      <file name="/Python Console" timestamp="1590562868504">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/user.py" timestamp="1590554948089">
@@ -181,7 +182,7 @@
         <mark key="]" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1590562833697">
+      <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1590564254633">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -239,7 +240,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>expense</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -369,7 +370,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>expense</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -427,19 +428,76 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdsX3JlbnRhbF9leHBlbnNlID0gbW9kZWxzLkZvcmVpZ25LZXkoJ0dlbmVyYWxMZWRnZXInLCBudWxsPVRydWUsIG9uX2RlbGV0ZT1tb2RlbHMuU0VUX05VTEwsIHJlbGF0ZWRfbmFtZT0nY29tcGFueV9yZW50YWxfZXhwZW5zZV9zZXQnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLWxnLTQgY29sLW1kLTMgY29sLXNtLTEyIGNvbC14cy0xMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCBmb3JtLXNtIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb250cm9sLWxhYmVsIG5hbWUtc20iPnt7XygnUmVudGFsIEV4cGVuc2UoRXhwZW5zZSknKX19PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVpLXNlbGVjdCBuZy1kaXNhYmxlZD0iIXZtLmNvbXBhbnkuZGF0YS5pc19hc3NldF9tYW5hZ2VyX2VuYWJsZWQiIG5nLW1vZGVsPSJ2bS5jb21wYW55LmRhdGEuZ2xfcmVudGFsX2V4cGVuc2UiIG5hbWU9ImdsX3JlbnRhbF9leHBlbnNlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJmb3JtLWNvbnRyb2wgdmFsdWUtc20iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVpLXNlbGVjdC1tYXRjaCBhbGxvdy1jbGVhcj0idHJ1ZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW1sodm0uY29tcGFueS5kYXRhLmdsX3JlbnRhbF9leHBlbnNlfHNob3dHTENvZGUpXV0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWktc2VsZWN0LW1hdGNoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVpLXNlbGVjdC1jaG9pY2VzIHJlcGVhdD0ibyBpbiBxdWVyeUdMLnJlc3VsdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWZyZXNoPSJxdWVyeUdMKCRzZWxlY3Quc2VhcmNoKSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBuZy1iaW5kLWh0bWw9Im8uY29kZSsnICcrby5yZW1hcmsgfCBoaWdobGlnaHQ6ICRzZWxlY3Quc2VhcmNoIj48L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWktc2VsZWN0LWNob2ljZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWktc2VsZWN0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCAyLCAxKSwgY2F0ZWdvcnlfYXNzZXQsIGdsX21hcHBpbmdfaWRfYXNzZXQsIERlY2ltYWwoJzAnKSwgRGVjaW1hbCgnMTY2Ni42NycpKSwKICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCAyLCAxKSwgY2F0ZWdvcnlfZXhwZW5zZSwgZ2xfbWFwcGluZ19pZF9leHBlbnNlLCBEZWNpbWFsKCcxNjY2LjY3JyksIERlY2ltYWwoJzAnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgMywgMSksIGNhdGVnb3J5X2Fzc2V0LCBnbF9tYXBwaW5nX2lkX2Fzc2V0LCBEZWNpbWFsKCcwJyksIERlY2ltYWwoJzE2NjYuNjcnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgMywgMSksIGNhdGVnb3J5X2V4cGVuc2UsIGdsX21hcHBpbmdfaWRfZXhwZW5zZSwgRGVjaW1hbCgnMTY2Ni42NycpLCBEZWNpbWFsKCcwJykpLAogICAgICAgICAgICBFeHBlY3RlZFJlc3VsdChkYXRlKDIwMjAsIDQsIDEpLCBjYXRlZ29yeV9hc3NldCwgZ2xfbWFwcGluZ19pZF9hc3NldCwgRGVjaW1hbCgnMCcpLCBEZWNpbWFsKCcxNjY2LjY3JykpLAogICAgICAgICAgICBFeHBlY3RlZFJlc3VsdChkYXRlKDIwMjAsIDQsIDEpLCBjYXRlZ29yeV9leHBlbnNlLCBnbF9tYXBwaW5nX2lkX2V4cGVuc2UsIERlY2ltYWwoJzE2NjYuNjcnKSwgRGVjaW1hbCgnMCcpKSwKICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCA1LCAxKSwgY2F0ZWdvcnlfYXNzZXQsIGdsX21hcHBpbmdfaWRfYXNzZXQsIERlY2ltYWwoJzAnKSwgRGVjaW1hbCgnMTY2Ni42NycpKSwKICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCA1LCAxKSwgY2F0ZWdvcnlfZXhwZW5zZSwgZ2xfbWFwcGluZ19pZF9leHBlbnNlLCBEZWNpbWFsKCcxNjY2LjY3JyksIERlY2ltYWwoJzAnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgNiwgMSksIGNhdGVnb3J5X2Fzc2V0LCBnbF9tYXBwaW5nX2lkX2Fzc2V0LCBEZWNpbWFsKCcwJyksIERlY2ltYWwoJzE2NjYuNjUnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgNiwgMSksIGNhdGVnb3J5X2V4cGVuc2UsIGdsX21hcHBpbmdfaWRfZXhwZW5zZSwgRGVjaW1hbCgnMTY2Ni42NScpLCBEZWNpbWFsKCcwJykpLA==</text>
+      </register>
+      <register name="4" type="4">
+        <text>@tag('mysql')
+    def test_amortization_updater_na_method(self):
+        expense = mommy.make(FixedAsset, acquired_date=date(2020, 1, 1), cost=10000,
+                             amortization_method=FixedAsset.DEPRECIATION_METHOD_NA,
+                             office=self.office)
+        DepreciationTransactionUpdater().update([expense.id])
+
+        expected_amortization_count = 0
+
+        qs = AmortizationTransaction.objects.filter(fixed_asset_id=expense.id)
+        self.assertEqual(qs.count(), expected_amortization_count)
+
+    @tag('mysql')
+    def test_amortization_updater_update_asset(self):
+        expense = mommy.make(FixedAsset, acquired_date=date(2020, 1, 1), cost=20100, salvage=100,
+                             amortization_method=FixedAsset.DEPRECIATION_METHOD_STRAIGHT_LINE, asset_life=1,
+                             office=self.office)
+        DepreciationTransactionUpdater().update([expense.id])
+
+        expense.cost = 10100
+        expense.salvage = 100
+        expense.asset_life = 6
+        expense.save()
+        DepreciationTransactionUpdater().update([expense.id])
+
+        category_asset = AmortizationTransaction.CATEGORY_AMORTIZATION_ASSET
+        category_expense = AmortizationTransaction.CATEGORY_AMORTIZATION_EXPENSE
+        gl_mapping_id_asset = TransactionGLMap.get_key_for_company_amortization_asset(self.company.id)
+        gl_mapping_id_expense = TransactionGLMap.get_key_for_company_amortization_expense(self.company.id)
+
+        expected_amortization_count = 12
+        expected_transaction_list = [
+            ExpectedResult(date(2020, 2, 1), category_asset, gl_mapping_id_asset, Decimal('0'), Decimal('1666.67')),
+            ExpectedResult(date(2020, 2, 1), category_expense, gl_mapping_id_expense, Decimal('1666.67'), Decimal('0')),
+            ExpectedResult(date(2020, 3, 1), category_asset, gl_mapping_id_asset, Decimal('0'), Decimal('1666.67')),
+            ExpectedResult(date(2020, 3, 1), category_expense, gl_mapping_id_expense, Decimal('1666.67'), Decimal('0')),
+            ExpectedResult(date(2020, 4, 1), category_asset, gl_mapping_id_asset, Decimal('0'), Decimal('1666.67')),
+            ExpectedResult(date(2020, 4, 1), category_expense, gl_mapping_id_expense, Decimal('1666.67'), Decimal('0')),
+            ExpectedResult(date(2020, 5, 1), category_asset, gl_mapping_id_asset, Decimal('0'), Decimal('1666.67')),
+            ExpectedResult(date(2020, 5, 1), category_expense, gl_mapping_id_expense, Decimal('1666.67'), Decimal('0')),
+            ExpectedResult(date(2020, 6, 1), category_asset, gl_mapping_id_asset, Decimal('0'), Decimal('1666.67')),
+            ExpectedResult(date(2020, 6, 1), category_expense, gl_mapping_id_expense, Decimal('1666.67'), Decimal('0')),
+            ExpectedResult(date(2020, 7, 1), category_asset, gl_mapping_id_asset, Decimal('0'), Decimal('1666.65')),
+            ExpectedResult(date(2020, 7, 1), category_expense, gl_mapping_id_expense, Decimal('1666.65'), Decimal('0')),
+        ]
+
+        qs = AmortizationTransaction.objects.filter(fixed_asset_id=expense.id)
+        print(qs.values())
+        self.assertEqual(qs.count(), expected_amortization_count)
+
+        for expected in expected_transaction_list:
+            ts_query = qs.filter(issue_date=expected.issue_date).filter(category=expected.category)
+            self.assertEqual(ts_query.count(), 1)
+
+            ts = ts_query[0]
+            self.assertEqual(ts.debit, expected.debit)
+            self.assertEqual(ts.credit, expected.credit)
+            self.assertEqual(ts.gl_mapping_id, expected.gl_mapping_id)</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -496,10 +554,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVuc2VfZ2xfa2V5ID0gcHJlcGFpZF9leHBlbnNlLmV4cGVuc2VfZ2xfY29kZQo=</text>
+        <text encoding="base64">ICAgIGdsX3JlbnRhbF9leHBlbnNlID0gbW9kZWxzLkZvcmVpZ25LZXkoJ0dlbmVyYWxMZWRnZXInLCBudWxsPVRydWUsIG9uX2RlbGV0ZT1tb2RlbHMuU0VUX05VTEwsIHJlbGF0ZWRfbmFtZT0nY29tcGFueV9yZW50YWxfZXhwZW5zZV9zZXQnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuYWNjb3VudGluZy50cmFuc2FjdGlvbi5kYl91cGRhdGVyLmFtb3J0aXphdGlvbiBpbXBvcnQgRGVwcmVjaWF0aW9uVHJhbnNhY3Rpb25VcGRhdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -526,7 +584,7 @@
         </keys>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlcHJlY2lhdGlvbl9tZXRob2Q9Rml4ZWRBc3NldC5ERVBSRUNJQVRJT05fTUVUSE9EX1NUUkFJR0hUX0xJTkUsIGFzc2V0X2xpZg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLWxnLTQgY29sLW1kLTMgY29sLXNtLTEyIGNvbC14cy0xMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCBmb3JtLXNtIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb250cm9sLWxhYmVsIG5hbWUtc20iPnt7XygnUmVudGFsIEV4cGVuc2UoRXhwZW5zZSknKX19PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVpLXNlbGVjdCBuZy1kaXNhYmxlZD0iIXZtLmNvbXBhbnkuZGF0YS5pc19hc3NldF9tYW5hZ2VyX2VuYWJsZWQiIG5nLW1vZGVsPSJ2bS5jb21wYW55LmRhdGEuZ2xfcmVudGFsX2V4cGVuc2UiIG5hbWU9ImdsX3JlbnRhbF9leHBlbnNlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJmb3JtLWNvbnRyb2wgdmFsdWUtc20iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVpLXNlbGVjdC1tYXRjaCBhbGxvdy1jbGVhcj0idHJ1ZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW1sodm0uY29tcGFueS5kYXRhLmdsX3JlbnRhbF9leHBlbnNlfHNob3dHTENvZGUpXV0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWktc2VsZWN0LW1hdGNoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVpLXNlbGVjdC1jaG9pY2VzIHJlcGVhdD0ibyBpbiBxdWVyeUdMLnJlc3VsdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWZyZXNoPSJxdWVyeUdMKCRzZWxlY3Quc2VhcmNoKSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBuZy1iaW5kLWh0bWw9Im8uY29kZSsnICcrby5yZW1hcmsgfCBoaWdobGlnaHQ6ICRzZWxlY3Quc2VhcmNoIj48L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWktc2VsZWN0LWNob2ljZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWktc2VsZWN0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -545,7 +603,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAiaWQiOiBhc3NldF9pZCwKICAgICAgICAgICAgICAgICAgICAiYXNzZXRfbm8iOiAiQXNzZXRObyIsCiAgICAgICAgICAgICAgICAgICAgImRlc2NyaXB0aW9uIjogIkRlc2NyaXB0aW9uIiwKICAgICAgICAgICAgICAgICAgICAicXVhbnRpdHkiOiAiMSIsCiAgICAgICAgICAgICAgICAgICAgInB1cmNoYXNlX2RhdGUiOiAiMjAyMC0wMS0wMSIsCiAgICAgICAgICAgICAgICAgICAgImFjcXVpcmVkX2RhdGUiOiAiMjAyMC0wMS0wMSIsCiAgICAgICAgICAgICAgICAgICAgImNvc3QiOiAxMDEwMCwKICAgICAgICAgICAgICAgICAgICAic2FsdmFnZSI6IDEwMCwKICAgICAgICAgICAgICAgICAgICAiZGVwcmVjaWF0aW9uX21ldGhvZCI6ICJTIiwKICAgICAgICAgICAgICAgICAgICAiYXNzZXRfbGlmZSI6ICIzIiwKICAgICAgICAgICAgICAgICAgICAib2ZmaWNlIjogc2VsZi5vZmZpY2UuaWQsCiAgICAgICAgICAgICAgICAgICAgInV1aWQiOiAiNzBkNGZhYzctYzhiNi00N2NlLTlhZmUtYzdhNTU3YTQ1NzhjIgogICAgICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVuc2VfZ2xfa2V5ID0gcHJlcGFpZF9leHBlbnNlLmV4cGVuc2VfZ2xfY29kZQo=</text>
       </register>
       <register name="y" type="4">
         <text />
