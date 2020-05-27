@@ -124,7 +124,19 @@
         <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/static/metronic/templates/static/modal_load_from_warehouse_ocean.html" timestamp="1590575349576" />
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_depreciation_updater.py" timestamp="1590577941448">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="^" line="296" column="23" />
+        <mark key="." line="153" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/general/modal_warehouse_loader.controller.js" timestamp="1590575396779" />
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_amortization_updater.py" timestamp="1590577929935">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="^" line="130" column="32" />
+        <mark key="." line="177" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/_base.html" timestamp="1590575535584" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0046_add_asset_to_user_history_log.py" timestamp="1590573586538" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_container/index.html" timestamp="1590575538508">
@@ -144,12 +156,6 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/bl_wh_receipts_list.component.js" timestamp="1590575458135" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/general/modal_warehouse_loader.html" timestamp="1590575466616" />
-      <file name="$USER_HOME$/gofreight/fms/lib/log/log_helper.py" timestamp="1590572462264">
-        <mark key="[" line="338" column="21" />
-        <mark key="]" line="338" column="21" />
-        <mark key="^" line="77" column="4" />
-        <mark key="." line="338" column="21" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/api.py" timestamp="1590572529089">
         <mark key="[" line="43" column="36" />
         <mark key="]" line="30" column="0" />
@@ -163,12 +169,6 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0047_add_asset_to_user_history_log.py" timestamp="1590573635585" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0046_remove_company_gl_rental_expense.py" timestamp="1590573537462" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/log_handler.py" timestamp="1590572512401">
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="27" />
-        <mark key="." line="20" column="27" />
-        <mark key="^" line="11" column="47" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0045_remove_company_gl_rental_expense.py" timestamp="1590573458465">
         <mark key="[" line="19" column="39" />
       </file>
@@ -217,8 +217,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>PrepaidExpense</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -405,26 +405,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="8">
-        <text>Fixed Asset
-Fixed Asset
-Fixed Asset</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="8">
-        <text>CREATE
-CREATE</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRhdGFiYXNlcyA9ICdfX2FsbF9fJwo=</text>
       </register>
-      <register name="3" type="8">
-        <text>FIXED_ASSET
-FIXED_ASSET
-FIXED_ASSET</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>related_name='user_history_log_set',
-related_name='user_history_log_set',</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRhdGFiYXNlcyA9ICdfX2FsbF9fJwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -480,11 +474,14 @@ related_name='user_history_log_set',</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text>Fixed Asset
+Fixed Asset
+Fixed Asset</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>CREATE
+CREATE</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -510,8 +507,10 @@ related_name='user_history_log_set',</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCAyLCAxKSwgY2F0ZWdvcnlfYXNzZXQsIGdsX21hcHBpbmdfaWRfYXNzZXQsIERlY2ltYWwoJzAnKSwgRGVjaW1hbCgnMTY2Ni42NycpKSwKICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCAyLCAxKSwgY2F0ZWdvcnlfZXhwZW5zZSwgZ2xfbWFwcGluZ19pZF9leHBlbnNlLCBEZWNpbWFsKCcxNjY2LjY3JyksIERlY2ltYWwoJzAnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgMywgMSksIGNhdGVnb3J5X2Fzc2V0LCBnbF9tYXBwaW5nX2lkX2Fzc2V0LCBEZWNpbWFsKCcwJyksIERlY2ltYWwoJzE2NjYuNjcnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgMywgMSksIGNhdGVnb3J5X2V4cGVuc2UsIGdsX21hcHBpbmdfaWRfZXhwZW5zZSwgRGVjaW1hbCgnMTY2Ni42NycpLCBEZWNpbWFsKCcwJykpLAogICAgICAgICAgICBFeHBlY3RlZFJlc3VsdChkYXRlKDIwMjAsIDQsIDEpLCBjYXRlZ29yeV9hc3NldCwgZ2xfbWFwcGluZ19pZF9hc3NldCwgRGVjaW1hbCgnMCcpLCBEZWNpbWFsKCcxNjY2LjY3JykpLAogICAgICAgICAgICBFeHBlY3RlZFJlc3VsdChkYXRlKDIwMjAsIDQsIDEpLCBjYXRlZ29yeV9leHBlbnNlLCBnbF9tYXBwaW5nX2lkX2V4cGVuc2UsIERlY2ltYWwoJzE2NjYuNjcnKSwgRGVjaW1hbCgnMCcpKSwKICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCA1LCAxKSwgY2F0ZWdvcnlfYXNzZXQsIGdsX21hcHBpbmdfaWRfYXNzZXQsIERlY2ltYWwoJzAnKSwgRGVjaW1hbCgnMTY2Ni42NycpKSwKICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCA1LCAxKSwgY2F0ZWdvcnlfZXhwZW5zZSwgZ2xfbWFwcGluZ19pZF9leHBlbnNlLCBEZWNpbWFsKCcxNjY2LjY3JyksIERlY2ltYWwoJzAnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgNiwgMSksIGNhdGVnb3J5X2Fzc2V0LCBnbF9tYXBwaW5nX2lkX2Fzc2V0LCBEZWNpbWFsKCcwJyksIERlY2ltYWwoJzE2NjYuNjUnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgNiwgMSksIGNhdGVnb3J5X2V4cGVuc2UsIGdsX21hcHBpbmdfaWRfZXhwZW5zZSwgRGVjaW1hbCgnMTY2Ni42NScpLCBEZWNpbWFsKCcwJykpLA==</text>
+      <register name="7" type="8">
+        <text>FIXED_ASSET
+FIXED_ASSET
+FIXED_ASSET</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -526,68 +525,12 @@ related_name='user_history_log_set',</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>@tag('mysql')
-    def test_amortization_updater_na_method(self):
-        expense = mommy.make(FixedAsset, acquired_date=date(2020, 1, 1), cost=10000,
-                             amortization_method=FixedAsset.DEPRECIATION_METHOD_NA,
-                             office=self.office)
-        DepreciationTransactionUpdater().update([expense.id])
-
-        expected_amortization_count = 0
-
-        qs = AmortizationTransaction.objects.filter(fixed_asset_id=expense.id)
-        self.assertEqual(qs.count(), expected_amortization_count)
-
-    @tag('mysql')
-    def test_amortization_updater_update_asset(self):
-        expense = mommy.make(FixedAsset, acquired_date=date(2020, 1, 1), cost=20100, salvage=100,
-                             amortization_method=FixedAsset.DEPRECIATION_METHOD_STRAIGHT_LINE, asset_life=1,
-                             office=self.office)
-        DepreciationTransactionUpdater().update([expense.id])
-
-        expense.cost = 10100
-        expense.salvage = 100
-        expense.asset_life = 6
-        expense.save()
-        DepreciationTransactionUpdater().update([expense.id])
-
-        category_asset = AmortizationTransaction.CATEGORY_AMORTIZATION_ASSET
-        category_expense = AmortizationTransaction.CATEGORY_AMORTIZATION_EXPENSE
-        gl_mapping_id_asset = TransactionGLMap.get_key_for_company_amortization_asset(self.company.id)
-        gl_mapping_id_expense = TransactionGLMap.get_key_for_company_amortization_expense(self.company.id)
-
-        expected_amortization_count = 12
-        expected_transaction_list = [
-            ExpectedResult(date(2020, 2, 1), category_asset, gl_mapping_id_asset, Decimal('0'), Decimal('1666.67')),
-            ExpectedResult(date(2020, 2, 1), category_expense, gl_mapping_id_expense, Decimal('1666.67'), Decimal('0')),
-            ExpectedResult(date(2020, 3, 1), category_asset, gl_mapping_id_asset, Decimal('0'), Decimal('1666.67')),
-            ExpectedResult(date(2020, 3, 1), category_expense, gl_mapping_id_expense, Decimal('1666.67'), Decimal('0')),
-            ExpectedResult(date(2020, 4, 1), category_asset, gl_mapping_id_asset, Decimal('0'), Decimal('1666.67')),
-            ExpectedResult(date(2020, 4, 1), category_expense, gl_mapping_id_expense, Decimal('1666.67'), Decimal('0')),
-            ExpectedResult(date(2020, 5, 1), category_asset, gl_mapping_id_asset, Decimal('0'), Decimal('1666.67')),
-            ExpectedResult(date(2020, 5, 1), category_expense, gl_mapping_id_expense, Decimal('1666.67'), Decimal('0')),
-            ExpectedResult(date(2020, 6, 1), category_asset, gl_mapping_id_asset, Decimal('0'), Decimal('1666.67')),
-            ExpectedResult(date(2020, 6, 1), category_expense, gl_mapping_id_expense, Decimal('1666.67'), Decimal('0')),
-            ExpectedResult(date(2020, 7, 1), category_asset, gl_mapping_id_asset, Decimal('0'), Decimal('1666.65')),
-            ExpectedResult(date(2020, 7, 1), category_expense, gl_mapping_id_expense, Decimal('1666.65'), Decimal('0')),
-        ]
-
-        qs = AmortizationTransaction.objects.filter(fixed_asset_id=expense.id)
-        print(qs.values())
-        self.assertEqual(qs.count(), expected_amortization_count)
-
-        for expected in expected_transaction_list:
-            ts_query = qs.filter(issue_date=expected.issue_date).filter(category=expected.category)
-            self.assertEqual(ts_query.count(), 1)
-
-            ts = ts_query[0]
-            self.assertEqual(ts.debit, expected.debit)
-            self.assertEqual(ts.credit, expected.credit)
-            self.assertEqual(ts.gl_mapping_id, expected.gl_mapping_id)</text>
+      <register name="8" type="8">
+        <text>related_name='user_history_log_set',
+related_name='user_history_log_set',</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdsX3JlbnRhbF9leHBlbnNlID0gbW9kZWxzLkZvcmVpZ25LZXkoJ0dlbmVyYWxMZWRnZXInLCBudWxsPVRydWUsIG9uX2RlbGV0ZT1tb2RlbHMuU0VUX05VTEwsIHJlbGF0ZWRfbmFtZT0nY29tcGFueV9yZW50YWxfZXhwZW5zZV9zZXQnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
