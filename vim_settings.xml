@@ -134,7 +134,6 @@
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/company/sz.py" timestamp="1590560595846">
         <mark key="[" line="38" column="21" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/test/base.py" timestamp="1590554314593" />
       <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_amortization_updater.py" timestamp="1590565056407">
         <mark key="[" line="289" column="38" />
         <mark key="]" line="289" column="38" />
@@ -146,18 +145,13 @@
         <mark key="]" line="159" column="107" />
         <mark key="." line="159" column="107" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1590562627202">
-        <mark key="[" line="335" column="81" />
-        <mark key="]" line="335" column="81" />
-        <mark key="." line="335" column="81" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1590565883224">
+        <mark key="[" line="331" column="0" />
+        <mark key="]" line="337" column="81" />
+        <mark key="." line="337" column="81" />
       </file>
       <file name="/Python Console" timestamp="1590562868504">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/user.py" timestamp="1590554948089">
-        <mark key="[" line="94" column="61" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/utility.py" timestamp="1590562586635">
         <mark key="'" line="118" column="4" />
@@ -172,7 +166,18 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/lib/log/log_helper.py" timestamp="1590565239351" />
+      <file name="$USER_HOME$/gofreight/fms/lib/log/log_helper.py" timestamp="1590565972501">
+        <mark key="[" line="100" column="18" />
+        <mark key="]" line="99" column="8" />
+        <mark key="^" line="99" column="8" />
+        <mark key="." line="99" column="7" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/system.py" timestamp="1590565875540">
+        <mark key="[" line="226" column="41" />
+        <mark key="]" line="226" column="41" />
+        <mark key="." line="226" column="41" />
+        <mark key="^" line="226" column="19" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/prepaid-expense-data.service.ts" timestamp="1590561869221">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="2" />
@@ -192,6 +197,12 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0045_remove_company_gl_rental_expense.py" timestamp="1590560498958">
         <mark key="[" line="19" column="39" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/lib/log/log_def.py" timestamp="1590566473987">
+        <mark key="[" line="156" column="28" />
+        <mark key="]" line="156" column="27" />
+        <mark key="." line="156" column="27" />
+        <mark key="^" line="156" column="27" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/company.py" timestamp="1590560597850" />
     </filemarks>
@@ -235,8 +246,9 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>expense</text>
+      <register name="&quot;" type="8">
+        <text>CREATE
+CREATE</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -366,7 +378,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>expense</text>
+        <text>CREATE</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -423,19 +435,110 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>CREATE
+CREATE</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="8">
+        <text>FIXED_ASSET
+FIXED_ASSET
+FIXED_ASSET</text>
+      </register>
+      <register name="3" type="8">
+        <text>related_name='user_history_log_set',
+related_name='user_history_log_set',</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="t" type="4">
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="56" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCAyLCAxKSwgY2F0ZWdvcnlfYXNzZXQsIGdsX21hcHBpbmdfaWRfYXNzZXQsIERlY2ltYWwoJzAnKSwgRGVjaW1hbCgnMTY2Ni42NycpKSwKICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCAyLCAxKSwgY2F0ZWdvcnlfZXhwZW5zZSwgZ2xfbWFwcGluZ19pZF9leHBlbnNlLCBEZWNpbWFsKCcxNjY2LjY3JyksIERlY2ltYWwoJzAnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgMywgMSksIGNhdGVnb3J5X2Fzc2V0LCBnbF9tYXBwaW5nX2lkX2Fzc2V0LCBEZWNpbWFsKCcwJyksIERlY2ltYWwoJzE2NjYuNjcnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgMywgMSksIGNhdGVnb3J5X2V4cGVuc2UsIGdsX21hcHBpbmdfaWRfZXhwZW5zZSwgRGVjaW1hbCgnMTY2Ni42NycpLCBEZWNpbWFsKCcwJykpLAogICAgICAgICAgICBFeHBlY3RlZFJlc3VsdChkYXRlKDIwMjAsIDQsIDEpLCBjYXRlZ29yeV9hc3NldCwgZ2xfbWFwcGluZ19pZF9hc3NldCwgRGVjaW1hbCgnMCcpLCBEZWNpbWFsKCcxNjY2LjY3JykpLAogICAgICAgICAgICBFeHBlY3RlZFJlc3VsdChkYXRlKDIwMjAsIDQsIDEpLCBjYXRlZ29yeV9leHBlbnNlLCBnbF9tYXBwaW5nX2lkX2V4cGVuc2UsIERlY2ltYWwoJzE2NjYuNjcnKSwgRGVjaW1hbCgnMCcpKSwKICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCA1LCAxKSwgY2F0ZWdvcnlfYXNzZXQsIGdsX21hcHBpbmdfaWRfYXNzZXQsIERlY2ltYWwoJzAnKSwgRGVjaW1hbCgnMTY2Ni42NycpKSwKICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCA1LCAxKSwgY2F0ZWdvcnlfZXhwZW5zZSwgZ2xfbWFwcGluZ19pZF9leHBlbnNlLCBEZWNpbWFsKCcxNjY2LjY3JyksIERlY2ltYWwoJzAnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgNiwgMSksIGNhdGVnb3J5X2Fzc2V0LCBnbF9tYXBwaW5nX2lkX2Fzc2V0LCBEZWNpbWFsKCcwJyksIERlY2ltYWwoJzE2NjYuNjUnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgNiwgMSksIGNhdGVnb3J5X2V4cGVuc2UsIGdsX21hcHBpbmdfaWRfZXhwZW5zZSwgRGVjaW1hbCgnMTY2Ni42NScpLCBEZWNpbWFsKCcwJykpLA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="v" type="4">
+        <keys>
+          <key char="94" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="7" type="4">
         <text>@tag('mysql')
     def test_amortization_updater_na_method(self):
         expense = mommy.make(FixedAsset, acquired_date=date(2020, 1, 1), cost=10000,
@@ -495,93 +598,6 @@
             self.assertEqual(ts.credit, expected.credit)
             self.assertEqual(ts.gl_mapping_id, expected.gl_mapping_id)</text>
       </register>
-      <register name="t" type="4">
-        <keys>
-          <key char="106" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="103" code="0" mods="0" />
-          <key char="45" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="113" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="45" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="56" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGdsX3JlbnRhbF9leHBlbnNlID0gbW9kZWxzLkZvcmVpZ25LZXkoJ0dlbmVyYWxMZWRnZXInLCBudWxsPVRydWUsIG9uX2RlbGV0ZT1tb2RlbHMuU0VUX05VTEwsIHJlbGF0ZWRfbmFtZT0nY29tcGFueV9yZW50YWxfZXhwZW5zZV9zZXQnKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="v" type="4">
-        <keys>
-          <key char="94" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="45" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="45" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLWxnLTQgY29sLW1kLTMgY29sLXNtLTEyIGNvbC14cy0xMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCBmb3JtLXNtIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb250cm9sLWxhYmVsIG5hbWUtc20iPnt7XygnUmVudGFsIEV4cGVuc2UoRXhwZW5zZSknKX19PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVpLXNlbGVjdCBuZy1kaXNhYmxlZD0iIXZtLmNvbXBhbnkuZGF0YS5pc19hc3NldF9tYW5hZ2VyX2VuYWJsZWQiIG5nLW1vZGVsPSJ2bS5jb21wYW55LmRhdGEuZ2xfcmVudGFsX2V4cGVuc2UiIG5hbWU9ImdsX3JlbnRhbF9leHBlbnNlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJmb3JtLWNvbnRyb2wgdmFsdWUtc20iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVpLXNlbGVjdC1tYXRjaCBhbGxvdy1jbGVhcj0idHJ1ZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW1sodm0uY29tcGFueS5kYXRhLmdsX3JlbnRhbF9leHBlbnNlfHNob3dHTENvZGUpXV0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWktc2VsZWN0LW1hdGNoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVpLXNlbGVjdC1jaG9pY2VzIHJlcGVhdD0ibyBpbiBxdWVyeUdMLnJlc3VsdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWZyZXNoPSJxdWVyeUdMKCRzZWxlY3Quc2VhcmNoKSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBuZy1iaW5kLWh0bWw9Im8uY29kZSsnICcrby5yZW1hcmsgfCBoaWdobGlnaHQ6ICRzZWxlY3Quc2VhcmNoIj48L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWktc2VsZWN0LWNob2ljZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWktc2VsZWN0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+</text>
-      </register>
       <register name="w" type="4">
         <keys>
           <key char="94" code="0" mods="0" />
@@ -596,10 +612,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdsX3JlbnRhbF9leHBlbnNlID0gbW9kZWxzLkZvcmVpZ25LZXkoJ0dlbmVyYWxMZWRnZXInLCBudWxsPVRydWUsIG9uX2RlbGV0ZT1tb2RlbHMuU0VUX05VTEwsIHJlbGF0ZWRfbmFtZT0nY29tcGFueV9yZW50YWxfZXhwZW5zZV9zZXQnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVuc2VfZ2xfa2V5ID0gcHJlcGFpZF9leHBlbnNlLmV4cGVuc2VfZ2xfY29kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text />
