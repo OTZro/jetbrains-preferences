@@ -29,11 +29,6 @@
         <entry>:136</entry>
       </history-search>
       <history-cmd>
-        <entry>148</entry>
-        <entry>70</entry>
-        <entry>122</entry>
-        <entry>30</entry>
-        <entry>179</entry>
         <entry>58</entry>
         <entry>25</entry>
         <entry>97</entry>
@@ -41,7 +36,6 @@
         <entry>10</entry>
         <entry>1273</entry>
         <entry>130</entry>
-        <entry>107</entry>
         <entry>108</entry>
         <entry>896</entry>
         <entry>51</entry>
@@ -49,6 +43,12 @@
         <entry>24</entry>
         <entry>w</entry>
         <entry>75</entry>
+        <entry>35</entry>
+        <entry>64</entry>
+        <entry>49</entry>
+        <entry>107</entry>
+        <entry>70</entry>
+        <entry>116</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,87 +118,73 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1590560975816">
-        <mark key="[" line="0" column="40" />
+      <file name="/a.dummy" timestamp="1590569773046">
+        <mark key="[" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_depreciation_updater.py" timestamp="1590563630918">
-        <mark key="[" line="106" column="84" />
-        <mark key="]" line="180" column="12" />
-        <mark key="." line="180" column="12" />
-        <mark key="^" line="298" column="23" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/hbl_entry/sz_air.py" timestamp="1590566589469" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/rate/entry/log_handler.py" timestamp="1590567388908" />
-      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_amortization_updater.py" timestamp="1590565056407">
-        <mark key="[" line="289" column="38" />
-        <mark key="]" line="289" column="38" />
-        <mark key="." line="289" column="38" />
-        <mark key="^" line="130" column="32" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1590561870930">
-        <mark key="[" line="159" column="126" />
-        <mark key="]" line="159" column="107" />
-        <mark key="." line="159" column="107" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1590565883224">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/utility.py" timestamp="1590572091186" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1590569056107">
         <mark key="[" line="331" column="0" />
         <mark key="]" line="337" column="81" />
         <mark key="." line="337" column="81" />
       </file>
-      <file name="/Python Console" timestamp="1590562868504">
+      <file name="/Python Console" timestamp="1590571065024">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/utility.py" timestamp="1590562586635">
-        <mark key="'" line="118" column="4" />
-        <mark key="[" line="45" column="25" />
-        <mark key="]" line="45" column="130" />
-        <mark key="." line="45" column="130" />
-        <mark key="^" line="40" column="136" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0046_add_asset_to_user_history_log.py" timestamp="1590570323012" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/user.py" timestamp="1590571419045">
+        <mark key="[" line="94" column="61" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/mbl_entry/sz_air.py" timestamp="1590567081055" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/amortization.py" timestamp="1590560817523">
-        <mark key="[" line="55" column="60" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/fixed_asset_service.py" timestamp="1590572650320">
+        <mark key="[" line="26" column="62" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1590566887455" />
-      <file name="$USER_HOME$/gofreight/fms/lib/log/log_helper.py" timestamp="1590567063482">
-        <mark key="[" line="100" column="18" />
-        <mark key="]" line="99" column="8" />
-        <mark key="^" line="99" column="8" />
-        <mark key="." line="99" column="7" />
+      <file name="$USER_HOME$/gofreight/fms/lib/log/log_handlers/handlers.py" timestamp="1590570703086" />
+      <file name="$USER_HOME$/gofreight/fms/lib/log/log_helper.py" timestamp="1590572462264">
+        <mark key="[" line="338" column="21" />
+        <mark key="]" line="338" column="21" />
+        <mark key="^" line="77" column="4" />
+        <mark key="." line="338" column="21" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/system.py" timestamp="1590565875540">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/system.py" timestamp="1590569738294">
         <mark key="[" line="226" column="41" />
-        <mark key="]" line="226" column="41" />
-        <mark key="." line="226" column="41" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="34" />
         <mark key="^" line="226" column="19" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/prepaid_expense_service.py" timestamp="1590567693407" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/prepaid-expense-data.service.ts" timestamp="1590561869221">
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="15" column="2" />
-        <mark key="." line="15" column="2" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/api.py" timestamp="1590572529089">
+        <mark key="[" line="43" column="36" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/log_handler.py" timestamp="1590567606458">
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/prepaid_expense_service.py" timestamp="1590572733401">
+        <mark key="[" line="39" column="91" />
+        <mark key="]" line="39" column="81" />
+        <mark key="." line="39" column="80" />
+        <mark key="^" line="39" column="81" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/__init__.py" timestamp="1590569095515" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/log_handler.py" timestamp="1590572512401">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="27" />
         <mark key="." line="20" column="27" />
+        <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1590564254633">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="1" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1590571463621" />
+      <file name="$USER_HOME$/gofreight/fms/lib/log/log_def.py" timestamp="1590570496601">
+        <mark key="[" line="310" column="43" />
+        <mark key="]" line="310" column="58" />
+        <mark key="." line="310" column="43" />
+        <mark key="^" line="310" column="58" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/test/accounting/bank/test_reconciliation.py" timestamp="1590562122478" />
-      <file name="$USER_HOME$/gofreight/fms/lib/log/log_def.py" timestamp="1590566473987">
-        <mark key="[" line="156" column="28" />
-        <mark key="]" line="156" column="27" />
-        <mark key="." line="156" column="27" />
-        <mark key="^" line="156" column="27" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/api.py" timestamp="1590572522760">
+        <mark key="[" line="43" column="41" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/lib/log/log_handlers/loggers.py" timestamp="1590571182251" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1590571458283" />
+      <file name="$USER_HOME$/gofreight/fms/storage/logs/fms.log" timestamp="1590572335736" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -241,7 +227,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>PrepaidExpenseCreateLogHandler</text>
+        <text>PrepaidExpense</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -371,7 +357,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PrepaidExpenseCreateLogHandler</text>
+        <text>PrepaidExpense</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -429,23 +415,25 @@
         </keys>
       </register>
       <register name="1" type="8">
-        <text>CREATE
-CREATE</text>
+        <text>Fixed Asset
+Fixed Asset
+Fixed Asset</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="8">
+        <text>CREATE
+CREATE</text>
+      </register>
+      <register name="3" type="8">
         <text>FIXED_ASSET
 FIXED_ASSET
 FIXED_ASSET</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>related_name='user_history_log_set',
 related_name='user_history_log_set',</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -505,7 +493,7 @@ related_name='user_history_log_set',</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCAyLCAxKSwgY2F0ZWdvcnlfYXNzZXQsIGdsX21hcHBpbmdfaWRfYXNzZXQsIERlY2ltYWwoJzAnKSwgRGVjaW1hbCgnMTY2Ni42NycpKSwKICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCAyLCAxKSwgY2F0ZWdvcnlfZXhwZW5zZSwgZ2xfbWFwcGluZ19pZF9leHBlbnNlLCBEZWNpbWFsKCcxNjY2LjY3JyksIERlY2ltYWwoJzAnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgMywgMSksIGNhdGVnb3J5X2Fzc2V0LCBnbF9tYXBwaW5nX2lkX2Fzc2V0LCBEZWNpbWFsKCcwJyksIERlY2ltYWwoJzE2NjYuNjcnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgMywgMSksIGNhdGVnb3J5X2V4cGVuc2UsIGdsX21hcHBpbmdfaWRfZXhwZW5zZSwgRGVjaW1hbCgnMTY2Ni42NycpLCBEZWNpbWFsKCcwJykpLAogICAgICAgICAgICBFeHBlY3RlZFJlc3VsdChkYXRlKDIwMjAsIDQsIDEpLCBjYXRlZ29yeV9hc3NldCwgZ2xfbWFwcGluZ19pZF9hc3NldCwgRGVjaW1hbCgnMCcpLCBEZWNpbWFsKCcxNjY2LjY3JykpLAogICAgICAgICAgICBFeHBlY3RlZFJlc3VsdChkYXRlKDIwMjAsIDQsIDEpLCBjYXRlZ29yeV9leHBlbnNlLCBnbF9tYXBwaW5nX2lkX2V4cGVuc2UsIERlY2ltYWwoJzE2NjYuNjcnKSwgRGVjaW1hbCgnMCcpKSwKICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCA1LCAxKSwgY2F0ZWdvcnlfYXNzZXQsIGdsX21hcHBpbmdfaWRfYXNzZXQsIERlY2ltYWwoJzAnKSwgRGVjaW1hbCgnMTY2Ni42NycpKSwKICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCA1LCAxKSwgY2F0ZWdvcnlfZXhwZW5zZSwgZ2xfbWFwcGluZ19pZF9leHBlbnNlLCBEZWNpbWFsKCcxNjY2LjY3JyksIERlY2ltYWwoJzAnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgNiwgMSksIGNhdGVnb3J5X2Fzc2V0LCBnbF9tYXBwaW5nX2lkX2Fzc2V0LCBEZWNpbWFsKCcwJyksIERlY2ltYWwoJzE2NjYuNjUnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgNiwgMSksIGNhdGVnb3J5X2V4cGVuc2UsIGdsX21hcHBpbmdfaWRfZXhwZW5zZSwgRGVjaW1hbCgnMTY2Ni42NScpLCBEZWNpbWFsKCcwJykpLA==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -531,7 +519,23 @@ related_name='user_history_log_set',</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCAyLCAxKSwgY2F0ZWdvcnlfYXNzZXQsIGdsX21hcHBpbmdfaWRfYXNzZXQsIERlY2ltYWwoJzAnKSwgRGVjaW1hbCgnMTY2Ni42NycpKSwKICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCAyLCAxKSwgY2F0ZWdvcnlfZXhwZW5zZSwgZ2xfbWFwcGluZ19pZF9leHBlbnNlLCBEZWNpbWFsKCcxNjY2LjY3JyksIERlY2ltYWwoJzAnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgMywgMSksIGNhdGVnb3J5X2Fzc2V0LCBnbF9tYXBwaW5nX2lkX2Fzc2V0LCBEZWNpbWFsKCcwJyksIERlY2ltYWwoJzE2NjYuNjcnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgMywgMSksIGNhdGVnb3J5X2V4cGVuc2UsIGdsX21hcHBpbmdfaWRfZXhwZW5zZSwgRGVjaW1hbCgnMTY2Ni42NycpLCBEZWNpbWFsKCcwJykpLAogICAgICAgICAgICBFeHBlY3RlZFJlc3VsdChkYXRlKDIwMjAsIDQsIDEpLCBjYXRlZ29yeV9hc3NldCwgZ2xfbWFwcGluZ19pZF9hc3NldCwgRGVjaW1hbCgnMCcpLCBEZWNpbWFsKCcxNjY2LjY3JykpLAogICAgICAgICAgICBFeHBlY3RlZFJlc3VsdChkYXRlKDIwMjAsIDQsIDEpLCBjYXRlZ29yeV9leHBlbnNlLCBnbF9tYXBwaW5nX2lkX2V4cGVuc2UsIERlY2ltYWwoJzE2NjYuNjcnKSwgRGVjaW1hbCgnMCcpKSwKICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCA1LCAxKSwgY2F0ZWdvcnlfYXNzZXQsIGdsX21hcHBpbmdfaWRfYXNzZXQsIERlY2ltYWwoJzAnKSwgRGVjaW1hbCgnMTY2Ni42NycpKSwKICAgICAgICAgICAgRXhwZWN0ZWRSZXN1bHQoZGF0ZSgyMDIwLCA1LCAxKSwgY2F0ZWdvcnlfZXhwZW5zZSwgZ2xfbWFwcGluZ19pZF9leHBlbnNlLCBEZWNpbWFsKCcxNjY2LjY3JyksIERlY2ltYWwoJzAnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgNiwgMSksIGNhdGVnb3J5X2Fzc2V0LCBnbF9tYXBwaW5nX2lkX2Fzc2V0LCBEZWNpbWFsKCcwJyksIERlY2ltYWwoJzE2NjYuNjUnKSksCiAgICAgICAgICAgIEV4cGVjdGVkUmVzdWx0KGRhdGUoMjAyMCwgNiwgMSksIGNhdGVnb3J5X2V4cGVuc2UsIGdsX21hcHBpbmdfaWRfZXhwZW5zZSwgRGVjaW1hbCgnMTY2Ni42NScpLCBEZWNpbWFsKCcwJykpLA==</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="94" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="91" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="93" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="4">
         <text>@tag('mysql')
     def test_amortization_updater_na_method(self):
         expense = mommy.make(FixedAsset, acquired_date=date(2020, 1, 1), cost=10000,
@@ -591,30 +595,14 @@ related_name='user_history_log_set',</text>
             self.assertEqual(ts.credit, expected.credit)
             self.assertEqual(ts.gl_mapping_id, expected.gl_mapping_id)</text>
       </register>
-      <register name="w" type="4">
-        <keys>
-          <key char="94" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="91" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="93" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGdsX3JlbnRhbF9leHBlbnNlID0gbW9kZWxzLkZvcmVpZ25LZXkoJ0dlbmVyYWxMZWRnZXInLCBudWxsPVRydWUsIG9uX2RlbGV0ZT1tb2RlbHMuU0VUX05VTEwsIHJlbGF0ZWRfbmFtZT0nY29tcGFueV9yZW50YWxfZXhwZW5zZV9zZXQnKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGdsX3JlbnRhbF9leHBlbnNlID0gbW9kZWxzLkZvcmVpZ25LZXkoJ0dlbmVyYWxMZWRnZXInLCBudWxsPVRydWUsIG9uX2RlbGV0ZT1tb2RlbHMuU0VUX05VTEwsIHJlbGF0ZWRfbmFtZT0nY29tcGFueV9yZW50YWxfZXhwZW5zZV9zZXQnKQo=</text>
       </register>
       <register name="y" type="4">
         <text />
       </register>
       <register name=":" type="4">
-        <text>75</text>
+        <text>116</text>
       </register>
     </registers>
   </component>
