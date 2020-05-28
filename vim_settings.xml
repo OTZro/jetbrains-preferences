@@ -124,6 +124,7 @@
         <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/static/metronic/templates/static/modal_load_from_warehouse_ocean.html" timestamp="1590575349576" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/accounting/accounting_entry.py" timestamp="1590634388957" />
       <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_depreciation_updater.py" timestamp="1590577941448">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />
@@ -131,6 +132,9 @@
         <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/general/modal_warehouse_loader.controller.js" timestamp="1590575396779" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/utility.py" timestamp="1590578056639">
+        <mark key="[" line="226" column="56" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_amortization_updater.py" timestamp="1590577929935">
         <mark key="[" line="177" column="0" />
         <mark key="]" line="177" column="0" />
@@ -142,6 +146,12 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_container/index.html" timestamp="1590575538508">
         <mark key="[" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/utility.py" timestamp="1590578019568">
+        <mark key="'" line="100" column="4" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_list/index.html" timestamp="1590574221500">
         <mark key="[" line="152" column="34" />
         <mark key="]" line="152" column="35" />
@@ -149,31 +159,12 @@
         <mark key="." line="152" column="34" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/advance_invoice_list/index.html" timestamp="1590575534103" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/fixed_asset_service.py" timestamp="1590572650320">
-        <mark key="[" line="26" column="62" />
-        <mark key="]" line="13" column="19" />
-        <mark key="." line="13" column="19" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/bl_wh_receipts_list.component.js" timestamp="1590575458135" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/general/modal_warehouse_loader.html" timestamp="1590575466616" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/api.py" timestamp="1590572529089">
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/prepaid_expense_service.py" timestamp="1590572733401">
-        <mark key="[" line="39" column="91" />
-        <mark key="]" line="39" column="81" />
-        <mark key="." line="39" column="80" />
-        <mark key="^" line="39" column="81" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0047_add_asset_to_user_history_log.py" timestamp="1590573635585" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0046_remove_company_gl_rental_expense.py" timestamp="1590573537462" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0045_remove_company_gl_rental_expense.py" timestamp="1590573458465">
         <mark key="[" line="19" column="39" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/api.py" timestamp="1590572522760">
-        <mark key="[" line="43" column="41" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.ts" timestamp="1590575202981" />
     </filemarks>
@@ -412,13 +403,13 @@
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGFiYXNlcyA9ICdfX2FsbF9fJwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGRhdGFiYXNlcyA9ICdfX2FsbF9fJwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -474,14 +465,13 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="8">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRhdGFiYXNlcyA9ICdfX2FsbF9fJwo=</text>
+      </register>
+      <register name="6" type="8">
         <text>Fixed Asset
 Fixed Asset
 Fixed Asset</text>
-      </register>
-      <register name="6" type="8">
-        <text>CREATE
-CREATE</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -508,9 +498,8 @@ CREATE</text>
         </keys>
       </register>
       <register name="7" type="8">
-        <text>FIXED_ASSET
-FIXED_ASSET
-FIXED_ASSET</text>
+        <text>CREATE
+CREATE</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -526,11 +515,13 @@ FIXED_ASSET</text>
         </keys>
       </register>
       <register name="8" type="8">
+        <text>FIXED_ASSET
+FIXED_ASSET
+FIXED_ASSET</text>
+      </register>
+      <register name="9" type="8">
         <text>related_name='user_history_log_set',
 related_name='user_history_log_set',</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
