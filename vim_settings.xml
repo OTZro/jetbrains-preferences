@@ -125,7 +125,6 @@
         <mark key="^" line="296" column="23" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/general/modal_warehouse_loader.controller.js" timestamp="1590575396779" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/utility.py" timestamp="1590578056639">
         <mark key="[" line="226" column="56" />
       </file>
@@ -135,8 +134,8 @@
         <mark key="^" line="130" column="32" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1590642709877">
-        <mark key="[" line="43" column="38" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1590643925103">
+        <mark key="[" line="42" column="44" />
         <mark key="]" line="41" column="21" />
         <mark key="^" line="48" column="18" />
         <mark key="." line="41" column="21" />
@@ -167,13 +166,35 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/advance_invoice_list/index.html" timestamp="1590575534103" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/bl_wh_receipts_list.component.js" timestamp="1590575458135" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/general/modal_warehouse_loader.html" timestamp="1590575466616" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1590644162593">
+        <mark key="[" line="44" column="41" />
+        <mark key="]" line="44" column="40" />
+        <mark key="." line="44" column="39" />
+        <mark key="^" line="44" column="40" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/invoice_target/warehouse_target.py" timestamp="1590642224897">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.text_def.ts" timestamp="1590643513968">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="12" />
+        <mark key="^" line="17" column="13" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1590644417337">
+        <mark key="'" line="52" column="82" />
+        <mark key="[" line="69" column="182" />
+        <mark key="]" line="49" column="172" />
+        <mark key="^" line="69" column="73" />
+        <mark key="." line="49" column="172" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/referencc.type.ts" timestamp="1590643949651">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+        <mark key="." line="3" column="30" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/invoice_target/base.py" timestamp="1590642402135">
         <mark key="[" line="15" column="0" />
@@ -198,6 +219,7 @@
       <jump line="8" column="34" filename="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.text_def.ts" />
       <jump line="45" column="105" filename="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/utility.py" />
       <jump line="118" column="4" filename="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/utility.py" />
+      <jump line="52" column="82" filename="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -224,8 +246,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGRlZiBmaWxpbmdfbm8oc2VsZikgLT4gT3B0aW9uYWxbc3RyXToKICAgICAgICByZXR1cm4gTm9uZQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGJsX25vKHNlbGYpIC0+IE9wdGlvbmFsW3N0cl06CiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBAcHJvcGVydHkKICAgIGRlZiBNQkxfTk8oc2VsZikgLT4gT3B0aW9uYWxbc3RyXToKICAgICAgICByZXR1cm4gTm9uZQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIEhCTF9OTyhzZWxmKSAtPiBPcHRpb25hbFtzdHJdOgogICAgICAgIHJldHVybiBOb25lCgogICAgQHByb3BlcnR5CiAgICBkZWYgRVRBKHNlbGYpOgogICAgICAgIHJldHVybiBOb25lCgogICAgQHByb3BlcnR5CiAgICBkZWYgRVREKHNlbGYpOgogICAgICAgIHJldHVybiBOb25lCgogICAgQHByb3BlcnR5CiAgICBkZWYgUE9SKHNlbGYpOgogICAgICAgIHJldHVybiBOb25lCgogICAgQHByb3BlcnR5CiAgICBkZWYgUE9SX0VURChzZWxmKToKICAgICAgICByZXR1cm4gTm9uZQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIFBPTF9uYW1lKHNlbGYpOgogICAgICAgIHJldHVybiBOb25lCgogICAgQHByb3BlcnR5CiAgICBkZWYgUE9EX25hbWUoc2VsZik6CiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBAcHJvcGVydHkKICAgIGRlZiBjYXJyaWVyX2JrZ19ubyhzZWxmKToKICAgICAgICByZXR1cm4gTm9uZQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHZlc3NlbF9mbGlnaHRfbm8oc2VsZik6CiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBAcHJvcGVydHkKICAgIGRlZiBkY19wcm9maXRfc2hhcmVfYmlsbGluZyhzZWxmKToKICAgICAgICByZXR1cm4gTm9uZQoKICAgIEBwcm9wZXJ0eQogICAgZGVmIGRjX3Byb2ZpdF9zaGFyZShzZWxmKToKICAgICAgICByZXR1cm4gMAoKICAgIEBwcm9wZXJ0eQogICAgZGVmIHNoaXBtZW50X3R5cGUoc2VsZik6CiAgICAgICAgcmV0dXJuICcnCgogICAgQHByb3BlcnR5CiAgICBkZWYgb3BlcmF0b3Ioc2VsZikgLT4gT3B0aW9uYWxbVXNlcl06CiAgICAgICAgcmV0dXJuIE5vbmUK</text>
+      <register name="&quot;" type="4">
+        <text>24</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -355,7 +377,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>operator</text>
+        <text>24</text>
       </register>
       <register name="m" type="4">
         <keys>
