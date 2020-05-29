@@ -29,7 +29,6 @@
         <entry>:136</entry>
       </history-search>
       <history-cmd>
-        <entry>25</entry>
         <entry>97</entry>
         <entry>172</entry>
         <entry>10</entry>
@@ -49,6 +48,7 @@
         <entry>70</entry>
         <entry>116</entry>
         <entry>238</entry>
+        <entry>141</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,23 +118,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/tkms/container/index.html" timestamp="1590726293532">
+        <mark key="[" line="9" column="14" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting_managers.py" timestamp="1590725040373" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/models.py" timestamp="1590662149312">
         <mark key="[" line="55" column="39" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/invoice_target/hbl_target.py" timestamp="1590725067261" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/views_truck.py" timestamp="1590726254772" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1590725129769" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/approval-rule.service.ts" timestamp="1590663020386">
         <mark key="[" line="76" column="56" />
         <mark key="]" line="76" column="56" />
         <mark key="." line="76" column="56" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/controller.js" timestamp="1590655610823">
-        <mark key="[" line="36" column="70" />
-        <mark key="]" line="45" column="20" />
-        <mark key="." line="45" column="19" />
-        <mark key="^" line="45" column="20" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/check_deposit/index.html" timestamp="1590726289478" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/core/state_manager.py" timestamp="1590724397175">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -161,6 +160,7 @@
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1590662240402">
         <mark key="[" line="113" column="30" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/_base.html" timestamp="1590726290692" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1590658570631">
         <mark key="'" line="55" column="82" />
         <mark key="[" line="36" column="32" />
