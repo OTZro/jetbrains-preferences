@@ -123,9 +123,8 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/acct-wizard-data-service.interface.ts" timestamp="1591004465273" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/rate_entry/rate-table/rate-table.component.ts" timestamp="1591003412262" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.html" timestamp="1591002626454">
-        <mark key="[" line="52" column="92" />
-        <mark key="]" line="54" column="74" />
-        <mark key="." line="54" column="74" />
+        <mark key="]" line="51" column="74" />
+        <mark key="." line="51" column="74" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/table-data-linker.ts" timestamp="1590999294702">
         <mark key="[" line="9" column="25" />
@@ -138,12 +137,7 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/auto-complete-utility.ts" timestamp="1590997293947" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/app.component.html" timestamp="1590985792704" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.ts" timestamp="1591005456812">
-        <mark key="[" line="245" column="98" />
-        <mark key="]" line="255" column="32" />
-        <mark key="." line="255" column="31" />
-        <mark key="^" line="255" column="32" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.ts" timestamp="1591006353772" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/department-filter.directive.ts" timestamp="1590980249557" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/types/trade-partner.interface.ts" timestamp="1590996172071" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_list/app.component.html" timestamp="1591001593205" />
@@ -206,8 +200,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -401,13 +395,13 @@
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudHBQcm92aWRlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudHBQcm92aWRlcik7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -467,7 +461,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgY29uc3RydWN0b3IocHJpdmF0ZSBkYXRhU2VydmljZTogT2ZmaWNlRGVwYXJ0bWVudERhdGFTZXJ2aWNlKSB7fQoKICBuZ09uSW5pdCgpOiB2b2lkIHsKICAgIGNvbWJpbmVMYXRlc3QoW3RoaXMuZGF0YVNlcnZpY2Uub2ZmaWNlcyQoKSwgdGhpcy5jb250cm9scy52YWx1ZUNoYW5nZXMucGlwZShzdGFydFdpdGgoJycpKV0pCiAgICAgIC5waXBlKAogICAgICAgIG1hcCgoW29mZmljZXMsIF9dKSA9PiB7CiAgICAgICAgICBsZXQgb2ZmaWNlID0gb2ZmaWNlcy5maW5kKG9mZmljZSA9PiBvZmZpY2UuaWQgPT09IHRoaXMub2ZmaWNlKTsKICAgICAgICAgIGlmICghb2ZmaWNlKSB7CiAgICAgICAgICAgIHJldHVybiBbXTsKICAgICAgICAgIH0KICAgICAgICAgIG9mZmljZSA9IHRoaXMuZmlsdGVyRGVwYXJ0bWVudChvZmZpY2UpOwogICAgICAgICAgcmV0dXJuIFtvZmZpY2VdOwogICAgICAgIH0pLAogICAgICApCiAgICAgIC5zdWJzY3JpYmUob2ZmaWNlcyA9PiB7CiAgICAgICAgdGhpcy5vZmZpY2VzU3ViamVjdCQubmV4dChvZmZpY2VzKTsKICAgICAgfSk7CiAgfQoKICBwcml2YXRlIGZpbHRlckRlcGFydG1lbnQob2ZmaWNlT3JpZ2luOiBUT2ZmaWNlKTogVE9mZmljZSB7CiAgICBjb25zdCBvZmZpY2U6IFRPZmZpY2UgPSB7IC4uLm9mZmljZU9yaWdpbiB9OwogICAgY29uc3Qgc2VsZWN0ZWREZXBhcnRtZW50cyA9IG5ldyBTZXQ8bnVtYmVyPigpOwogICAgdGhpcy5jb250cm9scy5jb250cm9scy5tYXAoKGNvbnRyb2wsIGkpID0+IHsKICAgICAgaWYgKGkgPT09IHRoaXMuaW5kZXggfHwgIUFycmF5LmlzQXJyYXkoY29udHJvbC52YWx1ZS5kZXBhcnRtZW50cykpIHsKICAgICAgICByZXR1cm47CiAgICAgIH0KICAgICAgY29udHJvbC52YWx1ZS5kZXBhcnRtZW50cy5mb3JFYWNoKChkZXBhcnRtZW50OiBURGVwYXJ0bWVudCkgPT4gc2VsZWN0ZWREZXBhcnRtZW50cy5hZGQoZGVwYXJ0bWVudC5pZCkpOwogICAgfSk7CiAgICBvZmZpY2Uub2ZmaWNlX2RlcGFydG1lbnRfc2V0ID0gb2ZmaWNlLm9mZmljZV9kZXBhcnRtZW50X3NldC5maWx0ZXIoZGVwYXJ0bWVudCA9PiB7CiAgICAgIHJldHVybiAhc2VsZWN0ZWREZXBhcnRtZW50cy5oYXMoZGVwYXJ0bWVudC5pZCk7CiAgICB9KTsKICAgIHJldHVybiBvZmZpY2U7CiAgfQoKICAvLyB0c2xpbnQ6ZGlzYWJsZS1uZXh0LWxpbmU6ZnVuY3Rpb24tbmFtZQogIG9mZmljZXMkKCk6IE9ic2VydmFibGU8VE9mZmljZVtdPiB7CiAgICByZXR1cm4gdGhpcy5vZmZpY2VzU3ViamVjdCQ7CiAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -494,7 +488,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgY29uc3RydWN0b3IocHJpdmF0ZSBkYXRhU2VydmljZTogT2ZmaWNlRGVwYXJ0bWVudERhdGFTZXJ2aWNlKSB7fQoKICBuZ09uSW5pdCgpOiB2b2lkIHsKICAgIGNvbWJpbmVMYXRlc3QoW3RoaXMuZGF0YVNlcnZpY2Uub2ZmaWNlcyQoKSwgdGhpcy5jb250cm9scy52YWx1ZUNoYW5nZXMucGlwZShzdGFydFdpdGgoJycpKV0pCiAgICAgIC5waXBlKAogICAgICAgIG1hcCgoW29mZmljZXMsIF9dKSA9PiB7CiAgICAgICAgICBsZXQgb2ZmaWNlID0gb2ZmaWNlcy5maW5kKG9mZmljZSA9PiBvZmZpY2UuaWQgPT09IHRoaXMub2ZmaWNlKTsKICAgICAgICAgIGlmICghb2ZmaWNlKSB7CiAgICAgICAgICAgIHJldHVybiBbXTsKICAgICAgICAgIH0KICAgICAgICAgIG9mZmljZSA9IHRoaXMuZmlsdGVyRGVwYXJ0bWVudChvZmZpY2UpOwogICAgICAgICAgcmV0dXJuIFtvZmZpY2VdOwogICAgICAgIH0pLAogICAgICApCiAgICAgIC5zdWJzY3JpYmUob2ZmaWNlcyA9PiB7CiAgICAgICAgdGhpcy5vZmZpY2VzU3ViamVjdCQubmV4dChvZmZpY2VzKTsKICAgICAgfSk7CiAgfQoKICBwcml2YXRlIGZpbHRlckRlcGFydG1lbnQob2ZmaWNlT3JpZ2luOiBUT2ZmaWNlKTogVE9mZmljZSB7CiAgICBjb25zdCBvZmZpY2U6IFRPZmZpY2UgPSB7IC4uLm9mZmljZU9yaWdpbiB9OwogICAgY29uc3Qgc2VsZWN0ZWREZXBhcnRtZW50cyA9IG5ldyBTZXQ8bnVtYmVyPigpOwogICAgdGhpcy5jb250cm9scy5jb250cm9scy5tYXAoKGNvbnRyb2wsIGkpID0+IHsKICAgICAgaWYgKGkgPT09IHRoaXMuaW5kZXggfHwgIUFycmF5LmlzQXJyYXkoY29udHJvbC52YWx1ZS5kZXBhcnRtZW50cykpIHsKICAgICAgICByZXR1cm47CiAgICAgIH0KICAgICAgY29udHJvbC52YWx1ZS5kZXBhcnRtZW50cy5mb3JFYWNoKChkZXBhcnRtZW50OiBURGVwYXJ0bWVudCkgPT4gc2VsZWN0ZWREZXBhcnRtZW50cy5hZGQoZGVwYXJ0bWVudC5pZCkpOwogICAgfSk7CiAgICBvZmZpY2Uub2ZmaWNlX2RlcGFydG1lbnRfc2V0ID0gb2ZmaWNlLm9mZmljZV9kZXBhcnRtZW50X3NldC5maWx0ZXIoZGVwYXJ0bWVudCA9PiB7CiAgICAgIHJldHVybiAhc2VsZWN0ZWREZXBhcnRtZW50cy5oYXMoZGVwYXJ0bWVudC5pZCk7CiAgICB9KTsKICAgIHJldHVybiBvZmZpY2U7CiAgfQoKICAvLyB0c2xpbnQ6ZGlzYWJsZS1uZXh0LWxpbmU6ZnVuY3Rpb24tbmFtZQogIG9mZmljZXMkKCk6IE9ic2VydmFibGU8VE9mZmljZVtdPiB7CiAgICByZXR1cm4gdGhpcy5vZmZpY2VzU3ViamVjdCQ7CiAgfQ==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -509,11 +503,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PHNlbGVjdCBjbGFzcz0ic2VsZWN0Mm1lIF9mbGV4LTEiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbj48L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24+QUFBPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uPkJCQjwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8L3NlbGVjdD4=</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">PHNlbGVjdCBjbGFzcz0ic2VsZWN0Mm1lIF9mbGV4LTEiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbj48L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24+QUFBPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uPkJCQjwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8L3NlbGVjdD4=</text>
       </register>
       <register name="y" type="4">
         <text />
