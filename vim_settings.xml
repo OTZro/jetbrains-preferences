@@ -133,35 +133,29 @@
         <mark key="]" line="51" column="32" />
         <mark key="." line="51" column="32" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/tp-provider.directive.ts" timestamp="1590985876664">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="39" column="16" />
-        <mark key="." line="39" column="15" />
-        <mark key="^" line="39" column="16" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/tp-provider.directive.ts" timestamp="1590996597456">
+        <mark key="[" line="36" column="75" />
+        <mark key="]" line="37" column="16" />
+        <mark key="." line="37" column="15" />
+        <mark key="^" line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/auto-complete-utility.ts" timestamp="1590750076524" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/.eslintrc.json" timestamp="1590745445707">
-        <mark key="[" line="82" column="19" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="19" />
-        <mark key="^" line="13" column="20" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/auto-complete-utility.ts" timestamp="1590996464837" />
       <file name="$USER_HOME$/gofreight/fms/static/metronic/approvalCenter.html.erb" timestamp="1590746079230">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/app.component.html" timestamp="1590985792704" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.ts" timestamp="1590992148529">
-        <mark key="[" line="135" column="11" />
-        <mark key="]" line="132" column="13" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.ts" timestamp="1590996202530">
+        <mark key="[" line="134" column="53" />
+        <mark key="]" line="134" column="53" />
         <mark key="^" line="132" column="13" />
-        <mark key="." line="132" column="12" />
+        <mark key="." line="134" column="53" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/tp-select-cell/tp-select-cell.component.ts" timestamp="1590749746618" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/department-filter.directive.ts" timestamp="1590980249557" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/types/trade-partner.interface.ts" timestamp="1590996172071" />
       <file name="/oceanImportAccounting_wizard.html.erb" timestamp="1590747154696" />
-      <file name="/controller.js" timestamp="1590745241340" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/shared-accounting.module.ts" timestamp="1590749978267">
         <mark key="[" line="32" column="26" />
       </file>
@@ -171,11 +165,12 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/invoice-no-select/hc-invoice-no-select.component.ts" timestamp="1590748154155" />
       <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@angular/core/core.d.ts" timestamp="1590980119481" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.ts" timestamp="1590979585461">
-        <mark key="[" line="53" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.ts" timestamp="1590996715895">
+        <mark key="[" line="212" column="85" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/types/accounting.type.ts" timestamp="1590996177311" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -218,8 +213,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudHBQcm92aWRlcik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>as TTradePartner</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -349,7 +344,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>@ViewChild(TpProviderDirective) tpProvider: TpProviderDirective;</text>
+        <text>as TTradePartner</text>
       </register>
       <register name="m" type="4">
         <keys>
