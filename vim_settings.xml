@@ -119,10 +119,16 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/shipment-acct-wizard-data.service.ts" timestamp="1591004480434" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1591007391666" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting_wizard.py" timestamp="1591065829623" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1591067044330">
+        <mark key="[" line="2376" column="53" />
+        <mark key="]" line="2376" column="53" />
+        <mark key="." line="2376" column="53" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/app.component.ts" timestamp="1591003521129" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/acct-wizard-data-service.interface.ts" timestamp="1591004465273" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/rate_entry/rate-table/rate-table.component.ts" timestamp="1591003412262" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/base_report.py" timestamp="1591066356838" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.html" timestamp="1591002626454">
         <mark key="]" line="51" column="74" />
         <mark key="." line="51" column="74" />
@@ -130,13 +136,9 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/table-data-linker.ts" timestamp="1590999294702">
         <mark key="[" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/tp-provider.directive.ts" timestamp="1590998764499">
-        <mark key="[" line="44" column="17" />
-        <mark key="]" line="45" column="15" />
-        <mark key="^" line="45" column="15" />
-        <mark key="." line="45" column="14" />
+      <file name="$USER_HOME$/gofreight/fms/lib/form/form_type.py" timestamp="1591066848030">
+        <mark key="[" line="149" column="43" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/auto-complete-utility.ts" timestamp="1590997293947" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/report.service.ts" timestamp="1591007307557" />
       <file name="$USER_HOME$/gofreight/fms/fms/urls_reports.py" timestamp="1591008119723">
         <mark key="[" line="679" column="41" />
@@ -161,7 +163,6 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/types/accounting.type.ts" timestamp="1590996177311" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -205,7 +206,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>freight</text>
+        <text>acct_invoice_ar.html</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -335,7 +336,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>freight</text>
+        <text>acct_invoice_ar.html</text>
       </register>
       <register name="m" type="4">
         <keys>
