@@ -129,7 +129,6 @@
         <mark key="]" line="76" column="56" />
         <mark key="." line="76" column="56" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.module.ts" timestamp="1591086697697" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/report.service.ts" timestamp="1591088426890">
         <mark key="[" line="1461" column="21" />
       </file>
@@ -145,30 +144,29 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_bank_book_balance.html" timestamp="1591090912684" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/grid-preference.service.ts" timestamp="1591087725965" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1591091793655">
-        <mark key="[" line="2382" column="76" />
-        <mark key="]" line="2382" column="76" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1591092704214">
+        <mark key="[" line="2396" column="31" />
+        <mark key="]" line="2396" column="31" />
         <mark key="^" line="2380" column="30" />
-        <mark key="." line="2382" column="76" />
+        <mark key="." line="2396" column="31" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/acct-wizard-data-service.interface.ts" timestamp="1591087979229" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_bank_outstanding_detail.html" timestamp="1591090847456" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/aging_report/handler.py" timestamp="1591092474495" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/modal-opener-interface.ts" timestamp="1591088091274">
         <mark key="[" line="35" column="13" />
         <mark key="]" line="35" column="13" />
         <mark key="^" line="16" column="12" />
         <mark key="." line="35" column="13" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_accounting_wizard.html" timestamp="1591091421303">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_accounting_wizard.html" timestamp="1591092763256">
         <mark key="[" line="52" column="51" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1591086700340" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/shared-accounting.module.ts" timestamp="1591086676409">
-        <mark key="[" line="32" column="26" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ap.html" timestamp="1591091047145" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/views_report.py" timestamp="1591092505891" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -212,7 +210,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, load_fmc=True</text>
+        <text>raw_params</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -342,7 +340,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, load_fmc=True</text>
+        <text>raw_params</text>
       </register>
       <register name="m" type="4">
         <keys>
