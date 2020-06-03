@@ -124,22 +124,23 @@
         <mark key="]" line="53" column="8" />
         <mark key="." line="53" column="8" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_accounting_wizard.html" timestamp="1591166657658">
-        <mark key="[" line="109" column="22" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_accounting_wizard.html" timestamp="1591168203278">
+        <mark key="[" line="24" column="28" />
         <mark key="]" line="366" column="28" />
         <mark key="." line="366" column="28" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting_wizard.py" timestamp="1591168924701" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/general/url.service.js" timestamp="1591157884259" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/core/accounting/accounting_api.js" timestamp="1591164831485" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/settings/currency_table/currency_table.validator.js" timestamp="1591163993448" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry/index.html" timestamp="1591157347556" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views/views.py" timestamp="1591157265994" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/invoice/entry.py" timestamp="1591157693366" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1591166938278">
-        <mark key="[" line="2385" column="21" />
-        <mark key="]" line="2381" column="112" />
-        <mark key="^" line="2381" column="112" />
-        <mark key="." line="2381" column="111" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1591169009146">
+        <mark key="[" line="2408" column="26" />
+        <mark key="]" line="2412" column="92" />
+        <mark key="^" line="2412" column="92" />
+        <mark key="." line="2412" column="91" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/acct_invoice_ar_accounting_wizard.html" timestamp="1591160940901" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_multi_currency_chinese.html" timestamp="1591163003695" />
@@ -150,10 +151,10 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/settings/currency_table/index.html" timestamp="1591163980830" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ap.html" timestamp="1591158757315" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1591167777664" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry.controller.js" timestamp="1591157701148">
         <mark key="[" line="688" column="18" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/core/middleware.py" timestamp="1591156831614" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1591160197493" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/trade_partner.py" timestamp="1591166887125" />
     </filemarks>
@@ -199,7 +200,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>240308294451</text>
+        <text>!= ''</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -329,7 +330,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>240308294451</text>
+        <text>!= ''</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -393,10 +394,15 @@
         <text>kkjk</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">eyUgZm9yIGkgaW4gcmFuZ2UoMykgJX0KICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGQgdGQtaXRlbSBib3JkZXItciB0ZXh0LWNlbnRlciI+MTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGQgdGQtaXRlbSBib3JkZXItciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJhdXRvLWZvbnQtc2l6ZSBfX3dpZHRoLWRlc2NyaXB0aW9uIj48c3Bhbj5PQ0VBTiBGUkVJR0hUIENIQVJHRTwvc3Bhbj48L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZCB0ZC1pdGVtIGJvcmRlci1yIHRleHQtcmlnaHQiPjE8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRkIHRkLWl0ZW0gYm9yZGVyLXIgdGV4dC1sZWZ0Ij5VTklUPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZCB0ZC1pdGVtIGJvcmRlci1yIHRleHQtY2VudGVyIj5STUI8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRkIHRkLWl0ZW0gYm9yZGVyLXIgdGV4dC1yaWdodCI+NTkwLjAwPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZCB0ZC1pdGVtIHRleHQtcmlnaHQiPjQzLDAwMS4wMDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgIHslIGVuZGZvciAlfQogICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGQgdGQtaXRlbSBib3JkZXItciB0ZXh0LWNlbnRlciI+MTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZCB0ZC1pdGVtIGJvcmRlci1yIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYXV0by1mb250LXNpemUgX193aWR0aC1kZXNjcmlwdGlvbiI+PHNwYW4+SEFORExJTkcgRkVFPC9zcGFuPjwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZCB0ZC1pdGVtIGJvcmRlci1yIHRleHQtcmlnaHQiPjE8L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGQgdGQtaXRlbSBib3JkZXItciB0ZXh0LWxlZnQiPlVOSVQ8L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGQgdGQtaXRlbSBib3JkZXItciB0ZXh0LWNlbnRlciI+VVNEPC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRkIHRkLWl0ZW0gYm9yZGVyLXIgdGV4dC1yaWdodCI+NTkwLjAwPC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRkIHRkLWl0ZW0gdGV4dC1yaWdodCI+NTgzLjAwPC90ZD4KICAgICAgICAgICAgICAgIDwvdHI+</text>
+        <text>,
+            BankInfo(
+                trade_partner.bank_name_2,
+                trade_partner.bank_account_2,
+                trade_partner.bank_currency_2.name if trade_partner.bank_currency_2 else ''
+            ),</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSoqKioqKiogUmlkZXIgKioqKioqKi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -456,10 +462,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -485,8 +491,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dHJ1ZSBvIA==</text>
+      <register name="7" type="4">
+        <text encoding="base64">eyUgZm9yIGkgaW4gcmFuZ2UoMykgJX0KICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGQgdGQtaXRlbSBib3JkZXItciB0ZXh0LWNlbnRlciI+MTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGQgdGQtaXRlbSBib3JkZXItciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJhdXRvLWZvbnQtc2l6ZSBfX3dpZHRoLWRlc2NyaXB0aW9uIj48c3Bhbj5PQ0VBTiBGUkVJR0hUIENIQVJHRTwvc3Bhbj48L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZCB0ZC1pdGVtIGJvcmRlci1yIHRleHQtcmlnaHQiPjE8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRkIHRkLWl0ZW0gYm9yZGVyLXIgdGV4dC1sZWZ0Ij5VTklUPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZCB0ZC1pdGVtIGJvcmRlci1yIHRleHQtY2VudGVyIj5STUI8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRkIHRkLWl0ZW0gYm9yZGVyLXIgdGV4dC1yaWdodCI+NTkwLjAwPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZCB0ZC1pdGVtIHRleHQtcmlnaHQiPjQzLDAwMS4wMDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgIHslIGVuZGZvciAlfQogICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGQgdGQtaXRlbSBib3JkZXItciB0ZXh0LWNlbnRlciI+MTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZCB0ZC1pdGVtIGJvcmRlci1yIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYXV0by1mb250LXNpemUgX193aWR0aC1kZXNjcmlwdGlvbiI+PHNwYW4+SEFORExJTkcgRkVFPC9zcGFuPjwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZCB0ZC1pdGVtIGJvcmRlci1yIHRleHQtcmlnaHQiPjE8L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGQgdGQtaXRlbSBib3JkZXItciB0ZXh0LWxlZnQiPlVOSVQ8L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGQgdGQtaXRlbSBib3JkZXItciB0ZXh0LWNlbnRlciI+VVNEPC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRkIHRkLWl0ZW0gYm9yZGVyLXIgdGV4dC1yaWdodCI+NTkwLjAwPC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRkIHRkLWl0ZW0gdGV4dC1yaWdodCI+NTgzLjAwPC90ZD4KICAgICAgICAgICAgICAgIDwvdHI+</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -502,7 +508,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSoqKioqKiogUmlkZXIgKioqKioqKi0tPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
