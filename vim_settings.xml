@@ -137,12 +137,15 @@
         <mark key="^" line="285" column="9" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_esko.html" timestamp="1591339353789" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/amortization.py" timestamp="1591349250987">
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_depreciation_updater.py" timestamp="1591351867299">
+        <mark key="[" line="364" column="71" />
+        <mark key="]" line="364" column="21" />
+        <mark key="." line="364" column="21" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/amortization.py" timestamp="1591351564982">
         <mark key="'" line="25" column="42" />
         <mark key="[" line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1591339307286" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/auto_font_size_html_validator.py" timestamp="1591339199070" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/invoice.py" timestamp="1591349245294" />
       <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1591347572390">
         <mark key="[" line="2" column="62" />
@@ -152,11 +155,21 @@
       <file name="$USER_HOME$/gofreight/fms/test/freight/shipment/test_ocean_import_entry.py" timestamp="1591343951764" />
       <file name="$USER_HOME$/gofreight/fms/lib/util_queryset.py" timestamp="1591348868416" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_cargo_manifest_carrier.html" timestamp="1591339721098" />
-      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_amortization_updater.py" timestamp="1591347514933">
-        <mark key="[" line="388" column="0" />
-        <mark key="]" line="391" column="25" />
-        <mark key="." line="391" column="24" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/api.py" timestamp="1591351452684">
+        <mark key="[" line="52" column="80" />
+        <mark key="]" line="51" column="8" />
+        <mark key="." line="51" column="8" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_amortization_updater.py" timestamp="1591351835888">
+        <mark key="[" line="393" column="0" />
+        <mark key="]" line="393" column="0" />
+        <mark key="." line="393" column="0" />
         <mark key="^" line="391" column="25" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1591351590654">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.html" timestamp="1591348102464">
         <mark key="[" line="29" column="41" />
@@ -164,12 +177,13 @@
         <mark key="^" line="59" column="68" />
         <mark key="." line="29" column="41" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/api.py" timestamp="1591346994883">
-        <mark key="[" line="50" column="31" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/api.py" timestamp="1591351426391">
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/hc-grid-container/hc-grid-container.component.ts" timestamp="1591347102681" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1591351864894" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -213,8 +227,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>100</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -344,7 +358,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text encoding="base64">IGJvb2woUHJlcGFpZEV4cGVuc2Uub2JqZWN0cy5maWx0ZXIoaWQ9MTkpKQ==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -402,7 +416,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
@@ -411,10 +425,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocXMuY291bnQoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodXBkYXRlZF9leHBlbnNlLnRlcm0pCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -471,10 +485,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnVzaW5nKCdyZWFkX2NvbW1pdHRlZCcpIFwK</text>
+        <text encoding="base64">CiAgICAgICAgQHRhZygnbXlzcWwnKQogICAgICAgIGRlZiB0ZXN0X3RlbXAoc2VsZik6CiAgICAgICAgICAgIGV4cGVuc2UgPSBtb21teS5tYWtlKFByZXBhaWRFeHBlbnNlLCBjb21tZW5jZV9kYXRlPWRhdGUoMjAyMCwgMSwgMSksIGFtb3VudD0xMDAwMCwgdGVybT03LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmVwYWlkX3R5cGU9UHJlcGFpZEV4cGVuc2UuUFJFUEFJRF9UWVBFX0VYUEVOU0UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVuc2VfZ2xfY29kZV9pZD1HTF9BRE1JTklTVFJBVElWRV9FWFBFTlNFLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvZmZpY2U9c2VsZi5vZmZpY2UpCiAgICAgICAgICAgIEFtb3J0aXphdGlvblRyYW5zYWN0aW9uVXBkYXRlcigpLnVwZGF0ZShbZXhwZW5zZS5pZF0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnVzaW5nKCdyZWFkX2NvbW1pdHRlZCcpIFwK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -500,8 +514,12 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5Gb3JtCg==</text>
+      <register name="7" type="4">
+        <text>time.sleep(2)
+        expense=expense[0]
+        expense.term = 1
+        expense.save()
+        AmortizationTransactionUpdater().update([expense.id])</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -517,10 +535,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcHJlcGFyZV9mb3JtX2NsYXNzKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHUxKCk6CiAgICB3aXRoIHRyYW5zYWN0aW9uLmF0b21pYygpOgogICAgICAgIGV4cGVuc2UgPSBQcmVwYWlkRXhwZW5zZS5vYmplY3RzLnNlbGVjdF9mb3JfdXBkYXRlKCkuZ2V0KGlkPTE4KQogICAgICAgIGJvb2woZXhwZW5zZSkKICAgICAgICBleHBlbnNlLnRlcm0gPSAxCiAgICAgICAg</text>
       </register>
       <register name="y" type="4">
         <text />
