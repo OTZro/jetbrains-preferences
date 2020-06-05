@@ -137,11 +137,17 @@
       <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1591339423014">
         <mark key="[" line="2" column="63" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/test/freight/shipment/test_ocean_import_entry.py" timestamp="1591343951764" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_cargo_manifest_carrier.html" timestamp="1591339721098" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/ngb-bootstrap-tool/popover/popover.ts" timestamp="1591325998833">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="13" />
         <mark key="." line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_amortization_updater.py" timestamp="1591344054057">
+        <mark key="[" line="384" column="7" />
+        <mark key="]" line="387" column="37" />
+        <mark key="." line="387" column="37" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/ngb-bootstrap-tool/dropdown/tooltip.ts" timestamp="1591326000258" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/api.py" timestamp="1591343201303">
@@ -189,8 +195,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnVzaW5nKCdyZWFkX2NvbW1pdHRlZCcpIFwK</text>
+      <register name="&quot;" type="4">
+        <text>expected_amortization_count</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -320,7 +326,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HcNgbPopover</text>
+        <text>expected_amortization_count</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -378,19 +384,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnVzaW5nKCdyZWFkX2NvbW1pdHRlZCcpIFwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnVzaW5nKCdyZWFkX2NvbW1pdHRlZCcpIFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5Gb3JtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcHJlcGFyZV9mb3JtX2NsYXNzKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5Gb3JtCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -447,7 +453,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfcHJlcGFyZV9mb3JtX2NsYXNzKHNlbGYpOgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -477,7 +483,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtX2NsYXNzID0gc2VsZi5fcHJlcGFyZV9mb3JtX2NsYXNzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -493,10 +499,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtID0gZm9ybV9jbGFzcyh7fSkgICMgcGFzcyBlbXB0eSBvYmplY3QgdG8gY3JlYXRlIGEgYm91bmQgZm9ybQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JtX2NsYXNzID0gc2VsZi5fcHJlcGFyZV9mb3JtX2NsYXNzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Zvcm0nOiBmb3JtLAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JtID0gZm9ybV9jbGFzcyh7fSkgICMgcGFzcyBlbXB0eSBvYmplY3QgdG8gY3JlYXRlIGEgYm91bmQgZm9ybQo=</text>
       </register>
       <register name="y" type="4">
         <text />
