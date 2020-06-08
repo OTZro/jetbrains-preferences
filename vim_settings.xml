@@ -130,10 +130,11 @@
         <mark key="^" line="213" column="66" />
         <mark key="." line="213" column="65" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_basic_entry/index.html" timestamp="1591606858798" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/general/url.service.js" timestamp="1591610537787" />
       <file name="/a.dummy" timestamp="1591609060260">
         <mark key="[" line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry/index.html" timestamp="1591609965356" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_esko.html" timestamp="1591609235704">
         <mark key="[" line="434" column="56" />
       </file>
@@ -144,11 +145,11 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ap.html" timestamp="1591609217570">
         <mark key="[" line="424" column="68" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1591606655484">
-        <mark key="[" line="628" column="28" />
-        <mark key="]" line="628" column="28" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1591610793578">
+        <mark key="[" line="655" column="37" />
+        <mark key="]" line="626" column="26" />
         <mark key="^" line="615" column="111" />
-        <mark key="." line="628" column="28" />
+        <mark key="." line="626" column="26" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_warehouse.html" timestamp="1591609246430">
         <mark key="[" line="633" column="56" />
@@ -157,20 +158,14 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_dc.html" timestamp="1591609257443">
         <mark key="[" line="907" column="52" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry_ga/index.html" timestamp="1591603655392" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_warehouse_multi_currency_chinese.html" timestamp="1591609253275">
         <mark key="[" line="615" column="56" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_warehouse_esko.html" timestamp="1591609249715">
         <mark key="[" line="345" column="56" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry.controller.js" timestamp="1591605647352">
-        <mark key="[" line="1585" column="0" />
-        <mark key="]" line="1585" column="0" />
-        <mark key="^" line="1585" column="14" />
-        <mark key="." line="1585" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1591605357683" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry.controller.js" timestamp="1591610499812" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1591610256972" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.ts" timestamp="1591607645836" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar.html" timestamp="1591609231703">
         <mark key="[" line="799" column="56" />
@@ -219,7 +214,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>invoice_ship_to_choice</text>
+        <text>inv.status</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -349,7 +344,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>invoice_ship_to_choice</text>
+        <text>inv.status</text>
       </register>
       <register name="m" type="4">
         <keys>
