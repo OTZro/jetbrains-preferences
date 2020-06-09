@@ -120,45 +120,38 @@
     <filemarks>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/general/url.service.js" timestamp="1591610537787" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment_entry/payment-footer.component.ts" timestamp="1591612842886" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_multi_currency_chinese.html" timestamp="1591609242639">
-        <mark key="[" line="774" column="56" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@angular/common/common.d.ts" timestamp="1591670841752" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1591610793578">
         <mark key="[" line="655" column="37" />
         <mark key="]" line="626" column="26" />
         <mark key="^" line="615" column="111" />
         <mark key="." line="626" column="26" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_warehouse.html" timestamp="1591609246430">
-        <mark key="[" line="633" column="56" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_dc.html" timestamp="1591609257443">
-        <mark key="[" line="907" column="52" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_warehouse_multi_currency_chinese.html" timestamp="1591609253275">
-        <mark key="[" line="615" column="56" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/format.service.ts" timestamp="1591671583796">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/index.html" timestamp="1591612184394" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/rate_list/app.component.html" timestamp="1591612392600" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment_entry/app.component.ts" timestamp="1591612933288" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry/index.html" timestamp="1591609965356" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1591672147565">
+        <mark key="[" line="18" column="51" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment_entry/app.component.ts" timestamp="1591671212019" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views/views.py" timestamp="1591611568919">
         <mark key="[" line="133" column="87" />
         <mark key="]" line="133" column="87" />
         <mark key="." line="133" column="86" />
         <mark key="^" line="133" column="87" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1591670323476">
-        <mark key="[" line="209" column="62" />
-        <mark key="]" line="209" column="61" />
-        <mark key="^" line="209" column="61" />
-        <mark key="." line="209" column="60" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/number.js" timestamp="1591671289177" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1591672067526">
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="61" column="4" />
+        <mark key="^" line="110" column="17" />
+        <mark key="." line="61" column="4" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.html" timestamp="1591612290302" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/utilites.ts" timestamp="1591612703460" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_warehouse_esko.html" timestamp="1591609249715">
-        <mark key="[" line="345" column="56" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry.controller.js" timestamp="1591610499812" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/readonly-input-cell/readonly-input-cell.component.ts" timestamp="1591613296979" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1591610256972" />
@@ -206,7 +199,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>currencyGetter</text>
+        <text>DecimalPipe</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -336,7 +329,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>currencyGetter</text>
+        <text>DecimalPipe</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -394,19 +387,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZm9ybTogRGVjaW1hbFBpcGUsCg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW5qZWN0YWJsZSB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnOwoKQEluamVjdGFibGUoewogIHByb3ZpZGVkSW46ICdyb290JywKfSkKZXhwb3J0IGNsYXNzIEFwcHJvdmFsUnVsZVNlcnZpY2Uge30K</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnR5cGUgVFBhcmFtID0gewogIG9mZmljZTogbnVtYmVyOwogIG1vZHVsZTogc3RyaW5nOwp9OwoKdHlwZSBUUmVxdWVzdFJ1bGUgPSB7CiAgaWQ/OiBudW1iZXI7CiAgZGVwYXJ0bWVudHM6IG51bWJlcltdOwogIGFwcHJvdmVyczogbnVtYmVyW11bXTsKICByZW1hcms6IHN0cmluZzsKfTsKCnR5cGUgVFJlcXVlc3REYXRhID0gewogIG9mZmljZTogbnVtYmVyOwogIG1vZHVsZTogc3RyaW5nOwogIGNyZWF0ZTogVFJlcXVlc3RSdWxlW107CiAgdXBkYXRlOiBUUmVxdWVzdFJ1bGVbXTsKICBkZWxldGU6IG51bWJlcltdOwp9Owo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSW5qZWN0YWJsZSB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnOwoKQEluamVjdGFibGUoewogIHByb3ZpZGVkSW46ICdyb290JywKfSkKZXhwb3J0IGNsYXNzIEFwcHJvdmFsUnVsZVNlcnZpY2Uge30K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHJpdmF0ZSBhcHByb3ZhbFJ1bGVMaXN0QVBJID0gJy9hcGkvYXBwcm92YWwvcnVsZXMvJzsKICBwcml2YXRlIHVwZGF0ZUFwcHJvdmFsUnVsZUxpc3RBUEkgPSAnL2FwaS9hcHByb3ZhbC9ydWxlcy91cGRhdGUvJzsKICBwcml2YXRlIGFwcHJvdmFsUnVsZUVmZmVjdENoZWNrQVBJID0gJ2FwaS9hcHByb3ZhbC9ydWxlcy1lZmZlY3QtY2hlY2svJzsKICBwcml2YXRlIHJlcXVlc3RTdWJqZWN0ID0gbmV3IFN1YmplY3Q8VFBhcmFtPigpOwogIHByaXZhdGUgc2F2ZVJ1bGVTdWJqZWN0ID0gbmV3IFN1YmplY3Q8W1RSdWxlW10sIG51bWJlcltdLCBudW1iZXIsIHN0cmluZ10+KCk7CgogIHByaXZhdGUgZmVhdHVyZUxpc3REYXRhID0gQXBwcm92YWxNb2R1bGVMaXN0OwogIGFwcHJvdmFsUnVsZSQ6IE9ic2VydmFibGU8VFJ1bGVbXT47CiAgb25TYXZlJDogT2JzZXJ2YWJsZTxUUnVsZVtdPjsKCiAgY29uc3RydWN0b3IocHJpdmF0ZSBodHRwOiBIdHRwQ2xpZW50LCBwcml2YXRlIG1vZGFsU2VydmljZTogTW9kYWxTZXJ2aWNlKSB7CiAgICB0aGlzLmFwcHJvdmFsUnVsZSQgPSB0aGlzLnJlcXVlc3RTdWJqZWN0LnBpcGUoCiAgICAgIHN3aXRjaE1hcChwYXJhbSA9PiB0aGlzLmh0dHAuZ2V0PGFueT4odGhpcy5nZW5lcmF0ZUdldFJ1bGVMaXN0VXJsKHBhcmFtKSkpLAogICAgICBtYXAoZGF0YSA9PiBPYmplY3QudmFsdWVzKGRhdGEpIGFzIFRSdWxlW10pLAogICAgKTsKCiAgICB0aGlzLmJ1aWxkU2F2ZUZsb3coKTsKICB9CgogIGdldCBmZWF0dXJlTGlzdCgpIHsKICAgIHJldHVybiB0aGlzLmZlYXR1cmVMaXN0RGF0YTsKICB9CgogIHByaXZhdGUgZ2VuZXJhdGVHZXRSdWxlTGlzdFVybChwYXJhbTogVFBhcmFtKTogc3RyaW5nIHsKICAgIHJldHVybiBgJHt0aGlzLmFwcHJvdmFsUnVsZUxpc3RBUEl9PyR7c3RyaW5naWZ5KHBhcmFtKX1gOwogIH0KCiAgcHJpdmF0ZSBidWlsZFNhdmVGbG93KCkgewogICAgY29uc3QgY2hlY2tFZmZlY3QkID0gdGhpcy5zYXZlUnVsZVN1YmplY3QucGlwZSgKICAgICAgc3dpdGNoTWFwKChbcnVsZXMsIGRlbGV0ZWRSdWxlSWRzLCBvZmZpY2UsIG1vZHVsZV0pID0+IHsKICAgICAgICBjb25zdCBydWxlSWRzID0gcnVsZXMuZmlsdGVyKHJ1bGUgPT4gcnVsZS5pZCkubWFwKHJ1bGUgPT4gcnVsZS5pZCk7CiAgICAgICAgcmV0dXJuIHRoaXMuaHR0cC5nZXQ8eyBzdGF0dXM6IGJvb2xlYW4gfT4oCiAgICAgICAgICBgJHt0aGlzLmFwcHJvdmFsUnVsZUVmZmVjdENoZWNrQVBJfT8ke3N0cmluZ2lmeSh7IHJ1bGVzOiBbLi4ucnVsZUlkcywgLi4uZGVsZXRlZFJ1bGVJZHNdIH0pfWAsCiAgICAgICAgKTsKICAgICAgfSksCiAgICAgIG1hcChkYXRhID0+IGRhdGEuc3RhdHVzKSwKICAgICk7CiAgICBjb25zdCBvbkVmZmVjdCQgPSBjaGVja0VmZmVjdCQucGlwZSgKICAgICAgZmlsdGVyKGlzRWZmZWN0ID0+IGlzRWZmZWN0KSwKICAgICAgc3dpdGNoTWFwKCgpID0+IHRoaXMubW9kYWxTZXJ2aWNlLm9wZW5ZZXNOb0RpYWxvZyhfVC5NT0RBTC5KT0JfV0lMTF9CRV9DQU5DRUxFRCkpLAogICAgICBmaWx0ZXIoY2FuQ29udGludWUgPT4gY2FuQ29udGludWUpLAogICAgKTsKICAgIGNvbnN0IG9uTm9FZmZlY3QkID0gY2hlY2tFZmZlY3QkLnBpcGUoZmlsdGVyKGlzRWZmZWN0ID0+ICFpc0VmZmVjdCkpOwoKICAgIHRoaXMub25TYXZlJCA9IG1lcmdlKG9uRWZmZWN0JCwgb25Ob0VmZmVjdCQpLnBpcGUoCiAgICAgIHdpdGhMYXRlc3RGcm9tKHRoaXMuc2F2ZVJ1bGVTdWJqZWN0LCAoXywgZGF0YSkgPT4gZGF0YSksCiAgICAgIHN3aXRjaE1hcCgoW3J1bGVzLCBkZWxldGVkUnVsZUlkcywgb2ZmaWNlLCBtb2R1bGVdKSA9PiB7CiAgICAgICAgc2hvd1NwaW4oKTsKICAgICAgICBjb25zdCByZXF1ZXN0RGF0YTogVFJlcXVlc3REYXRhID0gewogICAgICAgICAgb2ZmaWNlLAogICAgICAgICAgbW9kdWxlLAogICAgICAgICAgY3JlYXRlOiBbXSwKICAgICAgICAgIHVwZGF0ZTogW10sCiAgICAgICAgICBkZWxldGU6IGRlbGV0ZWRSdWxlSWRzLAogICAgICAgIH07CiAgICAgICAgcnVsZXMuZm9yRWFjaCgocnVsZTogVFJ1bGUpID0+IHsKICAgICAgICAgIGNvbnN0IHJ1bGVEYXRhID0gewogICAgICAgICAgICBkZXBhcnRtZW50czogcnVsZS5kZXBhcnRtZW50cy5tYXAoZGVwYXJ0bWVudCA9PiBkZXBhcnRtZW50LmlkKSwKICAgICAgICAgICAgYXBwcm92ZXJzOiBydWxlLmFwcHJvdmVycwogICAgICAgICAgICAgID8gcnVsZS5hcHByb3ZlcnMubWFwKGFwcHJvdmVycyA9PiB7CiAgICAgICAgICAgICAgICAgIHJldHVybiBhcHByb3ZlcnMubWFwKHVzZXIgPT4gewogICAgICAgICAgICAgICAgICAgIHJldHVybiB1c2VyLmlkOwogICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgOiBbW11dLAogICAgICAgICAgICByZW1hcms6IHJ1bGUucmVtYXJrLAogICAgICAgICAgfTsKICAgICAgICAgIGlmIChydWxlLmlkID09PSBudWxsKSB7CiAgICAgICAgICAgIHJlcXVlc3REYXRhLmNyZWF0ZS5wdXNoKHJ1bGVEYXRhKTsKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJlcXVlc3REYXRhLnVwZGF0ZS5wdXNoKHsgaWQ6IHJ1bGUuaWQsIC4uLnJ1bGVEYXRhIH0pOwogICAgICAgICAgfQogICAgICAgIH0pOwoKICAgICAgICByZXR1cm4gdGhpcy5odHRwLnBvc3Q8VFJ1bGVbXT4odGhpcy51cGRhdGVBcHByb3ZhbFJ1bGVMaXN0QVBJLCByZXF1ZXN0RGF0YSk7CiAgICAgIH0pLAogICAgKTsKICB9CgogIHNhdmUocnVsZXM6IFRSdWxlW10sIGRlbGV0ZWRSdWxlSWRzOiBudW1iZXJbXSwgb2ZmaWNlOiBudW1iZXIsIG1vZHVsZTogc3RyaW5nKSB7CiAgICB0aGlzLnNhdmVSdWxlU3ViamVjdC5uZXh0KFtydWxlcywgZGVsZXRlZFJ1bGVJZHMsIG9mZmljZSwgbW9kdWxlXSk7CiAgfQoKICByZXRyaWV2ZVJ1bGVzKG9mZmljZTogbnVtYmVyLCBtb2R1bGU6IHN0cmluZykgewogICAgdGhpcy5yZXF1ZXN0U3ViamVjdC5uZXh0KHsgb2ZmaWNlLCBtb2R1bGUgfSk7CiAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CnR5cGUgVFBhcmFtID0gewogIG9mZmljZTogbnVtYmVyOwogIG1vZHVsZTogc3RyaW5nOwp9OwoKdHlwZSBUUmVxdWVzdFJ1bGUgPSB7CiAgaWQ/OiBudW1iZXI7CiAgZGVwYXJ0bWVudHM6IG51bWJlcltdOwogIGFwcHJvdmVyczogbnVtYmVyW11bXTsKICByZW1hcms6IHN0cmluZzsKfTsKCnR5cGUgVFJlcXVlc3REYXRhID0gewogIG9mZmljZTogbnVtYmVyOwogIG1vZHVsZTogc3RyaW5nOwogIGNyZWF0ZTogVFJlcXVlc3RSdWxlW107CiAgdXBkYXRlOiBUUmVxdWVzdFJ1bGVbXTsKICBkZWxldGU6IG51bWJlcltdOwp9Owo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -462,11 +455,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">cHJpdmF0ZSBhcHByb3ZhbFJ1bGVMaXN0QVBJID0gJy9hcGkvYXBwcm92YWwvcnVsZXMvJzsKICBwcml2YXRlIHVwZGF0ZUFwcHJvdmFsUnVsZUxpc3RBUEkgPSAnL2FwaS9hcHByb3ZhbC9ydWxlcy91cGRhdGUvJzsKICBwcml2YXRlIGFwcHJvdmFsUnVsZUVmZmVjdENoZWNrQVBJID0gJ2FwaS9hcHByb3ZhbC9ydWxlcy1lZmZlY3QtY2hlY2svJzsKICBwcml2YXRlIHJlcXVlc3RTdWJqZWN0ID0gbmV3IFN1YmplY3Q8VFBhcmFtPigpOwogIHByaXZhdGUgc2F2ZVJ1bGVTdWJqZWN0ID0gbmV3IFN1YmplY3Q8W1RSdWxlW10sIG51bWJlcltdLCBudW1iZXIsIHN0cmluZ10+KCk7CgogIHByaXZhdGUgZmVhdHVyZUxpc3REYXRhID0gQXBwcm92YWxNb2R1bGVMaXN0OwogIGFwcHJvdmFsUnVsZSQ6IE9ic2VydmFibGU8VFJ1bGVbXT47CiAgb25TYXZlJDogT2JzZXJ2YWJsZTxUUnVsZVtdPjsKCiAgY29uc3RydWN0b3IocHJpdmF0ZSBodHRwOiBIdHRwQ2xpZW50LCBwcml2YXRlIG1vZGFsU2VydmljZTogTW9kYWxTZXJ2aWNlKSB7CiAgICB0aGlzLmFwcHJvdmFsUnVsZSQgPSB0aGlzLnJlcXVlc3RTdWJqZWN0LnBpcGUoCiAgICAgIHN3aXRjaE1hcChwYXJhbSA9PiB0aGlzLmh0dHAuZ2V0PGFueT4odGhpcy5nZW5lcmF0ZUdldFJ1bGVMaXN0VXJsKHBhcmFtKSkpLAogICAgICBtYXAoZGF0YSA9PiBPYmplY3QudmFsdWVzKGRhdGEpIGFzIFRSdWxlW10pLAogICAgKTsKCiAgICB0aGlzLmJ1aWxkU2F2ZUZsb3coKTsKICB9CgogIGdldCBmZWF0dXJlTGlzdCgpIHsKICAgIHJldHVybiB0aGlzLmZlYXR1cmVMaXN0RGF0YTsKICB9CgogIHByaXZhdGUgZ2VuZXJhdGVHZXRSdWxlTGlzdFVybChwYXJhbTogVFBhcmFtKTogc3RyaW5nIHsKICAgIHJldHVybiBgJHt0aGlzLmFwcHJvdmFsUnVsZUxpc3RBUEl9PyR7c3RyaW5naWZ5KHBhcmFtKX1gOwogIH0KCiAgcHJpdmF0ZSBidWlsZFNhdmVGbG93KCkgewogICAgY29uc3QgY2hlY2tFZmZlY3QkID0gdGhpcy5zYXZlUnVsZVN1YmplY3QucGlwZSgKICAgICAgc3dpdGNoTWFwKChbcnVsZXMsIGRlbGV0ZWRSdWxlSWRzLCBvZmZpY2UsIG1vZHVsZV0pID0+IHsKICAgICAgICBjb25zdCBydWxlSWRzID0gcnVsZXMuZmlsdGVyKHJ1bGUgPT4gcnVsZS5pZCkubWFwKHJ1bGUgPT4gcnVsZS5pZCk7CiAgICAgICAgcmV0dXJuIHRoaXMuaHR0cC5nZXQ8eyBzdGF0dXM6IGJvb2xlYW4gfT4oCiAgICAgICAgICBgJHt0aGlzLmFwcHJvdmFsUnVsZUVmZmVjdENoZWNrQVBJfT8ke3N0cmluZ2lmeSh7IHJ1bGVzOiBbLi4ucnVsZUlkcywgLi4uZGVsZXRlZFJ1bGVJZHNdIH0pfWAsCiAgICAgICAgKTsKICAgICAgfSksCiAgICAgIG1hcChkYXRhID0+IGRhdGEuc3RhdHVzKSwKICAgICk7CiAgICBjb25zdCBvbkVmZmVjdCQgPSBjaGVja0VmZmVjdCQucGlwZSgKICAgICAgZmlsdGVyKGlzRWZmZWN0ID0+IGlzRWZmZWN0KSwKICAgICAgc3dpdGNoTWFwKCgpID0+IHRoaXMubW9kYWxTZXJ2aWNlLm9wZW5ZZXNOb0RpYWxvZyhfVC5NT0RBTC5KT0JfV0lMTF9CRV9DQU5DRUxFRCkpLAogICAgICBmaWx0ZXIoY2FuQ29udGludWUgPT4gY2FuQ29udGludWUpLAogICAgKTsKICAgIGNvbnN0IG9uTm9FZmZlY3QkID0gY2hlY2tFZmZlY3QkLnBpcGUoZmlsdGVyKGlzRWZmZWN0ID0+ICFpc0VmZmVjdCkpOwoKICAgIHRoaXMub25TYXZlJCA9IG1lcmdlKG9uRWZmZWN0JCwgb25Ob0VmZmVjdCQpLnBpcGUoCiAgICAgIHdpdGhMYXRlc3RGcm9tKHRoaXMuc2F2ZVJ1bGVTdWJqZWN0LCAoXywgZGF0YSkgPT4gZGF0YSksCiAgICAgIHN3aXRjaE1hcCgoW3J1bGVzLCBkZWxldGVkUnVsZUlkcywgb2ZmaWNlLCBtb2R1bGVdKSA9PiB7CiAgICAgICAgc2hvd1NwaW4oKTsKICAgICAgICBjb25zdCByZXF1ZXN0RGF0YTogVFJlcXVlc3REYXRhID0gewogICAgICAgICAgb2ZmaWNlLAogICAgICAgICAgbW9kdWxlLAogICAgICAgICAgY3JlYXRlOiBbXSwKICAgICAgICAgIHVwZGF0ZTogW10sCiAgICAgICAgICBkZWxldGU6IGRlbGV0ZWRSdWxlSWRzLAogICAgICAgIH07CiAgICAgICAgcnVsZXMuZm9yRWFjaCgocnVsZTogVFJ1bGUpID0+IHsKICAgICAgICAgIGNvbnN0IHJ1bGVEYXRhID0gewogICAgICAgICAgICBkZXBhcnRtZW50czogcnVsZS5kZXBhcnRtZW50cy5tYXAoZGVwYXJ0bWVudCA9PiBkZXBhcnRtZW50LmlkKSwKICAgICAgICAgICAgYXBwcm92ZXJzOiBydWxlLmFwcHJvdmVycwogICAgICAgICAgICAgID8gcnVsZS5hcHByb3ZlcnMubWFwKGFwcHJvdmVycyA9PiB7CiAgICAgICAgICAgICAgICAgIHJldHVybiBhcHByb3ZlcnMubWFwKHVzZXIgPT4gewogICAgICAgICAgICAgICAgICAgIHJldHVybiB1c2VyLmlkOwogICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgOiBbW11dLAogICAgICAgICAgICByZW1hcms6IHJ1bGUucmVtYXJrLAogICAgICAgICAgfTsKICAgICAgICAgIGlmIChydWxlLmlkID09PSBudWxsKSB7CiAgICAgICAgICAgIHJlcXVlc3REYXRhLmNyZWF0ZS5wdXNoKHJ1bGVEYXRhKTsKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJlcXVlc3REYXRhLnVwZGF0ZS5wdXNoKHsgaWQ6IHJ1bGUuaWQsIC4uLnJ1bGVEYXRhIH0pOwogICAgICAgICAgfQogICAgICAgIH0pOwoKICAgICAgICByZXR1cm4gdGhpcy5odHRwLnBvc3Q8VFJ1bGVbXT4odGhpcy51cGRhdGVBcHByb3ZhbFJ1bGVMaXN0QVBJLCByZXF1ZXN0RGF0YSk7CiAgICAgIH0pLAogICAgKTsKICB9CgogIHNhdmUocnVsZXM6IFRSdWxlW10sIGRlbGV0ZWRSdWxlSWRzOiBudW1iZXJbXSwgb2ZmaWNlOiBudW1iZXIsIG1vZHVsZTogc3RyaW5nKSB7CiAgICB0aGlzLnNhdmVSdWxlU3ViamVjdC5uZXh0KFtydWxlcywgZGVsZXRlZFJ1bGVJZHMsIG9mZmljZSwgbW9kdWxlXSk7CiAgfQoKICByZXRyaWV2ZVJ1bGVzKG9mZmljZTogbnVtYmVyLCBtb2R1bGU6IHN0cmluZykgewogICAgdGhpcy5yZXF1ZXN0U3ViamVjdC5uZXh0KHsgb2ZmaWNlLCBtb2R1bGUgfSk7CiAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJzb3IuZXhlY3V0ZSgiU0VUIFRSQU5TQUNUSU9OIElTT0xBVElPTiBMRVZFTCBSRUFEIENPTU1JVFRFRDsiKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -493,7 +486,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3VwZGF0ZSAxIGV4ZWN1dGVkJykK</text>
+        <text encoding="base64">ICAgICAgICBjdXJzb3IuZXhlY3V0ZSgiU0VUIFRSQU5TQUNUSU9OIElTT0xBVElPTiBMRVZFTCBSRUFEIENPTU1JVFRFRDsiKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -509,10 +502,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3VwZGF0ZSAyIGV4ZWN1dGVkJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3VwZGF0ZSAxIGV4ZWN1dGVkJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocXMuY291bnQoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3VwZGF0ZSAyIGV4ZWN1dGVkJykK</text>
       </register>
       <register name="y" type="4">
         <text />
