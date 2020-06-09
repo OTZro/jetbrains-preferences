@@ -29,7 +29,6 @@
         <entry>:136</entry>
       </history-search>
       <history-cmd>
-        <entry>24</entry>
         <entry>w</entry>
         <entry>75</entry>
         <entry>35</entry>
@@ -49,6 +48,7 @@
         <entry>99</entry>
         <entry>529</entry>
         <entry>50</entry>
+        <entry>109</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,41 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0053_userpreference_acct_form_include_amendment.py" timestamp="1591677825051" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_esko.html" timestamp="1591677837280">
-        <mark key="[" line="434" column="56" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_multi_currency_chinese.html" timestamp="1591677841328">
-        <mark key="[" line="774" column="56" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0024_v1_16_0046_userpreference_oi_arrival_notice_show_cy_cfs_location_address.py" timestamp="1591677572479" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/types/number.d.ts" timestamp="1591684911108">
-        <mark key="[" line="4" column="53" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_warehouse.html" timestamp="1591677843895">
-        <mark key="[" line="633" column="56" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/format.service.ts" timestamp="1591679462531">
-        <mark key="[" line="14" column="49" />
-        <mark key="]" line="14" column="49" />
-        <mark key="." line="14" column="49" />
-        <mark key="^" line="11" column="3" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_dc.html" timestamp="1591677850880">
-        <mark key="[" line="907" column="52" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_warehouse_multi_currency_chinese.html" timestamp="1591677848445">
-        <mark key="[" line="615" column="56" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/accounting/invoice_table.component.js" timestamp="1591676677527" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/ts/number.ts" timestamp="1591677156755">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar.html" timestamp="1591677832455">
-        <mark key="[" line="799" column="56" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_accounting_wizard.html" timestamp="1591677834799">
         <mark key="[" line="273" column="56" />
         <mark key="]" line="273" column="56" />
@@ -165,21 +130,74 @@
         <mark key="^" line="213" column="16" />
         <mark key="." line="213" column="15" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/number.js" timestamp="1591684921953">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_esko.html" timestamp="1591677837280">
+        <mark key="[" line="434" column="56" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/number.js" timestamp="1591686382634">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="27" column="37" />
         <mark key="^" line="27" column="37" />
         <mark key="." line="27" column="36" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ap.html" timestamp="1591677829723">
-        <mark key="[" line="424" column="68" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_multi_currency_chinese.html" timestamp="1591677841328">
+        <mark key="[" line="774" column="56" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/ts/accounting/freight-entity.ts" timestamp="1591676994025" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/e-invoice-view-modal/e-invoice-view-modal.component.ts" timestamp="1591679702092" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/number.ts" timestamp="1591686867378">
+        <mark key="[" line="27" column="80" />
+        <mark key="]" line="27" column="80" />
+        <mark key="." line="27" column="80" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/types/number.d.ts" timestamp="1591684911108">
+        <mark key="[" line="4" column="53" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/invoice-action-cell/invoice-action-cell.component.ts" timestamp="1591686632829">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_warehouse.html" timestamp="1591677843895">
+        <mark key="[" line="633" column="56" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/depreciation.service.ts" timestamp="1591686642556">
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/format.service.ts" timestamp="1591686661616">
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="11" column="49" />
+        <mark key="." line="11" column="49" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/ts/accounting/freight-entity.ts" timestamp="1591686636837">
+        <mark key="[" line="1" column="43" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_dc.html" timestamp="1591677850880">
+        <mark key="[" line="907" column="52" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_warehouse_multi_currency_chinese.html" timestamp="1591677848445">
+        <mark key="[" line="615" column="56" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/e-invoice-view-modal/e-invoice-view-modal.component.ts" timestamp="1591686648603">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="40" />
+        <mark key="." line="2" column="40" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_warehouse_esko.html" timestamp="1591677846265">
         <mark key="[" line="345" column="56" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/ts/global.ts" timestamp="1591679565779" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-summary-adapter.ts" timestamp="1591686645712">
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/prepaid-expense-data.service.ts" timestamp="1591686653329">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="40" />
+        <mark key="." line="2" column="40" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar.html" timestamp="1591677832455">
+        <mark key="[" line="799" column="56" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -224,7 +242,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>value</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -354,7 +372,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -536,7 +554,7 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>50</text>
+        <text>109</text>
       </register>
     </registers>
   </component>
