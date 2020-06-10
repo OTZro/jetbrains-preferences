@@ -124,45 +124,51 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/modal.service.ts" timestamp="1591761679240">
-        <mark key="[" line="72" column="37" />
-        <mark key="]" line="69" column="48" />
-        <mark key="^" line="69" column="48" />
-        <mark key="." line="69" column="47" />
+      <file name="$USER_HOME$/gofreight/fms/playbooks/roles/fms-setup-frontend/tasks/main.yml" timestamp="1591778434706">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/ag-grid/ag-grid-21.2.2-community.noStyle.min.js" timestamp="1591774819811" />
       <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@ng-bootstrap/ng-bootstrap/dropdown/dropdown.d.ts" timestamp="1591762317398" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/app.component.ts" timestamp="1591761290319">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/bin/update-hooks.sh" timestamp="1591778865334">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-memo-document/memo-modal/memo-modal.component.ts" timestamp="1591761435459" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/text-input-dialog/text-input-dialog.component.ts" timestamp="1591761620232">
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="37" column="21" />
-        <mark key="^" line="37" column="21" />
-        <mark key="." line="37" column="20" />
+      <file name="$USER_HOME$/gofreight/fms/.git-hooks/post-checkout" timestamp="1591778377048">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="5" column="38" />
+        <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ngx-bootstrap/modal/bs-modal.service.d.ts" timestamp="1591760396806" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/approval.service.ts" timestamp="1591761318661">
-        <mark key="[" line="29" column="35" />
+      <file name="$USER_HOME$/gofreight/fms/bin/check-permission-file-update.sh" timestamp="1591778945237">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/log-show-detail-dialog/log-show-detail-dialog.component.ts" timestamp="1591761398659" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/log-show-detail-dialog/log-show-detail-dialog.component.html" timestamp="1591760368457" />
+      <file name="$USER_HOME$/gofreight/fms/.git-hooks/post-merge" timestamp="1591778770350">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/autogen/permission-mapping.constant.ts" timestamp="1591777380851">
+        <mark key="[" line="9" column="40" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/fms/permission/perm_esi.py" timestamp="1591778401692">
+        <mark key="[" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ag-grid-angular/dist/agGridAngular.d.ts" timestamp="1591774954863" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/basic-dialog/basic-dialog.component.ts" timestamp="1591761578137" />
       <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/ag-grid/ag-grid-21.2.2-community.noStyle.js" timestamp="1591774855310" />
       <file name="$USER_HOME$/gofreight/fms/static/metronic/oceanExportContainer.html.erb" timestamp="1591774430734" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1591761950797">
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/fms/permission/base.py" timestamp="1591776892067" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/hc-grid-container/hc-grid-container.component.ts" timestamp="1591774957464">
         <mark key="[" line="47" column="6" />
         <mark key="]" line="47" column="7" />
         <mark key="." line="47" column="7" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/management/commands/generate_ng_permission_mapping.py" timestamp="1591776828744" />
+      <file name="$USER_HOME$/gofreight/fms/fms/permission/__init__.py" timestamp="1591777395956">
+        <mark key="[" line="127" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -207,8 +213,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>overlayNoRowsTemplate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -338,7 +344,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>overlayNoRowsTemplate</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -396,19 +402,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjcHJpbnRJbnZvaWNlVFBTZWxlY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAVmlld0NoaWxkKCdwcmludEludm9pY2VUUFNlbGVjdCcpIHByaW50SW52b2ljZVRQU2VsZWN0OiBIY1RwU2VsZWN0Q29tcG9uZW50Owo=</text>
+        <text encoding="base64">c2V0IC1leAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmVycm9yKGVycm9yKTsK</text>
+        <text encoding="base64">c2ggYmluL2NsZWFyLWRldi1jYWNoZS5zaAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcm92aWRlcnM6IFtNb2RhbFNlcnZpY2VdLAo=</text>
+        <text encoding="base64">IyBDbGVhciBkZXYgY2FjaGUK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -465,10 +471,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAke2NoYW5nZV9wZXJtaXNzaW9ufQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXBkYXRlQWN0aW9uQnV0dG9uRGlzYWJsZWQoKTsK</text>
+        <text encoding="base64">c2V0IC14ZQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -495,7 +501,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXBkYXRlQWN0aW9uQnV0dG9uRGlzYWJsZWQoKTsK</text>
+        <text encoding="base64">Y2hhbmdlX3VpPSQoZ2l0IGRpZmYgLS1uYW1lLW9ubHkgSEVBREB7MX0gSEVBRCAke0RJUl9TV0FHR0VSX1VJfSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -511,10 +517,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXBkYXRlQWN0aW9uQnV0dG9uRGlzYWJsZWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">ZmkK</text>
       </register>
       <register name="y" type="4">
         <text />
