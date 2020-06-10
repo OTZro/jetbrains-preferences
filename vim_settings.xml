@@ -118,37 +118,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0053_userpreference_acct_form_include_amendment.py" timestamp="1591770329651" />
+      <file name="/a.dummy" timestamp="1591770339681">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/modal.service.ts" timestamp="1591761679240">
         <mark key="[" line="72" column="37" />
         <mark key="]" line="69" column="48" />
         <mark key="^" line="69" column="48" />
         <mark key="." line="69" column="47" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/ag-grid/ag-grid-21.2.2-community.noStyle.min.js" timestamp="1591774819811" />
       <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@ng-bootstrap/ng-bootstrap/dropdown/dropdown.d.ts" timestamp="1591762317398" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/app.component.ts" timestamp="1591761290319">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/number.ts" timestamp="1591698812528">
-        <mark key="[" line="28" column="6" />
-        <mark key="]" line="28" column="6" />
-        <mark key="." line="28" column="5" />
-        <mark key="^" line="28" column="6" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/invoice-action-cell/invoice-action-cell.component.ts" timestamp="1591756118856">
-        <mark key="[" line="12" column="38" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-memo-document/memo-modal/memo-modal.component.ts" timestamp="1591761435459" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/grid-event-service.ts" timestamp="1591699389447">
-        <mark key="[" line="7" column="26" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1591697620874">
-        <mark key="[" line="72" column="184" />
-        <mark key="]" line="72" column="184" />
-        <mark key="^" line="72" column="185" />
-        <mark key="." line="72" column="184" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/text-input-dialog/text-input-dialog.component.ts" timestamp="1591761620232">
         <mark key="[" line="37" column="21" />
         <mark key="]" line="37" column="21" />
@@ -161,14 +150,20 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/log-show-detail-dialog/log-show-detail-dialog.component.ts" timestamp="1591761398659" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/log-show-detail-dialog/log-show-detail-dialog.component.html" timestamp="1591760368457" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ag-grid-angular/dist/agGridAngular.d.ts" timestamp="1591774954863" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/basic-dialog/basic-dialog.component.ts" timestamp="1591761578137" />
+      <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/ag-grid/ag-grid-21.2.2-community.noStyle.js" timestamp="1591774855310" />
+      <file name="$USER_HOME$/gofreight/fms/static/metronic/oceanExportContainer.html.erb" timestamp="1591774430734" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1591761950797">
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="/number.js" timestamp="1591698685513" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/rxjs/src/internal/operators/switchMap.ts" timestamp="1591757175017" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/hc-grid-container/hc-grid-container.component.ts" timestamp="1591774957464">
+        <mark key="[" line="47" column="6" />
+        <mark key="]" line="47" column="7" />
+        <mark key="." line="47" column="7" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -212,8 +207,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjcHJpbnRJbnZvaWNlVFBTZWxlY3QK</text>
+      <register name="&quot;" type="4">
+        <text>overlayNoRowsTemplate</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -343,7 +338,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>filter</text>
+        <text>overlayNoRowsTemplate</text>
       </register>
       <register name="m" type="4">
         <keys>
