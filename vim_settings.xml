@@ -29,7 +29,6 @@
         <entry>:136</entry>
       </history-search>
       <history-cmd>
-        <entry>35</entry>
         <entry>64</entry>
         <entry>49</entry>
         <entry>107</entry>
@@ -49,6 +48,7 @@
         <entry>109</entry>
         <entry>17</entry>
         <entry>138</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,27 +118,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0053_userpreference_acct_form_include_amendment.py" timestamp="1591770329651" />
-      <file name="/a.dummy" timestamp="1591770339681">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/playbooks/roles/fms-setup-frontend/tasks/main.yml" timestamp="1591778434706">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/ag-grid/ag-grid-21.2.2-community.noStyle.min.js" timestamp="1591774819811" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@ng-bootstrap/ng-bootstrap/dropdown/dropdown.d.ts" timestamp="1591762317398" />
-      <file name="$USER_HOME$/gofreight/fms/bin/update-hooks.sh" timestamp="1591778865334">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="21" />
-        <mark key="." line="15" column="21" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/bin/update-hooks.sh" timestamp="1591779413296" />
       <file name="$USER_HOME$/gofreight/fms/.git-hooks/post-checkout" timestamp="1591778377048">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="9" />
         <mark key="^" line="5" column="38" />
         <mark key="." line="4" column="9" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/grid-event-service.ts" timestamp="1591780101127">
+        <mark key="[" line="7" column="26" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/bin/check-permission-file-update.sh" timestamp="1591778945237">
         <mark key="[" line="8" column="0" />
@@ -146,29 +137,49 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="4" column="7" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.text_def.ts" timestamp="1591780841200">
+        <mark key="[" line="34" column="4" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.html" timestamp="1591780647988" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1591780830880">
+        <mark key="[" line="79" column="17" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/.git-hooks/post-merge" timestamp="1591778770350">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/autogen/permission-mapping.constant.ts" timestamp="1591777380851">
-        <mark key="[" line="9" column="40" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.html" timestamp="1591780875098">
+        <mark key="[" line="27" column="31" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/cell-renderers/hc-no-rows-renderer.ts" timestamp="1591780789719" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.ts" timestamp="1591780548218" />
+      <file name="$USER_HOME$/gofreight/fms/static/metronic/tpAccountingSetting.html.erb" timestamp="1591780316248" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1591780818441">
+        <mark key="[" line="85" column="25" />
+        <mark key="]" line="85" column="25" />
+        <mark key="." line="85" column="25" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/fms/permission/perm_esi.py" timestamp="1591778401692">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ag-grid-angular/dist/agGridAngular.d.ts" timestamp="1591774954863" />
-      <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/ag-grid/ag-grid-21.2.2-community.noStyle.js" timestamp="1591774855310" />
-      <file name="$USER_HOME$/gofreight/fms/static/metronic/oceanExportContainer.html.erb" timestamp="1591774430734" />
-      <file name="$USER_HOME$/gofreight/fms/fms/permission/base.py" timestamp="1591776892067" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/hc-grid-container/hc-grid-container.component.ts" timestamp="1591774957464">
-        <mark key="[" line="47" column="6" />
-        <mark key="]" line="47" column="7" />
-        <mark key="." line="47" column="7" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.html" timestamp="1591780868790">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="20" column="6" />
+        <mark key="." line="20" column="5" />
+        <mark key="^" line="20" column="6" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/management/commands/generate_ng_permission_mapping.py" timestamp="1591776828744" />
-      <file name="$USER_HOME$/gofreight/fms/fms/permission/__init__.py" timestamp="1591777395956">
-        <mark key="[" line="127" column="1" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ag-grid-angular/dist/agGridAngular.d.ts" timestamp="1591780478289" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.text_def.ts" timestamp="1591780834301">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="10" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/hc-grid-container/hc-grid-container.component.ts" timestamp="1591780318696">
+        <mark key="[" line="46" column="29" />
+        <mark key="]" line="46" column="29" />
+        <mark key="." line="46" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -213,8 +224,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -344,7 +355,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -402,7 +413,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5vZmZpY2VTZXJ2aWNlLmFsbE9mZmljZXMkLAo=</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
@@ -411,10 +422,10 @@
         <text encoding="base64">c2V0IC1leAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2ggYmluL2NsZWFyLWRldi1jYWNoZS5zaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDbGVhciBkZXYgY2FjaGUK</text>
+        <text encoding="base64">c2V0IC1leAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -471,10 +482,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAke2NoYW5nZV9wZXJtaXNzaW9ufQo=</text>
+        <text encoding="base64">c2ggYmluL2NsZWFyLWRldi1jYWNoZS5zaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0IC14ZQo=</text>
+        <text encoding="base64">IyBDbGVhciBkZXYgY2FjaGUK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -501,7 +512,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2hhbmdlX3VpPSQoZ2l0IGRpZmYgLS1uYW1lLW9ubHkgSEVBREB7MX0gSEVBRCAke0RJUl9TV0FHR0VSX1VJfSkK</text>
+        <text encoding="base64">ZWNobyAke2NoYW5nZV9wZXJtaXNzaW9ufQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -517,16 +528,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0IC14ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZmkK</text>
+        <text encoding="base64">Y2hhbmdlX3VpPSQoZ2l0IGRpZmYgLS1uYW1lLW9ubHkgSEVBREB7MX0gSEVBRCAke0RJUl9TV0FHR0VSX1VJfSkK</text>
       </register>
       <register name="y" type="4">
         <text />
       </register>
       <register name=":" type="4">
-        <text>138</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
