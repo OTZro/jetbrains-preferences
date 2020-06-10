@@ -118,16 +118,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/playbooks/roles/fms-setup-frontend/tasks/main.yml" timestamp="1591778434706">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1591783872802">
+        <mark key="[" line="2488" column="31" />
+        <mark key="]" line="2488" column="31" />
+        <mark key="." line="2488" column="31" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/base_report_ex.py" timestamp="1591783510516" />
       <file name="$USER_HOME$/gofreight/fms/bin/update-hooks.sh" timestamp="1591779413296" />
-      <file name="$USER_HOME$/gofreight/fms/.git-hooks/post-checkout" timestamp="1591778377048">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="5" column="38" />
-        <mark key="." line="4" column="9" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/grid-event-service.ts" timestamp="1591780101127">
         <mark key="[" line="7" column="26" />
       </file>
@@ -153,15 +150,15 @@
         <mark key="[" line="27" column="31" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/cell-renderers/hc-no-rows-renderer.ts" timestamp="1591780789719" />
+      <file name="/Python Console" timestamp="1591783196965">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.ts" timestamp="1591780548218" />
       <file name="$USER_HOME$/gofreight/fms/static/metronic/tpAccountingSetting.html.erb" timestamp="1591780316248" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1591780818441">
         <mark key="[" line="85" column="25" />
         <mark key="]" line="85" column="25" />
         <mark key="." line="85" column="25" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/fms/permission/perm_esi.py" timestamp="1591778401692">
-        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.html" timestamp="1591780868790">
         <mark key="[" line="27" column="31" />
@@ -225,7 +222,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>is not None</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -355,7 +352,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>is not None</text>
       </register>
       <register name="m" type="4">
         <keys>
