@@ -118,15 +118,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gofreight/fms/bin/install-branch-name-to-commit-hooks.sh" timestamp="1591847988044">
+        <mark key="[" line="9" column="75" />
+        <mark key="]" line="8" column="47" />
+        <mark key="." line="8" column="47" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1591784885688">
         <mark key="[" line="2488" column="31" />
         <mark key="]" line="2488" column="31" />
         <mark key="." line="2488" column="31" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/base_report_ex.py" timestamp="1591783510516" />
-      <file name="$USER_HOME$/gofreight/fms/bin/update-hooks.sh" timestamp="1591843631869" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/grid-event-service.ts" timestamp="1591780101127">
-        <mark key="[" line="7" column="26" />
+      <file name="$USER_HOME$/gofreight/fms/bin/update-hooks.sh" timestamp="1591847989399">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.text_def.ts" timestamp="1591780841200">
         <mark key="[" line="34" column="4" />
@@ -135,6 +141,11 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.html" timestamp="1591780647988" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1591780830880">
         <mark key="[" line="79" column="17" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/.git-hooks/post-merge" timestamp="1591847534187">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/app.component.html" timestamp="1591784916787">
         <mark key="[" line="80" column="49" />
@@ -215,7 +226,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>is not None</text>
+        <text>/prepare-commit-msg</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -345,7 +356,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>is not None</text>
+        <text>/prepare-commit-msg</text>
       </register>
       <register name="m" type="4">
         <keys>
