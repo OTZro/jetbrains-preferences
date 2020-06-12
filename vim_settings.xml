@@ -177,10 +177,10 @@
         <mark key="." line="110" column="32" />
         <mark key="^" line="110" column="33" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1591934518553">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="170" column="8" />
-        <mark key="." line="170" column="8" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1591935950016">
+        <mark key="[" line="125" column="68" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
         <mark key="^" line="152" column="55" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1591873291665" />
@@ -242,8 +242,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -430,23 +430,22 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgpkZWYgbWlncmF0aW9uX3NldF9vZmZpY2VfYW5kX2RlcGFydG1lbnQoYXBwcywgc2NoZW1hX2VkaXRvcik6CiAgICBKb2IgPSBhcHBzLmdldF9tb2RlbCgnam9iZmxvdycsICdKb2InKQogICAgSW52b2ljZSA9IGFwcHMuZ2V0X21vZGVsKCdmcmVpZ2h0JywgJ0ludm9pY2UnKQogICAgSm9iLm9iamVjdHMudXBkYXRlKG9mZmlj</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIGNhbmNlbCBkZXBhcnRtZW50c19zaG91bGRfYmVfdHVybl9vZmYgam9iIGZsb3cKICAgICAgICAjIGNoZWNrIGxldmVsIGNoYW5nZSwgaWYgc28sIGNhbmNlbCBhbGwgam9icwogICAgICAgICMgdXBkYXRlIGpvYmZsb3cgYW5kIGFwcHJvdmFsIChuZWVkIG5ldz8pCiAgICAgICAgIyAtIE9sZAogICAgICAgICMgICAgIHJldmlzZSBqb2JmbG93IGFuZCBhcHByb3ZhbAogICAgICAgICMgICAgIG1heWJlIG5lZWQgdG8gbG9nIG9wZXJhdGlvbiAob2xkIGFwcHJvdmFsIG1heSBub3QgaGF2ZSBjb3JyZWN0IGpvYmZsb3cpCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CgpkZWYgbWlncmF0aW9uX3NldF9vZmZpY2VfYW5kX2RlcGFydG1lbnQoYXBwcywgc2NoZW1hX2VkaXRvcik6CiAgICBKb2IgPSBhcHBzLmdldF9tb2RlbCgnam9iZmxvdycsICdKb2InKQogICAgSW52b2ljZSA9IGFwcHMuZ2V0X21vZGVsKCdmcmVpZ2h0JywgJ0ludm9pY2UnKQogICAgSm9iLm9iamVjdHMudXBkYXRlKG9mZmlj</text>
+      </register>
+      <register name="4" type="4">
         <text>,
                 inv.office,
                 inv.office_department,</text>
-      </register>
-      <register name="3" type="4">
-        <text>, office: Office,
-                                      department: OfficeDepartment</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -503,14 +502,11 @@
         </keys>
       </register>
       <register name="5" type="4">
-        <text>jobflow = Jobflow.objects.create(
-            active=True,
-            initial_state=initial_state_id,
-            module=module
-        )</text>
+        <text>, office: Office,
+                                      department: OfficeDepartment</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -536,8 +532,12 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>jobflow = Jobflow.objects.create(
+            active=True,
+            initial_state=initial_state_id,
+            module=module
+        )</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -556,7 +556,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIC0gTmV3CiAgICAgICAgIyAgICAgY3JlYXRlIGEgbmV3IGpvYmZsb3csIG1pZ3JhdGUgb2xkIHBlbmRpbmcgam9iIHRvIHRoaXMgam9iZmxvdwogICAgICAgICMgICAgIG5lZWQgdG8gaGFuZGxlIHRob3NlIGpvYiB3aGljaCBhcHByb3ZlZCBhbmQgc3RpbGwgcGVuZGluZyAoc2FtZSB3aXRoIE9sZCk=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
