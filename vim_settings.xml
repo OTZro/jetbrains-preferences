@@ -124,7 +124,7 @@
         <mark key="." line="7" column="49" />
         <mark key="^" line="7" column="50" />
       </file>
-      <file name="/Python Console" timestamp="1591859284771">
+      <file name="/Python Console" timestamp="1591933504151">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/views/api.py" timestamp="1591862335092" />
@@ -148,10 +148,10 @@
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/migrations/0005_add_office_and_department_to_job.py" timestamp="1591872948884">
         <mark key="[" line="23" column="10" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/models.py" timestamp="1591872814376">
-        <mark key="[" line="42" column="35" />
-        <mark key="]" line="42" column="35" />
-        <mark key="." line="42" column="35" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/models.py" timestamp="1591933716907">
+        <mark key="[" line="40" column="35" />
+        <mark key="]" line="40" column="35" />
+        <mark key="." line="40" column="35" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/modules.py" timestamp="1591930811909">
         <mark key="[" line="26" column="1" />
@@ -167,12 +167,7 @@
         <mark key="]" line="1651" column="0" />
         <mark key="." line="1651" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/migrations_helper/v1.py" timestamp="1591873040815">
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="14" column="16" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="14" column="15" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/migrations_helper/v1.py" timestamp="1591933306757" />
       <file name="/Django Console" timestamp="1591859284774">
         <mark key="[" line="0" column="0" />
       </file>
@@ -182,11 +177,11 @@
         <mark key="." line="110" column="32" />
         <mark key="^" line="110" column="33" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1591931552302">
-        <mark key="[" line="156" column="40" />
-        <mark key="]" line="43" column="86" />
-        <mark key="." line="43" column="86" />
-        <mark key="^" line="49" column="34" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1591934518553">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="170" column="8" />
+        <mark key="." line="170" column="8" />
+        <mark key="^" line="152" column="55" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1591873291665" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1591930943783">
@@ -248,9 +243,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,
-                inv.office,
-                inv.office_department,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -380,7 +373,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Office</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -438,26 +431,22 @@
         </keys>
       </register>
       <register name="1" type="4">
-        <text>,
-                inv.office,
-                inv.office_department,</text>
+        <text encoding="base64">CgpkZWYgbWlncmF0aW9uX3NldF9vZmZpY2VfYW5kX2RlcGFydG1lbnQoYXBwcywgc2NoZW1hX2VkaXRvcik6CiAgICBKb2IgPSBhcHBzLmdldF9tb2RlbCgnam9iZmxvdycsICdKb2InKQogICAgSW52b2ljZSA9IGFwcHMuZ2V0X21vZGVsKCdmcmVpZ2h0JywgJ0ludm9pY2UnKQogICAgSm9iLm9iamVjdHMudXBkYXRlKG9mZmlj</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="4">
+        <text>,
+                inv.office,
+                inv.office_department,</text>
+      </register>
+      <register name="3" type="4">
         <text>, office: Office,
                                       department: OfficeDepartment</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="4">
-        <text>jobflow = Jobflow.objects.create(
-            active=True,
-            initial_state=initial_state_id,
-            module=module
-        )</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -513,8 +502,12 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>jobflow = Jobflow.objects.create(
+            active=True,
+            initial_state=initial_state_id,
+            module=module
+        )</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -560,10 +553,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIC0gTmV3CiAgICAgICAgIyAgICAgY3JlYXRlIGEgbmV3IGpvYmZsb3csIG1pZ3JhdGUgb2xkIHBlbmRpbmcgam9iIHRvIHRoaXMgam9iZmxvdwogICAgICAgICMgICAgIG5lZWQgdG8gaGFuZGxlIHRob3NlIGpvYiB3aGljaCBhcHByb3ZlZCBhbmQgc3RpbGwgcGVuZGluZyAoc2FtZSB3aXRoIE9sZCk=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsYXRlc3RfYXBwcm92YWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIC0gTmV3CiAgICAgICAgIyAgICAgY3JlYXRlIGEgbmV3IGpvYmZsb3csIG1pZ3JhdGUgb2xkIHBlbmRpbmcgam9iIHRvIHRoaXMgam9iZmxvdwogICAgICAgICMgICAgIG5lZWQgdG8gaGFuZGxlIHRob3NlIGpvYiB3aGljaCBhcHByb3ZlZCBhbmQgc3RpbGwgcGVuZGluZyAoc2FtZSB3aXRoIE9sZCk=</text>
       </register>
       <register name="y" type="4">
         <text />
