@@ -144,11 +144,11 @@
         <mark key="." line="666" column="28" />
         <mark key="^" line="748" column="46" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/test/freight/jobflow/test_approval_setting.py" timestamp="1591953302343">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="94" column="49" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/test/freight/jobflow/test_approval_setting.py" timestamp="1591954533814">
+        <mark key="[" line="125" column="67" />
+        <mark key="]" line="122" column="59" />
+        <mark key="^" line="120" column="49" />
+        <mark key="." line="122" column="59" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/test/accounting/bank/test_check_deposit_report_filter.py" timestamp="1591946984964" />
       <file name="$USER_HOME$/gofreight/fms/test/freight/accounting/test_invoice.py" timestamp="1591946261230" />
@@ -162,10 +162,8 @@
         <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/hc-grid-container/hc-grid-container.component.ts" timestamp="1591945078866" />
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1591953583203">
-        <mark key="[" line="169" column="50" />
-        <mark key="]" line="169" column="12" />
-        <mark key="." line="169" column="12" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1591953968682">
+        <mark key="[" line="259" column="102" />
       </file>
     </filemarks>
     <jumps>
@@ -210,8 +208,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFwcHJvdmVyMyA9IG1vbW15Lm1ha2UoVXNlcikK</text>
+      <register name="&quot;" type="4">
+        <text>expected_initial_state</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -341,7 +339,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>service</text>
+        <text>expected_initial_state</text>
       </register>
       <register name="m" type="4">
         <keys>
