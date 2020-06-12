@@ -153,6 +153,9 @@
         <mark key="]" line="42" column="35" />
         <mark key="." line="42" column="35" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/modules.py" timestamp="1591930811909">
+        <mark key="[" line="26" column="1" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/__init__.py" timestamp="1591859971785">
         <mark key="[" line="4" column="37" />
         <mark key="]" line="6" column="28" />
@@ -170,11 +173,6 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/bin/update-hooks.sh" timestamp="1591847989399">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-      </file>
       <file name="/Django Console" timestamp="1591859284774">
         <mark key="[" line="0" column="0" />
       </file>
@@ -184,17 +182,18 @@
         <mark key="." line="110" column="32" />
         <mark key="^" line="110" column="33" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1591929973841">
-        <mark key="[" line="156" column="79" />
-        <mark key="]" line="153" column="45" />
-        <mark key="." line="153" column="45" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1591930937774">
+        <mark key="[" line="43" column="86" />
+        <mark key="]" line="43" column="86" />
+        <mark key="." line="43" column="86" />
+        <mark key="^" line="49" column="34" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1591873291665" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1591861105543">
-        <mark key="[" line="744" column="54" />
-        <mark key="]" line="748" column="46" />
-        <mark key="." line="748" column="45" />
-        <mark key="^" line="748" column="46" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1591930943783">
+        <mark key="[" line="666" column="28" />
+        <mark key="]" line="666" column="28" />
+        <mark key="." line="666" column="28" />
+        <mark key="^" line="746" column="46" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/invoice-action-cell/invoice-action-cell.component.html" timestamp="1591859288766">
         <mark key="[" line="14" column="27" />
@@ -249,7 +248,9 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Office</text>
+        <text>,
+                inv.office,
+                inv.office_department,</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -436,24 +437,27 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>,
+                inv.office,
+                inv.office_department,</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="4">
+        <text>, office: Office,
+                                      department: OfficeDepartment</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="4">
         <text>jobflow = Jobflow.objects.create(
             active=True,
             initial_state=initial_state_id,
             module=module
         )</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -513,7 +517,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIC0gTmV3CiAgICAgICAgIyAgICAgY3JlYXRlIGEgbmV3IGpvYmZsb3csIG1pZ3JhdGUgb2xkIHBlbmRpbmcgam9iIHRvIHRoaXMgam9iZmxvdwogICAgICAgICMgICAgIG5lZWQgdG8gaGFuZGxlIHRob3NlIGpvYiB3aGljaCBhcHByb3ZlZCBhbmQgc3RpbGwgcGVuZGluZyAoc2FtZSB3aXRoIE9sZCk=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -540,7 +544,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsYXRlc3RfYXBwcm92YWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -556,10 +560,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAjIC0gTmV3CiAgICAgICAgIyAgICAgY3JlYXRlIGEgbmV3IGpvYmZsb3csIG1pZ3JhdGUgb2xkIHBlbmRpbmcgam9iIHRvIHRoaXMgam9iZmxvdwogICAgICAgICMgICAgIG5lZWQgdG8gaGFuZGxlIHRob3NlIGpvYiB3aGljaCBhcHByb3ZlZCBhbmQgc3RpbGwgcGVuZGluZyAoc2FtZSB3aXRoIE9sZCk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSAqbmdJZj0iaXNEcmFmdEFtZW5kbWVudCgpICYmICFvcGVyYXRpb24/LmNhbmNlbF91cmwgJiYgZmV0Y2hJc0FtZW5kbWVudEVuYWJsZWR8YXN5bmMgYXMgYm9vbGVhbiIgPgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsYXRlc3RfYXBwcm92YWwpCg==</text>
       </register>
       <register name="y" type="4">
         <text />
