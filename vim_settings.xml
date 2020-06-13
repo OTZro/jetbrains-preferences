@@ -119,7 +119,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/gofreight/fms/test/freight/test_workflow.py" timestamp="1591949461717" />
-      <file name="/Python Console" timestamp="1591933504151">
+      <file name="/Python Console" timestamp="1591960014943">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/views/api.py" timestamp="1591958575025">
@@ -138,16 +138,17 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/amendment.py" timestamp="1591959154739">
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/amendment.py" timestamp="1591959160627">
         <mark key="[" line="35" column="8" />
-        <mark key="]" line="35" column="8" />
-        <mark key="." line="35" column="8" />
+        <mark key="]" line="24" column="20" />
+        <mark key="." line="24" column="19" />
+        <mark key="^" line="24" column="20" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/test/freight/jobflow/test_approval_setting.py" timestamp="1591959113121">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="39" column="46" />
-        <mark key="^" line="20" column="13" />
-        <mark key="." line="39" column="46" />
+      <file name="$USER_HOME$/gofreight/fms/test/freight/jobflow/test_approval_setting.py" timestamp="1591960140520">
+        <mark key="[" line="163" column="37" />
+        <mark key="]" line="163" column="37" />
+        <mark key="^" line="263" column="58" />
+        <mark key="." line="163" column="37" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/test/accounting/bank/test_check_deposit_report_filter.py" timestamp="1591946984964" />
       <file name="$USER_HOME$/gofreight/fms/test/freight/accounting/test_invoice.py" timestamp="1591946261230" />
@@ -161,11 +162,9 @@
         <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/hc-grid-container/hc-grid-container.component.ts" timestamp="1591945078866" />
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1591959041618">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="^" line="74" column="52" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1591960810901">
+        <mark key="[" line="125" column="90" />
+        <mark key="^" line="159" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -210,8 +209,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>print('Middle approve')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -341,7 +340,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>print('Middle approve')</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -405,13 +404,13 @@
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IyBJZiBsZXZlbCBiZWNvbWUgZmV3ZXIsIGNhbmNlbCBhbGwgcGVuZGluZyBqb2IgYW5kIGNyZWF0ZSBuZXcgam9iZmxvdwogICAgICAgIGlmIGxlbihvcmlnaW5hbF9hcHByb3Zlcl9saXN0KSA+IGxlbihhcHByb3Zlcl9saXN0KSBvciBqb2JmbG93IGlzIE5vbmU6CiAgICAgICAgICAgIGlmIGpvYmZsb3c6CiAgICAgICAgICAgICAgICBzZWxmLmNsZWFyX2pvYmZsb3coam9iZmxvdykKCiAgICAgICAgICAgIGlmIGFueShhcHByb3Zlcl9saXN0KToKICAgICAgICAgICAgICAgIHN0YXRlX2xpc3QsIGluaXRfc3RhdGUgPSBzZWxmLl9jcmVhdGVfc3RhdGVfbGlzdChhcHByb3Zlcl9saXN0LCBtb2R1bGUpCiAgICAgICAgICAgICAgICBqb2JmbG93ID0gU3RhdGVNYW5hZ2VyLmNyZWF0ZV9qb2JmbG93KG1vZHVsZT1tb2R1bGUsIHN0YXRlX2xpc3Q9c3RhdGVfbGlzdCwgaW5pdGlhbF9zdGF0ZT1pbml0X3N0YXRlKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgam9iZmxvdyA9IE5vbmUKCiAgICAgICAgICAgIHJ1bGUuam9iZmxvdyA9IGpvYmZsb3cKICAgICAgICAgICAgcnVsZS5zYXZlKCkKCiAgICAgICAgICAgIHJldHVybiBydWxl</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -468,7 +467,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4ob3JpZ2luYWxfYXBwcm92ZXJfbGlzdCkgPiBsZW4oYXBwcm92ZXJfbGlzdCk6Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -497,8 +496,9 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3Auc3RhdHVzX2NvZGUsIHN0YXR1cy5IVFRQXzIwMF9PSykK</text>
+      <register name="7" type="4">
+        <text>original_approver_list = rule.get_approver_list()
+        if not self.any_unfinished_job([rule]):</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -517,7 +517,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSB7CiAgICAgICAgICAgICdjcmVhdGUnOiBbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgJ2RlcGFydG1lbnRzJzogW3NlbGYub2ZmaWNlX2RlcGFydG1lbnRfMS5pZF0sCiAgICAgICAgICAgICAgICAgICAgJ2FwcHJvdmVycyc6IFtbc2VsZi5hcHByb3ZlcjEuaWRdLCBbc2VsZi5hcHByb3ZlcjIuaWRdXSwKICAgICAgICAgICAgICAgICAgICAncmVtYXJrJzogJzEyMycKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgXSwKICAgICAgICAgICAgJ29mZmljZSc6IHNlbGYub2ZmaWNlLmlkLAogICAgICAgICAgICAnbW9kdWxlJzogTU9EVUxFX0FNRU5ETUVOVF9TVUJNSVQsCiAgICAgICAgICAgICdkZWxldGUnOiBbXSwKICAgICAgICAgICAgJ3VwZGF0ZSc6IFtdLAogICAgICAgIH0KICAgICAgICByZXNwID0gc2VsZi5jbGllbnQucG9zdCgnL2FwaS9hcHByb3ZhbC9ydWxlcy91cGRhdGUvJywgcGFyYW1zKQogICAgICAgIHJ1bGVfaWQgPSByZXNwLmRhdGFbJ3J1bGVzJ11bMF1bJ2lkJ10KICAgICAgICBydWxlID0gQXBwcm92YWxSdWxlLm9iamVjdHMuZ2V0KGlkPXJ1bGVfaWQp</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="y" type="4">
         <text />
