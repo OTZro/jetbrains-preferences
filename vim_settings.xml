@@ -149,11 +149,11 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="20" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1592289813829">
-        <mark key="[" line="741" column="28" />
-        <mark key="]" line="741" column="28" />
-        <mark key="." line="741" column="28" />
-        <mark key="^" line="748" column="46" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1592290890267">
+        <mark key="[" line="720" column="48" />
+        <mark key="]" line="720" column="48" />
+        <mark key="." line="720" column="48" />
+        <mark key="^" line="719" column="44" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/test/freight/jobflow/test_approval_setting.py" timestamp="1592278655772">
         <mark key="[" line="28" column="0" />
@@ -214,8 +214,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PROCESS_STATE_DRAFT</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -345,7 +345,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>operation</text>
+        <text>PROCESS_STATE_DRAFT</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -403,19 +403,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHByb3ZhbF9zZXJ2aWNlID0gQXBwcm92YWxTZXJ2aWNlKCkK</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwcm92YWxfc3RhdHVzID0gJycgaWYgYXBwcm92YWwgaXMgTm9uZSBlbHNlIGFwcHJvdmFsLnN0YXR1cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBydWxlSWRzID0gcnVsZXMuZmlsdGVyKHJ1bGUgPT4gcnVsZS5pZCkubWFwKHJ1bGUgPT4gcnVsZS5pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwcm92YWwgPSBhcHByb3ZhbF9zZXJ2aWNlLmdldF9sYXRlc3RfYXBwcm92YWxfZnJvbV9yZWZlcmVuY2UoTU9EVUxFX0FNRU5ETUVOVF9TVUJNSVQsIGludm9pY2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5odHRwLnBvc3Q8VFJ1bGVbXT4odGhpcy51cGRhdGVBcHByb3ZhbFJ1bGVMaXN0QVBJLCByZXF1ZXN0RGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -475,7 +475,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBydWxlSWRzID0gcnVsZXMuZmlsdGVyKHJ1bGUgPT4gcnVsZS5pZCkubWFwKHJ1bGUgPT4gcnVsZS5pZCk7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -502,7 +502,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFwcHJvdmVyNCA9IG1vbW15Lm1ha2UoVXNlcikK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5odHRwLnBvc3Q8VFJ1bGVbXT4odGhpcy51cGRhdGVBcHByb3ZhbFJ1bGVMaXN0QVBJLCByZXF1ZXN0RGF0YSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -518,10 +518,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbWFyaz1ydWxlX2RhdGFbJ3JlbWFyayddLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2R1bGUgPSByZXF1ZXN0LmRhdGEuZ2V0KCdtb2R1bGUnKQo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="y" type="4">
         <text />
