@@ -132,7 +132,6 @@
         <mark key="." line="40" column="35" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_depreciation_updater.py" timestamp="1591947354941" />
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/migrations_helper/v1.py" timestamp="1591933306757" />
       <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1591948204376">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -162,12 +161,7 @@
         <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/hc-grid-container/hc-grid-container.component.ts" timestamp="1591945078866" />
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1592274879430">
-        <mark key="[" line="142" column="47" />
-        <mark key="]" line="126" column="0" />
-        <mark key="^" line="156" column="20" />
-        <mark key="." line="126" column="0" />
-      </file>
+      <file name="/service.py" timestamp="1592275078081" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -212,7 +206,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gVXNlIHNlbGYudW5maW5pc2hlZF9qb2IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -400,19 +394,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gVXNlIHNlbGYudW5maW5pc2hlZF9qb2IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcgo=</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjCiAgICAgICAgIyBmb3IgbGV2ZWwgaW4gcmFuZ2UobWF4KFtsZW4ob3JpZ2luYWxfYXBwcm92ZXJfbGlzdCksIGxlbihhcHByb3Zlcl9saXN0KV0pKToKICAgICAgICAjICAgICAjIFVwZGF0ZSBhbGwgcGVuZGluZyBqb2IsIGNoYW5nZSBwZXJtaXR0ZWRfYXBwcm92ZXJzIHRvIG5ldyBhcHByb3ZlcgogICAgICAgICMgICAgIHN0YXRlX2luZGV4ID0gbGV2ZWwgKiAyICsgQXBwcm92YWxTZXJ2aWNlLl9BUFBST1ZBTF9TVEFURV9TVEFSVF9JTkRFWAogICAgICAgICMgICAgIGpvYnMgPSBqb2JmbG93LmpvYnMuZmlsdGVyKGN1cnJlbnRfc3RhdGU9c3RhdGVfaW5kZXgpCiAgICAgICAgIyAgICAgYXBwcm92YWxzID0gQXBwcm92YWwub2JqZWN0cy5maWx0ZXIoam9iX19pbj1qb2JzKS5maWx0ZXIoc3RhdHVzPUFwcHJvdmFsLlNUQVRVU19QRU5ESU5HKQogICAgICAgICMgICAgIGFwcHJvdmFsOiBBcHByb3ZhbAogICAgICAgICMgICAgIGZvciBhcHByb3ZhbCBpbiBhcHByb3ZhbHM6CiAgICAgICAgIyAgICAgICAgIChvZmZpY2VfaWQsIGRlcGFydG1lbnRfaWQpID0gQVBQUk9WQUxfT0ZGSUNFX0RFUEFSVE1FTlRfR0VUVEVSW21vZHVsZV0oYXBwcm92YWwuam9iLnRhcmdldF9vYmplY3QpCiAgICAgICAgIyAgICAgICAgIGlmIGRlcGFydG1lbnRfaWQgaW4gZGVwYXJ0bWVudHNfaWRfc2hvdWxkX2JlX3R1cm5fb2ZmIG9yIGxldmVsID49IGxlbihhcHByb3Zlcl9saXN0KToKICAgICAgICAjICAgICAgICAgICAgIHNlbGYuY2FuY2VsKGFwcHJvdmFsKQogICAgICAgICMgICAgICAgICBlbHNlOgogICAgICAgICMgICAgICAgICAgICAgYXBwcm92YWwucGVybWl0dGVkX2FwcHJvdmVycy5zZXQoYXBwcm92ZXJfbGlzdFtsZXZlbF0sIGNsZWFyPVRydWUpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -469,10 +463,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3RhdGVfbWFuYWdlci51cGRhdGVfam9iZmxvdyhqb2JmbG93PWpvYmZsb3csIHN0YXRlX2xpc3Q9c3RhdGVfbGlzdCwgaW5pdGlhbF9zdGF0ZT1pbml0X3N0YXRlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgam9iZmxvdzoK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -499,7 +493,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4ob3JpZ2luYWxfYXBwcm92ZXJfbGlzdCkgPiBsZW4oYXBwcm92ZXJfbGlzdCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVfbGlzdCwgaW5pdF9zdGF0ZSA9IHNlbGYuX2NyZWF0ZV9zdGF0ZV9saXN0KGFwcHJvdmVyX2xpc3QsIG1vZHVsZSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -515,11 +509,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbF9hcHByb3Zlcl9saXN0ID0gcnVsZS5nZXRfYXBwcm92ZXJfbGlzdCgpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>original_approver_list = rule.get_approver_list()
-        if not self.any_unfinished_job([rule]):</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbF9hcHByb3Zlcl9saXN0ID0gcnVsZS5nZXRfYXBwcm92ZXJfbGlzdCgpCg==</text>
       </register>
       <register name="y" type="4">
         <text />
