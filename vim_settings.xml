@@ -139,7 +139,12 @@
         <mark key="." line="160" column="47" />
         <mark key="^" line="204" column="52" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/controller.js" timestamp="1592361883638" />
+      <file name="$USER_HOME$/gofreight/fms/test/freight/jobflow/test_approval_setting.py" timestamp="1592379397910">
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="33" column="34" />
+        <mark key="^" line="228" column="64" />
+        <mark key="." line="33" column="34" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/core/state_manager.py" timestamp="1592377231093">
         <mark key="[" line="41" column="29" />
       </file>
@@ -189,7 +194,7 @@
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/migrations/0006_add_level_field.py" timestamp="1592375208139">
         <mark key="[" line="19" column="52" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1592378372817">
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1592378424543">
         <mark key="[" line="141" column="36" />
         <mark key="]" line="141" column="36" />
         <mark key="." line="141" column="36" />
@@ -239,7 +244,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>self.origin_departments</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -369,7 +374,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>self.origin_departments</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -426,20 +431,22 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgU3VzcGljaW91c09wZXJhdGlvbgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICBbW3NlbGYuYXBwcm92ZXIxLmlkXSwgW3NlbGYuYXBwcm92ZXIyLmlkXSwgW3NlbGYuYXBwcm92ZXIzLmlkXV0=</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXF1ZXN0Lm1ldGhvZCAhPSAnUE9TVCc6Cg==</text>
+      <register name="2" type="8">
+        <text>STATUS_P
+STATUS_P</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>STATUS_P
+STATUS_P</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9BUFBST1ZBTF9TVEFURV9TVEFSVF9JTkRFWCA9IDQK</text>
+        <text encoding="base64">ICAgIGRlZiBwcmVwYXJlX2FwcHJvdmFsX3J1bGUoc2VsZik6Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -496,10 +503,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgYW55KGFwcHJvdmVyX2xpc3QpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JlZnJlc2gnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -526,7 +533,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JlZnJlc2gnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgU3VzcGljaW91c09wZXJhdGlvbgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -542,7 +549,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmdyaWRDb250YWluZXIucmVmcmVzaENvbHVtbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXF1ZXN0Lm1ldGhvZCAhPSAnUE9TVCc6Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
