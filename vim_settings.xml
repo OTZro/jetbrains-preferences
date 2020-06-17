@@ -130,7 +130,6 @@
         <mark key="^" line="50" column="95" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@ng-bootstrap/ng-bootstrap/dropdown/dropdown.d.ts" timestamp="1592388584783" />
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/migrations/0004_approval_operated_at.py" timestamp="1592375198317" />
       <file name="$USER_HOME$/gofreight/fms/test/freight/jobflow/test_jobflow.py" timestamp="1592376430871">
         <mark key="^" line="61" column="52" />
       </file>
@@ -143,6 +142,9 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1592389605722">
+        <mark key="[" line="264" column="41" />
+      </file>
       <file name="/Python Console" timestamp="1592375961745">
         <mark key="[" line="0" column="0" />
       </file>
@@ -151,15 +153,11 @@
         <mark key="]" line="84" column="4" />
         <mark key="." line="84" column="4" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1592389260049" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/migrations_helper/v1.py" timestamp="1592376673494">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="30" />
         <mark key="." line="3" column="30" />
-      </file>
-      <file name="/Django Console" timestamp="1592374883345">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/static/metronic/oceanImportAccounting_wizard.html.erb" timestamp="1592388385581">
         <mark key="[" line="113" column="189" />
@@ -172,8 +170,10 @@
         <mark key="^" line="72" column="14" />
         <mark key="." line="191" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/migrations/0006_add_level_field.py" timestamp="1592375208139">
-        <mark key="[" line="19" column="52" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/utility/form-validator.ts" timestamp="1592389663182">
+        <mark key="[" line="40" column="71" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.ts" timestamp="1592387024560">
         <mark key="[" line="176" column="47" />
@@ -224,8 +224,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGRhdGEtY29udGFpbmVyPSJib2R5Ig==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -355,7 +355,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRhdGEtY29udGFpbmVyPSJib2R5Ig==</text>
+        <text>=== 0</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -413,19 +413,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdLZXlkb3duJywgdGhpcy5pc1NlYXJjaGluZyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAoJ1NldCB0cnVlIGF0IDE3MicpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdLZXlkb3duJywgdGhpcy5pc1NlYXJjaGluZyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAoJ1NldCB0cnVlIGF0IDE3MicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU2V0IGZhbHNlJyk7Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -481,12 +481,12 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="8">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU2V0IGZhbHNlJyk7Cg==</text>
+      </register>
+      <register name="6" type="8">
         <text>expected_end_state
 expected_end_state</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICBbW3NlbGYuYXBwcm92ZXIxLmlkXSwgW3NlbGYuYXBwcm92ZXIyLmlkXSwgW3NlbGYuYXBwcm92ZXIzLmlkXV0=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -512,9 +512,8 @@ expected_end_state</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="8">
-        <text>STATUS_P
-STATUS_P</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICBbW3NlbGYuYXBwcm92ZXIxLmlkXSwgW3NlbGYuYXBwcm92ZXIyLmlkXSwgW3NlbGYuYXBwcm92ZXIzLmlkXV0=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -533,8 +532,9 @@ STATUS_P</text>
         <text>STATUS_P
 STATUS_P</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcmVwYXJlX2FwcHJvdmFsX3J1bGUoc2VsZik6Cg==</text>
+      <register name="9" type="8">
+        <text>STATUS_P
+STATUS_P</text>
       </register>
       <register name="y" type="4">
         <text />
