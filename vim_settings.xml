@@ -134,18 +134,17 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/migrations/0004_approval_operated_at.py" timestamp="1592375198317" />
       <file name="$USER_HOME$/gofreight/fms/test/freight/jobflow/test_jobflow.py" timestamp="1592376430871">
-        <mark key="]" line="160" column="47" />
-        <mark key="." line="160" column="47" />
-        <mark key="^" line="204" column="52" />
+        <mark key="^" line="61" column="52" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.html" timestamp="1592384723696" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/core/state_manager.py" timestamp="1592377231093">
         <mark key="[" line="41" column="29" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/fms/lib/python3.6/site-packages/django/db/models/expressions.py" timestamp="1592374712003" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1592364455126">
-        <mark key="[" line="49" column="29" />
-        <mark key="]" line="72" column="125" />
-        <mark key="." line="72" column="125" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.html" timestamp="1592387517491">
+        <mark key="[" line="49" column="96" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="/Python Console" timestamp="1592375961745">
         <mark key="[" line="0" column="0" />
@@ -165,34 +164,18 @@
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/amendment.py" timestamp="1592367288394">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="24" column="20" />
-        <mark key="." line="24" column="19" />
-        <mark key="^" line="24" column="20" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1592367599365">
-        <mark key="[" line="107" column="35" />
-        <mark key="]" line="107" column="35" />
-        <mark key="." line="107" column="19" />
-        <mark key="^" line="107" column="19" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/modules.py" timestamp="1592381013770">
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="33" column="59" />
-        <mark key="." line="33" column="58" />
-        <mark key="^" line="33" column="59" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-autocomplete-base/hc-autocomplete-base.component.ts" timestamp="1592387160773">
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="^" line="72" column="14" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/migrations/0006_add_level_field.py" timestamp="1592375208139">
         <mark key="[" line="19" column="52" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1592378424543">
-        <mark key="[" line="141" column="36" />
-        <mark key="]" line="141" column="36" />
-        <mark key="." line="141" column="36" />
-        <mark key="^" line="37" column="24" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.ts" timestamp="1592387024560">
+        <mark key="[" line="176" column="47" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.ts" timestamp="1592383523323" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.text_def.ts" timestamp="1592383489839">
         <mark key="[" line="4" column="20" />
       </file>
@@ -239,8 +222,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>expected_level2_state</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdLZXlkb3duJywgdGhpcy5pc1NlYXJjaGluZyk7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -370,7 +353,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>expected_level2_state</text>
+        <text>console.log</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -427,23 +410,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="8">
-        <text>expected_end_state
-expected_end_state</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdLZXlkb3duJywgdGhpcy5pc1NlYXJjaGluZyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICBbW3NlbGYuYXBwcm92ZXIxLmlkXSwgW3NlbGYuYXBwcm92ZXIyLmlkXSwgW3NlbGYuYXBwcm92ZXIzLmlkXV0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAoJ1NldCB0cnVlIGF0IDE3MicpCg==</text>
       </register>
-      <register name="3" type="8">
-        <text>STATUS_P
-STATUS_P</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>STATUS_P
-STATUS_P</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU2V0IGZhbHNlJyk7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -499,11 +479,12 @@ STATUS_P</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBwcmVwYXJlX2FwcHJvdmFsX3J1bGUoc2VsZik6Cg==</text>
+      <register name="5" type="8">
+        <text>expected_end_state
+expected_end_state</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICBbW3NlbGYuYXBwcm92ZXIxLmlkXSwgW3NlbGYuYXBwcm92ZXIyLmlkXSwgW3NlbGYuYXBwcm92ZXIzLmlkXV0=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -529,8 +510,9 @@ STATUS_P</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text>STATUS_P
+STATUS_P</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -545,11 +527,12 @@ STATUS_P</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgU3VzcGljaW91c09wZXJhdGlvbgo=</text>
+      <register name="8" type="8">
+        <text>STATUS_P
+STATUS_P</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXF1ZXN0Lm1ldGhvZCAhPSAnUE9TVCc6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBwcmVwYXJlX2FwcHJvdmFsX3J1bGUoc2VsZik6Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
