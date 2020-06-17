@@ -118,45 +118,47 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility_accounting.py" timestamp="1592296485768" />
-      <file name="/a.dummy" timestamp="1592282217091">
+      <file name="/a.dummy" timestamp="1592374547951">
         <mark key="[" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/state.py" timestamp="1592368414853">
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="23" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/state.py" timestamp="1592376176782">
+        <mark key="[" line="54" column="94" />
+        <mark key="]" line="50" column="95" />
+        <mark key="." line="50" column="94" />
+        <mark key="^" line="50" column="95" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1592363167037" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1592290890267">
-        <mark key="[" line="720" column="48" />
-        <mark key="]" line="720" column="48" />
-        <mark key="." line="720" column="48" />
-        <mark key="^" line="719" column="44" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/migrations/0004_approval_operated_at.py" timestamp="1592375198317" />
+      <file name="$USER_HOME$/gofreight/fms/test/freight/jobflow/test_jobflow.py" timestamp="1592376430871">
+        <mark key="]" line="160" column="47" />
+        <mark key="." line="160" column="47" />
+        <mark key="^" line="204" column="52" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/controller.js" timestamp="1592361883638" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice.service.js" timestamp="1592295086526">
-        <mark key="[" line="163" column="11" />
-        <mark key="]" line="163" column="56" />
-        <mark key="." line="163" column="56" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/core/state_manager.py" timestamp="1592375135775" />
+      <file name="$USER_HOME$/.pyenv/versions/fms/lib/python3.6/site-packages/django/db/models/expressions.py" timestamp="1592374712003" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1592364455126">
         <mark key="[" line="49" column="29" />
         <mark key="]" line="72" column="125" />
         <mark key="." line="72" column="125" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar.html" timestamp="1592296823907">
-        <mark key="[" line="67" column="116" />
+      <file name="/Python Console" timestamp="1592375961745">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/models.py" timestamp="1592282177916">
-        <mark key="[" line="55" column="69" />
-        <mark key="]" line="55" column="69" />
-        <mark key="." line="55" column="69" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/models.py" timestamp="1592375505553">
+        <mark key="[" line="84" column="4" />
+        <mark key="]" line="84" column="4" />
+        <mark key="." line="84" column="4" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry/index.html" timestamp="1592292590162">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/migrations_helper/v1.py" timestamp="1592375346348">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="8" />
+      </file>
+      <file name="/Django Console" timestamp="1592374883345">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/amendment.py" timestamp="1592367288394">
         <mark key="[" line="35" column="8" />
@@ -165,14 +167,14 @@
         <mark key="^" line="24" column="20" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/approval-module.enum.ts" timestamp="1592361889938" />
-      <file name="/approval-rule.service.ts" timestamp="1592292189802">
-        <mark key="[" line="8" column="39" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1592367599365">
         <mark key="[" line="107" column="35" />
         <mark key="]" line="107" column="35" />
         <mark key="." line="107" column="19" />
         <mark key="^" line="107" column="19" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/migrations/0006_add_level_field.py" timestamp="1592375208139">
+        <mark key="[" line="19" column="52" />
       </file>
       <file name="/acct_invoice_ar.html" timestamp="1592297199689" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1592368486158">
@@ -224,7 +226,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text>state</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -354,7 +356,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>state</text>
       </register>
       <register name="m" type="4">
         <keys>
