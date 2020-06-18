@@ -29,7 +29,6 @@
         <entry>:136</entry>
       </history-search>
       <history-cmd>
-        <entry>107</entry>
         <entry>70</entry>
         <entry>116</entry>
         <entry>238</entry>
@@ -49,6 +48,7 @@
         <entry>w</entry>
         <entry>624</entry>
         <entry>1260</entry>
+        <entry>2487</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,51 +125,43 @@
         <mark key="." line="1273" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/air/export_basic_entry/index.js" timestamp="1592464811774" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/status.controller.js" timestamp="1592460285832">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-basic/payment-plan-basic.component.html" timestamp="1592470019650" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_esko.html" timestamp="1592472913135" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views/views.py" timestamp="1592468668875" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/core/auto_complete/trade_partner_select.html" timestamp="1592452870595" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-basic/payment-plan-basic.component.ts" timestamp="1592470034436" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.html" timestamp="1592461546550" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice.service.js" timestamp="1592454676182">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_entry/app.component.html" timestamp="1592469987373" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/air/export_basic_entry/index.html" timestamp="1592465085047" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/import_basic_entry/index.js" timestamp="1592460382000" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/views_ocean.py" timestamp="1592453689394" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-autocomplete-base/hc-autocomplete-base.component.ts" timestamp="1592462495225">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/approval-rule.service.text_def.ts" timestamp="1592463410578">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/import_basic_entry/index.html" timestamp="1592460802151">
-        <mark key="[" line="50" column="20" />
-        <mark key="]" line="232" column="108" />
-        <mark key="." line="232" column="108" />
+      <file name="$USER_HOME$/gofreight/fms/core/middleware.py" timestamp="1592472074305">
+        <mark key="[" line="234" column="64" />
+        <mark key="]" line="234" column="64" />
+        <mark key="." line="234" column="64" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.html" timestamp="1592470010446" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1592473787930" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1592462501854">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/report.service.ts" timestamp="1592474330179">
+        <mark key="[" line="1459" column="71" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/fms/settings/base.py" timestamp="1592474342812" />
+      <file name="/Clipboard.txt" timestamp="1592472917746">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.ts" timestamp="1592470078242">
         <mark key="[" line="60" column="20" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/index.html" timestamp="1592469977757" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/signals/invoice_handlers.py" timestamp="1592473575534" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar.html" timestamp="1592472993706" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -214,7 +206,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>All pending submissions will be canceled. Are you sure you want to delete?</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -344,7 +336,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>All pending submissions will be canceled. Are you sure you want to delete?</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -526,7 +518,7 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>1260</text>
+        <text>2487</text>
       </register>
     </registers>
   </component>
