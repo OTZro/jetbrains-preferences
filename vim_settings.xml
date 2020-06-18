@@ -161,10 +161,11 @@
         <mark key="." line="7" column="53" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/core/auto_complete/auto_complete.service.js" timestamp="1592449399899" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.text_def.ts" timestamp="1592392402295">
-        <mark key="[" line="37" column="48" />
-        <mark key="]" line="37" column="48" />
-        <mark key="." line="37" column="48" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/approval-rule.service.text_def.ts" timestamp="1592463410578">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="65" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/import_basic_entry/index.html" timestamp="1592460802151">
         <mark key="[" line="50" column="20" />
@@ -222,8 +223,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZS50YXJnZXQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>All pending submissions will be canceled. Are you sure you want to delete?</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -353,7 +354,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>All pending submissions will be canceled. Are you sure you want to delete?</text>
       </register>
       <register name="m" type="4">
         <keys>
