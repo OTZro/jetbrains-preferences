@@ -118,7 +118,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/ui-select/select.js" timestamp="1592546371668">
+      <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/ui-select/select.js" timestamp="1592547832917">
         <mark key="[" line="1274" column="76" />
         <mark key="]" line="1273" column="0" />
         <mark key="^" line="1276" column="22" />
@@ -130,9 +130,14 @@
         <mark key="^" line="33" column="21" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_esko.html" timestamp="1592472913135" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/accounting/accounting_entry.py" timestamp="1592548271538" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1592475305280">
         <mark key="[" line="2534" column="24" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice.service.js" timestamp="1592547939187">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="/select.js" timestamp="1592539355308" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1592538593149">
@@ -145,11 +150,6 @@
         <mark key="[" line="1459" column="71" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/fms/settings/base.py" timestamp="1592474342812" />
-      <file name="/Clipboard.txt" timestamp="1592472917746">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/signals/invoice_handlers.py" timestamp="1592473575534" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar.html" timestamp="1592472993706" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_accounting_wizard.html" timestamp="1592476155822">
         <mark key="[" line="131" column="48" />
         <mark key="]" line="132" column="42" />
@@ -168,6 +168,7 @@
         <mark key="." line="20" column="23" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/choices.py" timestamp="1592475829357" />
+      <file name="/invoice_entry.controller.js" timestamp="1592548352877" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-autocomplete-base/hc-autocomplete-base.component.ts" timestamp="1592535211271">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -178,6 +179,7 @@
         <mark key="]" line="41" column="107" />
         <mark key="." line="41" column="107" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry.controller.js" timestamp="1592548437341" />
       <file name="$USER_HOME$/gofreight/fms/core/middleware.py" timestamp="1592475323339">
         <mark key="[" line="234" column="64" />
         <mark key="]" line="234" column="64" />
