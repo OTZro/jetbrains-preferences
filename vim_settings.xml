@@ -120,42 +120,41 @@
     <filemarks>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/shipment-acct-wizard-data.service.ts" timestamp="1592914592629" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/hc-invoice.service.ts" timestamp="1592914458374" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/acct-wizard-service-factory.ts" timestamp="1592913033730" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/acct-wizard-data-service.interface.ts" timestamp="1592913497730" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/modal.service.ts" timestamp="1592917859586" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tools/hc-tools.component.ts" timestamp="1592917135843" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/warehouse-acct-wizard-data.service.ts" timestamp="1592916443497" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/directive.js" timestamp="1592916069372" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-shipment/manifest-agent-modal/manifest-agent-modal.component.ts" timestamp="1592918099422" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/types.ts" timestamp="1592913515973" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.html" timestamp="1592912426881">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/report.service.js" timestamp="1592916265065" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/print-invoice/tp-provider.directive.ts" timestamp="1592912585765" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1592915829174" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/report.service.ts" timestamp="1592915852353" />
-      <file name="/acct-wizard-view.component.ts" timestamp="1592912494264" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/shipment-tool.service.ts" timestamp="1592916004084" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.ts" timestamp="1592913398137">
-        <mark key="[" line="397" column="0" />
-        <mark key="]" line="397" column="0" />
-        <mark key="." line="397" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/report.service.ts" timestamp="1592917594241" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/modal-opener-interface.ts" timestamp="1592917973069">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/shipment-tool.service.ts" timestamp="1592918211266">
+        <mark key="[" line="385" column="16" />
+        <mark key="]" line="385" column="16" />
+        <mark key="." line="385" column="16" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/app.component.ts" timestamp="1592917361646" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/vs-acct-wizard-data.service.ts" timestamp="1592916501183" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/shared-accounting.module.ts" timestamp="1592912598645">
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="46" column="17" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/import_basic_entry/index.html" timestamp="1592915758054" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/print-invoice/print-invoice.component.ts" timestamp="1592915019216">
-        <mark key="[" line="73" column="71" />
-        <mark key="]" line="73" column="71" />
-        <mark key="." line="73" column="71" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/print-invoice/print-invoice.component.ts" timestamp="1592918036035">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="74" column="71" />
+        <mark key="." line="74" column="71" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/report.service.text_def.ts" timestamp="1592915449101">
         <mark key="[" line="50" column="52" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/app.component.html" timestamp="1592917208706" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/shipment-tool-angular-factory.ts" timestamp="1592918160921">
+        <mark key="[" line="99" column="9" />
+        <mark key="]" line="99" column="9" />
+        <mark key="." line="99" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -202,7 +201,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>buildPrintInvoiceModalOpener</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -332,7 +331,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>buildPrintInvoiceModalOpener</text>
       </register>
       <register name="m" type="4">
         <keys>
