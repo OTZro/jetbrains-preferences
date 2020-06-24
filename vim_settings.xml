@@ -134,11 +134,7 @@
         <mark key="]" line="37" column="108" />
         <mark key="." line="37" column="108" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/transaction/db_updater/depreciation.py" timestamp="1592965315828">
-        <mark key="[" line="80" column="28" />
-        <mark key="]" line="80" column="20" />
-        <mark key="." line="80" column="20" />
-      </file>
+      <file name="/acct_invoice_ar_accounting_wizard.html" timestamp="1592988064632" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1592968318114">
         <mark key="[" line="311" column="40" />
         <mark key="]" line="311" column="40" />
@@ -169,7 +165,12 @@
         <mark key="]" line="100" column="26" />
         <mark key="." line="100" column="26" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_accounting_wizard.html" timestamp="1592985081393" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_accounting_wizard.html" timestamp="1592988166707">
+        <mark key="[" line="36" column="74" />
+        <mark key="]" line="299" column="0" />
+        <mark key="^" line="339" column="24" />
+        <mark key="." line="299" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/print-invoice/print-mode.enum.ts" timestamp="1592981918916">
         <mark key="[" line="0" column="0" />
       </file>
@@ -236,7 +237,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHRyYWRlUGFydG5lckxpc3Q6IFRyYWRlUGFydG5lckludGVyZmFjZVtdID0gW107Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -366,7 +367,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AR</text>
+        <text>{{ hbl_no }}</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -424,19 +425,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHRyYWRlUGFydG5lckxpc3Q6IFRyYWRlUGFydG5lckludGVyZmFjZVtdID0gW107Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1lbnUucHVzaCh0aGlzLmFkZFByaW50SW52b2ljZVRvb2woKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y29sIGNsYXNzPSJ3LTUwIj48IS0tIEZyZWlnaHQgRGVzY3JpcHRpb24gLS0+CiAgICAgICAgICAgICAgICAgICAgPGNvbCBjbGFzcz0idy04Ij48IS0tIFZvbHVtZSAtLT4KICAgICAgICAgICAgICAgICAgICA8Y29sIGNsYXNzPSJ3LTEwIj48IS0tIFVuaXQgLS0+CiAgICAgICAgICAgICAgICAgICAgPGNvbCBjbGFzcz0idy04Ij48IS0tIEN1ciAtLT4KICAgICAgICAgICAgICAgICAgICA8Y29sIGNsYXNzPSJ3LTEyIj48IS0tIFJhdGUgLS0+CiAgICAgICAgICAgICAgICAgICAgPGNvbCBjbGFzcz0idy0xMiI+PCEtLSBBbW91bnQgLS0+Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1lbnUucHVzaCh0aGlzLmFkZERpdmlkZXIoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcHRpb25zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGggY2xhc3M9ImJvcmRlci1yIHRleHQtbGVmdCBjb2wtcGFkZGluZy1kb3VibGUiPgogICAgICAgICAgICAgICAgICAgICAgICB7eyBfKCdGUkVJR0hUIERFU0NSSVBUSU9OJykgfX0KICAgICAgICAgICAgICAgICAgICA8L3RoPgogICAgICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0iYm9yZGVyLXIgdGV4dC1yaWdodCBjb2wtcGFkZGluZy1kb3VibGUiPgogICAgICAgICAgICAgICAgICAgICAgICB7eyBfKCdWT0wuJykgfX0KICAgICAgICAgICAgICAgICAgICA8L3RoPgogICAgICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0iYm9yZGVyLXIgdGV4dC1jZW50ZXIgY29sLXBhZGRpbmctZG91YmxlIj4KICAgICAgICAgICAgICAgICAgICAgICAge3sgXygnVU5JVCcpIH19CiAgICAgICAgICAgICAgICAgICAgPC90aD4KICAgICAgICAgICAgICAgICAgICA8dGggY2xhc3M9ImJvcmRlci1yIHRleHQtY2VudGVyIGNvbC1wYWRkaW5nLWRvdWJsZSI+CiAgICAgICAgICAgICAgICAgICAgICAgIHt7IF8oJ0NVUi4nKSB9fQogICAgICAgICAgICAgICAgICAgIDwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRoIGNsYXNzPSJib3JkZXItciB0ZXh0LXJpZ2h0IGNvbC1wYWRkaW5nLWRvdWJsZSI+CiAgICAgICAgICAgICAgICAgICAgICAgIHt7IF8oJ1JBVEUnKSB9fQogICAgICAgICAgICAgICAgICAgIDwvdGg+CiAgICAgICAgICAgICAgICAgICAgPHRoIGNsYXNzPSJ0ZXh0LXJpZ2h0IGNvbC1wYWRkaW5nLWRvdWJsZSI+CiAgICAgICAgICAgICAgICAgICAgICAgIHt7IF8oJ0FNT1VOVCcpIH19ICh7eyBtYWluX2NjeS5tYWluX2NjeS5uYW1lIH19KQogICAgICAgICAgICAgICAgICAgIDwvdGg+Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -493,10 +494,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcHRpb25zKTsK</text>
+        <text encoding="base64">ICAgICAgbGV0IHRyYWRlUGFydG5lckxpc3Q6IFRyYWRlUGFydG5lckludGVyZmFjZVtdID0gW107Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcih0eXBlPSdTJykgXAo=</text>
+        <text encoding="base64">ICAgIG1lbnUucHVzaCh0aGlzLmFkZFByaW50SW52b2ljZVRvb2woKSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -523,7 +524,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIEludm9pY2VNb2RlKEVudW0pOgo=</text>
+        <text encoding="base64">ICAgIG1lbnUucHVzaCh0aGlzLmFkZERpdmlkZXIoKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -539,10 +540,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCEtLU1vZGFsIFByaW50IEludm9pY2UtLT4K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcHRpb25zKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvcHRpb25zKTsK</text>
       </register>
       <register name="y" type="4">
         <text />
