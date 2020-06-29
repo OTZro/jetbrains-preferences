@@ -169,9 +169,6 @@
         <mark key="]" line="2449" column="0" />
         <mark key="." line="2449" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_entry/app.component.html" timestamp="1593056519745">
-        <mark key="[" line="87" column="93" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/modal-opener-interface.ts" timestamp="1593142467335">
         <mark key="[" line="22" column="33" />
         <mark key="]" line="22" column="33" />
@@ -184,7 +181,11 @@
         <mark key="." line="19" column="43" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/tp-select-cell/tp-select-cell.component.ts" timestamp="1593056631169" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-basic/payment-plan-basic.component.ts" timestamp="1593056498744" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1593398740919">
+        <mark key="[" line="845" column="5" />
+        <mark key="]" line="845" column="5" />
+        <mark key="." line="845" column="5" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/shipment-tool-angular-factory.ts" timestamp="1593142439242">
         <mark key="[" line="108" column="19" />
         <mark key="]" line="108" column="19" />
@@ -236,8 +237,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxhbmd1YWdlID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKHNvdXJjZT0nY3VycmVudF9sYW5ndWFnZScpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJvcGVydHkKICAgIGRlZiBibF9ubyhzZWxmKToKICAgICAgICBpZiBzZWxmLmFzc2lnbl9oYmxfaWQ6CiAgICAgICAgICAgIHJldHVybiBzZWxmLmFzc2lnbl9oYmwuSEJMX05PCiAgICAgICAgaWYgc2VsZi5pbnZvaWNlLmhibF9pZDoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuaW52b2ljZS5oYmwuSEJMX05PCiAgICAgICAgaWYgc2VsZi5pbnZvaWNlLm1ibF9pZDoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuaW52b2ljZS5tYmwuTUJMX05PCiAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -424,17 +425,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGxhbmd1YWdlID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKHNvdXJjZT0nY3VycmVudF9sYW5ndWFnZScpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">cHJvcGVydHkKICAgIGRlZiBibF9ubyhzZWxmKToKICAgICAgICBpZiBzZWxmLmFzc2lnbl9oYmxfaWQ6CiAgICAgICAgICAgIHJldHVybiBzZWxmLmFzc2lnbl9oYmwuSEJMX05PCiAgICAgICAgaWYgc2VsZi5pbnZvaWNlLmhibF9pZDoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuaW52b2ljZS5oYmwuSEJMX05PCiAgICAgICAgaWYgc2VsZi5pbnZvaWNlLm1ibF9pZDoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuaW52b2ljZS5tYmwuTUJMX05PCiAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFt0cmFkZVBhcnRuZXJzJF0K</text>
+        <text encoding="base64">ICAgIGxhbmd1YWdlID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKHNvdXJjZT0nY3VycmVudF9sYW5ndWFnZScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTEFOR1VBR0VfU0VSVklDRV9UT0tFTiwgTGFuZ3VhZ2VTZXJ2aWNlIH0gZnJvbSAnTGliL2FuZ3VsYXIvY29yZS1zZXJ2aWNlcy9sYW5ndWFnZS5zZXJ2aWNlJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFt0cmFkZVBhcnRuZXJzJF0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHsgTEFOR1VBR0VfU0VSVklDRV9UT0tFTiwgTGFuZ3VhZ2VTZXJ2aWNlIH0gZnJvbSAnTGliL2FuZ3VsYXIvY29yZS1zZXJ2aWNlcy9sYW5ndWFnZS5zZXJ2aWNlJzsK</text>
@@ -494,10 +495,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTEFOR1VBR0VfU0VSVklDRV9UT0tFTiwgTGFuZ3VhZ2VTZXJ2aWNlIH0gZnJvbSAnTGliL2FuZ3VsYXIvY29yZS1zZXJ2aWNlcy9sYW5ndWFnZS5zZXJ2aWNlJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IExBTkdVQUdFX1NFUlZJQ0VfVE9LRU4gPSBuZXcgSW5qZWN0aW9uVG9rZW48SUxhbmd1YWdlU2VydmljZT4oJ2xhbmd1YWdlLXNlcnZpY2UnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -524,7 +525,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IExBTkdVQUdFX1NFUlZJQ0VfVE9LRU4gPSBuZXcgSW5qZWN0aW9uVG9rZW48SUxhbmd1YWdlU2VydmljZT4oJ2xhbmd1YWdlLXNlcnZpY2UnKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -540,10 +541,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsgcHJvdmlkZTogTEFOR1VBR0VfU0VSVklDRV9UT0tFTiwgdXNlQ2xhc3M6IExhbmd1YWdlU2VydmljZSB9LA==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsgcHJvdmlkZTogTEFOR1VBR0VfU0VSVklDRV9UT0tFTiwgdXNlQ2xhc3M6IExhbmd1YWdlU2VydmljZSB9LAo=</text>
+        <text encoding="base64">ICAgIHsgcHJvdmlkZTogTEFOR1VBR0VfU0VSVklDRV9UT0tFTiwgdXNlQ2xhc3M6IExhbmd1YWdlU2VydmljZSB9LA==</text>
       </register>
       <register name="y" type="4">
         <text />
