@@ -118,21 +118,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/shipment-acct-wizard-data.service.ts" timestamp="1593428750988" />
       <file name="$USER_HOME$/gofreight/fms/lib/util_env.py" timestamp="1593440629920" />
       <file name="$USER_HOME$/.pyenv/versions/fms/lib/python3.6/site-packages/environ/environ.py" timestamp="1593440878385" />
       <file name="$USER_HOME$/code/stock-analyze/docker/docker-compose.yml" timestamp="1593440804131">
         <mark key="[" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/basic_info/sz.py" timestamp="1593428921469">
-        <mark key="[" line="111" column="19" />
+      <file name="$USER_HOME$/.pyenv/versions/stock/lib/python3.8/site-packages/twstock/stock.py" timestamp="1593446272499" />
+      <file name="$USER_HOME$/code/stock-analyze/stock/main/models.py" timestamp="1593447548113">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/code/stock-analyze/stock/main/models.py" timestamp="1593445623863">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-      </file>
+      <file name="$USER_HOME$/.pyenv/versions/stock/lib/python3.8/site-packages/twstock/codes/codes.py" timestamp="1593446287448" />
       <file name="$USER_HOME$/gofreight/fms/requirements.txt" timestamp="1593440503439" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1593446846629" />
       <file name="$USER_HOME$/gofreight/fms/fms/settings/base.py" timestamp="1593440837353">
         <mark key="[" line="206" column="45" />
       </file>
@@ -141,40 +140,27 @@
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1593446019974">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/stock-analyze/.env" timestamp="1593440941386">
         <mark key="[" line="0" column="50" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/stock-analyze/stock/main/apps.py" timestamp="1593445135039" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.ts" timestamp="1593428632206">
-        <mark key="[" line="129" column="6" />
-        <mark key="]" line="178" column="11" />
-        <mark key="." line="178" column="10" />
-        <mark key="^" line="178" column="11" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1593445538643">
         <mark key="[" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/warehouse/entry/warehouse_shipment_accounting_wizard/app.component.html" timestamp="1593428273521">
-        <mark key="[" line="54" column="72" />
-        <mark key="]" line="80" column="70" />
-        <mark key="." line="80" column="70" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/importer/models.py" timestamp="1593445668607" />
+      <file name="$USER_HOME$/gofreight/fms/lib/defines.py" timestamp="1593447634875" />
+      <file name="$USER_HOME$/gofreight/fms/app/importer/models.py" timestamp="1593446755946" />
       <file name="$USER_HOME$/code/stock-analyze/stock/stock/settings.py" timestamp="1593445115362">
         <mark key="[" line="44" column="33" />
         <mark key="]" line="84" column="21" />
         <mark key="." line="84" column="21" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/shipment-data.service.ts" timestamp="1593428843256" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/freight-description-header/freight-description-header.ts" timestamp="1593428448579">
-        <mark key="[" line="67" column="3" />
-        <mark key="]" line="59" column="42" />
-        <mark key="." line="59" column="41" />
-        <mark key="^" line="59" column="42" />
-      </file>
       <file name="$USER_HOME$/code/stock-analyze/stock/manage.py" timestamp="1593440103877" />
+      <file name="$USER_HOME$/gofreight/fms/.gitignore" timestamp="1593447648559" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -221,7 +207,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>IntegerField</text>
+        <text>default=0</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -351,7 +337,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>IntegerField</text>
+        <text>default=0</text>
       </register>
       <register name="m" type="4">
         <keys>
