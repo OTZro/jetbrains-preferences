@@ -119,10 +119,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/types/user.type.ts" timestamp="1593397350077" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility_accounting.py" timestamp="1593403945716">
-        <mark key="[" line="75" column="49" />
-        <mark key="]" line="75" column="49" />
-        <mark key="." line="75" column="49" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility_accounting.py" timestamp="1593404706585">
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/excel/accounting_invoice.py" timestamp="1593399773478" />
       <file name="/Python Console" timestamp="1593402881930">
@@ -149,12 +148,12 @@
         <mark key="[" line="231" column="31" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting_managers.py" timestamp="1593399687055" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1593404192329">
-        <mark key="[" line="2503" column="28" />
-        <mark key="]" line="2503" column="47" />
-        <mark key="." line="2503" column="47" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1593404956452">
+        <mark key="[" line="2503" column="0" />
+        <mark key="]" line="2503" column="0" />
+        <mark key="." line="2503" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/invoice_target/target_field.py" timestamp="1593401636610">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/invoice_target/target_field.py" timestamp="1593404895302">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="6" column="14" />
         <mark key="^" line="6" column="14" />
@@ -166,8 +165,8 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/aging_report/collectors/invoice.py" timestamp="1593402087841" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/revenue_cost_report/views_report.py" timestamp="1593402809762" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1593404104898">
-        <mark key="[" line="849" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1593405258912">
+        <mark key="[" line="848" column="41" />
         <mark key="]" line="849" column="0" />
         <mark key="." line="849" column="0" />
       </file>
@@ -216,8 +215,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>self</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmFubm90YXRlKGJsX25vPUludm9pY2UudGFyZ2V0X0YoKS5ibF9ubykgXAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -347,7 +346,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>'bl_no': frt.bl_no if frt.bl_no else '',</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -405,19 +404,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuaW52b2ljZS5tYmwuTUJMX05PCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFubm90YXRlKGJsX25vPUludm9pY2UudGFyZ2V0X0YoKS5ibF9ubykgXAo=</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmludm9pY2UubWJsX2lkOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuaW52b2ljZS5oYmwuSEJMX05PCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuaW52b2ljZS5tYmwuTUJMX05PCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmludm9pY2UuaGJsX2lkOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmludm9pY2UubWJsX2lkOgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -474,19 +473,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuaW52b2ljZS5oYmwuSEJMX05PCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>Case(
-            When(hbl__isnull=False, then=Case(
-                When(hbl__type='OB', then=F('hbl__oe_info__booking_no')),
-                default=F('hbl__HBL_NO'),
-            )),
-            When(mbl__isnull=False, then=F('mbl__MBL_NO')),
-            When(warehouse__isnull=False, then=F('warehouse__order_no')),
-            When(is_general_expense=True, then=F('remark_hbl_no')),
-            default=Value(None)
-        )</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmludm9pY2UuaGJsX2lkOgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -512,8 +502,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHJvcGVydHkKICAgIGRlZiBibF9ubyhzZWxmKToKICAgICAgICBpZiBzZWxmLmFzc2lnbl9oYmxfaWQ6CiAgICAgICAgICAgIHJldHVybiBzZWxmLmFzc2lnbl9oYmwuSEJMX05PCiAgICAgICAgaWYgc2VsZi5pbnZvaWNlLmhibF9pZDoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuaW52b2ljZS5oYmwuSEJMX05PCiAgICAgICAgaWYgc2VsZi5pbnZvaWNlLm1ibF9pZDoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuaW52b2ljZS5tYmwuTUJMX05PCiAgICAgICAgcmV0dXJuIE5vbmUK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -528,11 +518,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxhbmd1YWdlID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKHNvdXJjZT0nY3VycmVudF9sYW5ndWFnZScpCg==</text>
+      <register name="8" type="4">
+        <text>Case(
+            When(hbl__isnull=False, then=Case(
+                When(hbl__type='OB', then=F('hbl__oe_info__booking_no')),
+                default=F('hbl__HBL_NO'),
+            )),
+            When(mbl__isnull=False, then=F('mbl__MBL_NO')),
+            When(warehouse__isnull=False, then=F('warehouse__order_no')),
+            When(is_general_expense=True, then=F('remark_hbl_no')),
+            default=Value(None)
+        )</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFt0cmFkZVBhcnRuZXJzJF0K</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHJvcGVydHkKICAgIGRlZiBibF9ubyhzZWxmKToKICAgICAgICBpZiBzZWxmLmFzc2lnbl9oYmxfaWQ6CiAgICAgICAgICAgIHJldHVybiBzZWxmLmFzc2lnbl9oYmwuSEJMX05PCiAgICAgICAgaWYgc2VsZi5pbnZvaWNlLmhibF9pZDoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuaW52b2ljZS5oYmwuSEJMX05PCiAgICAgICAgaWYgc2VsZi5pbnZvaWNlLm1ibF9pZDoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuaW52b2ljZS5tYmwuTUJMX05PCiAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="y" type="4">
         <text />
