@@ -120,6 +120,11 @@
     <filemarks>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/shipment-acct-wizard-data.service.ts" timestamp="1593492175021" />
       <file name="$USER_HOME$/.pyenv/versions/stock/lib/python3.8/site-packages/twstock/codes/twse_equities.csv" timestamp="1593452177541" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/billing-select-cell/billing-select-cell.component.html" timestamp="1593502083930">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/code/stock-analyze/stock/main/models.py" timestamp="1593452340691">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -130,17 +135,13 @@
         <mark key="]" line="57" column="38" />
         <mark key="." line="57" column="38" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/stock/lib/python3.8/site-packages/twstock/codes/codes.py" timestamp="1593451372244" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/app.component.ts" timestamp="1593499036915">
         <mark key="[" line="109" column="11" />
         <mark key="]" line="108" column="6" />
         <mark key="." line="108" column="6" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/management/commands/apply_csv.py" timestamp="1593485768153" />
-      <file name="/Python Console" timestamp="1593451303686">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.ts" timestamp="1593500580216">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.ts" timestamp="1593501913647">
         <mark key="[" line="180" column="4" />
         <mark key="]" line="178" column="8" />
         <mark key="." line="178" column="8" />
@@ -156,9 +157,6 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1593451308580">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/stock-analyze/stock/twse_equities.csv" timestamp="1593452750043">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="28" />
@@ -170,7 +168,12 @@
         <mark key="." line="77" column="65" />
         <mark key="^" line="77" column="66" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_accounting_wizard/app.component.ts" timestamp="1593497865659">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/billing-select-cell/billing-select-cell.component.ts" timestamp="1593501530168">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_accounting_wizard/app.component.ts" timestamp="1593502066676">
         <mark key="[" line="92" column="6" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/warehouse/entry/warehouse_shipment_accounting_wizard/app.component.ts" timestamp="1593497138242">
@@ -196,6 +199,7 @@
         <mark key="." line="54" column="66" />
         <mark key="^" line="124" column="85" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/utility/form-utility.ts" timestamp="1593501663434" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -241,8 +245,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>this.formGroup.get('languageStyle')?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uQ29udHJvbE5hbWU/OiBzdHJpbmc7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -372,7 +376,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this.formGroup.get('languageStyle')?</text>
+        <text>(change)=&quot;descriptionControl?.patchValue($event?.name || null)&quot;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -430,20 +434,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uQ29udHJvbE5hbWU/OiBzdHJpbmc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwYXJlbnRGb3JtR3JvdXAgPSB0aGlzLmZiLmdyb3VwKHsKICAgIGFySGJsQXJyYXk6IHRoaXMuYXJIYmxBcnJheSwKICAgIGFwSGJsQXJyYXk6IHRoaXMuYXBIYmxBcnJheSwKICB9KTs=</text>
+        <text encoding="base64">ICBkZXNjcmlwdGlvbkNvbnRyb2w/OiBGb3JtQ29udHJvbDsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>this.fb.array([])
-this.fb.array([])</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -499,11 +502,16 @@ this.fb.array([])</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>if (this.columnParams.descriptionControlName) {
+      this.descriptionControl = this.controlContainer.control!.get([
+        this.rowIndex.toString(),
+        this.columnParams.descriptionControlName,
+      ]) as FormControl;
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -530,7 +538,7 @@ this.fb.array([])</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -546,10 +554,10 @@ this.fb.array([])</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBwYXJlbnRGb3JtR3JvdXAgPSB0aGlzLmZiLmdyb3VwKHsKICAgIGFySGJsQXJyYXk6IHRoaXMuYXJIYmxBcnJheSwKICAgIGFwSGJsQXJyYXk6IHRoaXMuYXBIYmxBcnJheSwKICB9KTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiByb2xlPSJidXR0b24iPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
