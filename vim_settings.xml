@@ -118,11 +118,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-month.d.ts" timestamp="1593587140557" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/freight.service.ts" timestamp="1593597033156">
+        <mark key="[" line="130" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.text_def.ts" timestamp="1593591676525">
         <mark key="[" line="37" column="108" />
         <mark key="]" line="37" column="108" />
         <mark key="." line="37" column="108" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.html" timestamp="1593598146442">
+        <mark key="[" line="76" column="110" />
+        <mark key="]" line="76" column="110" />
+        <mark key="." line="76" column="110" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1593589870585">
         <mark key="[" line="92" column="33" />
@@ -130,44 +137,27 @@
         <mark key="." line="408" column="0" />
         <mark key="^" line="408" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/auto-complete-utility.ts" timestamp="1593591844000" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-action.component.ts" timestamp="1593578862013" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.html" timestamp="1593589719261">
-        <mark key="[" line="101" column="15" />
-        <mark key="]" line="101" column="15" />
-        <mark key="." line="101" column="15" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/freight-service/freight-description-language.service.ts" timestamp="1593598075851">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/auto-complete-utility.ts" timestamp="1593591844000" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/user.py" timestamp="1593597719317" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.ts" timestamp="1593598125933" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.text_def.ts" timestamp="1593590317677">
         <mark key="[" line="37" column="108" />
         <mark key="]" line="37" column="108" />
         <mark key="." line="37" column="108" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/freight-description-header/freight-description-header.ts" timestamp="1593598476112" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/accounting/report/agent_local_statement/agent_local_statement_log_list.component.js" timestamp="1593591764220" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/date-picker-cell/date-picker-cell.component.html" timestamp="1593588676475">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/static/metronic/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js" timestamp="1593587190809" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-directive/date-range-picker.directive.ts" timestamp="1593588134439">
-        <mark key="[" line="230" column="19" />
-        <mark key="]" line="224" column="19" />
-        <mark key="^" line="230" column="43" />
-        <mark key="." line="224" column="19" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/static/metronic/setTrackingUserEntry.html.erb" timestamp="1593587148353" />
-      <file name="/app.component.ts" timestamp="1593589850927" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/advance-tp-dialog/advance-tp-dialog.component.ts" timestamp="1593593299542">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/advance-tp-dialog/advance-tp-dialog.component.ts" timestamp="1593593345963">
         <mark key="[" line="65" column="12" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/date-picker-cell/date-picker-cell.component.ts" timestamp="1593588662459">
-        <mark key="[" line="86" column="14" />
-        <mark key="]" line="91" column="19" />
-        <mark key="^" line="91" column="19" />
-        <mark key="." line="91" column="18" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/edi/core/edi_target.py" timestamp="1593597468513" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1593590265117">
         <mark key="[" line="298" column="15" />
         <mark key="]" line="298" column="15" />
@@ -179,8 +169,19 @@
         <mark key="]" line="79" column="26" />
         <mark key="." line="79" column="26" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/billing-select-cell/billing-select-cell.component.ts" timestamp="1593598253511">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/company.py" timestamp="1593591756171" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.ts" timestamp="1593591867877">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/freight-service/freight.service.ts" timestamp="1593597131789">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+        <mark key="^" line="12" column="31" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.ts" timestamp="1593596681510">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="103" column="0" />
         <mark key="^" line="103" column="19" />
@@ -362,7 +363,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>onUpdate.next()</text>
+        <text>implements IHeaderAngularComp</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -426,13 +427,15 @@
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CkBDb21wb25lbnQoewogIHNlbGVjdG9yOiAnZnJlaWdodERlc2NyaXB0aW9uSGVhZGVyJywKICB0ZW1wbGF0ZTogYAogICAge3sgX1QuRlJFSUdIVF9ERVNDUklQVElPTiB9fQogICAgPGJ1dHRvbgogICAgICAoY2xpY2spPSJ0b2dnbGVGcmVpZ2h0RGVzY3JpcHRpb25TcmMoKSIKICAgICAgY2xhc3M9ImJ0biBidG4teHMgYnRuLWRlZmF1bHQgdG9vbHRpcHMiCiAgICAgIHR5cGU9ImJ1dHRvbiIKICAgICAgW25nYlRvb2x0aXBdPSJ0aXBDb250ZW50IgogICAgICBjb250YWluZXI9ImJvZHkiCiAgICAgIFthdXRvQ2xvc2VdPSJmYWxzZSIKICAgID4KICAgICAge3sgZ2V0RnJlaWdodERlc2NyaXB0aW9uU3JjQnRuVGV4dCgpIH19CiAgICA8L2J1dHRvbj4KICAgIDxuZy10ZW1wbGF0ZSAjdGlwQ29udGVudD57eyBnZXRGcmVpZ2h0RGVzY3JpcHRpb25TcmNCdG5Ub29sdGlwKCkgfX08L25nLXRlbXBsYXRlPgogIGAsCn0pCmV4cG9ydCBjbGFzcyBGcmVpZ2h0RGVzY3JpcHRpb25IZWFkZXIge30=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5vblNlYXJjaCgpOwo=</text>
+        <text encoding="base64">ICAgIGxhbmd1YWdlU3R5bGUkPzogT2JzZXJ2YWJsZTxzdHJpbmc+Owo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="4" type="4">
+        <text>{
+  providedIn: 'root',
+}</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -488,11 +491,16 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZWFyY2hGb3JtR3JvdXAucGF0Y2hWYWx1ZSh7IG9ubHlTYWxlc1BlcnNvbklzU2VsZjogdGhpcy5vbmx5U2FsZXNQZXJzb25Jc1NlbGYgfSk7Cg==</text>
+      <register name="5" type="4">
+        <text>this.gridEventService.customEventSubject.next({
+      type: ON_USER_CLICK_LANGUAGE_STYLE,
+      api: this.api,
+      columnApi: this.columnApi,
+      detail: this.languageStyle,
+    } as CustomGridEvent);</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLm9ubHlPZmZpY2VMaXN0KSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -519,7 +527,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHByaXZhdGUgc2V0dGluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -535,10 +543,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmdyaWRDb250YWluZXIuc2VuZFJlZnJlc2hDb2x1bW5EZW1hbmQoKTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5vblNlYXJjaCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text />
