@@ -118,17 +118,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.html" timestamp="1593590302374">
-        <mark key="[" line="80" column="15" />
-        <mark key="]" line="79" column="26" />
-        <mark key="." line="79" column="26" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/billing-select-cell/billing-select-cell.component.ts" timestamp="1593598253511">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.ts" timestamp="1593598760546">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.ts" timestamp="1593599172897">
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
@@ -148,26 +143,28 @@
         <mark key="]" line="76" column="110" />
         <mark key="." line="76" column="110" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1593590265117">
-        <mark key="[" line="298" column="15" />
-        <mark key="]" line="298" column="15" />
-        <mark key="." line="298" column="15" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.text_def.ts" timestamp="1593590317677">
         <mark key="[" line="37" column="108" />
         <mark key="]" line="37" column="108" />
         <mark key="." line="37" column="108" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/freight-service/freight-description-language-service-provider.directive.ts" timestamp="1593600015333">
+        <mark key="[" line="15" column="75" />
+        <mark key="]" line="14" column="63" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="14" column="63" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/freight-description-header/freight-description-header.ts" timestamp="1593598893616">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/freight-service/freight-description-language.service.ts" timestamp="1593598075851">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/freight-service/freight-description-language.service.ts" timestamp="1593600047850">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/print-invoice/tp-provider.directive.ts" timestamp="1593599967065" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/freight-service/freight.service.ts" timestamp="1593597131789">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="13" column="9" />
@@ -183,6 +180,7 @@
         <mark key="^" line="103" column="19" />
         <mark key="." line="103" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/app.component.ts" timestamp="1593598957650" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -228,8 +226,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50IH0gZnJvbSAnQGFuZ3VsYXIvY29yZSc7CmltcG9ydCB7IElIZWFkZXJBbmd1bGFyQ29tcCB9IGZyb20gJ2FnLWdyaWQtYW5ndWxhcic7CmltcG9ydCB7IElIZWFkZXJQYXJhbXMgfSBmcm9tICdhZy1ncmlkLWNvbW11bml0eSc7CmltcG9ydCB7IF9UIH0gZnJvbSAnTGliL2FuZ3VsYXIvc2hhcmVkLWFjY291bnRpbmcvZnJlaWdodC1kZXNjcmlwdGlvbi1oZWFkZXIvZnJlaWdodC1kZXNjcmlwdGlvbi1oZWFkZXIudGV4dF9kZWYnOwppbXBvcnQgeyBGcmVpZ2h0RGVzY3JpcHRpb25MYW5ndWFnZVNlcnZpY2UgfSBmcm9tICdMaWIvYW5ndWxhci9zaGFyZWQtYWNjb3VudGluZy9mcmVpZ2h0LXNlcnZpY2UvZnJlaWdodC1kZXNjcmlwdGlvbi1sYW5ndWFnZS5zZXJ2aWNlJzsKaW1wb3J0IHsgR3JpZEV2ZW50U2VydmljZSB9IGZyb20gJ0xpYi9hbmd1bGFyL3NoYXJlZC1hZy1ncmlkL2dyaWQtZXZlbnQtc2VydmljZSc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>useFactory</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -359,7 +357,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>implements IHeaderAngularComp</text>
+        <text>useFactory</text>
       </register>
       <register name="m" type="4">
         <keys>
