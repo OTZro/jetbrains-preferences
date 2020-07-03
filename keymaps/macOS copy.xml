@@ -5,6 +5,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.NavigateAction">

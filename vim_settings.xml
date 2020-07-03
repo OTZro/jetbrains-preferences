@@ -121,10 +121,6 @@
       <file name="/start_script.py" timestamp="1593699269232">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/wizard-utility/shipment-acct-wizard-data.service.ts" timestamp="1593687801230">
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="73" />
-      </file>
       <file name="/Python Console" timestamp="1593704780339">
         <mark key="[" line="0" column="0" />
       </file>
@@ -164,17 +160,11 @@
       <file name="/" timestamp="1593699124882">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/stock-analyze/stock/main/management/commands/fetch.py" timestamp="1593704772093">
-        <mark key="[" line="51" column="21" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="47" column="20" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1593687672908">
-        <mark key="[" line="362" column="61" />
-        <mark key="]" line="362" column="69" />
-        <mark key="." line="362" column="68" />
-        <mark key="^" line="362" column="69" />
+      <file name="$USER_HOME$/code/stock-analyze/stock/main/management/commands/fetch.py" timestamp="1593744270929">
+        <mark key="[" line="63" column="23" />
+        <mark key="]" line="30" column="16" />
+        <mark key="^" line="55" column="20" />
+        <mark key="." line="30" column="16" />
       </file>
       <file name="$USER_HOME$/code/stock-analyze/crawler_twstock.py" timestamp="1593697838906" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/app.component.ts" timestamp="1593688125370">
@@ -227,8 +217,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>next</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -358,7 +348,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>process_stock.code</text>
+        <text>next</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -425,10 +415,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChzdG9jay5yYXdfZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChzdG9jay5kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChzdG9jay5yYXdfZGF0YSkK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -485,12 +475,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc3RvY2suZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChzdG9jay5kYXRhKQo=</text>
       </register>
       <register name="6" type="2">
-        <text>from stock.main.models import Stock
-
-a = Stock()</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc3RvY2suZGF0YQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -516,8 +504,10 @@ a = Stock()</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">YXBwX2xhYmVsLCBtb2RlbF9uYW1lID0gb3B0aW9uc1snbW9kZWwnXS5zcGxpdCgnLicpCiAgICAgICAgZmlsZV9uYW1lID0gb3B0aW9uc1snZmlsZSddCiAgICAgICAgZHJ5X3J1biA9IG9wdGlvbnNbJ2RyeV9ydW4nXQogICAgICAgIGlnbm9yZV9maWVsZHMgPSBvcHRpb25zWydpZ25vcmVfZmllbGRzJ10gb3IgJycKICAgICAgICBpZ25vcmVfZmllbGRzID0gaWdub3JlX2ZpZWxkcy5zcGxpdCgnLCcpCgogICAgICAgIG1vZGVsID0gYXBwcy5nZXRfbW9kZWwoYXBwX2xhYmVsPWFwcF9sYWJlbCwgbW9kZWxfbmFtZT1tb2RlbF9uYW1lKQoKICAgICAgICBhcHBseV9hZGQgPSBvcHRpb25zWydhcHBseV9hZGQnXQogICAgICAgIGFwcGx5X2RlbGV0ZSA9IG9wdGlvbnNbJ2FwcGx5X2RlbGV0ZSddCiAgICAgICAgYXBwbHlfdXBkYXRlID0gb3B0aW9uc1snYXBwbHlfdXBkYXRlJ10KICAgICAgICBzZWxmLmFwcGx5X2Nzdihtb2RlbCwgZmlsZV9uYW1lLCBkcnlfcnVuLCBhcHBseV9hZGQsIGFwcGx5X2RlbGV0ZSwgYXBwbHlfdXBkYXRlLCBpZ25vcmVfZmllbGRzKQo=</text>
+      <register name="7" type="2">
+        <text>from stock.main.models import Stock
+
+a = Stock()</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -532,11 +522,11 @@ a = Stock()</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">YXBwX2xhYmVsLCBtb2RlbF9uYW1lID0gb3B0aW9uc1snbW9kZWwnXS5zcGxpdCgnLicpCiAgICAgICAgZmlsZV9uYW1lID0gb3B0aW9uc1snZmlsZSddCiAgICAgICAgZHJ5X3J1biA9IG9wdGlvbnNbJ2RyeV9ydW4nXQogICAgICAgIGlnbm9yZV9maWVsZHMgPSBvcHRpb25zWydpZ25vcmVfZmllbGRzJ10gb3IgJycKICAgICAgICBpZ25vcmVfZmllbGRzID0gaWdub3JlX2ZpZWxkcy5zcGxpdCgnLCcpCgogICAgICAgIG1vZGVsID0gYXBwcy5nZXRfbW9kZWwoYXBwX2xhYmVsPWFwcF9sYWJlbCwgbW9kZWxfbmFtZT1tb2RlbF9uYW1lKQoKICAgICAgICBhcHBseV9hZGQgPSBvcHRpb25zWydhcHBseV9hZGQnXQogICAgICAgIGFwcGx5X2RlbGV0ZSA9IG9wdGlvbnNbJ2FwcGx5X2RlbGV0ZSddCiAgICAgICAgYXBwbHlfdXBkYXRlID0gb3B0aW9uc1snYXBwbHlfdXBkYXRlJ10KICAgICAgICBzZWxmLmFwcGx5X2Nzdihtb2RlbCwgZmlsZV9uYW1lLCBkcnlfcnVuLCBhcHBseV9hZGQsIGFwcGx5X2RlbGV0ZSwgYXBwbHlfdXBkYXRlLCBpZ25vcmVfZmllbGRzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCdtb2RlbCcsIG1ldGF2YXI9J2FwcC5tb2RlbCcsIGhlbHA9J3RhcmdldCBtb2RlbCcpCiAgICAgICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnZmlsZScsIG1ldGF2YXI9J2Nzdl9maWxlJywgaGVscD0nY3N2IGZpbGUnKQogICAgICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZHJ5LXJ1bicsIGRlc3Q9J2RyeV9ydW4nLCBhY3Rpb249J3N0b3JlX3RydWUnLCBoZWxwPSdzaG93IHJlc3VsdCBvbmx5JykKICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLWFkZCcsIGRlc3Q9J2FwcGx5X2FkZCcsIGFjdGlvbj0nc3RvcmVfdHJ1ZScsIGhlbHA9J2FkZCBkYXRhIChpbiBhcHBseSBhY3Rpb24pJykKICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLWRlbGV0ZScsIGRlc3Q9J2FwcGx5X2RlbGV0ZScsIGFjdGlvbj0nc3RvcmVfdHJ1ZScsIGhlbHA9J2RlbGV0ZSBkYXRhIChpbiBhcHBseSBhY3Rpb24pJykKICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLXVwZGF0ZScsIGRlc3Q9J2FwcGx5X3VwZGF0ZScsIGFjdGlvbj0nc3RvcmVfdHJ1ZScsIGhlbHA9J3VwZGF0ZSBkYXRhIChpbiBhcHBseSBhY3Rpb24pJykKICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCctLWlnbm9yZS1maWVsZHMnLCBkZXN0PSdpZ25vcmVfZmllbGRzJywgZGVmYXVsdD1Ob25lLCBoZWxwPSdpZ25vcmUgZmllbGRzIGxpc3QsIHNlcGFyYXRlIGJ5IGAsYCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
