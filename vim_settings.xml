@@ -29,7 +29,6 @@
         <entry>:136</entry>
       </history-search>
       <history-cmd>
-        <entry>116</entry>
         <entry>238</entry>
         <entry>141</entry>
         <entry encoding="base64">JzwsJz4yMzk5</entry>
@@ -49,6 +48,7 @@
         <entry>2487</entry>
         <entry>w</entry>
         <entry>2498</entry>
+        <entry>304</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -119,6 +119,11 @@
     <globalmarks />
     <filemarks>
       <file name="/0030_v1_20_olc_0068_add_prepaid_rental_gl_code_to_company.py" timestamp="1594024119175" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/app.component.html" timestamp="1594031347586">
+        <mark key="[" line="76" column="21" />
+        <mark key="]" line="76" column="21" />
+        <mark key="." line="76" column="21" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_accounting_wizard.html" timestamp="1594020804887">
         <mark key="[" line="268" column="135" />
       </file>
@@ -136,17 +141,21 @@
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0068_add_prepaid_rental_gl_code_to_company.py" timestamp="1594024648946" />
       <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/utility.py" timestamp="1594024556849" />
       <file name="/sz.py" timestamp="1594024104009" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0069_add_prepaid_rental_gl_code_to_company.py" timestamp="1594024732211" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/document_email_sent_actions.py" timestamp="1594019620253" />
-      <file name="/utility.py" timestamp="1594024607606" />
-      <file name="/gl_mapping.py" timestamp="1594024086661" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1594018382925">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0069_add_prepaid_rental_gl_code_to_company.py" timestamp="1594027831970">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
+      <file name="/utility.py" timestamp="1594024607606" />
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_amortization_updater.py" timestamp="1594030962814">
+        <mark key="[" line="273" column="38" />
+        <mark key="]" line="134" column="26" />
+        <mark key="." line="134" column="26" />
+      </file>
+      <file name="/gl_mapping.py" timestamp="1594024086661" />
       <file name="/test_amortization_updater.py" timestamp="1594024517228" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1594024359084" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1594030775706" />
       <file name="/index.html" timestamp="1594024262198" />
       <file name="/company.py" timestamp="1594024144218" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar.html" timestamp="1594020619408" />
@@ -195,8 +204,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gcmV2aXNlIHRoaXMK</text>
+      <register name="&quot;" type="4">
+        <text>hcDepartmentMultiSelect</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -326,7 +335,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.getDate()</text>
+        <text>hcDepartmentMultiSelect</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -508,7 +517,7 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>2498</text>
+        <text>304</text>
       </register>
     </registers>
   </component>
