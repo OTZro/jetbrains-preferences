@@ -140,6 +140,11 @@
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/company/sz.py" timestamp="1593772411388">
         <mark key="[" line="39" column="24" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/test_amortization_updater.py" timestamp="1594006530299">
+        <mark key="[" line="134" column="26" />
+        <mark key="]" line="134" column="26" />
+        <mark key="." line="134" column="26" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/static/metronic/setCompanyEntry.html.erb" timestamp="1593774389207">
         <mark key="[" line="1100" column="0" />
         <mark key="]" line="1100" column="0" />
@@ -217,8 +222,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Vycl9kYXRlOiBPcHRpb25hbFtkYXRlXSA9IE5vbmUK</text>
+      <register name="&quot;" type="4">
+        <text>create_long_term_deferred_expense</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -348,7 +353,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>create_long_term_deferred_expense</text>
       </register>
       <register name="m" type="4">
         <keys>
