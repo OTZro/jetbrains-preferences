@@ -147,11 +147,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0069_add_prepaid_rental_gl_code_to_company.py" timestamp="1594096592689">
-        <mark key="[" line="20" column="129" />
-        <mark key="]" line="12" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0069_add_prepaid_rental_gl_code_to_company.py" timestamp="1594097267638">
+        <mark key="[" line="15" column="114" />
+        <mark key="]" line="15" column="114" />
         <mark key="^" line="24" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="." line="15" column="114" />
       </file>
       <file name="/multi_language.py" timestamp="1594094382110" />
       <file name="/utility.py" timestamp="1594024607606" />
@@ -215,7 +215,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>_prepaid</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -345,7 +345,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>_prepaid</text>
       </register>
       <register name="m" type="4">
         <keys>
