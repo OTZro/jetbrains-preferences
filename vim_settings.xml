@@ -29,9 +29,6 @@
         <entry>:136</entry>
       </history-search>
       <history-cmd>
-        <entry>141</entry>
-        <entry encoding="base64">JzwsJz4yMzk5</entry>
-        <entry>2399</entry>
         <entry>2424</entry>
         <entry>202</entry>
         <entry>140</entry>
@@ -49,6 +46,9 @@
         <entry>2498</entry>
         <entry>304</entry>
         <entry>2051</entry>
+        <entry>417</entry>
+        <entry>246</entry>
+        <entry>471</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,10 +118,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.pyenv/versions/fms/lib/python3.6/site-packages/django_extensions/management/commands/reset_db.py" timestamp="1594096223015" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1594116140285">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1594117407311">
         <mark key="[" line="2602" column="10" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/README.md" timestamp="1594117157768" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/app.component.ts" timestamp="1594113328278">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
@@ -140,11 +140,15 @@
         <mark key="]" line="16" column="14" />
         <mark key="." line="16" column="14" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/helpers.py" timestamp="1594117229703" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/rule.type.ts" timestamp="1594113247942">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="19" />
         <mark key="^" line="0" column="20" />
+      </file>
+      <file name="/Python Console" timestamp="1594117235452">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/department-filter.directive.ts" timestamp="1594113360551">
         <mark key="[" line="56" column="0" />
@@ -158,15 +162,8 @@
         <mark key="^" line="15" column="22" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0016_v1_9_0017_trade_partner_trade_party.py" timestamp="1594100781180" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/company/company_entry/index.html" timestamp="1594105911672" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-autocomplete-base/hc-autocomplete-base.component.ts" timestamp="1594111623815" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/company.py" timestamp="1594100740539">
-        <mark key="[" line="634" column="131" />
-        <mark key="]" line="634" column="118" />
-        <mark key="^" line="634" column="4" />
-        <mark key="." line="634" column="118" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-department-select/hc-department-select.component.ts" timestamp="1594113339112">
         <mark key="[" line="127" column="46" />
         <mark key="]" line="121" column="57" />
@@ -533,7 +530,7 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>2051</text>
+        <text>471</text>
       </register>
     </registers>
   </component>
