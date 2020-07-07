@@ -29,7 +29,6 @@
         <entry>:136</entry>
       </history-search>
       <history-cmd>
-        <entry>238</entry>
         <entry>141</entry>
         <entry encoding="base64">JzwsJz4yMzk5</entry>
         <entry>2399</entry>
@@ -49,6 +48,7 @@
         <entry>w</entry>
         <entry>2498</entry>
         <entry>304</entry>
+        <entry>2051</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,34 +118,42 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/0030_v1_20_olc_0068_add_prepaid_rental_gl_code_to_company.py" timestamp="1594024119175" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/app.component.html" timestamp="1594031347586">
         <mark key="[" line="76" column="21" />
         <mark key="]" line="76" column="21" />
         <mark key="." line="76" column="21" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/views/api.py" timestamp="1594031472497" />
+      <file name="/Python Console" timestamp="1594093881542">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1594024728491">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="/amortization.py" timestamp="1594024030680" />
-      <file name="/models.py" timestamp="1594023936620" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1594094903885">
+        <mark key="[" line="2451" column="15" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1594093417326" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0068_add_prepaid_rental_gl_code_to_company.py" timestamp="1594024648946" />
       <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1594090493368">
         <mark key="[" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/test/accounting/transaction/updater/utility.py" timestamp="1594024556849" />
-      <file name="/sz.py" timestamp="1594024104009" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0069_add_prepaid_rental_gl_code_to_company.py" timestamp="1594027831970">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/customize/multi_language.py" timestamp="1594093620171">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0069_add_prepaid_rental_gl_code_to_company.py" timestamp="1594095219675">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="/multi_language.py" timestamp="1594094382110" />
       <file name="/utility.py" timestamp="1594024607606" />
-      <file name="/gl_mapping.py" timestamp="1594024086661" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/prepaid_expanse/app.component.ts" timestamp="1594089339064">
         <mark key="[" line="161" column="39" />
         <mark key="]" line="160" column="0" />
@@ -201,8 +209,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>hcDepartmentMultiSelect</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -332,7 +340,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hcDepartmentMultiSelect</text>
+        <text>LANGUAGE_STYLE_DEFAULT</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -390,7 +398,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gcmV2aXNlIHRoaXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
@@ -399,10 +407,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuY29tbWVuY2VNaW5EYXRlTWFwcGluZ1tvZmZpY2VdID0gZ2V0RGF0ZUZyb21TZXJ2ZXJTdHIobGFzdEJsb2NrRGF0ZVN0cltvZmZpY2VdKTsK</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCB1bmljb2RlX2xpdGVyYWxzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Vycl9kYXRlOiBPcHRpb25hbFtkYXRlXSA9IE5vbmUK</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -459,7 +467,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGN1cnJfdGVybSBpbiByYW5nZSh0b3RhbF90ZXJtKToK</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8gcmV2aXNlIHRoaXMK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -489,7 +497,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuY29tbWVuY2VNaW5EYXRlTWFwcGluZ1tvZmZpY2VdID0gZ2V0RGF0ZUZyb21TZXJ2ZXJTdHIobGFzdEJsb2NrRGF0ZVN0cltvZmZpY2VdKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -505,16 +513,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGdldF90aGVfZGF5X29mX25leHRfbW9udGgoZGF5OiBkYXRlKSAtPiBkYXRlOgogICAgcmV0dXJuIGRheSArIHJlbGF0aXZlZGVsdGEucmVsYXRpdmVkZWx0YShtb250aHM9MSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3Vycl9kYXRlOiBPcHRpb25hbFtkYXRlXSA9IE5vbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGN1cnJfdGVybSBpbiByYW5nZSh0b3RhbF90ZXJtKToK</text>
       </register>
       <register name="y" type="4">
         <text />
       </register>
       <register name=":" type="4">
-        <text>304</text>
+        <text>2051</text>
       </register>
     </registers>
   </component>
