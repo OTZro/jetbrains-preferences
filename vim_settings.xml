@@ -133,7 +133,7 @@
         <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/fms/lib/python3.6/site-packages/django_extensions/management/commands/reset_db.py" timestamp="1594096223015" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1594094903885">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1594104478451">
         <mark key="[" line="2451" column="15" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1594093417326" />
@@ -147,15 +147,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0069_add_prepaid_rental_gl_code_to_company.py" timestamp="1594097267638">
-        <mark key="[" line="15" column="114" />
-        <mark key="]" line="15" column="114" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="15" column="114" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0069_add_prepaid_rental_gl_code_to_company.py" timestamp="1594101551329">
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="14" column="12" />
+        <mark key="^" line="15" column="22" />
+        <mark key="." line="14" column="12" />
       </file>
       <file name="/multi_language.py" timestamp="1594094382110" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0016_v1_9_0017_trade_partner_trade_party.py" timestamp="1594100781180" />
       <file name="/utility.py" timestamp="1594024607606" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/company.py" timestamp="1594099498641">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/company.py" timestamp="1594100740539">
         <mark key="[" line="634" column="131" />
         <mark key="]" line="634" column="118" />
         <mark key="^" line="634" column="4" />
@@ -166,7 +167,6 @@
         <mark key="]" line="160" column="0" />
         <mark key="." line="160" column="0" />
       </file>
-      <file name="/test_amortization_updater.py" timestamp="1594024517228" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/models.py" timestamp="1594030775706" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1594031425980" />
     </filemarks>
@@ -215,7 +215,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_prepaid</text>
+        <text>'</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -345,7 +345,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_prepaid</text>
+        <text>'</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -402,8 +402,10 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>RunSQL(
+            'ALTER TABLE freight_company DROP FOREIGN KEY gl_prepaid_expense_id'
+        ),</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
@@ -412,10 +414,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCB1bmljb2RlX2xpdGVyYWxzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCB1bmljb2RlX2xpdGVyYWxzCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -472,10 +474,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8gcmV2aXNlIHRoaXMK</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE8gcmV2aXNlIHRoaXMK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -502,7 +504,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuY29tbWVuY2VNaW5EYXRlTWFwcGluZ1tvZmZpY2VdID0gZ2V0RGF0ZUZyb21TZXJ2ZXJTdHIobGFzdEJsb2NrRGF0ZVN0cltvZmZpY2VdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -518,10 +520,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Vycl9kYXRlOiBPcHRpb25hbFtkYXRlXSA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuY29tbWVuY2VNaW5EYXRlTWFwcGluZ1tvZmZpY2VdID0gZ2V0RGF0ZUZyb21TZXJ2ZXJTdHIobGFzdEJsb2NrRGF0ZVN0cltvZmZpY2VdKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGN1cnJfdGVybSBpbiByYW5nZSh0b3RhbF90ZXJtKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3Vycl9kYXRlOiBPcHRpb25hbFtkYXRlXSA9IE5vbmUK</text>
       </register>
       <register name="y" type="4">
         <text />
