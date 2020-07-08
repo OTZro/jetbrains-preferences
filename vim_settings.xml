@@ -118,11 +118,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Python Console" timestamp="1594179241244">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/stock-analyze/Dockerfile" timestamp="1594176681499">
         <mark key="[" line="13" column="46" />
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="46" />
         <mark key="^" line="15" column="23" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1594179780741">
+        <mark key="[" line="2602" column="52" />
+        <mark key="]" line="2602" column="24" />
+        <mark key="." line="2602" column="24" />
       </file>
       <file name="$USER_HOME$/code/stock-analyze/docker/app/rootfs/etc/cont-init.d/20-run-deamon" timestamp="1594138828432">
         <mark key="[" line="2" column="0" />
@@ -155,8 +163,6 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="76" column="25" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/fms/settings/dev.py" timestamp="1594135497623" />
-      <file name="$USER_HOME$/gofreight/fms/fms/wsgi.py" timestamp="1594135655686" />
       <file name="$USER_HOME$/code/stock-analyze/docker/app/rootfs/etc/services.d/fetch/run" timestamp="1594177001555">
         <mark key="'" line="2" column="16" />
         <mark key="[" line="2" column="8" />
@@ -241,7 +247,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LS1leGNsdWRlPScuL2JpbicgJiYgdGFyIHh6ZiAvdG1wL3M2LW92ZXJsYXktYW1kNjQudGFyLmd6IC1DIC91c3IgLi9iaW4=</text>
+        <text>type</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -371,7 +377,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LS1leGNsdWRlPScuL2JpbicgJiYgdGFyIHh6ZiAvdG1wL3M2LW92ZXJsYXktYW1kNjQudGFyLmd6IC1DIC91c3IgLi9iaW4=</text>
+        <text>type</text>
       </register>
       <register name="m" type="4">
         <keys>
