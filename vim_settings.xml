@@ -124,41 +124,44 @@
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/choices.py" timestamp="1594194508960">
         <mark key="[" line="347" column="26" />
       </file>
-      <file name="$USER_HOME$/code/stock-analyze/Dockerfile" timestamp="1594176681499">
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-        <mark key="^" line="15" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/stock-analyze/docker/app/rootfs/etc/services.d/fetch/run" timestamp="1594195469993">
-        <mark key="'" line="2" column="16" />
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="8" />
-        <mark key="^" line="2" column="9" />
-        <mark key="." line="2" column="8" />
-      </file>
-      <file name="/" timestamp="1594195215107">
+      <file name="$USER_HOME$/code/stock-analyze/docker/app/rootfs/etc/services.d/web/start.sh" timestamp="1594198322281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1594195380490">
-        <mark key="[" line="1391" column="8" />
-        <mark key="]" line="1391" column="8" />
-        <mark key="." line="1391" column="8" />
+      <file name="$USER_HOME$/code/stock-analyze/docker/app/rootfs/etc/services.d/web/run" timestamp="1594198434484">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/code/stock-analyze/Dockerfile" timestamp="1594198409726">
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="36" column="25" />
+        <mark key="^" line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/stock-analyze/docker/app/rootfs/etc/services.d/fetch/run" timestamp="1594198437436">
+        <mark key="'" line="2" column="16" />
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="5" />
+      </file>
+      <file name="/" timestamp="1594196805598">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1594197996143">
+        <mark key="[" line="2583" column="12" />
+        <mark key="]" line="2583" column="12" />
+        <mark key="." line="2583" column="12" />
+        <mark key="^" line="2604" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/stock-analyze/start.sh" timestamp="1594198323435" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1594177341445">
         <mark key="[" line="37" column="38" />
         <mark key="]" line="16" column="14" />
         <mark key="." line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/code/stock-analyze/docker/app/rootfs/etc/cont-init.d/10-setup-crontab" timestamp="1594139028812">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/stock-analyze/docker/app/rootfs/etc/cont-init.d/20-run-deamon" timestamp="1594138828432">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/code/stock-analyze/cron.sh" timestamp="1594198392878">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1594195362582">
         <mark key="[" line="80" column="0" />
@@ -212,7 +215,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>fhaewuf</text>
+        <text>start</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -342,7 +345,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fhaewuf</text>
+        <text>start</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -399,20 +402,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>start
+start</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmZXdhPjxmZWY+PC9mZWY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Q01EICR7QVBQX1JPT1R9L3N0YXJ0LnNoCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWZfbm8gPSBzZWxmLl90YXJnZXQuYmxfbm8K</text>
+      <register name="4" type="4">
+        <text>freight['type'] in [ACCOUNTING_FREIGHT_TYPE_AR,
+                                   ACCOUNTING_FREIGHT_TYPE_CREDIT,
+                                   ACCOUNTING_FREIGHT_TYPE_REVENUE</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -468,11 +474,13 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>freight['type'] in [ACCOUNTING_FREIGHT_TYPE_AP,
+                                   ACCOUNTING_FREIGHT_TYPE_DEBIT,
+                                   ACCOUNTING_FREIGHT_TYPE_COST]</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmX25vID0gc2VsZi5fdGFyZ2V0LmhibF9ubwo=</text>
+        <text encoding="base64">L3Vzci9sb2NhbC9iaW4vcHl0aG9uIC9hcHAvbWFuYWdlLnB5IG1pZ3JhdGUgLS1ub2lucHV0Ci91c3IvbG9jYWwvYmluL3B5dGhvbiAvYXBwL21hbmFnZS5weSBydW5zZXJ2ZXIgMC4wLjAuMDo4MDAwIC0tc2V0dGluZ3M9c3RvY2suc2V0dGluZ3MK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -499,7 +507,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -515,10 +523,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2VsZi5fdGFyZ2V0LnR5cGUgPT0gJ1NoaXBtZW50JyBhbmQgc2VsZi5fdGFyZ2V0LmJsX3R5cGUgaW4gWydUSycsICdNUyddKSBvciBzZWxmLl90YXJnZXQuaGJsX25vID09ICcnOgo=</text>
+        <text encoding="base64">ICAgICAgICBmZXdhPjxmZWY+PC9mZWY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text />
