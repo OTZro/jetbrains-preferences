@@ -121,6 +121,7 @@
       <file name="/Python Console" timestamp="1594179241244">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/state.py" timestamp="1594188303726" />
       <file name="$USER_HOME$/code/stock-analyze/Dockerfile" timestamp="1594176681499">
         <mark key="[" line="13" column="46" />
         <mark key="]" line="13" column="46" />
@@ -129,8 +130,10 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1594180820728" />
       <file name="$USER_HOME$/gofreight/fms/lib/log/log_handlers/__init__.py" timestamp="1594186629441" />
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/amendment.py" timestamp="1594186696342">
-        <mark key="[" line="34" column="42" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/amendment.py" timestamp="1594188617494">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/code/stock-analyze/docker/app/rootfs/etc/cont-init.d/20-run-deamon" timestamp="1594138828432">
         <mark key="[" line="2" column="0" />
@@ -147,6 +150,7 @@
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/test/freight/jobflow/test_approval_setting.py" timestamp="1594188424789" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/core/state_manager.py" timestamp="1594181539107" />
       <file name="$USER_HOME$/code/stock-analyze/docker/app/rootfs/etc/services.d/fetch/run" timestamp="1594177001555">
         <mark key="'" line="2" column="16" />
@@ -155,19 +159,15 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/code/stock-analyze/.gitignore" timestamp="1594137471244">
-        <mark key="[" line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/code/stock-analyze/stock/main/management/commands/fetch.py" timestamp="1594138692262">
         <mark key="[" line="27" column="41" />
         <mark key="]" line="27" column="41" />
         <mark key="." line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/core/state.py" timestamp="1594186767812">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="55" column="20" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/core/state.py" timestamp="1594188314754">
+        <mark key="[" line="54" column="19" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1594177341445">
         <mark key="[" line="37" column="38" />
@@ -180,10 +180,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1594186646446">
-        <mark key="[" line="266" column="15" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1594188538993">
+        <mark key="[" line="150" column="66" />
+        <mark key="]" line="150" column="66" />
+        <mark key="." line="150" column="66" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/.gitignore" timestamp="1594137429010" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/core/action.py" timestamp="1594181671583" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1594177257148" />
     </filemarks>
@@ -233,7 +234,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGh0dHBfcmVxdWVzdF9jb250ZXh0OiBPcHRpb25hbFtIdHRwUmVxdWVzdENvbnRleHRdCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzbS5jb250ZXh0WydjYW5jZWxfdHlwZSddKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -363,7 +364,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>CANCEL</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -421,19 +422,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGh0dHBfcmVxdWVzdF9jb250ZXh0OiBPcHRpb25hbFtIdHRwUmVxdWVzdENvbnRleHRdCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzbS5jb250ZXh0WydjYW5jZWxfdHlwZSddKQo=</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSB0eXBpbmcgaW1wb3J0IFR5cGVkRGljdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGh0dHBfcmVxdWVzdF9jb250ZXh0OiBPcHRpb25hbFtIdHRwUmVxdWVzdENvbnRleHRdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAiJFNDSEVEVUxFICRTQ0hFRFVMRV9DTUQiIHwgY3JvbnRhYiAtCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -493,7 +494,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBDcm9uIEpvYiBlbnYKRU5WIFNDSEVEVUxFPSIwIDMgKiAqICoiCkVOViBTQ0hFRFVMRV9DTUQ9ImNkICR7QVBQX1JPT1R9OyAiCg==</text>
+        <text encoding="base64">ZWNobyAiJFNDSEVEVUxFICRTQ0hFRFVMRV9DTUQiIHwgY3JvbnRhYiAtCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -520,7 +521,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHl0aG9uIC4vbWFuYWdlLnB5IA==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -535,13 +536,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>migrate --noinput
-python ./manage.py runserver 0.0.0.0:8000 --settings=stock.settings</text>
+      <register name="8" type="2">
+        <text encoding="base64">IyBDcm9uIEpvYiBlbnYKRU5WIFNDSEVEVUxFPSIwIDMgKiAqICoiCkVOViBTQ0hFRFVMRV9DTUQ9ImNkICR7QVBQX1JPT1R9OyAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text>HOST_PORT=7001
-HOST_DOMAIN=0.0.0.0</text>
+        <text encoding="base64">cHl0aG9uIC4vbWFuYWdlLnB5IA==</text>
       </register>
       <register name="y" type="4">
         <text />
