@@ -118,22 +118,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1594179241244">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/stock-analyze/docker/app/rootfs/etc/services.d/web/start.sh" timestamp="1594198322281">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/stock-analyze/docker/app/rootfs/etc/services.d/web/run" timestamp="1594198434484">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/code/stock-analyze/Dockerfile" timestamp="1594198409726">
         <mark key="[" line="36" column="25" />
         <mark key="]" line="36" column="25" />
         <mark key="." line="36" column="25" />
         <mark key="^" line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1594201085072">
+        <mark key="[" line="1448" column="53" />
+        <mark key="]" line="1396" column="29" />
+        <mark key="." line="1396" column="29" />
+        <mark key="^" line="2599" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/stock-analyze/cron.sh" timestamp="1594198392878">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.text_def.ts" timestamp="1594203547428">
+        <mark key="[" line="19" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/stock-analyze/docker/app/rootfs/etc/services.d/web/run" timestamp="1594198434484">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/code/stock-analyze/docker/app/rootfs/etc/services.d/fetch/run" timestamp="1594198437436">
         <mark key="'" line="2" column="16" />
@@ -145,20 +154,17 @@
       <file name="/" timestamp="1594196805598">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1594201085072">
-        <mark key="[" line="1448" column="53" />
-        <mark key="]" line="1396" column="29" />
-        <mark key="." line="1396" column="29" />
-        <mark key="^" line="2599" column="27" />
-      </file>
       <file name="$USER_HOME$/code/stock-analyze/start.sh" timestamp="1594198323435" />
-      <file name="$USER_HOME$/code/stock-analyze/cron.sh" timestamp="1594198392878">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/requirements.txt" timestamp="1594202859389">
+        <mark key="[" line="95" column="13" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1594201624340">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/static/metronic/approvalCenter.html.erb" timestamp="1594203545571" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1594203532394">
+        <mark key="[" line="73" column="39" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -206,8 +212,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>mbl</text>
+      <register name="&quot;" type="2">
+        <text />
       </register>
       <register name="b" type="4">
         <keys>
@@ -395,19 +401,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2VsZi5fdGFyZ2V0LnR5cGUgPT0gJ1NoaXBtZW50JyBhbmQgc2VsZi5fdGFyZ2V0LmJsX3R5cGUgaW4gWydUSycsICdNUyddKSBvciBzZWxmLl90YXJnZXQuaGJsX25vID09ICcnOgogICAgICAgICAgICByZWZfbm8gPSBzZWxmLl90YXJnZXQubWJsX25vCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmVmX25vID0gc2VsZi5fdGFyZ2V0LmhibF9ubwoK</text>
+        <text />
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YW1xcD09Mi41LjAKYXBwZGlycz09MS40LjMKYXNnaXJlZj09My4yLjMKYXNuMWNyeXB0bz09MC4yMy4wCmF1dG9wZXA4PT0xLjQuNAphd3NjbGk9PTEuMTcuMTQKYmVhdXRpZnVsc291cDQ9PTQuNi4wCmJpbGxpYXJkPT0zLjUuMC4zCmJvdG8zPT0xLjExLjE0CmJvdG9jb3JlPT0xLjE0LjE0CmNhY2hlZC1wcm9wZXJ0eT09MS4zLjEKY2VsZXJ5PT00LjEuMApjZXJ0aWZpPT0yMDE3LjExLjUKY2ZmaT09MS4xMy4yCmNoYXJkZXQ9PTMuMC40CmNvbG9yYW1hPT0wLjQuMwpjb250ZXh0bGliMj09MC41LjUKY292ZXJhZ2U9PTQuNC4yCmNyeXB0b2dyYXBoeT09Mi43CmNzc3NlbGVjdD09MS4wLjEKY3NzdXRpbHM9PTEuMC4yCmRlZnVzZWR4bWw9PTAuNS4wCmRpY3QyeG1sPT0xLjYuMQpEamFuZ289PTMuMC4zCmRqYW5nby1hcHBjb25mPT0xLjAuMgpkamFuZ28tY29ycy1oZWFkZXJzPT0zLjIuMQpkamFuZ28tZGF0YWJhc2Utdmlldz09MC4xLjMKZGphbmdvLWRlYnVnLXRvb2xiYXI9PTIuMgpkamFuZ28tZW52aXJvbj09MC40LjUKZGphbmdvLWV4dGVuc2lvbnM9PTIuMi41CmRqYW5nby1mZXJuZXQtZmllbGRzPT0wLjYKZGphbmdvLWxpdmVyZWxvYWQtc2VydmVyPT0wLjMuMgpkamFuZ28tbXlzcWw9PTMuMy4wCmRqYW5nby1wYW5kYXM9PTAuNi4xCmRqYW5nby1yZWNhcHRjaGE9PTIuMC42CmRqYW5nby1yZWRpcz09NC4xMS4wCmRqYW5nby1zMy1zdG9yYWdlPT0wLjEzLjAKZGphbmdvLXNpbGs9PTQuMC4wCmRqYW5nby10ZXN0LXdpdGhvdXQtbWlncmF0aW9ucz09MC42CmRqYW5nb3Jlc3RmcmFtZXdvcms9PTMuMTEuMApkamFuZ29yZXN0ZnJhbWV3b3JrLWp3dD09MS4xMS4wCmRvY3V0aWxzPT0wLjE0CkVhc3lQcm9jZXNzPT0wLjIuMwplbGVtZW50cGF0aD09MS4xLjUKZW51bTM0PT0xLjEuNgpldC14bWxmaWxlPT0xLjAuMQpGYWtlcj09MC44LjcKZnVuY3NpZ3M9PTEuMC4yCmZ1dHVyZT09MC4xNy4xCmdlb2lwMj09Mi45LjAKZ3Byb2YyZG90PT0yMDE5LjExLjMwCmdyYXBodml6PT0wLjEzLjIKaWRuYT09Mi42CmltcG9ydGxpYi1tZXRhZGF0YT09MS41LjAKaW5mbGVjdD09Mi4xLjAKaXBhZGRyZXNzPT0xLjAuMTgKaXNvZGF0ZT09MC42LjAKamRjYWw9PTEuMwpKaW5qYTI9PTIuMTAKam1lc3BhdGg9PTAuOS40CmtvbWJ1PT00LjEuMApseG1sPT00LjQuMQpNYXJrdXBTYWZlPT0xLjAKbWF4bWluZGRiPT0xLjQuMQptb2NrPT0yLjAuMAptb2RlbC1tb21teT09Mi4wLjAKbXlzcWxjbGllbnQ9PTEuNC4yLnBvc3QxCm5ldGFkZHI9PTAuNy4xOQpuZXdyZWxpYz09My4yLjAuOTEKbnVtMndvcmRzPT0wLjUuNgpudW1weT09MS4xOS4wCm9hdXRobGliPT0yLjAuNgpvbGVmaWxlPT0wLjQ0Cm9wZW5weXhsPT0yLjQuOQpwYWNrYWdpbmc9PTE2LjgKcGFuZGFzPT0xLjAuNApwYXJhbWV0ZXJpemVkPT0wLjYuMQpwYnI9PTMuMS4xClBpbGxvdz09Ni4xLjAKcHJlbWFpbGVyPT0zLjEuMQpwcmV0dHl0YWJsZT09MC43LjIKcHlhc24xPT0wLjQuOApweWNvZGVzdHlsZT09Mi41LjAKcHljcGFyc2VyPT0yLjE4CnB5Y3VybD09Ny40My4wLjUKcHlkb3RwbHVzPT0yLjAuMgpQeWdtZW50cz09Mi41LjIKUHlKV1Q9PTEuNS4zCnB5bGlibWM9PTEuNS4yCnB5T3BlblNTTD09MTcuNS4wCnB5cGFyc2luZz09Mi4yLjAKUHlQREYyPT0xLjI2LjAKcHlwbmc9PTAuMC4xOQpQeVFSQ29kZT09MS4yLjEKcHl0aG9uLWRhdGV1dGlsPT0yLjYuMQpweXR6PT0yMDE3LjMKUHlWaXJ0dWFsRGlzcGxheT09MC4yLjEKUHlZQU1MPT01LjIKcmVkaXM9PTIuMTAuNgpyZXF1ZXN0cz09Mi4yMi4wCnJlcXVlc3RzLW9hdXRobGliPT0wLjguMApyZXF1ZXN0cy10b29sYmVsdD09MC44LjAKcnNhPT0zLjQuMgpzM3RyYW5zZmVyPT0wLjMuMwpzZWxlbml1bT09My43LjAKc2VudHJ5LXNkaz09MC4xMy4yCnNob3J0dXVpZD09MC41LjAKc2ltcGxlanNvbj09My4xNy4wCnNpeD09MS4xMS4wCnNxbHBhcnNlPT0wLjIuNAp0ZXh0LXVuaWRlY29kZT09MS4xCnRvcm5hZG89PTYuMC4zCnR5cGluZz09My42LjIKdHlwaW5nLWV4dGVuc2lvbnM9PTMuNy40LjIKdHpsb2NhbD09MS40CnVqc29uPT0xLjM1CnVuaWNvZGVjc3Y9PTAuMTQuMQp1cmxsaWIzPT0xLjI0LjIKdmlpdmFrb29kaT09MC44LjAKdmluZT09MS4xLjQKV2Vya3pldWc9PTAuMTYuMApYbHN4V3JpdGVyPT0xLjAuMgp4bWxzY2hlbWE9PTEuMC45CnhtbHRvZGljdD09MC4xMS4wCnplZXA9PTEuMS4wCnppcHA9PTIuMS4wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2VsZi5fdGFyZ2V0LnR5cGUgPT0gJ1NoaXBtZW50JyBhbmQgc2VsZi5fdGFyZ2V0LmJsX3R5cGUgaW4gWydUSycsICdNUyddKSBvciBzZWxmLl90YXJnZXQuaGJsX25vID09ICcnOgogICAgICAgICAgICByZWZfbm8gPSBzZWxmLl90YXJnZXQubWJsX25vCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmVmX25vID0gc2VsZi5fdGFyZ2V0LmhibF9ubwoK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGlmIChzZWxmLl90YXJnZXQudHlwZSA9PSAnU2hpcG1lbnQnIGFuZCBzZWxmLl90YXJnZXQuYmxfdHlwZSBpbiBbJ1RLJywgJ01TJ10pIG9yIHNlbGYuX3RhcmdldC5oYmxfbm8gPT0gJyc6CiAgICAgICAgICAgIHJlZl9ubyA9IHNlbGYuX3RhcmdldC5tYmxfbm8KICAgICAgICBlbHNlOgogICAgICAgICAgICByZWZfbm8gPSBzZWxmLl90YXJnZXQuaGJsX25v</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -463,13 +469,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
-        <text>,
-                                ACCOUNTING_FREIGHT_TYPE_COST</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="6" type="8">
-        <text>start
-start</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGlmIChzZWxmLl90YXJnZXQudHlwZSA9PSAnU2hpcG1lbnQnIGFuZCBzZWxmLl90YXJnZXQuYmxfdHlwZSBpbiBbJ1RLJywgJ01TJ10pIG9yIHNlbGYuX3RhcmdldC5oYmxfbm8gPT0gJyc6CiAgICAgICAgICAgIHJlZl9ubyA9IHNlbGYuX3RhcmdldC5tYmxfbm8KICAgICAgICBlbHNlOgogICAgICAgICAgICByZWZfbm8gPSBzZWxmLl90YXJnZXQuaGJsX25v</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -495,8 +499,9 @@ start</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>,
+                                ACCOUNTING_FREIGHT_TYPE_COST</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -511,13 +516,12 @@ start</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Q01EICR7QVBQX1JPT1R9L3N0YXJ0LnNoCg==</text>
+      <register name="8" type="8">
+        <text>start
+start</text>
       </register>
-      <register name="9" type="4">
-        <text>freight['type'] in [ACCOUNTING_FREIGHT_TYPE_AR,
-                                   ACCOUNTING_FREIGHT_TYPE_CREDIT,
-                                   ACCOUNTING_FREIGHT_TYPE_REVENUE</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
