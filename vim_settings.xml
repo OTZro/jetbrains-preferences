@@ -118,22 +118,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/views/api.py" timestamp="1594273589340" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/referencc.type.ts" timestamp="1594283473184">
         <mark key="[" line="12" column="25" />
         <mark key="]" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/currency/util.py" timestamp="1594277288178" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1594263866358">
-        <mark key="[" line="2601" column="8" />
-        <mark key="]" line="2601" column="10" />
-        <mark key="." line="2601" column="21" />
-        <mark key="^" line="2601" column="10" />
-      </file>
       <file name="/approvalCenter.html.erb" timestamp="1594283225324" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/cell-renderers/hc-pagination-list-col-text.ts" timestamp="1594288153481" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/rate_entry/rate-table/rate-table.component.ts" timestamp="1594287898178" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_list/app.component.html" timestamp="1594283132647" />
-      <file name="/accounting.py" timestamp="1594262652489" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1594288664774">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="/app.component.ts" timestamp="1594288208269" />
       <file name="/acctAmendment.html.erb" timestamp="1594286177219" />
       <file name="$USER_HOME$/gofreight/fms/requirements-base.txt" timestamp="1594281186532">
         <mark key="[" line="64" column="0" />
@@ -151,12 +151,11 @@
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1594280437199">
         <mark key="[" line="546" column="105" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/lib/rest_apiview.py" timestamp="1594273481776" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry_basic.html" timestamp="1594286604470" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1594287488702">
-        <mark key="[" line="72" column="220" />
-        <mark key="]" line="72" column="220" />
-        <mark key="." line="72" column="220" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1594288638421">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="16" />
+        <mark key="." line="74" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -204,8 +203,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>100</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -335,7 +334,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>ag-colspan-wrap</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -393,19 +392,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHlwaW5nLWV4dGVuc2lvbnM9PTMuNy40LjIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHlwaW5nLWV4dGVuc2lvbnM9PTMuNy40LjIK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdj8udmFsdWU/LmRldGFpbD8uYW1lbmRfYW1vdW50Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbmdfZXh0ZW5zaW9ucyBpbXBvcnQgVHlwZWREaWN0Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCEpIHsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -462,12 +461,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBsaWIubG9nLmxvZ19oYW5kbGVycyBpbXBvcnQgSHR0cFJlcXVlc3RDb250ZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="4">
-        <text>TypedDict('Context', {
-        'request': HttpRequestContext,
-    }, total=False)</text>
+        <text encoding="base64">aWYgKCFnZXRDb21wYW55U2V0dGluZygpLmlzX211bHRpX2NjeV9lbmFibGVkKSB7CiAgICAgICAgcmV0dXJuIHY/LnZhbHVlPy5kZXRhaWw/LmFtZW5kX2Ftb3VudDsKICAgICAgfQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -494,7 +491,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -510,10 +507,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dHlwaW5nLWV4dGVuc2lvbnM9PTMuNy40LjIK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Zm9yIGZyZWlnaHQgaW4gaW52LmZyZWlnaHRfaW5mb19zZXQ6CiAgICAgICAgICAgIGZyZWlnaHQuY3VycmVuY3lfaWQK</text>
+      <register name="9" type="2">
+        <text encoding="base64">dHlwaW5nLWV4dGVuc2lvbnM9PTMuNy40LjIK</text>
       </register>
       <register name="y" type="4">
         <text />
