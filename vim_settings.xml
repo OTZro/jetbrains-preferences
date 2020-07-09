@@ -132,25 +132,15 @@
         <mark key="^" line="2601" column="10" />
       </file>
       <file name="/approvalCenter.html.erb" timestamp="1594283225324" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/cell-renderers/hc-pagination-list-col-text.ts" timestamp="1594205864783" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_list/app.component.html" timestamp="1594283132647" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1594284109342">
-        <mark key="[" line="51" column="56" />
-        <mark key="]" line="62" column="13" />
-        <mark key="." line="62" column="13" />
-      </file>
       <file name="/accounting.py" timestamp="1594262652489" />
+      <file name="/acctAmendment.html.erb" timestamp="1594286177219" />
       <file name="$USER_HOME$/gofreight/fms/requirements-base.txt" timestamp="1594281186532">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/company.py" timestamp="1594274711562" />
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1594283058979">
-        <mark key="[" line="70" column="30" />
-        <mark key="]" line="70" column="30" />
-        <mark key="." line="70" column="30" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/gl_detail/views_report.py" timestamp="1594276985168" />
       <file name="$USER_HOME$/gofreight/fms/requirements.txt" timestamp="1594281179178">
         <mark key="[" line="96" column="0" />
@@ -162,11 +152,11 @@
         <mark key="[" line="546" column="105" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/lib/rest_apiview.py" timestamp="1594273481776" />
-      <file name="$USER_HOME$/gofreight/fms/static/metronic/approvalCenter.html.erb" timestamp="1594204787510" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1594283876612">
-        <mark key="[" line="72" column="95" />
-        <mark key="]" line="72" column="95" />
-        <mark key="." line="72" column="95" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry_basic.html" timestamp="1594286604470" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1594287488702">
+        <mark key="[" line="72" column="220" />
+        <mark key="]" line="72" column="220" />
+        <mark key="." line="72" column="220" />
       </file>
     </filemarks>
     <jumps>
@@ -215,7 +205,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>valueGetter</text>
+        <text>100</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -345,7 +335,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>valueGetter</text>
+        <text>100</text>
       </register>
       <register name="m" type="4">
         <keys>
