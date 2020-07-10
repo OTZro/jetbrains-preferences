@@ -118,31 +118,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1594350804422">
+      <file name="/Python Console" timestamp="1594351379450">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.js" timestamp="1594353617192">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/accounting/accounting_entry.py" timestamp="1594350251052" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/models.py" timestamp="1594350585446" />
       <file name="$USER_HOME$/gofreight/fms/lib/thirdparty_extend/rest/serializer.py" timestamp="1594350220866" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/utility.py" timestamp="1594349856839" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/utility.py" timestamp="1594351667076" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-animation/hc-slide-container/hc-slide-container.component.html" timestamp="1594293102885">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/modules.py" timestamp="1594350495798" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/modules.py" timestamp="1594351548860">
+        <mark key="[" line="7" column="27" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/app.component.html" timestamp="1594293114091">
         <mark key="[" line="88" column="83" />
         <mark key="]" line="88" column="83" />
         <mark key="." line="88" column="83" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1594350746234">
-        <mark key="[" line="163" column="105" />
-        <mark key="]" line="163" column="18" />
-        <mark key="^" line="163" column="18" />
-        <mark key="." line="163" column="17" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1594353717146">
+        <mark key="[" line="109" column="49" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/mbl_list/sz_ocean.py" timestamp="1594350272920" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/mbl_list/sz_ocean.py" timestamp="1594353436678" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1594288638421">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="16" />
@@ -197,8 +201,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>module</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -328,7 +332,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>module</text>
+        <text>data</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -386,16 +390,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBhbWVuZG1lbnRfcHJlcHJvY2VzcyhzZWxmKToK</text>
+      <register name="2" type="4">
+        <text>inv.freight_info_set.filter(currency_id=ccy.id) \
+                .aggregate(Sum('currency_amount'))['currency_amount__sum']</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBASW5wdXQoKSBjb250YWluZXJTdHlsZT86IHN0cmluZzsK</text>
+      <register name="3" type="4">
+        <text>.append({
+                'ccy_text'
+            })</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -455,10 +462,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBASW5wdXQoKSBjb250YWluZXJOZ0NsYXNzOgogICAgfCBzdHJpbmcKICAgIHwgc3RyaW5nW10KICAgIHwgU2V0PHN0cmluZz4KICAgIHwgewogICAgICAgIFtrbGFzczogc3RyaW5nXTogYW55OwogICAgICB9Ow==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICNtYmxTbGlkZXI=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -485,7 +492,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBhbWVuZG1lbnRfcHJlcHJvY2VzcyhzZWxmKToK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -501,10 +508,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBASW5wdXQoKSBjb250YWluZXJTdHlsZT86IHN0cmluZzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdj8udmFsdWU/LmRldGFpbD8uYW1lbmRfYW1vdW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
