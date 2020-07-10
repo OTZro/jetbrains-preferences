@@ -118,9 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1594351379450">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.js" timestamp="1594353617192">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,11 +138,11 @@
         <mark key="]" line="88" column="83" />
         <mark key="." line="88" column="83" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1594358815804">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="12" />
-        <mark key="." line="145" column="12" />
-        <mark key="^" line="135" column="52" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1594360826321">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+        <mark key="^" line="148" column="46" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/mbl_list/sz_ocean.py" timestamp="1594353436678" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1594288638421">
@@ -203,7 +200,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbmN5X2Ftb3VudF9tYXBbY2N5X2RhdGFbJ2ludm9pY2UnXV0gPSB7fQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -333,7 +330,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>None</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -391,19 +388,20 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbmN5X2Ftb3VudF9tYXBbY2N5X2RhdGFbJ2ludm9pY2UnXV0gPSB7fQo=</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyKCkudG9fcmVwcmVzZW50YXRpb24oam9iX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY2N5X2RhdGFbJ2ludm9pY2UnXSBub3QgaW4gY3VycmVuY3lfYW1vdW50X21hcDoK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjY3lfcmVwbyA9IEN1cnJlbmN5UmVwb3NpdG9yeSgpCg==</text>
+      <register name="3" type="8">
+        <text>['frt_currency_amount_map']
+['frt_currency_amount_map']</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlcHJvY2Vzc2luZ19kYXRhW21vZHVsZV0gPSBbXQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -460,10 +458,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmNvbnRleHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbW9kdWxlIGluIE1PRFVMRVM6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhX2xpc3QgPSBzdXBlcigpLnRvX3JlcHJlc2VudGF0aW9uKGpvYl9saXN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -490,7 +488,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -505,14 +503,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>inv.freight_info_set.filter(currency_id=ccy.id) \
-                .aggregate(Sum('currency_amount'))['currency_amount__sum']</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>.append({
-                'ccy_text'
-            })</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyKCkudG9fcmVwcmVzZW50YXRpb24oam9iX2xpc3QpCg==</text>
       </register>
       <register name="y" type="4">
         <text />
