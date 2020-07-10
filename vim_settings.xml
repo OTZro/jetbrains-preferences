@@ -141,10 +141,10 @@
         <mark key="]" line="88" column="83" />
         <mark key="." line="88" column="83" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1594353717146">
-        <mark key="[" line="109" column="49" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1594354624284">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/mbl_list/sz_ocean.py" timestamp="1594353436678" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1594288638421">
@@ -202,7 +202,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmNvbnRleHQpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -390,22 +390,20 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmNvbnRleHQpCg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhX2xpc3QgPSBzdXBlcigpLnRvX3JlcHJlc2VudGF0aW9uKGpvYl9saXN0KQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+      </register>
+      <register name="4" type="4">
         <text>inv.freight_info_set.filter(currency_id=ccy.id) \
                 .aggregate(Sum('currency_amount'))['currency_amount__sum']</text>
-      </register>
-      <register name="3" type="4">
-        <text>.append({
-                'ccy_text'
-            })</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -461,11 +459,13 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>.append({
+                'ccy_text'
+            })</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -492,7 +492,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBhbWVuZG1lbnRfcHJlcHJvY2VzcyhzZWxmKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -508,10 +508,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBASW5wdXQoKSBjb250YWluZXJTdHlsZT86IHN0cmluZzsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBhbWVuZG1lbnRfcHJlcHJvY2VzcyhzZWxmKToK</text>
       </register>
       <register name="y" type="4">
         <text />
