@@ -123,6 +123,11 @@
         <mark key="[" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/warehouse/models.py" timestamp="1594612079367" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/hbl_entry/api.py" timestamp="1594623902920">
+        <mark key="[" line="359" column="0" />
+        <mark key="]" line="360" column="0" />
+        <mark key="." line="358" column="35" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/basic_info/sz.py" timestamp="1594614108450" />
       <file name="$USER_HOME$/code/stock-analyze/stock/main/models.py" timestamp="1594442286414">
         <mark key="[" line="44" column="22" />
@@ -130,7 +135,7 @@
         <mark key="." line="44" column="22" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/freight-service/freight-description-language-service.directive.ts" timestamp="1594610256238" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/mbl_entry/api.py" timestamp="1594614073849">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/mbl_entry/api.py" timestamp="1594623220391">
         <mark key="[" line="118" column="57" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/fms/settings/base.py" timestamp="1594570127707" />
@@ -140,11 +145,6 @@
       </file>
       <file name="/Python Console" timestamp="1594614125765">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/vessel_schedule_accounting_wizard/app.component.html" timestamp="1594378143479">
-        <mark key="[" line="13" column="54" />
-        <mark key="]" line="12" column="42" />
-        <mark key="." line="12" column="42" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/vessel_schedule_accounting_wizard/app.component.ts" timestamp="1594378223082">
         <mark key="[" line="163" column="0" />
@@ -218,8 +218,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">XAogICAgJiYgYXBrIGRlbCBidWlsZC1iYXNl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -406,20 +406,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">XAogICAgJiYgYXBrIGRlbCBidWlsZC1iYXNl</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">XAogICAgJiYgYXBrIGRlbCBidWlsZC1iYXNl</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIGFwayB1cGRhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIGFwayBhZGQgY3Jvbgo=</text>
+        <text encoding="base64">UlVOIGFwayB1cGRhdGUK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -476,10 +476,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIGFwayBhZGQgY3Jvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -506,7 +506,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW0uaGlkZU1ibCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -522,10 +522,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5tYmxTbGlkZXIuaXNFeHBhbmQpIHsK</text>
+        <text encoding="base64">ICAgICAgcGFyYW0uaGlkZU1ibCA9IHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZnJvbUV2ZW50IH0gZnJvbSAncnhqcyc7Cg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5tYmxTbGlkZXIuaXNFeHBhbmQpIHsK</text>
       </register>
       <register name="y" type="4">
         <text />
