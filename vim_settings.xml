@@ -118,12 +118,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting_wizard.py" timestamp="1594707761397" />
       <file name="/a.dummy" timestamp="1594633762369">
         <mark key="[" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/invoice/handler.py" timestamp="1594707425479">
+        <mark key="[" line="97" column="18" />
+        <mark key="]" line="97" column="18" />
+        <mark key="." line="97" column="18" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1594700401139" />
       <file name="$USER_HOME$/gofreight/fms/app/importer/gets_ams/api.py" timestamp="1594634397776" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/hbl_entry/api.py" timestamp="1594698463924">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/hbl_entry/api.py" timestamp="1594707286692">
         <mark key="[" line="360" column="71" />
         <mark key="]" line="360" column="17" />
         <mark key="." line="360" column="17" />
@@ -144,9 +150,8 @@
         <mark key="[" line="129" column="67" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/test/importer/gets_ams/test_gets_ams_api.py" timestamp="1594634364838" />
-      <file name="$USER_HOME$/gofreight/fms/app/warehouse/urls.py" timestamp="1594630804309" />
       <file name="$USER_HOME$/gofreight/fms/app/importer/shipment_importer.py" timestamp="1594635198734" />
-      <file name="/Python Console" timestamp="1594636400688">
+      <file name="/Python Console" timestamp="1594707679740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/booking_shipment.py" timestamp="1594697714629" />
@@ -156,10 +161,6 @@
         <mark key="]" line="522" column="17" />
         <mark key="." line="522" column="17" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1594632812615">
-        <mark key="[" line="156" column="68" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/warehouse/views/entry.py" timestamp="1594630758180" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0075_office_invoice_freight_language_style_default_value.py" timestamp="1594633844283" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/booking/booking.py" timestamp="1594698809928">
         <mark key="[" line="56" column="48" />
@@ -167,6 +168,7 @@
         <mark key="^" line="55" column="23" />
         <mark key="." line="56" column="49" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1594707454645" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -215,8 +217,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>invoice_freight_</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -346,7 +348,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'local'</text>
+        <text>invoice_freight_</text>
       </register>
       <register name="m" type="4">
         <keys>
