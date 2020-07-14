@@ -118,22 +118,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@angular/common/common.d.ts" timestamp="1594719075133" />
-      <file name="/booking.py" timestamp="1594718401319" />
+      <file name="$USER_HOME$/gofreight/fms/fms/urls.py" timestamp="1594724099480" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/basic_info/sz.py" timestamp="1594724722246">
+        <mark key="[" line="59" column="63" />
+        <mark key="]" line="107" column="38" />
+        <mark key="^" line="37" column="49" />
+        <mark key="." line="107" column="38" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/data.service.js" timestamp="1594724104874" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/air/import_basic_entry/index.html" timestamp="1594722768763" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1594722832314">
-        <mark key="[" line="4127" column="26" />
-        <mark key="]" line="4130" column="54" />
-        <mark key="." line="4130" column="54" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1594724681354">
+        <mark key="[" line="4131" column="8" />
+        <mark key="]" line="4131" column="8" />
+        <mark key="." line="4131" column="8" />
         <mark key="^" line="4131" column="20" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/app.component.ts" timestamp="1594720943905">
         <mark key="[" line="543" column="0" />
         <mark key="]" line="543" column="0" />
         <mark key="." line="543" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1594718436347">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_basic_entry/index.html" timestamp="1594722295963" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/vessel_schedule_accounting_wizard/app.component.ts" timestamp="1594720301516">
@@ -145,13 +148,8 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/air/export_basic_entry/index.html" timestamp="1594722279024">
         <mark key="[" line="1126" column="107" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-animation/hc-slide-container/hc-slide-container.component.html" timestamp="1594718944945">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="38" />
-        <mark key="." line="0" column="37" />
-        <mark key="^" line="0" column="38" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/import_basic_entry/index.html" timestamp="1594722299906" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/types/shipment.type.ts" timestamp="1594724711979" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_accounting_wizard/app.component.html" timestamp="1594720197761">
         <mark key="'" line="19" column="93" />
         <mark key="[" line="14" column="69" />
@@ -180,6 +178,7 @@
         <mark key="." line="15" column="41" />
         <mark key="^" line="15" column="42" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1594723527401" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
