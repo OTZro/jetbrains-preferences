@@ -123,13 +123,12 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1594637840985" />
       <file name="$USER_HOME$/gofreight/fms/app/importer/gets_ams/api.py" timestamp="1594634397776" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/hbl_entry/api.py" timestamp="1594633958319">
-        <mark key="[" line="353" column="54" />
-        <mark key="]" line="363" column="0" />
-        <mark key="." line="361" column="35" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/hbl_entry/api.py" timestamp="1594698463924">
+        <mark key="[" line="360" column="71" />
+        <mark key="]" line="360" column="17" />
+        <mark key="." line="360" column="17" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/mbl_entry/sz_ocean.py" timestamp="1594635462727" />
-      <file name="/app.component.ts" timestamp="1594627332617" />
       <file name="$USER_HOME$/gofreight/fms/app/warehouse/views_rest/entry.py" timestamp="1594635589331">
         <mark key="[" line="129" column="8" />
         <mark key="]" line="129" column="8" />
@@ -138,8 +137,8 @@
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/mbl_entry/api.py" timestamp="1594633906696">
         <mark key="[" line="118" column="57" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/booking/booking_entry.py" timestamp="1594637724850">
-        <mark key="[" line="131" column="20" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/booking/booking_entry.py" timestamp="1594698068349">
+        <mark key="[" line="129" column="67" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/test/importer/gets_ams/test_gets_ams_api.py" timestamp="1594634364838" />
       <file name="$USER_HOME$/gofreight/fms/app/warehouse/urls.py" timestamp="1594630804309" />
@@ -147,6 +146,7 @@
       <file name="/Python Console" timestamp="1594636400688">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/booking_shipment.py" timestamp="1594697714629" />
       <file name="$USER_HOME$/gofreight/fms/test/importer/swb_xml/test_swb_xml_import.py" timestamp="1594635911341" />
       <file name="$USER_HOME$/gofreight/fms/app/importer/core/shipment_creators.py" timestamp="1594636392322">
         <mark key="[" line="522" column="17" />
@@ -159,7 +159,12 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/warehouse/views/entry.py" timestamp="1594630758180" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0075_office_invoice_freight_language_style_default_value.py" timestamp="1594633844283" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/booking/booking.py" timestamp="1594630161186" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/booking/booking.py" timestamp="1594698809928">
+        <mark key="[" line="56" column="48" />
+        <mark key="]" line="56" column="49" />
+        <mark key="^" line="55" column="23" />
+        <mark key="." line="56" column="49" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -209,7 +214,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Office.objects.get(id=hbl_data['office'])</text>
+        <text>None
+        if 'office_department' in data:
+            office = OfficeDepartment.objects.get(id=data['office_department']).office
+        if office:</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -339,7 +347,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Office.objects.get(id=hbl_data['office'])</text>
+        <text>'local'</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -396,20 +404,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>None
+        if 'office_department' in data:
+            office = OfficeDepartment.objects.get(id=data['office_department']).office
+        if office:</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">XAogICAgJiYgYXBrIGRlbCBidWlsZC1iYXNl</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIGFwayB1cGRhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2ZmaWNlID0gT2ZmaWNlLm9iamVjdHMuZ2V0KGlkPWRhdGFbJ29mZmljZSddKQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -466,7 +477,7 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIGFwayBhZGQgY3Jvbgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAnb2ZmaWNlJyBpbiBkYXRhOgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -496,7 +507,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -511,11 +522,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW0uaGlkZU1ibCA9IHRydWU7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">XAogICAgJiYgYXBrIGRlbCBidWlsZC1iYXNl</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5tYmxTbGlkZXIuaXNFeHBhbmQpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
