@@ -132,17 +132,18 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/air/import_basic_entry/index.html" timestamp="1594785229962">
         <mark key="[" line="563" column="112" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1594789366496">
-        <mark key="[" line="111" column="37" />
-        <mark key="]" line="2" column="12" />
-        <mark key="." line="2" column="12" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1594791106339">
+        <mark key="[" line="60" column="30" />
+        <mark key="]" line="64" column="17" />
+        <mark key="." line="64" column="16" />
+        <mark key="^" line="64" column="17" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1594784968281">
         <mark key="[" line="4133" column="8" />
         <mark key="]" line="4152" column="10" />
         <mark key="." line="4152" column="10" />
       </file>
-      <file name="/Python Console" timestamp="1594787203903">
+      <file name="/Python Console" timestamp="1594790075485">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_basic_entry/index.html" timestamp="1594785238113">
@@ -163,10 +164,10 @@
         <mark key="[" line="673" column="112" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/views/api.py" timestamp="1594786043590" />
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/module_serializer.py" timestamp="1594788317856">
-        <mark key="[" line="75" column="4" />
-        <mark key="]" line="46" column="37" />
-        <mark key="." line="46" column="37" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/module_serializer.py" timestamp="1594791019009">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/code/stock-analyze/stock/lib/pyalgotrade/barfeed/sqlfeed.py" timestamp="1594780792771">
         <mark key="[" line="51" column="0" />
@@ -229,8 +230,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KGpvYl9saXN0KQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -360,7 +361,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -417,21 +418,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="8">
-        <text>['ref']
-['ref']</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KGpvYl9saXN0KQo=</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdDYWxjdWxhdGU6JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnSW4gbGlzdCBzZXJpYWxpemVyJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ClNFUklBTElaRVJfTUFQID0gewogICAgTU9EVUxFX0FNRU5ETUVOVF9TVUJNSVQ6IEludm9pY2VSZWZlcmVuY2VTZXJpYWxpemVyLAp9Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -488,10 +488,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnRleHRbJ21vZHVsZSddID0gbW9kdWxlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW5zdGFuY2UpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -518,7 +518,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1aWItdG9vbHRpcD0iW1t2bS5nZXRDYW5jZWxNQkxUb29sdGlwKCldXSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ltIGhlcmUnKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -534,10 +534,11 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGluc3RhbmNlLCBKb2IpOmQK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdF9tYmxbJ2ludm9pY2VfZnJlaWdodF9sYW5ndWFnZV9zdHlsZSddID0gb2ZmaWNlLmludm9pY2VfZnJlaWdodF9sYW5ndWFnZV9zdHlsZV9kZWZhdWx0X3ZhbHVlCg==</text>
+      <register name="9" type="8">
+        <text>['ref']
+['ref']</text>
       </register>
       <register name="y" type="4">
         <text />
