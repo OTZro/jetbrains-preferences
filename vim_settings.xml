@@ -118,8 +118,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1594787898298">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1594791980579">
+        <mark key="[" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/code/stock-analyze/stock/main/models.py" timestamp="1594737902657">
         <mark key="[" line="44" column="22" />
@@ -132,10 +132,10 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/air/import_basic_entry/index.html" timestamp="1594785229962">
         <mark key="[" line="563" column="112" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1594791106339">
-        <mark key="[" line="60" column="30" />
-        <mark key="]" line="64" column="17" />
-        <mark key="." line="64" column="16" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/serializers.py" timestamp="1594792109844">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
         <mark key="^" line="64" column="17" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1594784968281">
@@ -231,7 +231,14 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGpvYl9saXN0KQo=</text>
+        <text>import json
+from collections import defaultdict
+from typing import List
+
+from rest_framework import serializers
+
+from app.freight.models import User, Invoice
+from app.freight.serializers import partial_keyname as kns</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -361,7 +368,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -419,19 +426,26 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGpvYl9saXN0KQo=</text>
+        <text>import json
+from collections import defaultdict
+from typing import List
+
+from rest_framework import serializers
+
+from app.freight.models import User, Invoice
+from app.freight.serializers import partial_keyname as kns</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdDYWxjdWxhdGU6JykK</text>
+        <text encoding="base64">ICAgIHByaW50KGpvYl9saXN0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnSW4gbGlzdCBzZXJpYWxpemVyJykK</text>
+        <text encoding="base64">ICAgIHByaW50KCdDYWxjdWxhdGU6JykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ClNFUklBTElaRVJfTUFQID0gewogICAgTU9EVUxFX0FNRU5ETUVOVF9TVUJNSVQ6IEludm9pY2VSZWZlcmVuY2VTZXJpYWxpemVyLAp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnSW4gbGlzdCBzZXJpYWxpemVyJykK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -488,10 +502,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnRleHRbJ21vZHVsZSddID0gbW9kdWxlCg==</text>
+        <text encoding="base64">ClNFUklBTElaRVJfTUFQID0gewogICAgTU9EVUxFX0FNRU5ETUVOVF9TVUJNSVQ6IEludm9pY2VSZWZlcmVuY2VTZXJpYWxpemVyLAp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW5zdGFuY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnRleHRbJ21vZHVsZSddID0gbW9kdWxlCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -518,7 +532,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ltIGhlcmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW5zdGFuY2UpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -534,11 +548,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGluc3RhbmNlLCBKb2IpOmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ltIGhlcmUnKQo=</text>
       </register>
-      <register name="9" type="8">
-        <text>['ref']
-['ref']</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGluc3RhbmNlLCBKb2IpOmQK</text>
       </register>
       <register name="y" type="4">
         <text />
