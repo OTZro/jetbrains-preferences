@@ -121,12 +121,7 @@
       <file name="/a.dummy" timestamp="1594791980579">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="/" timestamp="1594781800537">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import_shipment.py" timestamp="1594794845853">
-        <mark key="[" line="2063" column="0" />
-      </file>
+      <file name="/0030_v1_20_olc_0075_office_invoice_freight_language_style_default_value.py" timestamp="1594797976083" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/air/import_basic_entry/index.html" timestamp="1594785229962">
         <mark key="[" line="563" column="112" />
       </file>
@@ -136,10 +131,8 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1594784968281">
-        <mark key="[" line="4133" column="8" />
-        <mark key="]" line="4152" column="10" />
-        <mark key="." line="4152" column="10" />
+      <file name="/Clipboard.txt" timestamp="1594797762119">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1594790075485">
         <mark key="[" line="0" column="0" />
@@ -153,28 +146,27 @@
         <mark key="." line="1128" column="88" />
         <mark key="^" line="1128" column="89" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/views_ocean.py" timestamp="1594783035171">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/oi_arrival_notice_olc.html" timestamp="1594796314549" />
+      <file name="/api.py" timestamp="1594798114901" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice_olc.html" timestamp="1594797725579">
+        <mark key="[" line="302" column="0" />
+        <mark key="]" line="302" column="0" />
+        <mark key="." line="302" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/import_basic_entry/index.html" timestamp="1594785247113">
         <mark key="[" line="673" column="112" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/views/api.py" timestamp="1594786043590" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/oi_arrival_notice.html" timestamp="1594796344908" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/module_serializer.py" timestamp="1594791019009">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/translator/isf_to_shipment.py" timestamp="1594782228976" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.text_def.js" timestamp="1594784524344">
-        <mark key="[" line="282" column="4" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/ai_arrival_notice.html" timestamp="1594796278366" />
       <file name="/Dummy.txt" timestamp="1594789428227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/hbl_entry/sz_ocean.py" timestamp="1594782395402" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -224,14 +216,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text>import json
-from collections import defaultdict
-from typing import List
-
-from rest_framework import serializers
-
-from app.freight.models import User, Invoice
-from app.freight.serializers import partial_keyname as kns</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -419,26 +404,19 @@ from app.freight.serializers import partial_keyname as kns</text>
         </keys>
       </register>
       <register name="1" type="2">
-        <text>import json
-from collections import defaultdict
-from typing import List
-
-from rest_framework import serializers
-
-from app.freight.models import User, Invoice
-from app.freight.serializers import partial_keyname as kns</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGpvYl9saXN0KQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZCBib3JkZXItYiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRpdGxlIj5QTEFDRSBPRiBERUxJVkVSWTwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkYXRhIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Iml0ZW0tZWRpdCI+e3sgZm9ybS5ERUxfbG9jYXRpb24gfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Iml0ZW0tcGRmIGF1dG8tZm9udC1zaXplIF9fd2lkdGgtbWQiPnt7IGZvcm0uREVMX2xvY2F0aW9uIHwgYXNfcGRmIH19PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPiZuYnNwOzwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZCBib3JkZXItYiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRpdGxlIj5ERUxJVkVSWSBFVEE8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZGF0YSI+e3sgaGJsLkRFVEEgfCBmb3JtX2RhdGUgfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRkIGJvcmRlci1iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGl0bGUiPkZJTkFMIERFU1RJTkFUSU9OPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRhdGEiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaXRlbS1lZGl0Ij57eyBmb3JtLkZERVNUX2xvY2F0aW9uIH19PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpdGVtLXBkZiBhdXRvLWZvbnQtc2l6ZSBfX3dpZHRoLW1kIj57eyBmb3JtLkZERVNUX2xvY2F0aW9uIHwgYXNfcGRmIH19PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ3LTIiPiZuYnNwOzwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZCBib3JkZXItYiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRpdGxlIj5GLkRFU1QgRVRBPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRhdGEiPnt7IGhibC5GRVRBIHwgZm9ybV9kYXRlIH19PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdHI+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdDYWxjdWxhdGU6JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnSW4gbGlzdCBzZXJpYWxpemVyJykK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IDxkaXYgY2xhc3M9InRpdGxlIj5QTEFDRSBPRiBSRUNFSVBUPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRhdGEiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaXRlbS1wZGYgYXV0by1mb250LXNpemUgX193aWR0aC1tZCI+e3sgZm9ybS5QT1JfbG9jYXRpb24gfCBhc19wZGYgfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Iml0ZW0tZWRpdCI+e3sgZm9ybS5QT1JfbG9jYXRpb24gfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+Jm5ic3A7PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRkIGJvcmRlci1iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGl0bGUiPkVURDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkYXRhIj57eyBoYmwubWJsLlBPUl9FVEQgfCBmb3JtX2RhdGUgfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRkIGJvcmRlci1iIj4=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -495,10 +473,10 @@ from app.freight.serializers import partial_keyname as kns</text>
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ClNFUklBTElaRVJfTUFQID0gewogICAgTU9EVUxFX0FNRU5ETUVOVF9TVUJNSVQ6IEludm9pY2VSZWZlcmVuY2VTZXJpYWxpemVyLAp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbnRleHRbJ21vZHVsZSddID0gbW9kdWxlCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">PHRkIGNsYXNzPSJ3LTIiPiZuYnNwOzwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZCB3LTQ5IGJvcmRlci1iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGl0bGUiPlNVQiBCL0wgTk8uPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRhdGEiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaXRlbS1wZGYgYXV0by1mb250LXNpemUgX193aWR0aC1zbSI+e3sgZm9ybS5zdWJfYmxfbm8gfCBhc19wZGYgfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Iml0ZW0tZWRpdCI+e3sgZm9ybS5zdWJfYmxfbm8gfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -525,7 +503,7 @@ from app.freight.serializers import partial_keyname as kns</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW5zdGFuY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -540,11 +518,11 @@ from app.freight.serializers import partial_keyname as kns</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ltIGhlcmUnKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0idGl0bGUiPkFNUyBCL0wgTk8uPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRhdGEiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaXRlbS1wZGYgYXV0by1mb250LXNpemUgX193aWR0aC1zbSI+e3sgZm9ybS5BTVNfTk8gfCBhc19wZGYgfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Iml0ZW0tZWRpdCI+e3sgZm9ybS5BTVNfTk8gfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InctMiI+Jm5ic3A7PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRkIGJvcmRlci1iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGl0bGUiPklTRiBOTy48L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZGF0YSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpdGVtLXBkZiBhdXRvLWZvbnQtc2l6ZSBfX3dpZHRoLXNtIj57eyBmb3JtLklTRl9OTyB8IGFzX3BkZiB9fTwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaXRlbS1lZGl0Ij57eyBmb3JtLklTRl9OTyB9fTwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRkIHctNDkgYm9yZGVyLWIiPg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGluc3RhbmNlLCBKb2IpOmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRhYmxlIGNsYXNzPSJtYXJnaW4tdC1zbSBkYXRhLWxnIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjb2xncm91cD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Y29sIGNsYXNzPSJ3LTI1Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Y29sIGNsYXNzPSJ3LTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjb2wgY2xhc3M9InctNTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjb2wgY2xhc3M9InctMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGNvbCBjbGFzcz0idy0yMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2NvbGdyb3VwPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGQgaGlnaGxpZ2h0LWJsb2NrIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGl0bGUiPkkuVC4gTk8uPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRhdGEiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYXV0by1mb250LXNpemUgX193aWR0aC1pdC1ubyI+PHNwYW4+e3sgaGJsLml0X25vIHwgZW1wdHkyc3BhY2UgfX08L3NwYW4+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPiZuYnNwOzwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZCBoaWdobGlnaHQtYmxvY2siPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0aXRsZSI+SS5ULiBQTEFDRTwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkYXRhIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImF1dG8tZm9udC1zaXplIF9fd2lkdGgtaXQtbG9jYXRpb24iPjxzcGFuPnt7IGhibC5pdF9pc3N1ZV9sb2NhdGlvbiB8IGVtcHR5MnNwYWNlIH19PC9zcGFuPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4mbmJzcDs8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGQgaGlnaGxpZ2h0LWJsb2NrIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGl0bGUiPkkuVC4gREFURTwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkYXRhIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImF1dG8tZm9udC1zaXplIF9fd2lkdGgtZGF0ZSI+PHNwYW4+e3sgaGJsLml0X2RhdGUgfCBmb3JtX2RhdGUgfX08L3NwYW4+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjb2xzcGFuPSI1Ij4mbmJzcDs8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRkIGhpZ2hsaWdodC1ibG9jayI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRpdGxlIj5BVkFJTEFCTEUgREFURTwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkYXRhIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Iml0ZW0tcGRmIGF1dG8tZm9udC1zaXplIF9fd2lkdGgtZGF0ZSI+PHNwYW4+e3sgZm9ybS5hdmFpbGFibGVfZGF0ZSB8IGFzX3BkZiB9fTwvc3Bhbj48L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Iml0ZW0tZWRpdCI+e3sgZm9ybS5hdmFpbGFibGVfZGF0ZSB9fTwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4mbmJzcDs8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGQgaGlnaGxpZ2h0LWJsb2NrIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGl0bGUiPkxBU1QgRlJFRSBEQVRFPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRhdGEiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaXRlbS1wZGYgYXV0by1mb250LXNpemUgX193aWR0aC1pdC1sb2NhdGlvbiI+PHNwYW4+e3sgZm9ybS5sYXN0X2ZyZWVfZGF0ZSB8IGFzX3BkZiB9fTwvc3Bhbj48L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Iml0ZW0tZWRpdCI+e3sgZm9ybS5sYXN0X2ZyZWVfZGF0ZSB9fTwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4mbmJzcDs8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGQgaGlnaGxpZ2h0LWJsb2NrIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idGl0bGUiPkcuTy4gREFURTwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkYXRhIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Iml0ZW0tcGRmIGF1dG8tZm9udC1zaXplIF9fd2lkdGgtZGF0ZSI+PHNwYW4+e3sgZm9ybS5nb3Zlcm5tZW50X29mZmljZV9kYXRlIHwgYXNfcGRmIH19PC9zcGFuPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaXRlbS1lZGl0Ij57eyBmb3JtLmdvdmVybm1lbnRfb2ZmaWNlX2RhdGUgfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdGFibGU+Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
