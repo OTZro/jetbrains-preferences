@@ -163,10 +163,10 @@
         <mark key="]" line="63" column="44" />
         <mark key="." line="63" column="44" />
       </file>
-      <file name="$USER_HOME$/code/stock-analyze/stock/lib/pyalgotrade/barfeed/sqlfeed.py" timestamp="1594738096848">
-        <mark key="[" line="42" column="96" />
-        <mark key="]" line="42" column="47" />
-        <mark key="." line="42" column="47" />
+      <file name="$USER_HOME$/code/stock-analyze/stock/lib/pyalgotrade/barfeed/sqlfeed.py" timestamp="1594780792771">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/code/stock-analyze/stock/main/management/commands/fetch.py" timestamp="1594736302118">
         <mark key="[" line="73" column="31" />
@@ -222,8 +222,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>bar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -353,7 +353,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bar</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -411,21 +411,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="4">
-        <text>sql = &quot;select bar.timestamp, bar.open, bar.high, bar.low, bar.close, bar.volume, bar.adj_close, bar.frequency&quot; \
-              &quot; from bar join instrument on (bar.instrument_id = instrument.instrument_id)&quot; \
-              &quot; where instrument.name = ? and bar.frequency = ?&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX2RiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBkZWYgX19maW5kSW5zdHJ1bWVudElkKHNlbGYsIGluc3RydW1lbnQpOgogICAgICAgIGN1cnNvciA9IHNlbGYuX19jb25uZWN0aW9uLmN1cnNvcigpCiAgICAgICAgc3FsID0gInNlbGVjdCBpbnN0cnVtZW50X2lkIGZyb20gaW5zdHJ1bWVudCB3aGVyZSBuYW1lID0gPyIKICAgICAgICBjdXJzb3IuZXhlY3V0ZShzcWwsIFtpbnN0cnVtZW50XSkKICAgICAgICByZXQgPSBjdXJzb3IuZmV0Y2hvbmUoKQogICAgICAgIGlmIHJldCBpcyBub3QgTm9uZToKICAgICAgICAgICAgcmV0ID0gcmV0WzBdCiAgICAgICAgY3Vyc29yLmNsb3NlKCkKICAgICAgICByZXR1cm4gcmV0CgogICAgZGVmIF9fYWRkSW5zdHJ1bWVudChzZWxmLCBpbnN0cnVtZW50KToKICAgICAgICByZXQgPSBzZWxmLl9fY29ubmVjdGlvbi5leGVjdXRlKCJpbnNlcnQgaW50byBpbnN0cnVtZW50IChuYW1lKSB2YWx1ZXMgKD8pIiwgW2luc3RydW1lbnRdKQogICAgICAgIHJldHVybiByZXQubGFzdHJvd2lkCgogICAgZGVmIF9fZ2V0T3JDcmVhdGVJbnN0cnVtZW50KHNlbGYsIGluc3RydW1lbnQpOgogICAgICAgICMgVHJ5IHRvIGdldCB0aGUgaW5zdHJ1bWVudCBpZCBmcm9tIHRoZSBjYWNoZS4KICAgICAgICByZXQgPSBzZWxmLl9faW5zdHJ1bWVudElkcy5nZXQoaW5zdHJ1bWVudCwgTm9uZSkKICAgICAgICBpZiByZXQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHJldHVybiByZXQKICAgICAgICAjIElmIGl0cyBub3QgY2FjaGVkLCBnZXQgaXQgZnJvbSB0aGUgZGIuCiAgICAgICAgcmV0ID0gc2VsZi5fX2ZpbmRJbnN0cnVtZW50SWQoaW5zdHJ1bWVudCkKICAgICAgICAjIElmIGl0cyBub3QgaW4gdGhlIGRiLCBhZGQgaXQuCiAgICAgICAgaWYgcmV0IGlzIE5vbmU6CiAgICAgICAgICAgIHJldCA9IHNlbGYuX19hZGRJbnN0cnVtZW50KGluc3RydW1lbnQpCiAgICAgICAgIyBDYWNoZSB0aGUgaWQuCiAgICAgICAgc2VsZi5fX2luc3RydW1lbnRJZHNbaW5zdHJ1bWVudF0gPSByZXQKICAgICAgICByZXR1cm4gcmV0Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXREYXRhYmFzZShzZWxmKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcmdzID0gW2luc3RydW1lbnQsIGZyZXF1ZW5jeV0K</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -482,22 +480,12 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBjcmVhdGVTY2hlbWEoc2VsZik6CiAgICAgICAgc2VsZi5fX2Nvbm5lY3Rpb24uZXhlY3V0ZSgKICAgICAgICAgICAgImNyZWF0ZSB0YWJsZSBpbnN0cnVtZW50ICgiCiAgICAgICAgICAgICJpbnN0cnVtZW50X2lkIGludGVnZXIgcHJpbWFyeSBrZXkgYXV0b2luY3JlbWVudCIKICAgICAgICAgICAgIiwgbmFtZSB0ZXh0IHVuaXF1ZSBub3QgbnVsbCkiKQoKICAgICAgICBzZWxmLl9fY29ubmVjdGlvbi5leGVjdXRlKAogICAgICAgICAgICAiY3JlYXRlIHRhYmxlIGJhciAoIgogICAgICAgICAgICAiaW5zdHJ1bWVudF9pZCBpbnRlZ2VyIHJlZmVyZW5jZXMgaW5zdHJ1bWVudCAoaW5zdHJ1bWVudF9pZCkiCiAgICAgICAgICAgICIsIGZyZXF1ZW5jeSBpbnRlZ2VyIG5vdCBudWxsIgogICAgICAgICAgICAiLCB0aW1lc3RhbXAgaW50ZWdlciBub3QgbnVsbCIKICAgICAgICAgICAgIiwgb3BlbiByZWFsIG5vdCBudWxsIgogICAgICAgICAgICAiLCBoaWdoIHJlYWwgbm90IG51bGwiCiAgICAgICAgICAgICIsIGxvdyByZWFsIG5vdCBudWxsIgogICAgICAgICAgICAiLCBjbG9zZSByZWFsIG5vdCBudWxsIgogICAgICAgICAgICAiLCB2b2x1bWUgcmVhbCBub3QgbnVsbCIKICAgICAgICAgICAgIiwgYWRqX2Nsb3NlIHJlYWwiCiAgICAgICAgICAgICIsIHByaW1hcnkga2V5IChpbnN0cnVtZW50X2lkLCBmcmVxdWVuY3ksIHRpbWVzdGFtcCkpIikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="4">
-        <text>instrument = normalize_instrument(instrument)
-        instrumentId = self.__getOrCreateInstrument(instrument)
-        timeStamp = dt.datetime_to_timestamp(bar.getDateTime())
-
-        try:
-            sql = &quot;insert into bar (instrument_id, frequency, timestamp, open, high, low, close, volume, adj_close) values (?, ?, ?, ?, ?, ?, ?, ?, ?)&quot;
-            params = [instrumentId, frequency, timeStamp, bar.getOpen(), bar.getHigh(), bar.getLow(), bar.getClose(), bar.getVolume(), bar.getAdjClose()]
-            self.__connection.execute(sql, params)
-        except sqlite3.IntegrityError:
-            sql = &quot;update bar set open = ?, high = ?, low = ?, close = ?, volume = ?, adj_close = ?&quot; \
-                  &quot; where instrument_id = ? and frequency = ? and timestamp = ?&quot;
-            params = [bar.getOpen(), bar.getHigh(), bar.getLow(), bar.getClose(), bar.getVolume(), bar.getAdjClose(), instrumentId, frequency, timeStamp]
-            self.__connection.execute(sql, params)</text>
+        <text>sql = &quot;select bar.timestamp, bar.open, bar.high, bar.low, bar.close, bar.volume, bar.adj_close, bar.frequency&quot; \
+              &quot; from bar join instrument on (bar.instrument_id = instrument.instrument_id)&quot; \
+              &quot; where instrument.name = ? and bar.frequency = ?&quot;</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -523,17 +511,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>self.__instrumentIds = {}
-
-        # If the file doesn't exist, we'll create it and initialize it.
-        initialize = False
-        if not os.path.exists(dbFilePath):
-            initialize = True
-        self.__connection = sqlite3.connect(dbFilePath)
-        self.__connection.isolation_level = None  # To do auto-commit
-        if initialize:
-            self.createSchema()</text>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICBkZWYgX19maW5kSW5zdHJ1bWVudElkKHNlbGYsIGluc3RydW1lbnQpOgogICAgICAgIGN1cnNvciA9IHNlbGYuX19jb25uZWN0aW9uLmN1cnNvcigpCiAgICAgICAgc3FsID0gInNlbGVjdCBpbnN0cnVtZW50X2lkIGZyb20gaW5zdHJ1bWVudCB3aGVyZSBuYW1lID0gPyIKICAgICAgICBjdXJzb3IuZXhlY3V0ZShzcWwsIFtpbnN0cnVtZW50XSkKICAgICAgICByZXQgPSBjdXJzb3IuZmV0Y2hvbmUoKQogICAgICAgIGlmIHJldCBpcyBub3QgTm9uZToKICAgICAgICAgICAgcmV0ID0gcmV0WzBdCiAgICAgICAgY3Vyc29yLmNsb3NlKCkKICAgICAgICByZXR1cm4gcmV0CgogICAgZGVmIF9fYWRkSW5zdHJ1bWVudChzZWxmLCBpbnN0cnVtZW50KToKICAgICAgICByZXQgPSBzZWxmLl9fY29ubmVjdGlvbi5leGVjdXRlKCJpbnNlcnQgaW50byBpbnN0cnVtZW50IChuYW1lKSB2YWx1ZXMgKD8pIiwgW2luc3RydW1lbnRdKQogICAgICAgIHJldHVybiByZXQubGFzdHJvd2lkCgogICAgZGVmIF9fZ2V0T3JDcmVhdGVJbnN0cnVtZW50KHNlbGYsIGluc3RydW1lbnQpOgogICAgICAgICMgVHJ5IHRvIGdldCB0aGUgaW5zdHJ1bWVudCBpZCBmcm9tIHRoZSBjYWNoZS4KICAgICAgICByZXQgPSBzZWxmLl9faW5zdHJ1bWVudElkcy5nZXQoaW5zdHJ1bWVudCwgTm9uZSkKICAgICAgICBpZiByZXQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHJldHVybiByZXQKICAgICAgICAjIElmIGl0cyBub3QgY2FjaGVkLCBnZXQgaXQgZnJvbSB0aGUgZGIuCiAgICAgICAgcmV0ID0gc2VsZi5fX2ZpbmRJbnN0cnVtZW50SWQoaW5zdHJ1bWVudCkKICAgICAgICAjIElmIGl0cyBub3QgaW4gdGhlIGRiLCBhZGQgaXQuCiAgICAgICAgaWYgcmV0IGlzIE5vbmU6CiAgICAgICAgICAgIHJldCA9IHNlbGYuX19hZGRJbnN0cnVtZW50KGluc3RydW1lbnQpCiAgICAgICAgIyBDYWNoZSB0aGUgaWQuCiAgICAgICAgc2VsZi5fX2luc3RydW1lbnRJZHNbaW5zdHJ1bWVudF0gPSByZXQKICAgICAgICByZXR1cm4gcmV0Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -552,7 +531,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBjcmVhdGVTY2hlbWEoc2VsZik6CiAgICAgICAgc2VsZi5fX2Nvbm5lY3Rpb24uZXhlY3V0ZSgKICAgICAgICAgICAgImNyZWF0ZSB0YWJsZSBpbnN0cnVtZW50ICgiCiAgICAgICAgICAgICJpbnN0cnVtZW50X2lkIGludGVnZXIgcHJpbWFyeSBrZXkgYXV0b2luY3JlbWVudCIKICAgICAgICAgICAgIiwgbmFtZSB0ZXh0IHVuaXF1ZSBub3QgbnVsbCkiKQoKICAgICAgICBzZWxmLl9fY29ubmVjdGlvbi5leGVjdXRlKAogICAgICAgICAgICAiY3JlYXRlIHRhYmxlIGJhciAoIgogICAgICAgICAgICAiaW5zdHJ1bWVudF9pZCBpbnRlZ2VyIHJlZmVyZW5jZXMgaW5zdHJ1bWVudCAoaW5zdHJ1bWVudF9pZCkiCiAgICAgICAgICAgICIsIGZyZXF1ZW5jeSBpbnRlZ2VyIG5vdCBudWxsIgogICAgICAgICAgICAiLCB0aW1lc3RhbXAgaW50ZWdlciBub3QgbnVsbCIKICAgICAgICAgICAgIiwgb3BlbiByZWFsIG5vdCBudWxsIgogICAgICAgICAgICAiLCBoaWdoIHJlYWwgbm90IG51bGwiCiAgICAgICAgICAgICIsIGxvdyByZWFsIG5vdCBudWxsIgogICAgICAgICAgICAiLCBjbG9zZSByZWFsIG5vdCBudWxsIgogICAgICAgICAgICAiLCB2b2x1bWUgcmVhbCBub3QgbnVsbCIKICAgICAgICAgICAgIiwgYWRqX2Nsb3NlIHJlYWwiCiAgICAgICAgICAgICIsIHByaW1hcnkga2V5IChpbnN0cnVtZW50X2lkLCBmcmVxdWVuY3ksIHRpbWVzdGFtcCkpIikK</text>
       </register>
       <register name="y" type="4">
         <text />
