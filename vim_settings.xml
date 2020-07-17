@@ -118,47 +118,42 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/generic.py" timestamp="1594889304406">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/generic.py" timestamp="1594959863461">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="291" column="0" />
         <mark key="." line="291" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility_accounting.py" timestamp="1594894751211" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/oi_arrival_notice_olc.html" timestamp="1594898412038">
+        <mark key="[" line="408" column="36" />
+        <mark key="]" line="408" column="36" />
+        <mark key="." line="408" column="36" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/forms/ocean_import/arrival_notice/utility.py" timestamp="1594958571351">
+        <mark key="[" line="119" column="67" />
+        <mark key="]" line="119" column="67" />
+        <mark key="^" line="48" column="54" />
+        <mark key="." line="119" column="67" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/currency.service.ts" timestamp="1594959454488" />
       <file name="/Python Console" timestamp="1594955257019">
         <mark key="[" line="0" column="1" />
       </file>
       <file name="/fragment.js" timestamp="1594897950509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/olc.py" timestamp="1594955591141">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/olc.py" timestamp="1594959824471">
+        <mark key="[" line="237" column="29" />
         <mark key="]" line="6" column="0" />
-        <mark key="^" line="369" column="34" />
+        <mark key="^" line="370" column="34" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice.html" timestamp="1594898736299" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1594894620096" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar_multi_currency_chinese.html" timestamp="1594896983251" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/oi_arrival_notice.html" timestamp="1594898265902" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/oi_arrival_notice_olc.html" timestamp="1594898412038">
-        <mark key="[" line="408" column="36" />
-        <mark key="]" line="408" column="36" />
-        <mark key="." line="408" column="36" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/forms/ocean_import/arrival_notice/utility.py" timestamp="1594957550905">
-        <mark key="[" line="111" column="67" />
-        <mark key="]" line="111" column="59" />
-        <mark key="^" line="46" column="54" />
-        <mark key="." line="111" column="59" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/forms/ocean_import/arrival_notice/layout.py" timestamp="1594897596587" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice_olc.html" timestamp="1594957841758">
-        <mark key="[" line="81" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice_olc.html" timestamp="1594958753393">
+        <mark key="[" line="74" column="23" />
         <mark key="]" line="81" column="12" />
         <mark key="^" line="77" column="24" />
         <mark key="." line="81" column="12" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/agent_local_statement/query_utility.py" timestamp="1594894814884" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/acct-wizard-view.component.html" timestamp="1594959380932" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import_shipment.py" timestamp="1594890557148">
         <mark key="[" line="1465" column="0" />
       </file>
@@ -168,8 +163,8 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1594957327604" />
-      <file name="/Clipboard.txt" timestamp="1594897542910">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1594958205459" />
+      <file name="/Clipboard.txt" timestamp="1594959828252">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -220,8 +215,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0.0</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -351,7 +346,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ccy_id</text>
+        <text>0.0</text>
       </register>
       <register name="m" type="4">
         <keys>
