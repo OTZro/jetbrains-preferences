@@ -29,7 +29,6 @@
         <entry>:136</entry>
       </history-search>
       <history-cmd>
-        <entry>529</entry>
         <entry>50</entry>
         <entry>109</entry>
         <entry>138</entry>
@@ -49,6 +48,7 @@
         <entry>47</entry>
         <entry>97</entry>
         <entry>409</entry>
+        <entry>136</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -130,9 +130,6 @@
         <mark key="." line="291" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility_accounting.py" timestamp="1594894751211" />
-      <file name="/Python Console" timestamp="1594888792221">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.js" timestamp="1594897950509">
         <mark key="[" line="0" column="0" />
       </file>
@@ -158,7 +155,7 @@
         <mark key="." line="408" column="36" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/forms/ocean_import/arrival_notice/utility.py" timestamp="1594895352529">
-        <mark key="[" line="78" column="16" />
+        <mark key="[" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/forms/ocean_import/arrival_notice/layout.py" timestamp="1594897596587" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice_olc.html" timestamp="1594899021160">
@@ -176,6 +173,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="21" column="40" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/booking/booking_entry.py" timestamp="1594955147328">
+        <mark key="[" line="135" column="70" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="135" column="54" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1594894787161" />
       <file name="/Clipboard.txt" timestamp="1594897542910">
@@ -230,7 +233,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuZnJlaWdodC5mb3Jtcy5vY2Vhbl9pbXBvcnQuYXJyaXZhbF9ub3RpY2UubGF5b3V0IGltcG9ydCBPaUFycml2YWxOb3RpY2VFZGl0TGF5b3V0LCBPaUFycml2YWxOb3RpY2VQZGZMYXlvdXQK</text>
+        <text encoding="base64">ICAgICAgICBvZmZpY2UgPSB2YWxpZGF0ZWRfZGF0YVsnYm9va2luZ19pbmZvJ10ub2ZmaWNlCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -360,7 +363,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>layout.freight_list_has_rider_page</text>
+        <text>booking_info</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -418,19 +421,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuZnJlaWdodC5mb3Jtcy5vY2Vhbl9pbXBvcnQuYXJyaXZhbF9ub3RpY2UubGF5b3V0IGltcG9ydCBPaUFycml2YWxOb3RpY2VFZGl0TGF5b3V0LCBPaUFycml2YWxOb3RpY2VQZGZMYXlvdXQK</text>
+        <text encoding="base64">ICAgICAgICBvZmZpY2UgPSB2YWxpZGF0ZWRfZGF0YVsnYm9va2luZ19pbmZvJ10ub2ZmaWNlCg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBhcHAuZnJlaWdodC5mb3Jtcy5vY2Vhbl9pbXBvcnQuYXJyaXZhbF9ub3RpY2UubGF5b3V0IGltcG9ydCBPaUFycml2YWxOb3RpY2VFZGl0TGF5b3V0LCBPaUFycml2YWxOb3RpY2VQZGZMYXlvdXQK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IGxheW91dCA9IE9pQXJyaXZhbE5vdGljZU9MQ0xheW91dChmb3JtLCBpbnZfaW5mbykKICAgICAgICBpZiBpc19lZGl0OgogICAgICAgICAgICByZXR1cm4gT2lBcnJpdmFsTm90aWNlRWRpdExheW91dChmb3JtLCBzZWxmLl9pbnZfaW5mbykKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gT2lBcnJpdmFsTm90aWNlUGRmTGF5b3V0KGZvcm0sIHNlbGYuX2ludl9pbmZvKQ==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -517,7 +520,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgeyUgaWYgaXNfZWRpdCBvciBmb3JtLnNob3dfZ3VhcmFudGVlX2xldHRlci52YWx1ZSgpICV9CiAgICAgICAgICAgIDxkaXYgbmctc2hvdz0idm0uaXNTaG93R3VhcmFudGVlTGV0dGVyIiBjbGFzcz0ieyUgaWYgbm90IGlzX2VkaXQgJX1uZXh0LXBhZ2V7JSBlbmRpZiAlfSI+CiAgICAgICAgICAgICAgICB7JSBpbmNsdWRlICJmcmVpZ2h0L2Zvcm0vb2NlYW5faW1wb3J0L29pX2d1YXJhbnRlZV9sZXR0ZXIuaHRtbCIgJX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgeyUgZW5kaWYgJX0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -533,7 +536,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgeyUgaWYgaXNfZWRpdCBvciBmb3JtLnNob3dfZ3VhcmFudGVlX2xldHRlci52YWx1ZSgpICV9CiAgICAgICAgICAgIDxkaXYgbmctc2hvdz0idm0uaXNTaG93R3VhcmFudGVlTGV0dGVyIiBjbGFzcz0ieyUgaWYgbm90IGlzX2VkaXQgJX1uZXh0LXBhZ2V7JSBlbmRpZiAlfSI+CiAgICAgICAgICAgICAgICB7JSBpbmNsdWRlICJmcmVpZ2h0L2Zvcm0vb2NlYW5faW1wb3J0L29pX2d1YXJhbnRlZV9sZXR0ZXIuaHRtbCIgJX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgeyUgZW5kaWYgJX0=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -542,7 +545,7 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>409</text>
+        <text>136</text>
       </register>
     </registers>
   </component>
