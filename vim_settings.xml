@@ -118,10 +118,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/generic.py" timestamp="1594960064541">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="291" column="0" />
-        <mark key="." line="291" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/generic.py" timestamp="1594961197323">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/oi_arrival_notice_olc.html" timestamp="1594898412038">
         <mark key="[" line="408" column="36" />
@@ -141,7 +141,7 @@
       <file name="/fragment.js" timestamp="1594897950509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/olc.py" timestamp="1594959824471">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/olc.py" timestamp="1594960827304">
         <mark key="[" line="237" column="29" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="370" column="34" />
@@ -161,13 +161,13 @@
         <mark key="^" line="21" column="40" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1594958205459" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/base.py" timestamp="1594960217125">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/base.py" timestamp="1594961244009">
         <mark key="[" line="188" column="14" />
         <mark key="]" line="188" column="18" />
         <mark key="." line="188" column="17" />
         <mark key="^" line="188" column="18" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1594959828252">
+      <file name="/Clipboard.txt" timestamp="1594960831795">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -349,7 +349,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0.0</text>
+        <text>BaseReport</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -479,7 +479,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8dHI+CiAgICAgICAgICAgIDx0ZCBjbGFzcz0idy03MCB0ZCB0ZXh0LXJpZ2h0IHRkLWl0ZW0iPjwvdGQ+CiAgICAgICAgICAgIDx0ZCBjbGFzcz0idy0xMCB0ZCB0ZXh0LXJpZ2h0IHRkLWl0ZW0iPlJNQjwvdGQ+CiAgICAgICAgICAgIDx0ZCBjbGFzcz0idy0yMCB0ZCB0ZXh0LXJpZ2h0IHRkLWl0ZW0iPlRPRE8gSU1QTEVNRU5UPC90ZD4KICAgICAgICA8L3RyPg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -506,7 +506,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvZmZpY2UgPSB2YWxpZGF0ZWRfZGF0YVsnYm9va2luZ19pbmZvJ10ub2ZmaWNlCg==</text>
+        <text encoding="base64">ICAgICAgICA8dHI+CiAgICAgICAgICAgIDx0ZCBjbGFzcz0idy03MCB0ZCB0ZXh0LXJpZ2h0IHRkLWl0ZW0iPjwvdGQ+CiAgICAgICAgICAgIDx0ZCBjbGFzcz0idy0xMCB0ZCB0ZXh0LXJpZ2h0IHRkLWl0ZW0iPlJNQjwvdGQ+CiAgICAgICAgICAgIDx0ZCBjbGFzcz0idy0yMCB0ZCB0ZXh0LXJpZ2h0IHRkLWl0ZW0iPlRPRE8gSU1QTEVNRU5UPC90ZD4KICAgICAgICA8L3RyPg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -522,10 +522,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuZnJlaWdodC5mb3Jtcy5vY2Vhbl9pbXBvcnQuYXJyaXZhbF9ub3RpY2UubGF5b3V0IGltcG9ydCBPaUFycml2YWxOb3RpY2VFZGl0TGF5b3V0LCBPaUFycml2YWxOb3RpY2VQZGZMYXlvdXQK</text>
+        <text encoding="base64">ICAgICAgICBvZmZpY2UgPSB2YWxpZGF0ZWRfZGF0YVsnYm9va2luZ19pbmZvJ10ub2ZmaWNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBhcHAuZnJlaWdodC5mb3Jtcy5vY2Vhbl9pbXBvcnQuYXJyaXZhbF9ub3RpY2UubGF5b3V0IGltcG9ydCBPaUFycml2YWxOb3RpY2VFZGl0TGF5b3V0LCBPaUFycml2YWxOb3RpY2VQZGZMYXlvdXQK</text>
       </register>
       <register name="y" type="4">
         <text />
