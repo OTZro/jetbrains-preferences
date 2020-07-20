@@ -119,7 +119,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/invoice/entry.py" timestamp="1595219428485" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice.service.js" timestamp="1595220034843" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice.service.js" timestamp="1595225752207" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/oi_arrival_notice.html" timestamp="1595015767500" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_mbl_arrival_notice.html" timestamp="1595015613134" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/generic.py" timestamp="1594984542422" />
@@ -143,7 +143,7 @@
         <mark key="^" line="36" column="19" />
         <mark key="." line="490" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry.controller.js" timestamp="1595221313206">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry.controller.js" timestamp="1595225939708">
         <mark key="[" line="708" column="0" />
         <mark key="]" line="708" column="0" />
         <mark key="^" line="550" column="40" />
@@ -151,11 +151,12 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/invoice/invoice_info_factory.py" timestamp="1595219601128" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/types/accounting.type.ts" timestamp="1595220490041" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry_basic.html" timestamp="1595220371884">
-        <mark key="[" line="35" column="135" />
-        <mark key="]" line="35" column="120" />
-        <mark key="." line="35" column="120" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry_basic.html" timestamp="1595225991335">
+        <mark key="[" line="36" column="55" />
+        <mark key="]" line="35" column="127" />
+        <mark key="." line="35" column="127" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/accounting/accounting_query.py" timestamp="1595225427938" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -204,8 +205,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -335,7 +336,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>payment_plan_no</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
