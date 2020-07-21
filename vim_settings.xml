@@ -118,13 +118,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-nav-tab/shipment-nav-tabs.ts" timestamp="1595325098941" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/sales.py" timestamp="1595303603091">
         <mark key="[" line="123" column="49" />
         <mark key="]" line="123" column="51" />
         <mark key="^" line="123" column="51" />
         <mark key="." line="123" column="50" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/import_mbl_list/index.html" timestamp="1595240130923" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/app.component.ts" timestamp="1595325314087">
+        <mark key="[" line="370" column="22" />
+        <mark key="]" line="363" column="10" />
+        <mark key="." line="363" column="10" />
+      </file>
       <file name="/Python Console" timestamp="1595300856403">
         <mark key="[" line="0" column="0" />
       </file>
@@ -136,7 +141,6 @@
         <mark key="[" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/ocean/import/mbl_pagination_list.html" timestamp="1595240916505" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/ocean/import/mbl_pagination_list.component.js" timestamp="1595240896306" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/invoice/handler.py" timestamp="1595323861243">
         <mark key="[" line="77" column="32" />
         <mark key="]" line="77" column="34" />
@@ -159,8 +163,12 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/hc-invoice-service.constant.ts" timestamp="1595322433843" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/models.py" timestamp="1595322437822" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/app.component.html" timestamp="1595324982098">
+        <mark key="[" line="13" column="113" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1595323244201" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/excel/excel_grid_preference_field/shipment_mbl_list.py" timestamp="1595240535584" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -210,7 +218,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>params</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -340,7 +348,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>params</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -398,21 +406,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBkZWZhdWx0T3Blbk1ibDogYm9vbGVhbjsK</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="4">
-        <text>if inv.amendment_approval_status is not None and inv.amendment_approval_status == Approval.STATUS_PENDING:
-            # Has pending invoice can't create another amendment
-            return False</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhcmFtcyA9IG5ldyBVUkxTZWFyY2hQYXJhbXMod2luZG93LmxvY2F0aW9uLnNlYXJjaCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2codm0uYW1lbmRUb0ludik7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZGVmYXVsdE9wZW5NYmwgPSAhcGFyYW1zLmdldCgnaGlkZV9tYmwnKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -469,10 +475,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW2RlZmF1bHRPcGVuXT0iZGVmYXVsdE9wZW5NYmwiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codm0uYW1lbmRUb0ludi5nZXRfdXJsKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -498,8 +504,10 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codm0uYW1lbmRUb0ludikK</text>
+      <register name="7" type="4">
+        <text>if inv.amendment_approval_status is not None and inv.amendment_approval_status == Approval.STATUS_PENDING:
+            # Has pending invoice can't create another amendment
+            return False</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -514,11 +522,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgZGF0YS1wbGFjZW1lbnQ9InRvcCIgZGF0YS1jb250YWluZXI9ImJvZHkiIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2codm0uYW1lbmRUb0ludik7Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
