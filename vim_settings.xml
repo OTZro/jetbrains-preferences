@@ -132,7 +132,11 @@
         <mark key="^" line="77" column="34" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/permissible_object_mixins/shipment_mbl.py" timestamp="1595402341169" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/forms/ocean_import/arrival_notice/utility.py" timestamp="1595402367634" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/forms/ocean_import/arrival_notice/utility.py" timestamp="1595407396435">
+        <mark key="[" line="76" column="5" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/demo/angular-learning/app.module.ts" timestamp="1595329608122">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="1" column="16" />
@@ -204,8 +208,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbnZfaW5mb1sndG90YWxfYW1vdW50J10gPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsYW1iZGE6IERlY2ltYWwoMCkpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -393,19 +397,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWNsYXJhdGlvbnM6W10K</text>
+        <text encoding="base64">ICAgICAgICBpbnZfaW5mb1sndG90YWxfYW1vdW50J10gPSBjb2xsZWN0aW9ucy5kZWZhdWx0ZGljdChsYW1iZGE6IERlY2ltYWwoMCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWZhdWx0T3Blbk1ibDogYm9vbGVhbjsK</text>
+        <text encoding="base64">ICBkZWNsYXJhdGlvbnM6W10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWZhdWx0T3Blbk1ibDogYm9vbGVhbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcmFtcyA9IG5ldyBVUkxTZWFyY2hQYXJhbXMod2luZG93LmxvY2F0aW9uLnNlYXJjaCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -462,10 +466,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGVmYXVsdE9wZW5NYmwgPSAhcGFyYW1zLmdldCgnaGlkZV9tYmwnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhcmFtcyA9IG5ldyBVUkxTZWFyY2hQYXJhbXMod2luZG93LmxvY2F0aW9uLnNlYXJjaCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW2RlZmF1bHRPcGVuXT0iZGVmYXVsdE9wZW5NYmwiCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZGVmYXVsdE9wZW5NYmwgPSAhcGFyYW1zLmdldCgnaGlkZV9tYmwnKTsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -492,7 +496,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW2RlZmF1bHRPcGVuXT0iZGVmYXVsdE9wZW5NYmwiCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -507,13 +511,13 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="4">
         <text>if inv.amendment_approval_status is not None and inv.amendment_approval_status == Approval.STATUS_PENDING:
             # Has pending invoice can't create another amendment
             return False</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text />
