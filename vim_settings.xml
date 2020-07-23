@@ -120,6 +120,7 @@
     <filemarks>
       <file name="$USER_HOME$/gofreight/fms/lib/rest_apimixins.py" timestamp="1595481973612" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/olc.py" timestamp="1595488119132" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1595489630181" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/cell-renderers/hc-pagination-list-col-text.ts" timestamp="1595482688032">
         <mark key="[" line="76" column="19" />
       </file>
@@ -127,31 +128,43 @@
       <file name="$USER_HOME$/gofreight/fms/app/warehouse/views_rest/entry.py" timestamp="1595481818962" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/core/pagination/list/columns/base/ag_grid_base.js" timestamp="1595482707807" />
       <file name="$USER_HOME$/gofreight/fms/app/warehouse/urls.py" timestamp="1595478003274" />
-      <file name="/Clipboard.txt" timestamp="1595488527187">
+      <file name="/Clipboard.txt" timestamp="1595489706443">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1595482332649">
         <mark key="[" line="84" column="221" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/generic.py" timestamp="1595488195283" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice.html" timestamp="1595488530957" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/generic.py" timestamp="1595489757598">
+        <mark key="[" line="76" column="13" />
+        <mark key="]" line="76" column="13" />
+        <mark key="." line="76" column="13" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice.html" timestamp="1595489188979">
+        <mark key="[" line="404" column="57" />
+        <mark key="]" line="404" column="57" />
+        <mark key="." line="404" column="57" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/warehouse/entry/warehouse_shipment_entry.controller.js" timestamp="1595478652032" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/truncate-tips.ts" timestamp="1595479095912">
         <mark key="[" line="7" column="68" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/basic_info/api.py" timestamp="1595474069015" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/cell.interface.ts" timestamp="1595477311323" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/base.py" timestamp="1595488169755" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/base.py" timestamp="1595489833945">
+        <mark key="[" line="459" column="43" />
+        <mark key="]" line="459" column="43" />
+        <mark key="." line="459" column="43" />
+        <mark key="^" line="310" column="21" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1595476432641">
         <mark key="[" line="173" column="10" />
         <mark key="]" line="175" column="55" />
         <mark key="." line="175" column="55" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice_olc.html" timestamp="1595488544450" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice_olc.html" timestamp="1595488666318" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/warehouse/entry/warehouse_shipment_accounting_wizard/app.component.ts" timestamp="1595473529707">
         <mark key="[" line="148" column="37" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/fms/permission/__init__.py" timestamp="1595473472372" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -201,7 +214,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>: ${error.message}</text>
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -331,7 +344,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>: ${error.message}</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
