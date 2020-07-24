@@ -118,14 +118,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/invoice/handler.py" timestamp="1595575939582">
-        <mark key="[" line="215" column="44" />
+      <file name="$USER_HOME$/gofreight/fms/fms/urls.py" timestamp="1595578089750" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/invoice/handler.py" timestamp="1595578134476">
+        <mark key="[" line="215" column="57" />
+        <mark key="]" line="215" column="57" />
+        <mark key="^" line="214" column="53" />
+        <mark key="." line="215" column="57" />
       </file>
       <file name="/olc.py" timestamp="1595498483406" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/base_report_ex.py" timestamp="1595563924425">
         <mark key="[" line="601" column="17" />
       </file>
-      <file name="/oi_arrival_notice.html" timestamp="1595498239442" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/permissible_object_mixins/invoice.py" timestamp="1595578259159">
+        <mark key="[" line="221" column="22" />
+        <mark key="]" line="221" column="22" />
+        <mark key="." line="221" column="22" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/block/api.py" timestamp="1595573030176">
         <mark key="[" line="269" column="64" />
         <mark key="]" line="269" column="64" />
@@ -137,15 +145,15 @@
         <mark key="]" line="265" column="0" />
         <mark key="." line="265" column="0" />
       </file>
-      <file name="/oi_mbl_arrival_notice.html" timestamp="1595498230104" />
+      <file name="$USER_HOME$/gofreight/fms/fms/permission/perm_accounting.py" timestamp="1595577844215" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/freight-service/freight-description-language-service.directive.ts" timestamp="1595500688298">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/base.py" timestamp="1595498370464" />
       <file name="/urls_reports.py" timestamp="1595498504942" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice.block.service.ts" timestamp="1595572981951" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/utility.py" timestamp="1595578058841" />
       <file name="/delegation_view.py" timestamp="1595498520677" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/generic.py" timestamp="1595563717609">
         <mark key="]" line="76" column="13" />
@@ -156,7 +164,7 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/fms/permission/perm_shipment.py" timestamp="1595499139411" />
       <file name="$USER_HOME$/gofreight/fms/app/patch/management/commands/patch_20190911_update_office_email_footer.py" timestamp="1595567063298" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice.html" timestamp="1595565789538">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice.html" timestamp="1595577169168">
         <mark key="[" line="590" column="34" />
         <mark key="]" line="590" column="34" />
         <mark key="." line="590" column="34" />
@@ -164,7 +172,6 @@
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/base.py" timestamp="1595564089479">
         <mark key="[" line="311" column="27" />
       </file>
-      <file name="/generic.py" timestamp="1595498436921" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -213,8 +220,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>INVOICE_GA_LIST_VIEW</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -344,7 +351,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text>INVOICE_GA_LIST_VIEW</text>
       </register>
       <register name="m" type="4">
         <keys>
