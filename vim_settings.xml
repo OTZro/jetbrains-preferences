@@ -118,10 +118,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/olc.py" timestamp="1595497975859">
-        <mark key="[" line="4" column="67" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/invoice/handler.py" timestamp="1595575939582">
+        <mark key="[" line="215" column="44" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/item_info_list/api.py" timestamp="1595497756267" />
       <file name="/olc.py" timestamp="1595498483406" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/base_report_ex.py" timestamp="1595563924425">
         <mark key="[" line="601" column="17" />
@@ -132,6 +131,11 @@
         <mark key="]" line="269" column="64" />
         <mark key="." line="269" column="64" />
         <mark key="^" line="67" column="16" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1595575134152">
+        <mark key="[" line="265" column="0" />
+        <mark key="]" line="265" column="0" />
+        <mark key="." line="265" column="0" />
       </file>
       <file name="/oi_mbl_arrival_notice.html" timestamp="1595498230104" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/freight-service/freight-description-language-service.directive.ts" timestamp="1595500688298">
@@ -209,8 +213,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>all</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -398,19 +402,20 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEB0cmFuc2FjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+      <register name="2" type="4">
+        <text>if instance.is_block:
+            raise PermissionDenied</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEB0cmFuc2FjdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -467,10 +472,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIEZSRUlHSFRfREVTQ19TUkNfTE9DQUwgPSAnbG9jYWwnOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIEZSRUlHSFRfREVTQ19TUkNfREVGQVVMVCA9ICdkZWZhdWx0JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -497,7 +502,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjdXJyZW50TGFuZ3VhZ2VTdHlsZTogRnJlaWdodERlc2NyaXB0aW9uRW51bTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIEZSRUlHSFRfREVTQ19TUkNfTE9DQUwgPSAnbG9jYWwnOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -513,10 +518,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsYW5ndWFnZVN0eWxlQ2hhbmdlJCQgPSBuZXcgU3ViamVjdDx2b2lkPigpOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIEZSRUlHSFRfREVTQ19TUkNfREVGQVVMVCA9ICdkZWZhdWx0JzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjdXJyZW50TGFuZ3VhZ2VTdHlsZTogRnJlaWdodERlc2NyaXB0aW9uRW51bTsK</text>
       </register>
       <register name="y" type="4">
         <text />
