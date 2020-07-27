@@ -127,15 +127,23 @@
         <mark key="^" line="27" column="61" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/hbl.service.js" timestamp="1595832655062" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/permissible_object_mixins/shipment_mbl.py" timestamp="1595816578682" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/entry_helper.service.js" timestamp="1595833044213">
-        <mark key="[" line="884" column="54" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/partial_keyname.py" timestamp="1595836532189">
+        <mark key="[" line="251" column="9" />
+        <mark key="]" line="278" column="6" />
+        <mark key="." line="278" column="6" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/auto_complete/api.py" timestamp="1595585193308">
-        <mark key="[" line="556" column="27" />
-        <mark key="]" line="556" column="27" />
-        <mark key="^" line="556" column="35" />
-        <mark key="." line="556" column="27" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/permissible_object_mixins/shipment_mbl.py" timestamp="1595816578682" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/entry_helper.service.js" timestamp="1595836266210">
+        <mark key="[" line="84" column="9" />
+        <mark key="]" line="80" column="21" />
+        <mark key="." line="80" column="16" />
+        <mark key="^" line="80" column="21" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/auto_complete/api.py" timestamp="1595836497256">
+        <mark key="[" line="352" column="69" />
+        <mark key="]" line="557" column="27" />
+        <mark key="^" line="557" column="35" />
+        <mark key="." line="557" column="27" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/permissible_object_mixins/warehouse.py" timestamp="1595831606575">
         <mark key="[" line="5" column="0" />
@@ -156,6 +164,7 @@
         <mark key="." line="97" column="83" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1595834521495" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/trade_partner.py" timestamp="1595836485277" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -204,8 +213,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>T</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -335,7 +344,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SHIPMENT_ENTRY_VIEW_SELF</text>
+        <text>T</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -392,20 +401,26 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>bill_to
+bill_to
+bill_to
+bill_to</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="2">
-        <text>from app.freight.query_utility.common_condition import (
-    get_user_only_view_self_office_departments_condition,
-    get_user_only_view_self_offices_condition,
-)</text>
+      <register name="2" type="8">
+        <text>bill_to
+bill_to
+bill_to
+bill_to</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>bill_to
+bill_to
+bill_to
+bill_to</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -465,19 +480,13 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>from app.freight.query_utility.common_condition import (
+    get_user_only_view_self_office_departments_condition,
+    get_user_only_view_self_offices_condition,
+)</text>
       </register>
       <register name="6" type="2">
-        <text>class _GetFilterQ:
-    @staticmethod
-    def by_user_only_view_self_offices(user):
-        return get_user_only_view_self_offices_condition(user, 'office')
-
-    @staticmethod
-    def by_user_only_view_self_office_departments(user):
-        return get_user_only_view_self_office_departments_condition(
-            user, 'office_department'
-        )</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -504,7 +513,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9mZmljZSA9IHRoaXMucXVvdGF0aW9uRm9ybS5nZXQoJ29mZmljZScpPy52YWx1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -520,16 +529,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVE9mZmljZSB9IGZyb20gJ0xpYi9hbmd1bGFyL2NvcmUtc2VydmljZXMvb2ZmaWNlLWRlcGFydG1lbnQtZGF0YS5zZXJ2aWNlJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{% if is_express %}
-                                EXPRESS RELEASE
-                            {% elif is_original_bl_received %}
-                                ORIGINAL B/L RECEIVED
-                            {% else %}
-                                ORIGINAL B/L REQUIRED
-                            {% endif %}</text>
+      <register name="9" type="2">
+        <text>class _GetFilterQ:
+    @staticmethod
+    def by_user_only_view_self_offices(user):
+        return get_user_only_view_self_offices_condition(user, 'office')
+
+    @staticmethod
+    def by_user_only_view_self_office_departments(user):
+        return get_user_only_view_self_office_departments_condition(
+            user, 'office_department'
+        )</text>
       </register>
       <register name="y" type="4">
         <text />
