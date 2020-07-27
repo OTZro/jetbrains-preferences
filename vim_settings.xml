@@ -118,7 +118,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_basic_entry/index.html" timestamp="1595834549583" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_basic_entry/index.html" timestamp="1595836594700" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/status.controller.js" timestamp="1595832744381" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/hbl_container_list/api.py" timestamp="1595815946347" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-billing-select/hc-billing-select.component.html" timestamp="1595587661828">
@@ -133,13 +133,13 @@
         <mark key="." line="278" column="6" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/permissible_object_mixins/shipment_mbl.py" timestamp="1595816578682" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/entry_helper.service.js" timestamp="1595836266210">
-        <mark key="[" line="84" column="9" />
-        <mark key="]" line="80" column="21" />
-        <mark key="." line="80" column="16" />
-        <mark key="^" line="80" column="21" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/entry_helper.service.js" timestamp="1595837250145">
+        <mark key="[" line="1171" column="39" />
+        <mark key="]" line="80" column="31" />
+        <mark key="." line="80" column="31" />
+        <mark key="^" line="80" column="31" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/auto_complete/api.py" timestamp="1595836497256">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/auto_complete/api.py" timestamp="1595836565504">
         <mark key="[" line="352" column="69" />
         <mark key="]" line="557" column="27" />
         <mark key="^" line="557" column="35" />
@@ -213,8 +213,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>T</text>
+      <register name="&quot;" type="8">
+        <text>to
+to
+to
+to</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -402,19 +405,19 @@
         </keys>
       </register>
       <register name="1" type="8">
-        <text>bill_to
-bill_to
-bill_to
-bill_to</text>
+        <text>to
+to
+to
+to</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="8">
-        <text>bill_to
-bill_to
-bill_to
-bill_to</text>
+        <text>mbl_bill_
+mbl_bill_
+mbl_bill_
+mbl_bill_</text>
       </register>
       <register name="3" type="8">
         <text>bill_to
@@ -422,8 +425,11 @@ bill_to
 bill_to
 bill_to</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>bill_to
+bill_to
+bill_to
+bill_to</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -479,11 +485,11 @@ bill_to</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text>from app.freight.query_utility.common_condition import (
-    get_user_only_view_self_office_departments_condition,
-    get_user_only_view_self_offices_condition,
-)</text>
+      <register name="5" type="8">
+        <text>bill_to
+bill_to
+bill_to
+bill_to</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -513,7 +519,10 @@ bill_to</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>from app.freight.query_utility.common_condition import (
+    get_user_only_view_self_office_departments_condition,
+    get_user_only_view_self_offices_condition,
+)</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -532,16 +541,7 @@ bill_to</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>class _GetFilterQ:
-    @staticmethod
-    def by_user_only_view_self_offices(user):
-        return get_user_only_view_self_offices_condition(user, 'office')
-
-    @staticmethod
-    def by_user_only_view_self_office_departments(user):
-        return get_user_only_view_self_office_departments_condition(
-            user, 'office_department'
-        )</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
