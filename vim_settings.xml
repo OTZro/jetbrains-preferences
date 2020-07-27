@@ -133,11 +133,11 @@
         <mark key="." line="278" column="6" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/permissible_object_mixins/shipment_mbl.py" timestamp="1595816578682" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/entry_helper.service.js" timestamp="1595837250145">
-        <mark key="[" line="1171" column="39" />
-        <mark key="]" line="80" column="31" />
-        <mark key="." line="80" column="31" />
-        <mark key="^" line="80" column="31" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/entry_helper.service.js" timestamp="1595839183850">
+        <mark key="[" line="1176" column="34" />
+        <mark key="]" line="1175" column="37" />
+        <mark key="." line="1175" column="36" />
+        <mark key="^" line="1175" column="37" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/auto_complete/api.py" timestamp="1595836565504">
         <mark key="[" line="352" column="69" />
@@ -213,11 +213,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>to
-to
-to
-to</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -347,7 +344,7 @@ to</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -404,32 +401,20 @@ to</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="8">
-        <text>to
-to
-to
-to</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="8">
-        <text>mbl_bill_
-mbl_bill_
-mbl_bill_
-mbl_bill_</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>bill_to
-bill_to
-bill_to
-bill_to</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIA==</text>
       </register>
-      <register name="4" type="8">
-        <text>bill_to
-bill_to
-bill_to
-bill_to</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -485,14 +470,11 @@ bill_to</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="8">
-        <text>bill_to
-bill_to
-bill_to
-bill_to</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -519,10 +501,7 @@ bill_to</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text>from app.freight.query_utility.common_condition import (
-    get_user_only_view_self_office_departments_condition,
-    get_user_only_view_self_offices_condition,
-)</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIHVwZGF0ZUxvYWRUb0ZpZWxkKGRhdGFPYmosIHdvcmtmbG93LCBsb2FkVG9TZXR0aW5nKSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -538,10 +517,10 @@ bill_to</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="y" type="4">
         <text />
