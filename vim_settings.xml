@@ -161,8 +161,9 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1596013816475">
-        <mark key="[" line="1392" column="61" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1596015383313">
+        <mark key="[" line="1445" column="117" />
+        <mark key="^" line="1397" column="51" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/payment_plan.py" timestamp="1596013737736">
         <mark key="[" line="72" column="6" />
@@ -223,7 +224,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Amendment</text>
+        <text>Normal</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -353,7 +354,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Amendment</text>
+        <text>Normal</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -411,10 +412,9 @@
         </keys>
       </register>
       <register name="1" type="8">
-        <text>AMENDMENT
-AMENDMENT
-AMENDMENT
-AMENDMENT</text>
+        <text>NORMAL
+NORMAL
+NORMAL</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
@@ -497,8 +497,11 @@ AMENDMENT
 AMENDMENT
 AMENDMENT</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="8">
+        <text>AMENDMENT
+AMENDMENT
+AMENDMENT
+AMENDMENT</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -525,7 +528,7 @@ AMENDMENT</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
