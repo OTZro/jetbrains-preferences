@@ -187,10 +187,7 @@
         <mark key="^" line="1397" column="51" />
         <mark key="." line="1446" column="28" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/payment_plan.py" timestamp="1596087991038">
-        <mark key="[" line="86" column="31" />
-        <mark key="]" line="41" column="31" />
-        <mark key="." line="41" column="31" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/payment_plan.py" timestamp="1596092188821">
         <mark key="^" line="32" column="20" />
       </file>
     </filemarks>
@@ -241,8 +238,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>INV_AMENDMENT_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBhcHAuYWNjb3VudGluZy5pbnZvaWNlLmhhbmRsZXIgaW1wb3J0IGhhbmRsZV9pbnZvaWNlX2FtZW5kbWVudF9hcHByb3ZlZAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -429,19 +426,19 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="8">
-        <text>inv
-inv
-inv</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBhcHAuYWNjb3VudGluZy5pbnZvaWNlLmhhbmRsZXIgaW1wb3J0IGhhbmRsZV9pbnZvaWNlX2FtZW5kbWVudF9hcHByb3ZlZAo=</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgaGFuZGxlX2ludm9pY2VfYW1lbmRtZW50X2FwcHJvdmVkKAogICAgICAgICAgICBpbnYsCiAgICAgICAgICAgIGxvZ2dlciwKICAgICAgICApCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="3" type="8">
+        <text>inv
+inv
+inv</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
@@ -501,10 +498,10 @@ inv</text>
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChjaGFuZ2VzLmN1cnJlbnRNb2R1bGUpIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbWFwIH0gZnJvbSAncnhqcy9vcGVyYXRvcnMnOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -530,8 +527,8 @@ inv</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICBwcmVmTGlzdCA9IHByZWYucHJlZkxpc3Q7CiAgICB9Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIChjaGFuZ2VzLmN1cnJlbnRNb2R1bGUpIHsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -547,10 +544,10 @@ inv</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBncmlkUHJlZmVyZW5jZSQgPSBvZih0cnVlKS5waXBlKG1hcCgoKSA9PiB0aGlzLmNyZWF0ZUVtcHR5UHJlZmVyZW5jZSgpKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbWFwIH0gZnJvbSAncnhqcy9vcGVyYXRvcnMnOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ3JpZFByZWZlcmVuY2UkJC5uZXh0KHRoaXMuY3JlYXRlRW1wdHlQcmVmZXJlbmNlKCkpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICBwcmVmTGlzdCA9IHByZWYucHJlZkxpc3Q7CiAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
