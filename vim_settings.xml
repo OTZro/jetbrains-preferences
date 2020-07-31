@@ -118,7 +118,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/block/block_models.py" timestamp="1596190731691" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/block/block_models.py" timestamp="1596191908948" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/utility.py" timestamp="1596191915852" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-detail-table/payment-plan-detail-table.component.ts" timestamp="1596187240080" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice.block.service.ts" timestamp="1596188597330" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/list/api.py" timestamp="1596190104708">
@@ -131,18 +132,13 @@
         <mark key="]" line="96" column="50" />
         <mark key="." line="96" column="50" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.html" timestamp="1596183060747">
-        <mark key="[" line="71" column="21" />
-        <mark key="]" line="71" column="21" />
-        <mark key="." line="71" column="21" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0031_auto_20200731_0918.py" timestamp="1596187151862" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0090_make_payment_plan_can_approve.py" timestamp="1596187158594" />
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/payment_plan.py" timestamp="1596190639006">
-        <mark key="[" line="60" column="8" />
-        <mark key="]" line="60" column="8" />
-        <mark key="^" line="32" column="20" />
-        <mark key="." line="60" column="8" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/payment_plan.py" timestamp="1596191542746">
+        <mark key="[" line="64" column="49" />
+        <mark key="]" line="64" column="63" />
+        <mark key="^" line="64" column="63" />
+        <mark key="." line="64" column="62" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/services/invoice_amount_service.py" timestamp="1596190773043" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/block/api.py" timestamp="1596190991422">
@@ -160,7 +156,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1596190545694">
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1596191418378">
         <mark key="[" line="52" column="39" />
         <mark key="]" line="52" column="12" />
         <mark key="^" line="59" column="68" />
@@ -171,10 +167,10 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry/index.html" timestamp="1596187835969" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-basic/payment-plan-basic.component.ts" timestamp="1596186722597" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/services/invoice_block_service.py" timestamp="1596190944901">
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="36" column="16" />
-        <mark key="." line="36" column="16" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/services/invoice_block_service.py" timestamp="1596191360488">
+        <mark key="[" line="36" column="53" />
+        <mark key="]" line="36" column="53" />
+        <mark key="." line="36" column="53" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1596190892534">
         <mark key="]" line="1477" column="28" />
@@ -230,7 +226,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>perform_block</text>
+        <text>sm.context['request']</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -360,7 +356,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>perform_block</text>
+        <text>sm.context['request']</text>
       </register>
       <register name="m" type="4">
         <keys>
