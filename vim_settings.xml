@@ -129,6 +129,7 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan-list/controller.js" timestamp="1596165958339" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/currency.service.ts" timestamp="1596106844485" />
       <file name="/approvalCenter.html.erb" timestamp="1596105141154" />
       <file name="/foo.bar" timestamp="1596104504125">
@@ -142,7 +143,7 @@
         <mark key="^" line="32" column="20" />
         <mark key="." line="57" column="23" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/general/url.service.js" timestamp="1596106362063">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/general/url.service.js" timestamp="1596166018619">
         <mark key="[" line="571" column="67" />
         <mark key="]" line="571" column="67" />
         <mark key="." line="571" column="67" />
@@ -152,14 +153,11 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/__init__.py" timestamp="1596107263625" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1596105955197" />
-      <file name="/fms.freight_company" timestamp="1596104504092">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/approval.service.ts" timestamp="1596107284965">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="15" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/approval.service.ts" timestamp="1596165736641">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="13" column="38" />
+        <mark key="^" line="16" column="92" />
+        <mark key="." line="13" column="38" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/demo/pagination-sample/app.component.ts" timestamp="1596107385681" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1596106312786">
@@ -171,10 +169,10 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry/index.html" timestamp="1596105848455" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/excel-preference.service.ts" timestamp="1596107066154" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-currency.service.ts" timestamp="1596106705361" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.ts" timestamp="1596107430869">
-        <mark key="[" line="54" column="77" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.ts" timestamp="1596166080140">
+        <mark key="[" line="64" column="39" />
+        <mark key="]" line="200" column="45" />
+        <mark key="." line="200" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -225,8 +223,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZWplY3RVcmw6IHN0cmluZzsK</text>
+      <register name="&quot;" type="4">
+        <text>URL</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -356,7 +354,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>EXCEL_TYPE_TOKEN</text>
+        <text>URL</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -413,20 +411,21 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICByZWplY3RVcmw6IHN0cmluZzsK</text>
+      <register name="1" type="4">
+        <text>this.approveRejectUrl = op.approve_reject_url;
+        this.cancelUrl = op.cancel_url;</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZWplY3RVcmw6IHN0cmluZzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgYXBwcm92ZVJlamVjdFVybD86IHN0cmluZzsKICBjYW5jZWxVcmw/OiBzdHJpbmc7</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgYXBwcm92ZVJlamVjdFVybD86IHN0cmluZzsKICBjYW5jZWxVcmw/OiBzdHJpbmc7</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -482,15 +481,15 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="4">
         <text>if approval_service. \
                     can_object_create_job(MODULE_PAYMENT_PLAN_SUBMIT, payment_plan, payment_plan.office_department.id, payment_plan.office.id):
                 operation['submit_url'] = '/api/payment-plan/approval/submit/{id}/'.format(id=payment_plan.id)
             else:
                 operation['submit_url'] = None</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -517,7 +516,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZlYXR1cmVMaXN0RGF0YSA9IEFwcHJvdmFsTW9kdWxlTGlzdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -533,10 +532,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBsaWIgaW1wb3J0IHV0aWwK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZlYXR1cmVMaXN0RGF0YSA9IEFwcHJvdmFsTW9kdWxlTGlzdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lkJywK</text>
+        <text encoding="base64">ZnJvbSBsaWIgaW1wb3J0IHV0aWwK</text>
       </register>
       <register name="y" type="4">
         <text />
