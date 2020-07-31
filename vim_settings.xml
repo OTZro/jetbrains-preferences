@@ -118,21 +118,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1596168743515">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.text-def.ts" timestamp="1596170037083">
         <mark key="[" line="32" column="48" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-detail-table/payment-plan-detail-table.component.html" timestamp="1596171957305" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-detail-table/payment-plan-detail-table.component.ts" timestamp="1596177267697">
-        <mark key="[" line="189" column="6" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-detail-table/payment-plan-detail-table.component.ts" timestamp="1596177346124" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry.controller_text_def.js" timestamp="1596170031617" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.html" timestamp="1596170308556">
-        <mark key="[" line="55" column="27" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.html" timestamp="1596178982051">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/sz_query.py" timestamp="1596171223321">
         <mark key="[" line="221" column="17" />
@@ -155,17 +150,13 @@
         <mark key="[" line="51" column="8" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-form.service.ts" timestamp="1596176393180" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/cell-renderers/hc-pagination-list-col-text.ts" timestamp="1596168530986">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/approval.service.ts" timestamp="1596169442731">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="13" column="38" />
         <mark key="^" line="16" column="92" />
         <mark key="." line="13" column="38" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-data-service/payment-plan-data.service.interface.ts" timestamp="1596177461947" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1596169842686">
         <mark key="[" line="53" column="50" />
         <mark key="]" line="52" column="12" />
@@ -176,21 +167,22 @@
         <mark key="[" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry/index.html" timestamp="1596170362701" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-basic/payment-plan-basic.component.ts" timestamp="1596177261997">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-basic/payment-plan-basic.component.ts" timestamp="1596177350108">
         <mark key="[" line="46" column="10" />
         <mark key="]" line="46" column="10" />
         <mark key="." line="46" column="10" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-data-service/payment-plan-data.service.ts" timestamp="1596178025748" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1596171094986">
         <mark key="[" line="1395" column="22" />
         <mark key="]" line="1452" column="28" />
         <mark key="^" line="1398" column="51" />
         <mark key="." line="1452" column="28" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.ts" timestamp="1596176439397">
-        <mark key="[" line="265" column="3" />
-        <mark key="]" line="201" column="80" />
-        <mark key="." line="201" column="80" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.ts" timestamp="1596178742257">
+        <mark key="[" line="66" column="39" />
+        <mark key="]" line="271" column="0" />
+        <mark key="." line="271" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -241,8 +233,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>paymentPlan.status === PAYMENT_PLAN_STATUS.PENDING || paymentPlan.status === PAYMENT_PLAN_STATUS.FINISHED</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -372,7 +364,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>paymentPlan.status === PAYMENT_PLAN_STATUS.PENDING || paymentPlan.status === PAYMENT_PLAN_STATUS.FINISHED</text>
+        <text>ngStyle</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -430,19 +422,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHt7Zm9ybUNvbnRyb2wuZGlzYWJsZWR9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmZvcm1Hcm91cC5nZXQoJ2N1c3RvbWVyJyk/LmRpc2FibGVkKTsK</text>
+        <text encoding="base64">e3tidG5Hcm91cC5jaGlsZEVsZW1lbnRDb3VudH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmctY2xpY2s9InZtLm9uU2F2ZUFuZFN1Ym1pdEFtZW5kbWVudCgpIgo=</text>
+        <text encoding="base64">CiAgICA8YnV0dG9uIGNsYXNzPSJidG4gZ3JlZW4iCiAgICAgICAgICAgICpuZ0lmPSJpc1N1Ym1pdEJ1dHRvblZpc2libGUiCiAgICA+e3sgX1QuQlROLlNVQk1JVCB9fTwvYnV0dG9uPg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -499,10 +491,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -528,8 +520,10 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICA8YnV0dG9uIGNsYXNzPSJidG4gZ3JlZW4iCiAgICAgICAgICAgIG5nLWlmPSJ2bS5pc1N1Ym1pdEFtZW5kbWVudFZpc2libGUoKSIKICAgICAgICAgICAgbmctZGlzYWJsZWQ9IiF2bS5jYW5TdWJtaXRBbWVuZG1lbnQoKSIKICAgICAgICAgICAgbmctY2xpY2s9InZtLm9uU2F2ZUFuZFN1Ym1pdEFtZW5kbWVudCgpIgogICAgPltbOjpfVC5CVE4uU1VCTUlUXV08L2J1dHRvbj4=</text>
+      <register name="7" type="4">
+        <text>get isEditable(): boolean {
+    return isEditable(this.paymentAction$);
+  }</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -547,9 +541,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>ng-if=&quot;vm.isApproveRejectAmendmentVisible()&quot;
-            ng-click=&quot;vm.onApproveRejectAmendment(true)&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="y" type="4">
         <text />
