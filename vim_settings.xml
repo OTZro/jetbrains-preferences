@@ -118,12 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/fms/urls.py" timestamp="1596106582371">
-        <mark key="[" line="684" column="46" />
-        <mark key="]" line="684" column="53" />
-        <mark key="." line="684" column="52" />
-        <mark key="^" line="684" column="53" />
-      </file>
       <file name="/a.dummy" timestamp="1596168743515">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -132,23 +126,36 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.text-def.ts" timestamp="1596170037083">
         <mark key="[" line="32" column="48" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-detail-table/payment-plan-detail-table.component.html" timestamp="1596171957305" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan-list/controller.js" timestamp="1596165958339" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-detail-table/payment-plan-detail-table.component.ts" timestamp="1596172107221" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry.controller_text_def.js" timestamp="1596170031617" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.html" timestamp="1596170308556">
         <mark key="[" line="55" column="27" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/currency.service.ts" timestamp="1596106844485" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/sz_query.py" timestamp="1596171223321">
+        <mark key="[" line="221" column="17" />
+      </file>
       <file name="/Python Console" timestamp="1596169851763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1596107260115" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/payment_plan.py" timestamp="1596171104508">
+        <mark key="[" line="33" column="42" />
+        <mark key="]" line="33" column="42" />
+        <mark key="^" line="32" column="20" />
+        <mark key="." line="33" column="42" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/boolean-form-cell/boolean-form-cell.component.html" timestamp="1596171977192">
+        <mark key="[" line="2" column="35" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/general/url.service.js" timestamp="1596166018619">
         <mark key="[" line="571" column="67" />
         <mark key="]" line="571" column="67" />
         <mark key="." line="571" column="67" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/__init__.py" timestamp="1596107263625" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1596105955197" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-api-service/payment-plan-api.interface.ts" timestamp="1596171776725">
+        <mark key="[" line="51" column="8" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/cell-renderers/hc-pagination-list-col-text.ts" timestamp="1596168530986">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
@@ -160,7 +167,6 @@
         <mark key="^" line="16" column="92" />
         <mark key="." line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/demo/pagination-sample/app.component.ts" timestamp="1596107385681" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1596169842686">
         <mark key="[" line="53" column="50" />
         <mark key="]" line="52" column="12" />
@@ -168,8 +174,17 @@
         <mark key="." line="52" column="12" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry/index.html" timestamp="1596170362701" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/excel-preference.service.ts" timestamp="1596107066154" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-currency.service.ts" timestamp="1596106705361" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-basic/payment-plan-basic.component.ts" timestamp="1596171368104">
+        <mark key="[" line="47" column="32" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="32" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1596171094986">
+        <mark key="[" line="1395" column="22" />
+        <mark key="]" line="1452" column="28" />
+        <mark key="^" line="1398" column="51" />
+        <mark key="." line="1452" column="28" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.ts" timestamp="1596169586404">
         <mark key="[" line="201" column="80" />
         <mark key="]" line="201" column="80" />
@@ -225,7 +240,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>vm.isMoreThanOneButtonInSaveGroup()</text>
+        <text>forEach</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -355,7 +370,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>vm.isMoreThanOneButtonInSaveGroup()</text>
+        <text>forEach</text>
       </register>
       <register name="m" type="4">
         <keys>
