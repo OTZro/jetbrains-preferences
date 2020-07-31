@@ -118,7 +118,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-detail-table/payment-plan-detail-table.component.ts" timestamp="1596186770186" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-detail-table/payment-plan-detail-table.component.ts" timestamp="1596187240080">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/index.html" timestamp="1596183198517">
         <mark key="[" line="96" column="50" />
         <mark key="]" line="96" column="50" />
@@ -136,7 +140,7 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="124" column="39" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0090_make_payment_plan_can_approve.py" timestamp="1596187153833" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0090_make_payment_plan_can_approve.py" timestamp="1596187158594" />
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/payment_plan.py" timestamp="1596184394949">
         <mark key="[" line="72" column="40" />
         <mark key="^" line="32" column="20" />
@@ -234,8 +238,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>isSubmitButtonVisible</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgUEFZTUVOVF9QTEFOX0FQUFJPVkFMX09QRVJBVElPTjogY3JlYXRlU3RyaW5nRm9ybWF0dGVyKCcvYXBpL3BheW1lbnQtcGxhbi9hcHByb3ZhbC9vcGVyYXRpb24vezB9LycpLAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -423,19 +427,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBoaWRlU3BpbiwK</text>
+        <text encoding="base64">ICAgICAgUEFZTUVOVF9QTEFOX0FQUFJPVkFMX09QRVJBVElPTjogY3JlYXRlU3RyaW5nRm9ybWF0dGVyKCcvYXBpL3BheW1lbnQtcGxhbi9hcHByb3ZhbC9vcGVyYXRpb24vezB9LycpLAo=</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBQQVlNRU5UX1BMQU5fU1RBVFVTLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBQQVlNRU5UX1BMQU5fU1RBVFVTLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHslIGluY2x1ZGUgImZyZWlnaHQvZ2VuZXJhbC9tb2RhbC5odG1sIiAlfQo=</text>
+        <text encoding="base64">ICBoaWRlU3BpbiwK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -492,10 +496,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoaWRlU3BpbigpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -522,7 +526,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYXBwcm92YWxTZXJ2aWNlLm9uQXBwcm92ZSQuc3Vic2NyaWJlKCgpPT57Cg==</text>
+        <text encoding="base64">ICAgIHslIGluY2x1ZGUgImZyZWlnaHQvZ2VuZXJhbC9tb2RhbC5odG1sIiAlfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -538,10 +542,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0hlbGxvISEnKTsK</text>
+        <text encoding="base64">ICAgICAgICBoaWRlU3BpbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdidWlsdCcpOwo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="y" type="4">
         <text />
