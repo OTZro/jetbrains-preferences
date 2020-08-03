@@ -134,7 +134,7 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0031_auto_20200731_0918.py" timestamp="1596187151862" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0090_make_payment_plan_can_approve.py" timestamp="1596187158594" />
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/payment_plan.py" timestamp="1596191542746">
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/payment_plan.py" timestamp="1596427657094">
         <mark key="[" line="64" column="49" />
         <mark key="]" line="64" column="63" />
         <mark key="^" line="64" column="63" />
@@ -167,10 +167,10 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry/index.html" timestamp="1596187835969" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-basic/payment-plan-basic.component.ts" timestamp="1596186722597" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/services/invoice_block_service.py" timestamp="1596191360488">
-        <mark key="[" line="36" column="53" />
-        <mark key="]" line="36" column="53" />
-        <mark key="." line="36" column="53" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/services/invoice_block_service.py" timestamp="1596427641106">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1596190892534">
         <mark key="]" line="1477" column="28" />
@@ -225,8 +225,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>sm.context['request']</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -414,20 +414,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IFwKICAgICAgICAgICAgICAgIA==</text>
-      </register>
       <register name="4" type="4">
-        <text>\
-                .update(is_freight_info_invoice_block_before_plan=inv.is_block)</text>
+        <text encoding="base64">IFwKICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -483,11 +482,12 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>\
+                .update(is_freight_info_invoice_block_before_plan=inv.is_block)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgUEFZTUVOVF9QTEFOX0FQUFJPVkFMX09QRVJBVElPTjogY3JlYXRlU3RyaW5nRm9ybWF0dGVyKCcvYXBpL3BheW1lbnQtcGxhbi9hcHByb3ZhbC9vcGVyYXRpb24vezB9LycpLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -514,7 +514,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBQQVlNRU5UX1BMQU5fU1RBVFVTLAo=</text>
+        <text encoding="base64">ICAgICAgUEFZTUVOVF9QTEFOX0FQUFJPVkFMX09QRVJBVElPTjogY3JlYXRlU3RyaW5nRm9ybWF0dGVyKCcvYXBpL3BheW1lbnQtcGxhbi9hcHByb3ZhbC9vcGVyYXRpb24vezB9LycpLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -533,7 +533,7 @@
         <text encoding="base64">ICBQQVlNRU5UX1BMQU5fU1RBVFVTLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoaWRlU3BpbiwK</text>
+        <text encoding="base64">ICBQQVlNRU5UX1BMQU5fU1RBVFVTLAo=</text>
       </register>
       <register name="y" type="4">
         <text />
