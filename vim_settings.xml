@@ -129,13 +129,13 @@
         <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/accounting/accounting_entry.py" timestamp="1596514113106" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.html" timestamp="1596445461846">
-        <mark key="[" line="57" column="63" />
-        <mark key="]" line="14" column="57" />
-        <mark key="." line="14" column="57" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry.controller_text_def.js" timestamp="1596516153344">
+        <mark key="[" line="81" column="84" />
+        <mark key="]" line="81" column="84" />
+        <mark key="." line="81" column="84" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry.controller.js" timestamp="1596514384002">
-        <mark key="[" line="3334" column="5" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry.controller.js" timestamp="1596516212030">
+        <mark key="[" line="1948" column="60" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1596446908339">
         <mark key="[" line="380" column="0" />
@@ -151,8 +151,14 @@
         <mark key="]" line="237" column="0" />
         <mark key="." line="237" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/invoice/handler.py" timestamp="1596515721326">
+        <mark key="[" line="229" column="46" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/__init__.py" timestamp="1596447119550" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/hbl_list/sz.py" timestamp="1596514848185" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_list.controller.js" timestamp="1596516546813">
+        <mark key="[" line="409" column="49" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1596449240995">
         <mark key="[" line="79" column="149" />
         <mark key="]" line="79" column="148" />
@@ -164,7 +170,6 @@
         <mark key="]" line="55" column="16" />
         <mark key="." line="55" column="16" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-basic/payment-plan-basic.component.html" timestamp="1596446194514" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers_log/accounting.py" timestamp="1596514995482" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/services/invoice_block_service.py" timestamp="1596451848417">
         <mark key="[" line="27" column="67" />
@@ -179,12 +184,6 @@
         <mark key="." line="579" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0096_make_payment_plan_can_approve.py" timestamp="1596448459290" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.ts" timestamp="1596446517195">
-        <mark key="[" line="195" column="10" />
-        <mark key="]" line="195" column="10" />
-        <mark key="^" line="71" column="20" />
-        <mark key="." line="195" column="10" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/accounting/accounting_query.py" timestamp="1596515263244">
         <mark key="[" line="89" column="75" />
         <mark key="]" line="85" column="62" />
@@ -239,8 +238,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXltZW50X3BsYW5fZGV0YWlsOiBQYXltZW50UGxhbkRldGFpbCA9IHNlbGYuZnJlaWdodF9pbmZvX3NldC5maXJzdCgpLnBheW1lbnRfcGxhbl9kZXRhaWwK</text>
+      <register name="&quot;" type="4">
+        <text>amount already</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -370,7 +369,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>amount already</text>
       </register>
       <register name="m" type="4">
         <keys>
