@@ -118,7 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/accounting/accounting_entry.py" timestamp="1596528401338" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/controller.js" timestamp="1596532342598">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -145,9 +144,6 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/sz_query.py" timestamp="1596528423368">
-        <mark key="[" line="230" column="38" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/app.component.ts" timestamp="1596530324829" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/list/sz.py" timestamp="1596529940251">
         <mark key="[" line="12" column="59" />
@@ -155,18 +151,14 @@
         <mark key="." line="12" column="59" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/warehouse/managers.py" timestamp="1596534193920" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-approval-status/hc-approval-status.component.html" timestamp="1596529494920">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="0" column="54" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/warehouse/views_rest/query.py" timestamp="1596534981436" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1596532466869">
         <mark key="[" line="18" column="111" />
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
         <mark key="^" line="125" column="39" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/permissible_object_mixins/journal.py" timestamp="1596535727409" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-approval-status/hc-approval-status.component.ts" timestamp="1596529499352">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="29" />
@@ -174,6 +166,11 @@
         <mark key="^" line="29" column="44" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/pagination.js" timestamp="1596532165526" />
+      <file name="$USER_HOME$/gofreight/fms/app/warehouse/permissible_object_mixins/warehouse_shipment.py" timestamp="1596536043909">
+        <mark key="[" line="123" column="35" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/core/filter/filter.component.js" timestamp="1596532120721" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/advance-tp-dialog/advance-tp-dialog.component.ts" timestamp="1596530803049" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1596529888183">
@@ -232,8 +229,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>jnl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBnZXRfZmlsdGVyX3EoY2xzLCB1c2VyLCBwYXJhbXM6IHR5cGluZy5PcHRpb25hbFtuYW1lZHR1cGxlXSA9IE5vbmUpIC0+IFE6CiAgICAgICAgcSA9IHV0aWwuY29tcG9zZV9xdWVyeV9saXN0KCgKICAgICAgICAgICAgX1dhcmVob3VzZVNoaXBtZW50R2V0RmlsdGVyUS5ieV9ibG9ja190cF9saXN0KHVzZXIpLAogICAgICAgICAgICBfV2FyZWhvdXNlU2hpcG1lbnRHZXRGaWx0ZXJRLmJ5X3VzZXJfb25seV92aWV3X3NlbGZfb2ZmaWNlcyh1c2VyKSwKICAgICAgICAgICAgX1dhcmVob3VzZVNoaXBtZW50R2V0RmlsdGVyUS5ieV91c2VyX29ubHlfdmlld19zZWxmX29mZmljZV9kZXBhcnRtZW50cyh1c2VyKSwKICAgICAgICApLCAnQU5EJykKCiAgICAgICAgcmV0dXJuIHEK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -363,7 +360,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>jnl</text>
+        <text>LIST</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -421,7 +418,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gdGhpcy5maWx0ZXIuYXBwbHkoKTsK</text>
+        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBnZXRfZmlsdGVyX3EoY2xzLCB1c2VyLCBwYXJhbXM6IHR5cGluZy5PcHRpb25hbFtuYW1lZHR1cGxlXSA9IE5vbmUpIC0+IFE6CiAgICAgICAgcSA9IHV0aWwuY29tcG9zZV9xdWVyeV9saXN0KCgKICAgICAgICAgICAgX1dhcmVob3VzZVNoaXBtZW50R2V0RmlsdGVyUS5ieV9ibG9ja190cF9saXN0KHVzZXIpLAogICAgICAgICAgICBfV2FyZWhvdXNlU2hpcG1lbnRHZXRGaWx0ZXJRLmJ5X3VzZXJfb25seV92aWV3X3NlbGZfb2ZmaWNlcyh1c2VyKSwKICAgICAgICAgICAgX1dhcmVob3VzZVNoaXBtZW50R2V0RmlsdGVyUS5ieV91c2VyX29ubHlfdmlld19zZWxmX29mZmljZV9kZXBhcnRtZW50cyh1c2VyKSwKICAgICAgICApLCAnQU5EJykKCiAgICAgICAgcmV0dXJuIHEK</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
@@ -430,10 +427,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdXJsUGFyYW1zID0gbmV3IFVSTFNlYXJjaFBhcmFtcyh3aW5kb3cubG9jYXRpb24uc2VhcmNoKTsK</text>
+        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBnZXRfZmlsdGVyX3EoY2xzLCB1c2VyLCBwYXJhbXM6IHR5cGluZy5PcHRpb25hbFtuYW1lZHR1cGxlXSA9IE5vbmUpIC0+IFE6CiAgICAgICAgcSA9IHV0aWwuY29tcG9zZV9xdWVyeV9saXN0KCgKICAgICAgICAgICAgX1dhcmVob3VzZVNoaXBtZW50R2V0RmlsdGVyUS5ieV9ibG9ja190cF9saXN0KHVzZXIpLAogICAgICAgICAgICBfV2FyZWhvdXNlU2hpcG1lbnRHZXRGaWx0ZXJRLmJ5X3VzZXJfb25seV92aWV3X3NlbGZfb2ZmaWNlcyh1c2VyKSwKICAgICAgICAgICAgX1dhcmVob3VzZVNoaXBtZW50R2V0RmlsdGVyUS5ieV91c2VyX29ubHlfdmlld19zZWxmX29mZmljZV9kZXBhcnRtZW50cyh1c2VyKSwKICAgICAgICApLCAnQU5EJykKCiAgICAgICAgcmV0dXJuIHE=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVFRhYlBhcmFtIH0gZnJvbSAnTGliL2FuZ3VsYXIvc2hhcmVkLWNvbXBvbmVudC9oYy1uYXYtdGFiL3NoaXBtZW50LW5hdi10YWJzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -490,10 +487,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBpc19wZXJtaXR0ZWQoY2xzLCB1c2VyLCB3aCkgLT4gYm9vbDoKICAgICAgICBoYXNfcGVybSA9IGFsbCgKICAgICAgICAgICAgKAogICAgICAgICAgICAgICAgX1dhcmVob3VzZVNoaXBtZW50SXNQZXJtaXR0ZWQuYnlfYmxvY2tfdHBfbGlzdCh1c2VyLCB3aCksCiAgICAgICAgICAgICAgICBfV2FyZWhvdXNlU2hpcG1lbnRJc1Blcm1pdHRlZC5ieV91c2VyX29ubHlfdmlld19zZWxmX29mZmljZXModXNlciwgd2gpLAogICAgICAgICAgICAgICAgX1dhcmVob3VzZVNoaXBtZW50SXNQZXJtaXR0ZWQuYnlfdXNlcl9vbmx5X3ZpZXdfc2VsZl9vZmZpY2VfZGVwYXJ0bWVudHModXNlciwgd2gpLAogICAgICAgICAgICApCiAgICAgICAgKQoKICAgICAgICByZXR1cm4gaGFzX3Blcm0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC9kaXY+</text>
+        <text encoding="base64">ZnJvbSBhcHAud2FyZWhvdXNlLm1vZGVscyBpbXBvcnQgV2FyZWhvdXNlU2hpcG1lbnQK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -520,7 +517,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iYWN0aW9ucyBwdWxsLWxlZnQiICpuZ0lmPSJzdGF0dXMiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -536,10 +533,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIH5RKGN1c3RvbWVyX2lkX19pbj1leGNsdWRlX2xpc3QpCg==</text>
       </register>
       <register name="y" type="4">
         <text />
