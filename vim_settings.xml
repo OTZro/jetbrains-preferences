@@ -131,11 +131,8 @@
       </file>
       <file name="/block_models.py" timestamp="1596596685861" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/app.component.ts" timestamp="1596538695805" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/rxjs/src/internal/Observable.ts" timestamp="1596538608304" />
-      <file name="$USER_HOME$/gofreight/fms/app/warehouse/views_rest/query.py" timestamp="1596537142283">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="/Python Console" timestamp="1596609525124">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.ts" timestamp="1596597060337">
         <mark key="[" line="4" column="111" />
@@ -154,31 +151,50 @@
         <mark key="." line="278" column="34" />
         <mark key="^" line="278" column="35" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/permissible_object_mixins/journal.py" timestamp="1596535727409" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/pagination.js" timestamp="1596606952939">
         <mark key="^" line="184" column="11" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/warehouse/permissible_object_mixins/warehouse_shipment.py" timestamp="1596536043909">
-        <mark key="[" line="123" column="35" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/approval.service.ts" timestamp="1596597703565">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1596597879272" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1596609088746">
+        <mark key="[" line="124" column="118" />
+        <mark key="]" line="124" column="138" />
+        <mark key="^" line="124" column="138" />
+        <mark key="." line="124" column="137" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1596609967697">
+        <mark key="[" line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-basic/payment-plan-basic.component.ts" timestamp="1596601513305" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/services/invoice_block_service.py" timestamp="1596596807428">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.ts" timestamp="1596607285964">
+      <file name="$USER_HOME$/gofreight/fms/lib/log/log_def.py" timestamp="1596608650631">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="130" column="20" />
+        <mark key="." line="130" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/payment_plan/test_payment_plan_api.py" timestamp="1596609874671">
+        <mark key="[" line="890" column="55" />
+        <mark key="]" line="882" column="20" />
+        <mark key="." line="882" column="20" />
+        <mark key="^" line="877" column="99" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1596609515249">
+        <mark key="[" line="1514" column="49" />
+        <mark key="]" line="1514" column="49" />
+        <mark key="^" line="577" column="24" />
+        <mark key="." line="1514" column="49" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.ts" timestamp="1596608720691">
         <mark key="[" line="339" column="2" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/fms/permission/__init__.py" timestamp="1596537014647" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -229,7 +245,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>pushstate</text>
+        <text>, {'post_date_start': '2020-5-28', 'post_date_end': '2020-5-28',}</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -359,7 +375,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pushstate</text>
+        <text>, {'post_date_start': '2020-5-28', 'post_date_end': '2020-5-28',}</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -417,19 +433,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">TE9HX0FDVElPTl9QQVlfUExBTl9UUklWSUFMX0FQUFJPVkUgPSA0NjgK</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFpZ25vcmVQdXNoU3RhdGUpIHsK</text>
+        <text encoding="base64">ICAgIExPR19BQ1RJT05fUEFZX1BMQU5fVFJJVklBTF9BUFBST1ZFOiAoXygnUGF5bWVudCBQbGFuIEFwcHJvdmVkJyksICcnKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3B1c2hTdGF0ZScsIHN0YXRlT2JqKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gcHVzaFN0YXRlIGZvciBjaGFuZ2UgVVJMCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCFpZ25vcmVQdXNoU3RhdGUpIHsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -486,10 +502,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3B1c2hTdGF0ZScsIHN0YXRlT2JqKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFpZ25vcmVQdXNoU3RhdGUpIHsK</text>
+        <text encoding="base64">ICAgICAgLy8gcHVzaFN0YXRlIGZvciBjaGFuZ2UgVVJMCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -516,7 +532,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -532,7 +548,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgaWYgKCFpZ25vcmVQdXNoU3RhdGUpIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
