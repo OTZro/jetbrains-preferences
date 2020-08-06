@@ -120,23 +120,32 @@
     <filemarks>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/_base.html" timestamp="1596694002153" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export/hbl_print.py" timestamp="1596687058178" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/air_export/certificate_of_origin/generic.py" timestamp="1596700125199" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/config.js" timestamp="1596694412764">
-        <mark key="[" line="7" column="62" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/air_export/certificate_of_origin/generic.py" timestamp="1596702064238">
+        <mark key="[" line="206" column="70" />
+        <mark key="]" line="206" column="70" />
+        <mark key="." line="206" column="70" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-directive/date-range-picker.directive.ts" timestamp="1596686722139" />
-      <file name="$USER_HOME$/gofreight/fms/fms/settings/base.py" timestamp="1596700888706">
-        <mark key="[" line="661" column="19" />
-        <mark key="]" line="660" column="84" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/config.js" timestamp="1596702235289">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/air_export_shipment.py" timestamp="1596702467739">
+        <mark key="[" line="43" column="56" />
+        <mark key="]" line="43" column="56" />
+        <mark key="." line="43" column="56" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/fms/settings/base.py" timestamp="1596702374319">
+        <mark key="[" line="662" column="0" />
+        <mark key="]" line="662" column="0" />
         <mark key="^" line="655" column="0" />
-        <mark key="." line="660" column="84" />
+        <mark key="." line="662" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export_shipment.py" timestamp="1596700093352">
-        <mark key="[" line="742" column="46" />
-        <mark key="]" line="742" column="46" />
-        <mark key="." line="742" column="46" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export_shipment.py" timestamp="1596702424660">
+        <mark key="[" line="50" column="73" />
+        <mark key="]" line="50" column="73" />
+        <mark key="." line="50" column="73" />
+        <mark key="^" line="2055" column="67" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/fms/filters.py" timestamp="1596697868582">
         <mark key="[" line="194" column="46" />
@@ -144,10 +153,10 @@
         <mark key="^" line="194" column="30" />
         <mark key="." line="194" column="28" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/lib/util.py" timestamp="1596697695607">
-        <mark key="[" line="311" column="34" />
-        <mark key="]" line="311" column="34" />
-        <mark key="." line="311" column="34" />
+      <file name="$USER_HOME$/gofreight/fms/lib/util.py" timestamp="1596702322591">
+        <mark key="[" line="282" column="40" />
+        <mark key="]" line="282" column="30" />
+        <mark key="." line="282" column="30" />
         <mark key="^" line="295" column="36" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/aging_report/utility.py" timestamp="1596697921813" />
@@ -164,7 +173,7 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/webpack/webpack.common.js" timestamp="1596693565311">
         <mark key="[" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/aging_report/handler.py" timestamp="1596699856374">
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/aging_report/handler.py" timestamp="1596701029078">
         <mark key="[" line="18" column="33" />
         <mark key="]" line="154" column="62" />
         <mark key="." line="154" column="62" />
@@ -223,7 +232,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'%B %d. %Y'</text>
+        <text encoding="base64">IHNldHRpbmdzLkRBVEVfRk1UX0ZPUk1fUEFDS0FHRV9MQUJFTCw=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -353,7 +362,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'%B %d. %Y'</text>
+        <text encoding="base64">IHNldHRpbmdzLkRBVEVfRk1UX0ZPUk1fUEFDS0FHRV9MQUJFTCw=</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -423,7 +432,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>DATE_FMT_HUMAN</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -480,12 +489,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgdmFyIElOUFVUTUFTS19EQVRFX0ZPUk1BVCA9ICdtbS1kZC15eXl5JzsKIyB2YXIgSU5QVVRNQVNLX0RBVEVUSU1FX0ZPUk1BVCA9ICdtbS1kZC15eXl5IGhoOm1tJzsKIyB2YXIgTU9NRU5UX1RJTUVfRk9STUFUID0gJ0hIOm1tJzsKIyB2YXIgTU9NRU5UX0RBVEVfRk9STUFUID0gJ01NLURELVlZWVknOwojIHZhciBNT01FTlRfREFURVRJTUVfRk9STUFUID0gJ01NLURELVlZWVkgSEg6bW0nOwojIHZhciBNT01FTlRfREFURVRJTUVfRk9STUFUX0RBWVNUQVJUID0gJ01NLURELVlZWVkgMDA6MDAnOwojIHZhciBNT01FTlRfREFURVRJTUVfRk9STUFUX0RBWUVORCA9ICdNTS1ERC1ZWVlZIDIzOjU5OjU5Ljk5OSc7CiMgdmFyIERBVEVQSUNLRVJfRk9STUFUID0gJ21tLWRkLXl5eXknOwojIHZhciBEQVRFVElNRVBJQ0tFUl9GT1JNQVQgPSAnbW0tZGQteXl5eSBoaDppaSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>DATE_FMT_FORM_DEFAULT = settings.DATE_FMT_FORM_DEFAULT  # 02-27-2018
-DATE_FMT_FORM_PACKAGE_LABEL = settings.DATE_FMT_FORM_PACKAGE_LABEL  # '%d-%b-%y'   # 27-Feb-18
-DATE_FMT_LOCAL_STATEMENT = settings.DATE_FMT_LOCAL_STATEMENT</text>
+        <text encoding="base64">REFURV9GTVRfSFVNQU5fRlVMTF8yID0gZW52LnN0cih2YXI9J0RBVEVfRk1UX0hVTUFOJywgZGVmYXVsdD0nJUIgJWQuICVZJykgICMgRmVicnVhcnkgMjcuIDIwMTgK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -512,7 +519,7 @@ DATE_FMT_LOCAL_STATEMENT = settings.DATE_FMT_LOCAL_STATEMENT</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -528,10 +535,10 @@ DATE_FMT_LOCAL_STATEMENT = settings.DATE_FMT_LOCAL_STATEMENT</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdxdWVyeScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
