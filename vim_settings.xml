@@ -120,6 +120,7 @@
     <filemarks>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/_base.html" timestamp="1596694002153" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export/hbl_print.py" timestamp="1596687058178" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/air_export/certificate_of_origin/generic.py" timestamp="1596699252361" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/config.js" timestamp="1596694412764">
         <mark key="[" line="7" column="62" />
         <mark key="]" line="4" column="26" />
@@ -137,13 +138,13 @@
         <mark key="^" line="76" column="12" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-directive/date-range-picker.directive.ts" timestamp="1596686722139" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/show-spin-interceptor.service.ts" timestamp="1596624023209" />
       <file name="$USER_HOME$/gofreight/fms/fms/settings/base.py" timestamp="1596697761149">
         <mark key="[" line="660" column="84" />
         <mark key="]" line="660" column="84" />
         <mark key="^" line="655" column="0" />
         <mark key="." line="660" column="84" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export_shipment.py" timestamp="1596699119733" />
       <file name="$USER_HOME$/gofreight/fms/fms/filters.py" timestamp="1596697868582">
         <mark key="[" line="194" column="46" />
         <mark key="]" line="194" column="28" />
@@ -179,15 +180,8 @@
         <mark key="]" line="154" column="62" />
         <mark key="." line="154" column="62" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/approval-utility.ts" timestamp="1596626074167">
-        <mark key="[" line="6" column="33" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/fms/urls_reports.py" timestamp="1596699747553" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl.html" timestamp="1596687031983" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.ts" timestamp="1596624049794">
-        <mark key="[" line="81" column="18" />
-        <mark key="]" line="81" column="19" />
-        <mark key="." line="81" column="19" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
