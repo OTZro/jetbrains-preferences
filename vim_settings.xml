@@ -142,17 +142,18 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-directive/date-range-picker.directive.ts" timestamp="1596686722139" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/show-spin-interceptor.service.ts" timestamp="1596624023209" />
-      <file name="$USER_HOME$/gofreight/fms/fms/settings/base.py" timestamp="1596694367132">
-        <mark key="[" line="658" column="0" />
-        <mark key="]" line="655" column="35" />
+      <file name="$USER_HOME$/gofreight/fms/fms/settings/base.py" timestamp="1596696645990">
+        <mark key="[" line="658" column="9" />
+        <mark key="]" line="658" column="9" />
         <mark key="^" line="655" column="0" />
-        <mark key="." line="655" column="35" />
+        <mark key="." line="658" column="9" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/fms/filters.py" timestamp="1596695956282" />
-      <file name="$USER_HOME$/gofreight/fms/lib/util.py" timestamp="1596695583665">
-        <mark key="[" line="289" column="56" />
-        <mark key="]" line="289" column="56" />
-        <mark key="." line="289" column="56" />
+      <file name="$USER_HOME$/gofreight/fms/lib/util.py" timestamp="1596696589900">
+        <mark key="[" line="311" column="34" />
+        <mark key="]" line="311" column="34" />
+        <mark key="." line="311" column="34" />
+        <mark key="^" line="295" column="36" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-btn-group/payment-plan-btn-group.component.ts" timestamp="1596626226432">
         <mark key="[" line="26" column="39" />
@@ -228,7 +229,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;</text>
+        <text>'%b. %d, %Y'</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -358,7 +359,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>'%b. %d, %Y'</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -416,19 +417,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdxdWVyeScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuZW5hYmxlQ2FjaGVbbW9kdWxlXSA9IGNhY2hlOwo=</text>
+        <text>DATE_FMT_HUMAN</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -485,16 +486,12 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>let cache = this.enableCache[module];
-          if (!cache) {
-            cache = {};
-          }
-          if (!cache[office]) {
-            cache[office] = {};
-          }</text>
+      <register name="6" type="2">
+        <text>DATE_FMT_FORM_DEFAULT = settings.DATE_FMT_FORM_DEFAULT  # 02-27-2018
+DATE_FMT_FORM_PACKAGE_LABEL = settings.DATE_FMT_FORM_PACKAGE_LABEL  # '%d-%b-%y'   # 27-Feb-18
+DATE_FMT_LOCAL_STATEMENT = settings.DATE_FMT_LOCAL_STATEMENT</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -521,7 +518,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -537,10 +534,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbWJpbmVMYXRlc3QoW2lzUGFpZEJ5Q3VzdG9tZXIkLCBvZmZpY2VEZXBhcnRtZW50JF0pLnN1YnNjcmliZSgoW2lzUGFpZEJ5Q3VzdG9tZXIsIG9mZmljZV9kZXBhcnRtZW50XSkgPT4gewogICAgICBpZiAoaXNQYWlkQnlDdXN0b21lcikgewogICAgICAgIHRoaXMuaXNBcHByb3ZhbEVuYWJsZSQubmV4dChmYWxzZSk7CiAgICAgICAgcmV0dXJuOwogICAgICB9CiAgICAgIHNob3dTcGluKCk7CiAgICAgIHRoaXMuYXBwcm92YWxTZXJ2aWNlCiAgICAgICAgLmFwcHJvdmFsRW5hYmxlJChBcHByb3ZhbE1vZHVsZS5QYXltZW50UGxhblN1Ym1pdCwgdGhpcy5mb3JtR3JvdXAuZ2V0KCdvZmZpY2UnKT8udmFsdWUsIG9mZmljZV9kZXBhcnRtZW50KQogICAgICAgIC5zdWJzY3JpYmUoCiAgICAgICAgICAoZW5hYmxlOiBib29sZWFuKSA9PiB7CiAgICAgICAgICAgIHRoaXMuaXNBcHByb3ZhbEVuYWJsZSQubmV4dChlbmFibGUpOwogICAgICAgICAgICBoaWRlU3BpbigpOwogICAgICAgICAgfSwKICAgICAgICAgICgpID0+IHsKICAgICAgICAgICAgaGlkZVNwaW4oKTsKICAgICAgICAgIH0sCiAgICAgICAgKTsKICAgIH0pOwogICAgdGhpcy5pc0FwcHJvdmFsRW5hYmxlJC5zdWJzY3JpYmUoKGVuYWJsZTogYm9vbGVhbikgPT4gewogICAgICB0aGlzLmlzQXBwcm92YWxFbmFibGUgPSBlbmFibGU7CiAgICB9KTs=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdxdWVyeScpOwo=</text>
       </register>
       <register name="y" type="4">
         <text />
