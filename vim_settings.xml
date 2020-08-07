@@ -118,10 +118,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/warehouse/views_rest/query.py" timestamp="1596787669972">
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="22" column="30" />
-        <mark key="." line="22" column="30" />
+      <file name="$USER_HOME$/gofreight/fms/lib/rest_apimixins.py" timestamp="1596791158196">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="84" column="42" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/document/controller.js" timestamp="1596793026266" />
+      <file name="$USER_HOME$/gofreight/fms/app/warehouse/views_rest/query.py" timestamp="1596792008838">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="41" />
+        <mark key="." line="22" column="41" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/payment_plan.py" timestamp="1596784659667">
         <mark key="[" line="43" column="49" />
@@ -130,35 +137,30 @@
         <mark key="^" line="43" column="63" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/fms/permission/perm_warehouse.py" timestamp="1596787571750" />
-      <file name="$USER_HOME$/gofreight/fms/app/warehouse/permissible_object_mixins/warehouse_shipment.py" timestamp="1596787485121">
-        <mark key="[" line="121" column="22" />
-        <mark key="]" line="121" column="22" />
-        <mark key="." line="121" column="22" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/work_order/controller.js" timestamp="1596793357653">
+        <mark key="[" line="209" column="10" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1596784585063" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/tracking/guest/_base.html" timestamp="1596783516478">
-        <mark key="[" line="53" column="49" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/warehouse/entry/warehouse_receipt_document/index.html" timestamp="1596792171529" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1596791623174">
+        <mark key="[" line="86" column="11" />
+        <mark key="]" line="86" column="46" />
+        <mark key="." line="86" column="45" />
+        <mark key="^" line="86" column="46" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/views_misc.py" timestamp="1596792968467" />
       <file name="/Dummy.txt" timestamp="1596786461032">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/log/log_handler.py" timestamp="1596785579756" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/app.component.ts" timestamp="1596784172757">
-        <mark key="^" line="57" column="42" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/warehouse/entry/warehouse_receipt_document/controller.js" timestamp="1596793349192" />
+      <file name="$USER_HOME$/gofreight/fms/app/warehouse/models.py" timestamp="1596792592076">
+        <mark key="[" line="59" column="57" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/controller.js" timestamp="1596783814265">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="14" column="27" />
-        <mark key="." line="14" column="27" />
-        <mark key="^" line="51" column="22" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/bank_reconciliation/controller.js" timestamp="1596792265986" />
       <file name="/Python Console" timestamp="1596787368784">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/controller.js" timestamp="1596783805861" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/tracking/home/index.html" timestamp="1596783518828">
-        <mark key="[" line="48" column="49" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/warehouse/views/entry.py" timestamp="1596792169587" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/hc-invoice.service.ts" timestamp="1596784738915" />
       <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1596786488451">
         <mark key="[" line="21" column="0" />
@@ -218,7 +220,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>WH_SHIPPING_ENTRY_VIEW</text>
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -348,7 +350,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>WH_SHIPPING_ENTRY_VIEW</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -405,20 +407,24 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>else {
+            $log.error(errResponse);
+          }</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>not instance.is_paid_by_customer and self.approval_service.is_module_approval_enable(
+                MODULE_PAYMENT_PLAN_SUBMIT, instance.office_department.id, instance.office.id
+        )</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4X2luZm89eydhcHByb3ZhbF9jb21tZW50JzogY29tbWVudH0K</text>
+        <text encoding="base64">ICAgICAgICBpc19wYWlkX2J5X2N1c3RvbWVyID0gZGF0YVsnaXNfcGFpZF9ieV9jdXN0b21lciddIGlmICdpc19wYWlkX2J5X2N1c3RvbWVyJyBpbiBkYXRhIGVsc2UgTm9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpc19wYWlkX2J5X2N1c3RvbWVyID0gZGRkYXRhWydpc19wYWlkX2J5X2N1c3RvbWVyJ10gaWYgJ2lzX3BhaWRfYnlfY3VzdG9tZXInIGluIGRhdGEgZWxzZSBOb25lCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -474,11 +480,13 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY2hvaWNlU2VydmljZTogLAo=</text>
+      <register name="5" type="4">
+        <text>not is_paid_by_customer \
+                and 'office_department' in data \
+                and self.approval_service.is_module_approval_enable(MODULE_PAYMENT_PLAN_SUBMIT, data['office_department'], data['office'])</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -505,7 +513,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19oYW5kbGVyID0gc2VsZi5nZXRfbG9nX2hhbmRsZXIoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -521,13 +529,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text>function choiceServiceFactory(http: HttpClient): ChoiceService {
-  const service = new ChoiceService(http);
-  return service;
-}</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19oYW5kbGVyID0gc2VsZi5nZXRfbG9nX2hhbmRsZXIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcm92aWRlcnM6IFt7IHByb3ZpZGU6IENob2ljZVNlcnZpY2UsIHVzZUZhY3Rvcnk6IGNob2ljZVNlcnZpY2VGYWN0b3J5LCBkZXBzOiBbSHR0cENsaWVudF0gfV0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
