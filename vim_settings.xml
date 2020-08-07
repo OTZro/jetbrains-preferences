@@ -125,17 +125,17 @@
         <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/document/controller.js" timestamp="1596793026266" />
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/payment_plan.py" timestamp="1596784659667">
-        <mark key="[" line="43" column="49" />
-        <mark key="]" line="43" column="63" />
-        <mark key="." line="43" column="62" />
-        <mark key="^" line="43" column="63" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/fms/permission/perm_warehouse.py" timestamp="1596787571750" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/work_order/controller.js" timestamp="1596793357653">
         <mark key="[" line="209" column="10" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/warehouse/entry/warehouse_receipt_document/index.html" timestamp="1596792171529" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/config.ts" timestamp="1596795366805">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="9" column="12" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1596791623174">
         <mark key="[" line="86" column="11" />
         <mark key="]" line="86" column="46" />
@@ -214,8 +214,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coREFURV9GT1JNQVQpOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -402,24 +402,24 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text>else {
-            $log.error(errResponse);
-          }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coREFURV9GT1JNQVQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="4">
+        <text>else {
+            $log.error(errResponse);
+          }</text>
+      </register>
+      <register name="3" type="4">
         <text>not instance.is_paid_by_customer and self.approval_service.is_module_approval_enable(
                 MODULE_PAYMENT_PLAN_SUBMIT, instance.office_department.id, instance.office.id
         )</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpc19wYWlkX2J5X2N1c3RvbWVyID0gZGF0YVsnaXNfcGFpZF9ieV9jdXN0b21lciddIGlmICdpc19wYWlkX2J5X2N1c3RvbWVyJyBpbiBkYXRhIGVsc2UgTm9uZQo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpc19wYWlkX2J5X2N1c3RvbWVyID0gZGRkYXRhWydpc19wYWlkX2J5X2N1c3RvbWVyJ10gaWYgJ2lzX3BhaWRfYnlfY3VzdG9tZXInIGluIGRhdGEgZWxzZSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBpc19wYWlkX2J5X2N1c3RvbWVyID0gZGF0YVsnaXNfcGFpZF9ieV9jdXN0b21lciddIGlmICdpc19wYWlkX2J5X2N1c3RvbWVyJyBpbiBkYXRhIGVsc2UgTm9uZQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -475,13 +475,13 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpc19wYWlkX2J5X2N1c3RvbWVyID0gZGRkYXRhWydpc19wYWlkX2J5X2N1c3RvbWVyJ10gaWYgJ2lzX3BhaWRfYnlfY3VzdG9tZXInIGluIGRhdGEgZWxzZSBOb25lCg==</text>
+      </register>
+      <register name="6" type="4">
         <text>not is_paid_by_customer \
                 and 'office_department' in data \
                 and self.approval_service.is_module_approval_enable(MODULE_PAYMENT_PLAN_SUBMIT, data['office_department'], data['office'])</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -508,7 +508,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19oYW5kbGVyID0gc2VsZi5nZXRfbG9nX2hhbmRsZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -527,7 +527,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19oYW5kbGVyID0gc2VsZi5nZXRfbG9nX2hhbmRsZXIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19oYW5kbGVyID0gc2VsZi5nZXRfbG9nX2hhbmRsZXIoKQo=</text>
       </register>
       <register name="y" type="4">
         <text />
