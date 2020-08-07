@@ -128,11 +128,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/config.js" timestamp="1596771786966">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="6" column="5" />
-        <mark key="." line="6" column="4" />
-        <mark key="^" line="6" column="5" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/config.js" timestamp="1596773304882">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/core/middleware.py" timestamp="1596771157919">
         <mark key="[" line="261" column="9" />
@@ -164,14 +164,14 @@
         <mark key="^" line="195" column="30" />
         <mark key="." line="195" column="46" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1596771213761">
+      <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/jquery.inputmask/jquery.inputmask.min.js" timestamp="1596773712364" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1596772509326">
         <mark key="[" line="243" column="25" />
       </file>
       <file name="/Python Console" timestamp="1596709144007">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/user.py" timestamp="1596769771337" />
-      <file name="$USER_HOME$/gofreight/fms/app/importer/swb_xml/importers.py" timestamp="1596700796095" />
       <file name="$USER_HOME$/gofreight/fms/lib/view_util.py" timestamp="1596706827852" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/aging_report/handler.py" timestamp="1596770481922">
         <mark key="[" line="7" column="0" />
@@ -243,15 +243,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>tr
-tr
-tr
-tr
-tr
-tr
-tr
-tr</text>
+      <register name="&quot;" type="4">
+        <text>mm-dd-yyyy</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -381,7 +374,7 @@ tr</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>mm-dd-yyyy</text>
       </register>
       <register name="m" type="4">
         <keys>
