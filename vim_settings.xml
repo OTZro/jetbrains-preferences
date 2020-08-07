@@ -29,7 +29,6 @@
         <entry>:136</entry>
       </history-search>
       <history-cmd>
-        <entry>471</entry>
         <entry>17</entry>
         <entry>80</entry>
         <entry>200</entry>
@@ -49,6 +48,7 @@
         <entry>875</entry>
         <entry>16</entry>
         <entry>295</entry>
+        <entry>1312</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,30 +118,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/index.html" timestamp="1596783028255">
-        <mark key="[" line="96" column="50" />
-        <mark key="]" line="96" column="50" />
-        <mark key="." line="96" column="50" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/_base.html" timestamp="1596783426469">
-        <mark key="[" line="62" column="49" />
-        <mark key="]" line="62" column="49" />
-        <mark key="." line="62" column="49" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/_form_base_template_wk_pdf.html" timestamp="1596783502000">
         <mark key="[" line="20" column="43" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/config.ts" timestamp="1596783478420">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="10" column="12" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/payment_plan.py" timestamp="1596784659667">
+        <mark key="[" line="43" column="49" />
+        <mark key="]" line="43" column="63" />
+        <mark key="." line="43" column="62" />
+        <mark key="^" line="43" column="63" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting.py" timestamp="1596784585063" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/tracking/auth_home/index.html" timestamp="1596783513310">
         <mark key="[" line="49" column="49" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" timestamp="1596782993274">
-        <mark key="[" line="110" column="138" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1596785583290">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="75" column="17" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/_form_base_template_wk.html" timestamp="1596783498921">
         <mark key="[" line="40" column="43" />
@@ -152,17 +146,25 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/_base_angular.html" timestamp="1596783490811">
         <mark key="[" line="63" column="47" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/log/log_handler.py" timestamp="1596785579756">
+        <mark key="[" line="15" column="56" />
+        <mark key="]" line="15" column="56" />
+        <mark key="." line="15" column="56" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/_form_package_frame.html" timestamp="1596783504626">
         <mark key="[" line="45" column="47" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/lib/log/log_def.py" timestamp="1596784425378">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="130" column="20" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/login/forgot_pw/index.html" timestamp="1596783507570">
         <mark key="[" line="42" column="49" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/app.component.ts" timestamp="1596783882687">
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="57" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/app.component.ts" timestamp="1596784172757">
         <mark key="^" line="57" column="42" />
-        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/controller.js" timestamp="1596783814265">
         <mark key="[" line="1" column="23" />
@@ -170,23 +172,20 @@
         <mark key="." line="14" column="27" />
         <mark key="^" line="51" column="22" />
       </file>
-      <file name="/approval-module.enum.ts" timestamp="1596783127026" />
-      <file name="/Python Console" timestamp="1596783272901">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/controller.js" timestamp="1596783805861" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/tracking/home/index.html" timestamp="1596783518828">
         <mark key="[" line="48" column="49" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/approval-module.enum.ts" timestamp="1596783748091">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/hc-invoice.service.ts" timestamp="1596784738915" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/login/reset_pw/index.html" timestamp="1596783510198">
         <mark key="[" line="40" column="49" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/fms/jinja2_env.py" timestamp="1596782995511" />
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/payment_plan/test_payment_plan_api.py" timestamp="1596785261761">
+        <mark key="[" line="1315" column="59" />
+        <mark key="]" line="1233" column="37" />
+        <mark key="^" line="1409" column="28" />
+        <mark key="." line="1233" column="37" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -236,8 +235,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>LOG_ACTION_PAY_PLAN_CREATE</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -367,7 +366,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this.featureList = choices.approval_type;</text>
+        <text>LOG_ACTION_PAY_PLAN_CREATE</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -425,19 +424,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4X2luZm89eydhcHByb3ZhbF9jb21tZW50JzogY29tbWVudH0K</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBsaWIudXRpbCBpbXBvcnQgZXhfY29uZmlnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4X2NvbmZpZ1snREFURV9GT1JNQVQnXSA9IGZyb250ZW5kX2RhdGVfZm9ybWF0KCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY2hvaWNlU2VydmljZTogLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4X2NvbmZpZyA9IHNldHRpbmdzLkVYX0NPTkZJRwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -494,10 +493,13 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdEQVRFX0ZPUk1BVCc6ICdZWVlZL01NL0REJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>function choiceServiceFactory(http: HttpClient): ChoiceService {
+  const service = new ChoiceService(http);
+  return service;
+}</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -524,7 +526,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMKICAgICMgaW5wdXRtYXNrX2RhdGVfZm9ybWF0ID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTE2LCBkZWZhdWx0PSdtbS1kZC15eXl5JykKICAgICMgaW5wdXRtYXNrX2RhdGV0aW1lX2Zvcm1hdCA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0xNiwgZGVmYXVsdD0nbW0tZGQteXl5eSBoaDptbScpCiAgICAjIG1vbWVudF90aW1lX2Zvcm1hdCA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0xNiwgZGVmYXVsdD0nSEg6bW0nKQogICAgIyBtb21lbnRfZGF0ZV9mb3JtYXQgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTYsIGRlZmF1bHQ9J01NLURELVlZWVknKQogICAgIyBtb21lbnRfZGF0ZXRpbWVfZm9ybWF0ID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTE2LCBkZWZhdWx0PSdNTS1ERC1ZWVlZIEhIOm1tJykKICAgICMgbW9tZW50X2RhdGV0aW1lX2Zvcm1hdF9kYXlzdGFydCA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0xNiwgZGVmYXVsdD0nTU0tREQtWVlZWSAwMDowMCcpCiAgICAjIG1vbWVudF9kYXRldGltZV9mb3JtYXRfZGF5ZW5kID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTE2LCBkZWZhdWx0PSdNTS1ERC1ZWVlZIDIzOjU5OjU5Ljk5OScpCiAgICAjIGRhdGVwaWNrZXJfZm9ybWF0ID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTE2LCBkZWZhdWx0PSdtbS1kZC15eXl5JykKICAgICMgZGF0ZXRpbWVwaWNrZXJfZm9ybWF0ID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTE2LCBkZWZhdWx0PSdtbS1kZC15eXl5IGhoOmlpJyk=</text>
+        <text encoding="base64">ICBwcm92aWRlcnM6IFt7IHByb3ZpZGU6IENob2ljZVNlcnZpY2UsIHVzZUZhY3Rvcnk6IGNob2ljZVNlcnZpY2VGYWN0b3J5LCBkZXBzOiBbSHR0cENsaWVudF0gfV0sCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -539,29 +541,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text># frontend_fmt = fms_date_fmt.FrontendDateFormat(
-        #
-        # )</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBzZXJ2aWNlLmluaXQocmVxdWlyZWRDaG9pY2VzLCB7fSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>rontendDateFormat(
-        inputmask_date_format='mm-dd-yyyy',
-        inputmask_datetime_format='mm-dd-yyyy hh:mm',
-        moment_time_format='HH:mm',
-        moment_date_format='MM-DD-YYYY',
-        moment_datetime_format='MM-DD-YYYY HH:mm',
-        moment_datetime_format_daystart='MM-DD-YYYY 00:00',
-        moment_datetime_format_dayend='MM-DD-YYYY 23:59:59.999',
-        datepicker_format='mm-dd-yyyy',
-        datetimepicker_format='mm-dd-yyyy hh:ii',
-    )</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zdCByZXF1aXJlZENob2ljZXMgPSBbJ2FwcHJvdmFsX3R5cGUnXTsK</text>
       </register>
       <register name="y" type="4">
         <text />
       </register>
       <register name=":" type="4">
-        <text>295</text>
+        <text>1312</text>
       </register>
     </registers>
   </component>
