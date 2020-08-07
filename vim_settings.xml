@@ -29,8 +29,6 @@
         <entry>:136</entry>
       </history-search>
       <history-cmd>
-        <entry>417</entry>
-        <entry>246</entry>
         <entry>471</entry>
         <entry>17</entry>
         <entry>80</entry>
@@ -49,6 +47,8 @@
         <entry>157</entry>
         <entry>193</entry>
         <entry>875</entry>
+        <entry>16</entry>
+        <entry>295</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,74 +118,87 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/air_export/certificate_of_origin/generic.py" timestamp="1596702064238">
-        <mark key="[" line="206" column="70" />
-        <mark key="]" line="206" column="70" />
-        <mark key="." line="206" column="70" />
+      <file name="/a.dummy" timestamp="1596708553944">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/air_export/certificate_of_origin/generic.py" timestamp="1596708268798">
+        <mark key="[" line="208" column="70" />
+        <mark key="]" line="208" column="70" />
+        <mark key="." line="208" column="70" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/config.js" timestamp="1596703314354">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/core/middleware.py" timestamp="1596706171695">
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="254" column="46" />
-        <mark key="." line="254" column="45" />
-        <mark key="^" line="254" column="46" />
+      <file name="$USER_HOME$/gofreight/fms/core/middleware.py" timestamp="1596709103982">
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="0" />
+        <mark key="^" line="251" column="79" />
+        <mark key="." line="262" column="0" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/fms/lib/python3.6/site-packages/crequest/middleware.py" timestamp="1596704643692" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/air_export_shipment.py" timestamp="1596702467739">
-        <mark key="[" line="43" column="56" />
-        <mark key="]" line="43" column="56" />
-        <mark key="." line="43" column="56" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/air_export_shipment.py" timestamp="1596708210085">
+        <mark key="[" line="45" column="56" />
+        <mark key="]" line="45" column="56" />
+        <mark key="." line="45" column="56" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/fms/settings/base.py" timestamp="1596706036788">
-        <mark key="[" line="662" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/fms/settings/base.py" timestamp="1596709106384">
+        <mark key="[" line="151" column="43" />
         <mark key="]" line="662" column="0" />
         <mark key="^" line="655" column="0" />
         <mark key="." line="662" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export_shipment.py" timestamp="1596702424660">
-        <mark key="[" line="50" column="73" />
-        <mark key="]" line="50" column="73" />
-        <mark key="." line="50" column="73" />
-        <mark key="^" line="2055" column="67" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export_shipment.py" timestamp="1596707793061">
+        <mark key="[" line="52" column="73" />
+        <mark key="]" line="52" column="73" />
+        <mark key="." line="52" column="73" />
+        <mark key="^" line="2057" column="67" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/fms/filters.py" timestamp="1596697868582">
-        <mark key="[" line="194" column="46" />
-        <mark key="]" line="194" column="28" />
-        <mark key="^" line="194" column="30" />
-        <mark key="." line="194" column="28" />
+      <file name="$USER_HOME$/gofreight/fms/fms/filters.py" timestamp="1596707489456">
+        <mark key="[" line="199" column="28" />
+        <mark key="]" line="195" column="46" />
+        <mark key="^" line="195" column="30" />
+        <mark key="." line="195" column="46" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/lib/util.py" timestamp="1596702322591">
-        <mark key="[" line="282" column="40" />
-        <mark key="]" line="282" column="30" />
-        <mark key="." line="282" column="30" />
-        <mark key="^" line="295" column="36" />
+      <file name="$USER_HOME$/gofreight/fms/lib/util.py" timestamp="1596708162608">
+        <mark key="[" line="294" column="39" />
+        <mark key="]" line="294" column="37" />
+        <mark key="." line="294" column="36" />
+        <mark key="^" line="294" column="37" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/aging_report/utility.py" timestamp="1596697921813" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1596705497735">
         <mark key="[" line="237" column="25" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/helper.py" timestamp="1596697697397">
-        <mark key="[" line="355" column="26" />
+      <file name="/Python Console" timestamp="1596709144007">
+        <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/user.py" timestamp="1596707165348" />
       <file name="$USER_HOME$/gofreight/fms/app/importer/swb_xml/importers.py" timestamp="1596700796095" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/aging_report/handler.py" timestamp="1596701029078">
+      <file name="$USER_HOME$/gofreight/fms/lib/view_util.py" timestamp="1596706827852" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/aging_report/handler.py" timestamp="1596707753595">
         <mark key="[" line="18" column="33" />
-        <mark key="]" line="154" column="62" />
-        <mark key="." line="154" column="62" />
+        <mark key="]" line="155" column="62" />
+        <mark key="." line="155" column="62" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/fms/urls_reports.py" timestamp="1596699797280" />
-      <file name="/ocean_export_shipment.py" timestamp="1596699934958" />
+      <file name="$USER_HOME$/gofreight/fms/fms/date_format.py" timestamp="1596709472670">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+      </file>
       <file name="/Django Console" timestamp="1596705981022">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/base.py" timestamp="1596704921414" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export/commercial_invoice.py" timestamp="1596700214393" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.ts" timestamp="1596708518125">
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="." line="253" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -236,7 +249,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>translation.activate(settings.LANGUAGE_CODE)</text>
+        <text>)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -366,7 +379,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>translation.activate(settings.LANGUAGE_CODE)</text>
+        <text>)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -424,24 +437,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text>d=    class BackendDateFormat:
-    date_fmt_form_default: str
-    date_fmt_form_package_label: str
-    date_fmt_local_statement: str
-    date_fmt_human: str
-    date_fmt_human_full: str</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text>d=BackendDateFormat({date_fmt_human:'123'})</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNsYXNzIEFwcGxpY2F0aW9uRGF0ZUZvcm1hdDoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmRhdGVfZm10X2Zvcm1fZGVmYXVsdCA9ICclbS0lZC0lWScKICAgICAgICBzZWxmLmRhdGVfZm10X2Zvcm1fcGFja2FnZV9sYWJlbCA9ICclZC0lYi0leScKICAgICAgICBzZWxmLmRhdGVfZm10X2xvY2FsX3N0YXRlbWVudCA9ICclYi0lZC0lWScKICAgICAgICBzZWxmLmRhdGVfZm10X2h1bWFuID0gJyViLiAlZCwgJVknCiAgICAgICAgc2VsZi5kYXRlX2ZtdF9odW1hbl9mdWxsID0gJyVCICVkLCAlWScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpc0FwcHJvdmFsRW5hYmxlJCA9IG5ldyBCZWhhdmlvclN1YmplY3Q8Ym9vbGVhbj4oZmFsc2UpOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -500,8 +508,15 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text># OLC-846
+        # Form and Excel does not apply translation temporarily
+        if any([re.match(url, request.path) for url in settings.SUPPORT_PARAM_LANG_URLS]):
+            params = request.GET if request.method == 'GET' else request.POST
+            language = params.get('lang', settings.LANGUAGE_CODE)
+
+        translation.activate(language)
+        request.session[translation.LANGUAGE_SESSION_KEY] = language</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -528,7 +543,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMgdmFyIElOUFVUTUFTS19EQVRFX0ZPUk1BVCA9ICdtbS1kZC15eXl5JzsKIyB2YXIgSU5QVVRNQVNLX0RBVEVUSU1FX0ZPUk1BVCA9ICdtbS1kZC15eXl5IGhoOm1tJzsKIyB2YXIgTU9NRU5UX1RJTUVfRk9STUFUID0gJ0hIOm1tJzsKIyB2YXIgTU9NRU5UX0RBVEVfRk9STUFUID0gJ01NLURELVlZWVknOwojIHZhciBNT01FTlRfREFURVRJTUVfRk9STUFUID0gJ01NLURELVlZWVkgSEg6bW0nOwojIHZhciBNT01FTlRfREFURVRJTUVfRk9STUFUX0RBWVNUQVJUID0gJ01NLURELVlZWVkgMDA6MDAnOwojIHZhciBNT01FTlRfREFURVRJTUVfRk9STUFUX0RBWUVORCA9ICdNTS1ERC1ZWVlZIDIzOjU5OjU5Ljk5OSc7CiMgdmFyIERBVEVQSUNLRVJfRk9STUFUID0gJ21tLWRkLXl5eXknOwojIHZhciBEQVRFVElNRVBJQ0tFUl9GT1JNQVQgPSAnbW0tZGQteXl5eSBoaDppaSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBfZm10LmRhdGVfZm10X2Zvcm1fZGVmYXVsdCA9IG9mZmljZS5kYXRlX2ZtdF9mb3JtX2RlZmF1bHQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -543,17 +558,25 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">REFURV9GTVRfSFVNQU5fRlVMTF8yID0gZW52LnN0cih2YXI9J0RBVEVfRk1UX0hVTUFOJywgZGVmYXVsdD0nJUIgJWQuICVZJykgICMgRmVicnVhcnkgMjcuIDIwMTgK</text>
+      <register name="8" type="8">
+        <text>a.
+a.
+a.
+a.
+a.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text>self
+self
+self
+self
+self</text>
       </register>
       <register name="y" type="4">
         <text />
       </register>
       <register name=":" type="4">
-        <text>875</text>
+        <text>295</text>
       </register>
     </registers>
   </component>
