@@ -132,6 +132,12 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/filter.js" timestamp="1597029434111" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/date.js" timestamp="1597029441047" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/app-setting.js" timestamp="1597038947300">
+        <mark key="[" line="162" column="17" />
+        <mark key="]" line="165" column="14" />
+        <mark key="." line="165" column="13" />
+        <mark key="^" line="165" column="14" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/directive.js" timestamp="1597033850595">
         <mark key="[" line="188" column="21" />
         <mark key="]" line="188" column="21" />
@@ -140,11 +146,11 @@
       <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/jquery.inputmask/jquery.inputmask.js" timestamp="1597032018612">
         <mark key="[" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/jquery.inputmask/inputmask.date.extensions.js" timestamp="1597033849058" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/config.ts" timestamp="1597031124982">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="6" column="68" />
+      <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/jquery.inputmask/inputmask.date.extensions.js" timestamp="1597034026753" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/config.ts" timestamp="1597038384729">
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="7" column="55" />
+        <mark key="." line="7" column="55" />
         <mark key="^" line="9" column="12" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/air/export_basic_entry/index.html" timestamp="1597029691323" />
@@ -206,7 +212,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>INPUTMASK_DATETIME_FORMAT.replace(/[a-zA-Z]/g, 9)</text>
+        <text>&quot;1-2-y h:s&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -336,7 +342,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>INPUTMASK_DATETIME_FORMAT.replace(/[a-zA-Z]/g, 9)</text>
+        <text>&quot;1-2-y h:s&quot;</text>
       </register>
       <register name="m" type="4">
         <keys>
