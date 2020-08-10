@@ -128,10 +128,10 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/_base.js" timestamp="1597041853908">
         <mark key="[" line="25" column="103" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/app-setting.js" timestamp="1597045016403">
-        <mark key="[" line="169" column="33" />
-        <mark key="]" line="141" column="29" />
-        <mark key="." line="169" column="44" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/app-setting.js" timestamp="1597046218335">
+        <mark key="[" line="152" column="13" />
+        <mark key="]" line="152" column="13" />
+        <mark key="." line="152" column="13" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/directive.js" timestamp="1597044578332">
         <mark key="[" line="186" column="65" />
@@ -139,18 +139,23 @@
         <mark key="." line="186" column="65" />
         <mark key="^" line="186" column="52" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/jquery.inputmask/inputmask.date.extensions.js" timestamp="1597039876245" />
+      <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/jquery.inputmask/inputmask.date.extensions.js" timestamp="1597045251181" />
       <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/jquery.inputmask/jquery.inputmask.min.js" timestamp="1597042512258" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/config.ts" timestamp="1597044957628">
-        <mark key="[" line="7" column="73" />
-        <mark key="]" line="7" column="55" />
-        <mark key="." line="7" column="55" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/config.ts" timestamp="1597046066065">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="6" column="51" />
         <mark key="^" line="9" column="12" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/_base_angular.html" timestamp="1597040580224">
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_entry/index.html" timestamp="1597046964725">
+        <mark key="[" line="1069" column="57" />
+        <mark key="]" line="1070" column="52" />
+        <mark key="." line="1070" column="52" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/jquery.inputmask/inputmask.js" timestamp="1597039178509" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/base.js" timestamp="1597041813026">
@@ -160,13 +165,11 @@
         <mark key="^" line="817" column="7" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/fms/lib/python3.6/site-packages/rest_framework/generics.py" timestamp="1597030833350" />
-      <file name="$USER_HOME$/.pyenv/versions/fms/lib/python3.6/site-packages/silk/static/silk/lib/jquery.datetimepicker.js" timestamp="1597030389513" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/_base.html" timestamp="1597042585490">
         <mark key="[" line="170" column="0" />
         <mark key="]" line="170" column="0" />
         <mark key="." line="170" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1597029789890" />
       <file name="$USER_HOME$/gofreight/fms/lib/rest_apiview.py" timestamp="1597030814983" />
       <file name="$USER_HOME$/gofreight/fms/static/metronic/plugins/bootstrap-datetimepicker/js/bootstrap-datetimepicker.js" timestamp="1597030619645">
         <mark key="[" line="91" column="194" />
@@ -226,7 +229,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHBsYWNlaG9sZGVyOid5eXl5L21tL2RkJw==</text>
+        <text>ng-options=&quot;o.id as o.text for o in vm.options.date_fmt_form_default&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -356,7 +359,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHBsYWNlaG9sZGVyOid5eXl5L21tL2RkJw==</text>
+        <text>ng-options=&quot;o.id as o.text for o in vm.options.date_fmt_form_default&quot;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -414,19 +417,21 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eyUgamF2YXNjcmlwdCAiL3N0YXRpYy9mcmVpZ2h0L3BsdWdpbnMvanF1ZXJ5LmlucHV0bWFzay9pbnB1dG1hc2subWluLmpzIiAlfQo=</text>
+        <text encoding="base64">ICAgIG9uS2V5RG93bjoga2V5ZG93bkZuLAo=</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eyUgamF2YXNjcmlwdCAiL3N0YXRpYy9mcmVpZ2h0L3BsdWdpbnMvanF1ZXJ5LmlucHV0bWFzay9pbnB1dG1hc2suZGF0ZS5leHRlbnNpb25zLm1pbi5qcyIgJX0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">eyUgamF2YXNjcmlwdCAiL3N0YXRpYy9mcmVpZ2h0L3BsdWdpbnMvanF1ZXJ5LmlucHV0bWFzay9pbnB1dG1hc2suZGF0ZS5leHRlbnNpb25zLm1pbi5qcyIgJX0K</text>
+      <register name="3" type="4">
+        <text>var dateTimeMask = INPUTMASK_DATETIME_FORMAT.replace(maskReg, function(matched) {
+    return transformMap[matched];
+  });</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnZhciBJbnB1dG1hc2sgPSByZXF1aXJlKCdpbnB1dG1hc2snKTs=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtYXNrKTsK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -483,10 +488,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">eyUgamF2YXNjcmlwdCAiL3N0YXRpYy9mcmVpZ2h0L3BsdWdpbnMvanF1ZXJ5LmlucHV0bWFzay9pbnB1dG1hc2subWluLmpzIiAlfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">eyUgamF2YXNjcmlwdCAiL3N0YXRpYy9mcmVpZ2h0L3BsdWdpbnMvanF1ZXJ5LmlucHV0bWFzay9pbnB1dG1hc2suZGF0ZS5leHRlbnNpb25zLm1pbi5qcyIgJX0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -512,8 +517,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC8vIGlucHV0bWFzayBleHRlbmQgZm9yIGRhdGV0aW1lUGlja2VyCiAgLy8gaW5wdXRtYXNrIHdpbGwgaW1wcm92ZSB0aGUgZGF0ZXRpbWUgZm9ybWF0IGluIGZ1dHVyZQogIC8vIFRPRE86IHJlbW92ZSB0aGUgZXh0ZW5kIGFsaWFzZXMgYWZ0ZXIgaW5wdXRtYXNrIHYzLjQKICBJbnB1dG1hc2suZXh0ZW5kRGVmYXVsdHMoewogICAgcG9zaXRpb25DYXJldE9uVGFiOiBmYWxzZSwgLy8gZGlzYWJsZSB0aGlzIG9wdGlvbiBjYW4gc2VsZWN0IGFsbCB0ZXh0IHdoZW4gdGFiYmluZyB0byBpbnB1dAogIH0pOwogIElucHV0bWFzay5leHRlbmRBbGlhc2VzKHsKICAgICJtbS1kZC15eXl5IGhoOm1tIjogewogICAgICBtYXNrOiAiMS0yLXkgaDpzIiwKICAgICAgcGxhY2Vob2xkZXI6IElOUFVUTUFTS19EQVRFVElNRV9GT1JNQVQsCiAgICAgIGFsaWFzOiAiZGF0ZXRpbWUiLAogICAgICBsZWFwZGF5OiAiMDItMjktIiwKICAgICAgc2VwYXJhdG9yOiAnLScsCiAgICAgIHJlZ2V4OiB7CiAgICAgICAgdmFsMnByZTogZnVuY3Rpb24gKHNlcGFyYXRvcikgewogICAgICAgICAgdmFyIGVzY2FwZWRTZXBhcmF0b3IgPSBJbnB1dG1hc2suZXNjYXBlUmVnZXguY2FsbCh0aGlzLCBzZXBhcmF0b3IpOwogICAgICAgICAgcmV0dXJuIG5ldyBSZWdFeHAoIigoMFsxMy05XXwxWzAxMl0pIiArIGVzY2FwZWRTZXBhcmF0b3IgKyAiWzAtM10pfCgwMiIgKyBlc2NhcGVkU2VwYXJhdG9yICsgIlswLTJdKSIpOwogICAgICAgIH0sCiAgICAgICAgdmFsMjogZnVuY3Rpb24gKHNlcGFyYXRvcikgewogICAgICAgICAgdmFyIGVzY2FwZWRTZXBhcmF0b3IgPSBJbnB1dG1hc2suZXNjYXBlUmVnZXguY2FsbCh0aGlzLCBzZXBhcmF0b3IpOwogICAgICAgICAgcmV0dXJuIG5ldyBSZWdFeHAoIigoMFsxLTldfDFbMDEyXSkiICsgZXNjYXBlZFNlcGFyYXRvciArICIoMFsxLTldfFsxMl1bMC05XSkpfCgoMFsxMy05XXwxWzAxMl0pIiArIGVzY2FwZWRTZXBhcmF0b3IgKyAiMzApfCgoMFsxMzU3OF18MVswMl0pIiArIGVzY2FwZWRTZXBhcmF0b3IgKyAiMzEpIik7CiAgICAgICAgfSwKICAgICAgICB2YWwxcHJlOiBuZXcgUmVnRXhwKCJbMDFdIiksCiAgICAgICAgdmFsMTogbmV3IFJlZ0V4cCgiMFsxLTldfDFbMDEyXSIpCiAgICAgIH0sCiAgICAgIG9uS2V5RG93bjogZnVuY3Rpb24gKGUsIGJ1ZmZlciwgY2FyZXRQb3MsIG9wdHMpIHsKICAgICAgICB2YXIgJGlucHV0ID0gJCh0aGlzKTsKICAgICAgICB2YXIgZGF0ZXRpbWVDaGFyUGF0dGVybiA9IC9eW1xkLSA6XSskLzsKCiAgICAgICAgdmFyIHN0ciA9IGJ1ZmZlci5qb2luKCcnKTsKICAgICAgICB2YXIgZGVmYXVsdERhdGUgPSBtb21lbnQoKS5mb3JtYXQoTU9NRU5UX0RBVEVfRk9STUFUICsgJyAwMDowMCcpOwoKICAgICAgICBpZiAoZS5rZXlDb2RlID09PSBJbnB1dG1hc2sua2V5Q29kZS5FTlRFUikgewogICAgICAgICAgLy8gZmlyc3QgY2hhciBzaG91bGQgdmFsaWQKICAgICAgICAgIC8vIGlmIGFueSBvdGhlcnMgY2hhciBpbnZhbGlkLCBhdXRvbWF0aWMgYXBwbHkgZGVmYXVsdERhdGUgb24gdmFsdWUKICAgICAgICAgIGlmIChkYXRldGltZUNoYXJQYXR0ZXJuLnRlc3Qoc3RyWzBdKSAmJiAhZGF0ZXRpbWVDaGFyUGF0dGVybi50ZXN0KHN0cikpIHsKICAgICAgICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCBzdHIubGVuZ3RoOyArK2kpIHsKICAgICAgICAgICAgICBpZiAoIWRhdGV0aW1lQ2hhclBhdHRlcm4udGVzdChzdHJbaV0pKSB7CiAgICAgICAgICAgICAgICBzdHIgPSBzdHIuc3Vic3RyKDAsIGkpICsgZGVmYXVsdERhdGVbaV0gKyBzdHIuc3Vic3RyKGkgKyAxKTsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgJGlucHV0LnZhbChzdHIpOwogICAgICAgICAgICAvLyAkaW5wdXQudHJpZ2dlcigic2V0dmFsdWUiKTsKICAgICAgICAgICAgc2V0VGltZW91dChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgJGlucHV0LnRyaWdnZXIoImNoYW5nZSIpOwogICAgICAgICAgICB9LCAwKTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0sCiAgICB9LA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">eyUgamF2YXNjcmlwdCAiL3N0YXRpYy9mcmVpZ2h0L3BsdWdpbnMvanF1ZXJ5LmlucHV0bWFzay9pbnB1dG1hc2suZGF0ZS5leHRlbnNpb25zLm1pbi5qcyIgJX0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -529,10 +534,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eyUgamF2YXNjcmlwdCAiL3N0YXRpYy9mcmVpZ2h0L3BsdWdpbnMvanF1ZXJ5LmlucHV0bWFzay9qcXVlcnkuaW5wdXRtYXNrLm1pbi5qcyIgJX0K</text>
+        <text encoding="base64">CnZhciBJbnB1dG1hc2sgPSByZXF1aXJlKCdpbnB1dG1hc2snKTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eyUgamF2YXNjcmlwdCAiL3N0YXRpYy9mcmVpZ2h0L3BsdWdpbnMvanF1ZXJ5LmlucHV0bWFzay9pbnB1dG1hc2suZGF0ZS5leHRlbnNpb25zLm1pbi5qcyIgJX0K</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="y" type="4">
         <text />
