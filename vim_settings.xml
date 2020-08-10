@@ -118,29 +118,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/lib/rest_apimixins.py" timestamp="1596791158196">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="84" column="42" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/config.ts" timestamp="1596795366805">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="9" column="12" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1596786461032">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1596791623174">
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1597030804973">
         <mark key="[" line="86" column="11" />
         <mark key="]" line="86" column="46" />
         <mark key="." line="86" column="45" />
         <mark key="^" line="86" column="46" />
-      </file>
-      <file name="/Python Console" timestamp="1596787368784">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/work_order/controller.js" timestamp="1596793357653">
         <mark key="[" line="209" column="10" />
@@ -148,18 +130,32 @@
       <file name="$USER_HOME$/gofreight/fms/app/warehouse/models.py" timestamp="1596792592076">
         <mark key="[" line="59" column="57" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1596786488451">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/filter.js" timestamp="1597029434111" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/date.js" timestamp="1597029441047" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/directive.js" timestamp="1597033850595">
+        <mark key="[" line="188" column="21" />
+        <mark key="]" line="188" column="21" />
+        <mark key="." line="188" column="21" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/test/accounting/payment_plan/test_payment_plan_api.py" timestamp="1596786996930">
-        <mark key="^" line="7" column="28" />
+      <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/jquery.inputmask/jquery.inputmask.js" timestamp="1597032018612">
+        <mark key="[" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/directive.js" timestamp="1596796697040">
-        <mark key="[" line="176" column="43" />
+      <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/jquery.inputmask/inputmask.date.extensions.js" timestamp="1597033849058" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/config.ts" timestamp="1597031124982">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="6" column="68" />
+        <mark key="^" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/jquery.inputmask/jquery.inputmask.js" timestamp="1597028232962" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/air/export_basic_entry/index.html" timestamp="1597029691323" />
+      <file name="$USER_HOME$/gofreight/fms/static/freight/plugins/jquery.inputmask/inputmask.js" timestamp="1597031930078" />
+      <file name="$USER_HOME$/.pyenv/versions/fms/lib/python3.6/site-packages/rest_framework/generics.py" timestamp="1597030833350" />
+      <file name="$USER_HOME$/.pyenv/versions/fms/lib/python3.6/site-packages/silk/static/silk/lib/jquery.datetimepicker.js" timestamp="1597030389513" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1597029789890" />
+      <file name="$USER_HOME$/gofreight/fms/lib/rest_apiview.py" timestamp="1597030814983" />
+      <file name="$USER_HOME$/gofreight/fms/static/metronic/plugins/bootstrap-datetimepicker/js/bootstrap-datetimepicker.js" timestamp="1597030619645">
+        <mark key="[" line="91" column="194" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -209,8 +205,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coREFURV9GT1JNQVQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>INPUTMASK_DATETIME_FORMAT.replace(/[a-zA-Z]/g, 9)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -340,7 +336,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>INPUTMASK_DATETIME_FORMAT.replace(/[a-zA-Z]/g, 9)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -398,23 +394,23 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coREFURV9GT1JNQVQpOwo=</text>
+        <text encoding="base64">Y29uc3QgSU5QVVRNQVNLX0RBVEVUSU1FX0ZPUk1BVCA9IGAke01PTUVOVF9EQVRFX0ZPUk1BVC50b0xvd2VyQ2FzZSgpfSBoaDptbWA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coREFURV9GT1JNQVQpOwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>else {
             $log.error(errResponse);
           }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>not instance.is_paid_by_customer and self.approval_service.is_module_approval_enable(
                 MODULE_PAYMENT_PLAN_SUBMIT, instance.office_department.id, instance.office.id
         )</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpc19wYWlkX2J5X2N1c3RvbWVyID0gZGF0YVsnaXNfcGFpZF9ieV9jdXN0b21lciddIGlmICdpc19wYWlkX2J5X2N1c3RvbWVyJyBpbiBkYXRhIGVsc2UgTm9uZQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -471,12 +467,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpc19wYWlkX2J5X2N1c3RvbWVyID0gZGRkYXRhWydpc19wYWlkX2J5X2N1c3RvbWVyJ10gaWYgJ2lzX3BhaWRfYnlfY3VzdG9tZXInIGluIGRhdGEgZWxzZSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBpc19wYWlkX2J5X2N1c3RvbWVyID0gZGF0YVsnaXNfcGFpZF9ieV9jdXN0b21lciddIGlmICdpc19wYWlkX2J5X2N1c3RvbWVyJyBpbiBkYXRhIGVsc2UgTm9uZQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>not is_paid_by_customer \
-                and 'office_department' in data \
-                and self.approval_service.is_module_approval_enable(MODULE_PAYMENT_PLAN_SUBMIT, data['office_department'], data['office'])</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpc19wYWlkX2J5X2N1c3RvbWVyID0gZGRkYXRhWydpc19wYWlkX2J5X2N1c3RvbWVyJ10gaWYgJ2lzX3BhaWRfYnlfY3VzdG9tZXInIGluIGRhdGEgZWxzZSBOb25lCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -502,8 +496,10 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text>not is_paid_by_customer \
+                and 'office_department' in data \
+                and self.approval_service.is_module_approval_enable(MODULE_PAYMENT_PLAN_SUBMIT, data['office_department'], data['office'])</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -519,7 +515,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19oYW5kbGVyID0gc2VsZi5nZXRfbG9nX2hhbmRsZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19oYW5kbGVyID0gc2VsZi5nZXRfbG9nX2hhbmRsZXIoKQo=</text>
