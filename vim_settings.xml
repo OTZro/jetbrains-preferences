@@ -29,8 +29,6 @@
         <entry>:136</entry>
       </history-search>
       <history-cmd>
-        <entry>200</entry>
-        <entry>47</entry>
         <entry>97</entry>
         <entry>409</entry>
         <entry>376</entry>
@@ -49,6 +47,8 @@
         <entry>1312</entry>
         <entry>580</entry>
         <entry>99</entry>
+        <entry>655</entry>
+        <entry>1357</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -123,43 +123,46 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_entry/index.html" timestamp="1597058016656" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-approval-status/hc-approval-status.component.ts" timestamp="1597053613396">
-        <mark key="[" line="12" column="27" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-btn-group/payment-plan-btn-group.component.ts" timestamp="1597052476347">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="64" column="35" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/base_report_ex.py" timestamp="1597056710250" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1597057099848" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-btn-group/payment-plan-btn-group.component.html" timestamp="1597052738821">
-        <mark key="^" line="0" column="162" />
+      <file name="$USER_HOME$/gofreight/fms/fms/date_format.py" timestamp="1597115171890">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0099_add_date_format_field_to_office.py" timestamp="1597055754797" />
       <file name="$USER_HOME$/gofreight/fms/fms/settings/base.py" timestamp="1597055332671">
-        <mark key="[" line="656" column="0" />
-        <mark key="]" line="656" column="0" />
-        <mark key="." line="656" column="0" />
+        <mark key="[" line="658" column="0" />
+        <mark key="]" line="658" column="0" />
+        <mark key="." line="658" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export_shipment.py" timestamp="1597057255084" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl_olc.html" timestamp="1597057006403" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-approval-service/payment-plan-approval.service.ts" timestamp="1597054137773">
-        <mark key="[" line="12" column="102" />
-        <mark key="]" line="9" column="39" />
-        <mark key="." line="9" column="39" />
+      <file name="/Python Console" timestamp="1597115755357">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0100_office_frontend_date_fmt.py" timestamp="1597055751648">
         <mark key="[" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0031_v1_20_olc_0098_office_frontend_date_fmt.py" timestamp="1597055135264" />
+      <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1597116126299">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export/hbl_print.py" timestamp="1597057032000">
         <mark key="[" line="2298" column="0" />
         <mark key="]" line="2298" column="0" />
         <mark key="." line="2298" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-data-service/payment-plan-data.service.ts" timestamp="1597054078955" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.html" timestamp="1597115018330" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/company/company_entry/index.html" timestamp="1597115286548" />
+      <file name="$USER_HOME$/gofreight/fms/core/middleware.py" timestamp="1597115100678">
+        <mark key="[" line="22" column="8" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/payment_plan/test_payment_plan_api.py" timestamp="1597116095502">
+        <mark key="^" line="7" column="28" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -210,7 +213,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAnb25fYm9hcmRfZGF0ZSc6IGhibC5nZXRfRVREKCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -340,7 +343,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ETD</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -398,24 +401,20 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAnb25fYm9hcmRfZGF0ZSc6IGhibC5nZXRfRVREKCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>fms_date_fmt
+fms_date_fmt</text>
       </register>
       <register name="3" type="2">
-        <text># ================================ Date Time Format ================================
-DATE_FMT_FORM_DEFAULT = env.str(var='DATE_FMT_FORM_DEFAULT', default='%m-%d-%Y')  # 02-27-2018
-DATE_FMT_FORM_PACKAGE_LABEL = env.str(var='DATE_FMT_FORM_PACKAGE_LABEL', default='%d-%b-%y')  # 27-Feb-18
-DATE_FMT_LOCAL_STATEMENT = env.str(var='DATE_FMT_LOCAL_STATEMENT', default='%b-%d-%Y')  # Feb-27-2018
-DATE_FMT_HUMAN = env.str(var='DATE_FMT_HUMAN', default='%b. %d, %Y')  # Feb. 27, 2018
-DATE_FMT_HUMAN_FULL = env.str(var='DATE_FMT_HUMAN', default='%B %d, %Y')  # February 27, 2018</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAnb25fYm9hcmRfZGF0ZSc6IGhibC5nZXRfRVREKCksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBQQVlNRU5UX1BMQU5fU1RBVFVTLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -472,10 +471,15 @@ DATE_FMT_HUMAN_FULL = env.str(var='DATE_FMT_HUMAN', default='%B %d, %Y')  # Febr
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text># ================================ Date Time Format ================================
+DATE_FMT_FORM_DEFAULT = env.str(var='DATE_FMT_FORM_DEFAULT', default='%m-%d-%Y')  # 02-27-2018
+DATE_FMT_FORM_PACKAGE_LABEL = env.str(var='DATE_FMT_FORM_PACKAGE_LABEL', default='%d-%b-%y')  # 27-Feb-18
+DATE_FMT_LOCAL_STATEMENT = env.str(var='DATE_FMT_LOCAL_STATEMENT', default='%b-%d-%Y')  # Feb-27-2018
+DATE_FMT_HUMAN = env.str(var='DATE_FMT_HUMAN', default='%b. %d, %Y')  # Feb. 27, 2018
+DATE_FMT_HUMAN_FULL = env.str(var='DATE_FMT_HUMAN', default='%B %d, %Y')  # February 27, 2018</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgaXNQZW5kaW5nKCk6IGJvb2xlYW4gewogICAgcmV0dXJuIHRoaXMuc3RhdHVzID09PSBQQVlNRU5UX1BMQU5fU1RBVFVTLlBFTkRJTkc7CiAgfQogIGlzRHJhZnQoKTogYm9vbGVhbiB7CiAgICByZXR1cm4gdGhpcy5zdGF0dXMgPT09IFBBWU1FTlRfUExBTl9TVEFUVVMuRFJBRlQ7CiAgfQ==</text>
+        <text encoding="base64">ICBQQVlNRU5UX1BMQU5fU1RBVFVTLAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -502,7 +506,7 @@ DATE_FMT_HUMAN_FULL = env.str(var='DATE_FMT_HUMAN', default='%B %d, %Y')  # Febr
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdHVzID0gcGF5bWVudFBsYW4uc3RhdHVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -518,16 +522,16 @@ DATE_FMT_HUMAN_FULL = env.str(var='DATE_FMT_HUMAN', default='%B %d, %Y')  # Febr
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdGF0dXM6IFBBWU1FTlRfUExBTl9TVEFUVVM7Cg==</text>
+        <text encoding="base64">CiAgaXNQZW5kaW5nKCk6IGJvb2xlYW4gewogICAgcmV0dXJuIHRoaXMuc3RhdHVzID09PSBQQVlNRU5UX1BMQU5fU1RBVFVTLlBFTkRJTkc7CiAgfQogIGlzRHJhZnQoKTogYm9vbGVhbiB7CiAgICByZXR1cm4gdGhpcy5zdGF0dXMgPT09IFBBWU1FTlRfUExBTl9TVEFUVVMuRFJBRlQ7CiAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZm9ybUdyb3VwID0gdGhpcy5jb250cm9sQ29udGFpbmVyLmNvbnRyb2wgYXMgRm9ybUdyb3VwOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdHVzID0gcGF5bWVudFBsYW4uc3RhdHVzOwo=</text>
       </register>
       <register name="y" type="4">
         <text />
       </register>
       <register name=":" type="4">
-        <text>99</text>
+        <text>1357</text>
       </register>
     </registers>
   </component>
