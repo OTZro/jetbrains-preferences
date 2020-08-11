@@ -29,8 +29,6 @@
         <entry>:136</entry>
       </history-search>
       <history-cmd>
-        <entry>97</entry>
-        <entry>409</entry>
         <entry>376</entry>
         <entry>136</entry>
         <entry>129</entry>
@@ -49,6 +47,8 @@
         <entry>99</entry>
         <entry>655</entry>
         <entry>1357</entry>
+        <entry>131</entry>
+        <entry>251</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,36 +118,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1597055243548">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1597122939770">
+        <mark key="[" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_entry/index.html" timestamp="1597058016656" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/base_report_ex.py" timestamp="1597056710250" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1597057099848" />
-      <file name="$USER_HOME$/gofreight/fms/fms/date_format.py" timestamp="1597115171890">
+      <file name="$USER_HOME$/gofreight/fms/fms/date_format.py" timestamp="1597123051680">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0101_add_date_format_field_to_office.py" timestamp="1597122969630" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0099_add_date_format_field_to_office.py" timestamp="1597055754797" />
-      <file name="$USER_HOME$/gofreight/fms/fms/settings/base.py" timestamp="1597055332671">
-        <mark key="[" line="658" column="0" />
-        <mark key="]" line="658" column="0" />
-        <mark key="." line="658" column="0" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export_shipment.py" timestamp="1597057255084" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl_olc.html" timestamp="1597057006403" />
       <file name="/Python Console" timestamp="1597118262490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/models.py" timestamp="1597118469216" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0100_office_frontend_date_fmt.py" timestamp="1597055751648">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0100_office_frontend_date_fmt.py" timestamp="1597122935530">
         <mark key="[" line="8" column="25" />
       </file>
       <file name="/Django Console" timestamp="1597117062227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0031_v1_20_olc_0098_office_frontend_date_fmt.py" timestamp="1597055135264" />
       <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1597118202305">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -160,14 +155,10 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.html" timestamp="1597115018330" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/company/company_entry/index.html" timestamp="1597115286548" />
-      <file name="$USER_HOME$/gofreight/fms/core/middleware.py" timestamp="1597115100678">
+      <file name="$USER_HOME$/gofreight/fms/core/middleware.py" timestamp="1597123024159">
         <mark key="[" line="22" column="8" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/test/accounting/payment_plan/test_payment_plan_api.py" timestamp="1597119468558">
-        <mark key="[" line="1364" column="0" />
-        <mark key="]" line="1364" column="0" />
-        <mark key="." line="1364" column="0" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0102_office_frontend_date_fmt.py" timestamp="1597122967237" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -538,7 +529,7 @@ DATE_FMT_HUMAN_FULL = env.str(var='DATE_FMT_HUMAN', default='%B %d, %Y')  # Febr
         <text />
       </register>
       <register name=":" type="4">
-        <text>1357</text>
+        <text>251</text>
       </register>
     </registers>
   </component>
