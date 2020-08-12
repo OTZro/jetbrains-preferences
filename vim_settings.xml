@@ -118,8 +118,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/date.js" timestamp="1597132195581" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/entry_helper.service.js" timestamp="1597132499931" />
+      <file name="/a.dummy" timestamp="1597215055683">
+        <mark key="[" line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/report.service.ts" timestamp="1597142617848">
         <mark key="[" line="1467" column="8" />
         <mark key="]" line="1467" column="6" />
@@ -129,19 +130,20 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/shipment-tool.service.ts" timestamp="1597142445506">
         <mark key="[" line="440" column="25" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/app.component.ts" timestamp="1597133518510" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/basic-dialog/basic-dialog.component.ts" timestamp="1597139042609">
         <mark key="[" line="23" column="21" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/modal.service.ts" timestamp="1597149866512">
-        <mark key="[" line="110" column="36" />
-        <mark key="]" line="46" column="36" />
-        <mark key="." line="46" column="36" />
-        <mark key="^" line="132" column="29" />
-      </file>
+      <file name="/app-setting.js" timestamp="1597213143598" />
       <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ngx-bootstrap/component-loader/component-loader.factory.d.ts" timestamp="1597136885351" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0102_add_date_format_field_to_office.py" timestamp="1597215214971" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/hbl_entry/api.py" timestamp="1597212751027">
+        <mark key="[" line="176" column="47" />
+        <mark key="]" line="176" column="47" />
+        <mark key="^" line="176" column="47" />
+        <mark key="." line="176" column="46" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/fms/date_format.py" timestamp="1597144255779">
         <mark key="[" line="49" column="86" />
         <mark key="]" line="49" column="110" />
@@ -151,15 +153,16 @@
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0101_add_date_format_field_to_office.py" timestamp="1597143464175" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/basic-dialog/basic-dialog.component.html" timestamp="1597135215198" />
       <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ngx-bootstrap/modal/bs-modal.service.d.ts" timestamp="1597136811386" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.html" timestamp="1597128031977">
-        <mark key="[" line="573" column="71" />
+      <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1597215235599">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1597143460026">
         <mark key="[" line="237" column="13" />
         <mark key="]" line="237" column="13" />
         <mark key="." line="237" column="13" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/status.filter.js" timestamp="1597127981880" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/text-def.ts" timestamp="1597133531729" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/shipment-tool-angular-factory.ts" timestamp="1597134445044">
         <mark key="[" line="110" column="42" />
@@ -214,7 +217,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>onHidden</text>
+        <text>#</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -344,7 +347,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>onHidden</text>
+        <text>#</text>
       </register>
       <register name="m" type="4">
         <keys>
