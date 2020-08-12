@@ -118,36 +118,49 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_entry/index.html" timestamp="1597125512756" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/modal.service.ts" timestamp="1597135367063">
-        <mark key="[" line="72" column="9" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/date.js" timestamp="1597132195581" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/entry_helper.service.js" timestamp="1597132499931" />
-      <file name="$USER_HOME$/gofreight/fms/fms/date_format.py" timestamp="1597123051680">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/report.service.ts" timestamp="1597142617848">
+        <mark key="[" line="1467" column="8" />
+        <mark key="]" line="1467" column="6" />
+        <mark key="." line="1467" column="6" />
+        <mark key="^" line="1434" column="13" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0101_add_date_format_field_to_office.py" timestamp="1597122969630" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/basic-dialog/basic-dialog.component.html" timestamp="1597135215198" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1597125507600" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/report.service.ts" timestamp="1597134678110" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/shipment-tool.service.ts" timestamp="1597134318912">
-        <mark key="[" line="417" column="28" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/shipment-tool.service.ts" timestamp="1597142445506">
+        <mark key="[" line="440" column="25" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/app.component.ts" timestamp="1597133518510" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ngx-bootstrap/modal/bs-modal.service.d.ts" timestamp="1597130314974" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/basic-dialog/basic-dialog.component.ts" timestamp="1597139042609">
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/modal.service.ts" timestamp="1597149866512">
+        <mark key="[" line="110" column="36" />
+        <mark key="]" line="46" column="36" />
+        <mark key="." line="46" column="36" />
+        <mark key="^" line="132" column="29" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ngx-bootstrap/component-loader/component-loader.factory.d.ts" timestamp="1597136885351" />
+      <file name="$USER_HOME$/gofreight/fms/fms/date_format.py" timestamp="1597144255779">
+        <mark key="[" line="49" column="86" />
+        <mark key="]" line="49" column="110" />
+        <mark key="." line="49" column="109" />
+        <mark key="^" line="49" column="110" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0101_add_date_format_field_to_office.py" timestamp="1597143464175" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/bootstrap-tool/basic-dialog/basic-dialog.component.html" timestamp="1597135215198" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/ngx-bootstrap/modal/bs-modal.service.d.ts" timestamp="1597136811386" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.html" timestamp="1597128031977">
         <mark key="[" line="573" column="71" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/status.filter.js" timestamp="1597127981880" />
-      <file name="$USER_HOME$/gofreight/fms/core/middleware.py" timestamp="1597123024159">
-        <mark key="[" line="22" column="8" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1597143460026">
+        <mark key="[" line="237" column="13" />
+        <mark key="]" line="237" column="13" />
+        <mark key="." line="237" column="13" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0102_office_frontend_date_fmt.py" timestamp="1597122967237" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/status.filter.js" timestamp="1597127981880" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-view/text-def.ts" timestamp="1597133531729" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_entry/controller.js" timestamp="1597124641750" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/report/shipment-tool-angular-factory.ts" timestamp="1597134445044">
         <mark key="[" line="110" column="42" />
       </file>
@@ -200,8 +213,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvcGVuJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>onHidden</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -331,7 +344,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>onHidden</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -389,20 +402,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvcGVuJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnJXk6IFJldHVybnMgdGhlIHllYXIgaW4gdHdvLWRpZ2l0IGZvcm1hdCwgdGhhdCBpcywgd2l0aG91dCB0aGUgY2VudHVyeS4gRm9yIGV4YW1wbGUsICIxOCIgaW5zdGVhZCBvZiAiMjAxOCIuPC9icj4nCg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBwb3BTdWJzY3JpYmVyKCkgewogICAgY29uc29sZS5sb2coJ1BvcGVkJyk7CiAgICBjb25zb2xlLmxvZyh0aGlzLnN1YnNjcmliZXJzKTsKICAgIGNvbnN0IGxhc3RTdWIgPSB0aGlzLnN1YnNjcmliZXJzLnBvcCgpITsKICAgIGlmICghbGFzdFN1Yi5maW5pc2hlZCkgewogICAgICBsYXN0U3ViLnN1YnNjcmliZXIubmV4dCgpOwogICAgICBsYXN0U3ViLnN1YnNjcmliZXIuY29tcGxldGUoKTsKICAgIH0KICB9</text>
+        <text encoding="base64">ICAgICAgICAnJUI6IFJldHVybnMgdGhlIGZ1bGwgbmFtZSBvZiB0aGUgbW9udGgsIGUuZy4gU2VwdGVtYmVyLjwvYnI+JyArCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHBvcFN1YnNjcmliZXIoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnJWI6IFJldHVybnMgdGhlIGZpcnN0IHRocmVlIGNoYXJhY3RlcnMgb2YgdGhlIG1vbnRoIG5hbWUuIEluIG91ciBleGFtcGxlLCBpdCByZXR1cm5lZCAiU2VwIjwvYnI+JyArCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>Sub
-Sub</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -458,12 +470,11 @@ Sub</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="8">
-        <text>last
-last</text>
+      <register name="5" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLWxnLTMgY29sLW1kLTMgY29sLXNtLTEyIGNvbC14cy0xMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIGZvcm0tc20iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29udHJvbC1sYWJlbCBuYW1lLXNtIj5Gcm9udGVuZCBEYXRlIEZvcm1hdDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJmb3JtLWNvbnRyb2wgdmFsdWUtc20iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9ImZyb250ZW5kX2RhdGVfZm10IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1tb2RlbD0idm0ub2ZmaWNlLmRhdGEuZnJvbnRlbmRfZGF0ZV9mbXQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVpYi10b29sdGlwLWh0bWw9InZtLmdldEZyb250ZW5kRm9ybWF0VGlwKCkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zdWJzY3JpYmVycy5wdXNoKHsgc3Vic2NyaWJlciwgZmluaXNoZWQ6IGZhbHNlIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -490,7 +501,7 @@ last</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zdWJzY3JpYmVycy5wdXNoKHsgc3Vic2NyaWJlciwgZmluaXNoZWQ6IGZhbHNlIH0pOwo=</text>
+        <text encoding="base64">ICAgIGZyb250ZW5kX2RhdGVfZm10ID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTE2LCBkZWZhdWx0PSdNTS1ERC1ZWVlZJykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -506,10 +517,11 @@ last</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbGFzdFN1YiA9IHRoaXMuc3Vic2NyaWJlcnNbdGhpcy5zdWJzY3JpYmVycy5sZW5ndGggLSAxXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbmlzaGVkID0gdHJ1ZTsK</text>
+      <register name="9" type="4">
+        <text>BsModalRef;
+      dialog</text>
       </register>
       <register name="y" type="4">
         <text />
