@@ -119,6 +119,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/gofreight/fms/lib/rest_apimixins.py" timestamp="1597726070787" />
+      <file name="$USER_HOME$/gofreight/fms/fms/urls.py" timestamp="1597736009760">
+        <mark key="[" line="1081" column="31" />
+        <mark key="]" line="1081" column="31" />
+        <mark key="." line="1081" column="31" />
+      </file>
       <file name="$USER_HOME$/.pyenv/versions/fms/lib/python3.6/site-packages/rest_framework/views.py" timestamp="1597725814354" />
       <file name="$USER_HOME$/.pyenv/versions/fms/lib/python3.6/site-packages/rest_framework/renderers.py" timestamp="1597725929498" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office_department/office_department_entry/app.component.ts" timestamp="1597733048140">
@@ -128,41 +133,43 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/__init__.py" timestamp="1597725624557" />
       <file name="$USER_HOME$/gofreight/fms/app/edi/func/log_list/sz.py" timestamp="1597725670600" />
-      <file name="/Python Console" timestamp="1597725094067">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/office/api.py" timestamp="1597735112552" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/ui_config/api.py" timestamp="1597736977676">
+        <mark key="[" line="60" column="86" />
+        <mark key="]" line="48" column="35" />
+        <mark key="." line="48" column="35" />
+        <mark key="^" line="48" column="42" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/warehouse/views_rest/list.py" timestamp="1597723943950" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/ui_config/api.py" timestamp="1597726123474">
-        <mark key="[" line="29" column="94" />
-        <mark key="]" line="29" column="103" />
-        <mark key="." line="29" column="102" />
-        <mark key="^" line="29" column="103" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_ui_config/app.component.ts" timestamp="1597734884500">
-        <mark key="[" line="111" column="90" />
-        <mark key="]" line="111" column="90" />
-        <mark key="." line="111" column="90" />
-        <mark key="^" line="133" column="9" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/fixed_asset_service.py" timestamp="1597736732611" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_ui_config/app.component.ts" timestamp="1597737768921">
+        <mark key="[" line="138" column="48" />
+        <mark key="]" line="188" column="18" />
+        <mark key="." line="188" column="18" />
+        <mark key="^" line="185" column="5" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office_department/office_department_entry/app.component.html" timestamp="1597732985217" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_ui_config/ui-config-data.service.ts" timestamp="1597732874164" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-shipment/manifest-agent-modal/manifest-agent-modal.component.ts" timestamp="1597719458573" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_entry/index.html" timestamp="1597719309606">
-        <mark key="[" line="58" column="11" />
-        <mark key="]" line="58" column="11" />
-        <mark key="." line="58" column="11" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_ui_config/ui-config-data.service.ts" timestamp="1597736064208">
+        <mark key="[" line="40" column="35" />
+        <mark key="]" line="48" column="64" />
+        <mark key="." line="48" column="64" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/api.py" timestamp="1597735056649" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/excel/shipment_container.py" timestamp="1597726084374" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_ui_config/app.component.html" timestamp="1597733309122">
-        <mark key="[" line="55" column="55" />
-        <mark key="]" line="55" column="55" />
-        <mark key="." line="55" column="55" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_ui_config/app.component.html" timestamp="1597737589808">
+        <mark key="[" line="27" column="68" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="17" column="46" />
         <mark key="^" line="25" column="53" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/ui_config/sz.py" timestamp="1597725685817">
         <mark key="[" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/edi/func/log_list/api.py" timestamp="1597723966534" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_ui_config/app.component.text_def.ts" timestamp="1597737639141">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/lib/rest_apiview.py" timestamp="1597725258857" />
     </filemarks>
     <jumps>
@@ -214,7 +221,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>FIELD_CARRIER</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -344,7 +351,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>FIELD_CARRIER</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -408,13 +415,13 @@
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ29wdGlvbnMnOiBvcHRpb25zLAo=</text>
+        <text encoding="base64">ICBGUkVJR0hUX0RFRkFVTFRfVkFMVUVTX0hFQURFUl9VTklUOiBfKCdVbml0JyksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zLnVwZGF0ZShnZXRfb2ZmaWNlX29jZWFuX2FzX2FnZW50X2Zvcl9jYXJyaWVyX25hbWUoKSkK</text>
+        <text encoding="base64">ICBGUkVJR0hUX0RFRkFVTFRfVkFMVUVTX0hFQURFUl9GUkVJR0hUX0NPREU6IF8oJ0ZyZWlnaHQgQ29kZScpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zID0gZ2V0X29wdGlvbnMoKQo=</text>
+        <text encoding="base64">ICBGUkVJR0hUX0RFRkFVTFRfVkFMVUVTX0hFQURFUl9DVVJSRU5DWTogXygnQ3VycmVuY3knKSwK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -471,10 +478,40 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25zLnVwZGF0ZShnZXRfb2ZmaWNlX29jZWFuX2FzX2FnZW50X2Zvcl9jYXJyaWVyX25hbWUoKSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>TITLE_CONFIGURATION: _('Configuration'),
+  TITLE_SHIPMENT_DEFAULT_VALUES: _('Shipment Default Values'),
+  TITLE_FREIGHT_DEFAULT_VALUES: _('Freight Default Values'),
+
+  ACCOUNTING: _('Accounting'),
+  CEIL_FRT_VOL: _('Ceil Freight Volume'),
+
+  OCEAN_IMPORT: _('Ocean Import'),
+  OCEAN_EXPORT: _('Ocean Export'),
+  OCEAN_BOOKING: _('Booking'),
+  AIR_IMPORT: _('Air Import'),
+  AIR_EXPORT: _('Air Export'),
+
+  DEFAULT_POL: _('Port of Loading'),
+  DEFAULT_POR: _('Place of Receipt'),
+
+  DEFAULT_POD: _('Port of Discharge'),
+  POD_SYNC_DEL: _('Sync Place of Delivery'),
+  POD_SYNC_FDEST: _('Sync Final Destination'),
+  IS_BOOKING_MODE_REQUIRED: _('Is Booking Mode Required'),
+
+  DEFAULT_APOL: _('Departure'),
+  DEFAULT_APOD: _('Destination'),
+
+  DEFAULT_SHIP_MODE: _('Ship Mode'),
+  DEFAULT_SVC_TERM: _('Service Term'),
+
+  DEFAULT_INCOTERMS: _('Incoterms'),
+
+  DEFAULT_NOTIFY: _('Notify'),
+  DEFAULT_MARK: _('Mark'),</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -500,8 +537,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLWxnLTYgY29sLW1kLTYgY29sLXNtLTEyIGNvbC14cy0xMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMTIgY29sLW1kLTEyIGNvbC1zbS0xMiBjb2wteHMtMTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1sZy0xMiBjb2wtbWQtMTIgY29sLXNtLTEyIGNvbC14cy0xMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIGZvcm0tc20gZm9ybS10ZXh0YXJlYSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb250cm9sLWxhYmVsIG5hbWUtc20iPnt7XygnQWRkcmVzcycpfX08L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJzdWdnZXN0IHRleHQtZGFuZ2VyIGNvbnRyb2wtbGFiZWwiIG5nLXNob3c9InZtLnN1Z2dlc3RfYWRkcmVzcyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyBfKCdTdWdnZXN0aW9uJyl9fTogW1t2bS5zdWdnZXN0X2FkZHJlc3NdXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRleHRhcmVhIG5hbWU9ImFkZHJlc3MiIHJvd3M9IjQiIGNsYXNzPSJmb3JtLWNvbnRyb2wgdmFsdWUtc20gdmFsdWUtbG9jYWwtYWRkIiBuZy1tb2RlbD0idm0ub2ZmaWNlLmRhdGEuYWRkcmVzcyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmctY2hhbmdlPSJ2bS5zdWdnZXN0QWRkcmVzcygpIiBlbXB0eS10by1udWxsIGNoYXItbGltaXQ9IjI1NiI+W1t2bS5vZmZpY2UuZGF0YS5hZGRyZXNzXV08L3RleHRhcmVhPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLWxnLTEyIGNvbC1tZC0xMiBjb2wtc20tMTIgY29sLXhzLTEyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMTIgY29sLW1kLTEyIGNvbC1zbS0xMiBjb2wteHMtMTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCBmb3JtLXNtIGZvcm0tdGV4dGFyZWEiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29udHJvbC1sYWJlbCBuYW1lLXNtIj57e18oJ0xvY2FsIEFkZHJlc3MnKX19PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGV4dGFyZWEKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJvd3M9IjQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0iZm9ybS1jb250cm9sIHZhbHVlLXNtIHZhbHVlLWxvY2FsLWFkZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLW1vZGVsPSJ2bS5vZmZpY2UuZGF0YS5sb2NhbF9hZGRyZXNzIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hhci1saW1pdD0iMjU2IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW1wdHktdG8tbnVsbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID48L3RleHRhcmVhPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLWxnLTYgY29sLW1kLTYgY29sLXNtLTEyIGNvbC14cy0xMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCBmb3JtLXNtIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb250cm9sLWxhYmVsIG5hbWUtc20iPnt7XygnQ2l0eScpfX08L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgbmFtZT0iY2l0eV9uYW1lIiB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIHZhbHVlLXNtIiBjaGFyLWxpbWl0PSIzMCIgZW1wdHktdG8tbnVsbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmctbW9kZWw9InZtLm9mZmljZS5kYXRhLmNpdHlfbmFtZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1sZy02IGNvbC1tZC02IGNvbC1zbS0xMiBjb2wteHMtMTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgZm9ybS1zbSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29udHJvbC1sYWJlbCBuYW1lLXNtIj57e18oJ1N0YXRlJyl9fTwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBuYW1lPSJzdGF0ZV9jb2RlIiB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIHZhbHVlLXNtIiBjaGFyLWxpbWl0PSI2IiBlbXB0eS10by1udWxsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1tb2RlbD0idm0ub2ZmaWNlLmRhdGEuc3RhdGVfY29kZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1sZy02IGNvbC1tZC02IGNvbC1zbS0xMiBjb2wteHMtMTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgZm9ybS1zbSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29udHJvbC1sYWJlbCBuYW1lLXNtIj57e18oJ1ppcCBDb2RlJyl9fTwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBuYW1lPSJ6aXBfY29kZSIgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCB2YWx1ZS1zbSIgY2hhci1saW1pdD0iMTYiIGVtcHR5LXRvLW51bGwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLW1vZGVsPSJ2bS5vZmZpY2UuZGF0YS56aXBfY29kZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1sZy02IGNvbC1tZC02IGNvbC1zbS0xMiBjb2wteHMtMTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgZm9ybS1zbSIgc2hvdy1lcnJvcnM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29udHJvbC1sYWJlbCBuYW1lLXNtIj48c3BhbiBjbGFzcz0idGV4dC1kYW5nZXIiPio8L3NwYW4+e3tfKCdDb3VudHJ5Jyl9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dWktc2VsZWN0IG5nLW1vZGVsPSJ2bS5vZmZpY2UuZGF0YS5jb3VudHJ5IiBuZy1jaGFuZ2U9InZtLnN1Z2dlc3RBZGRyZXNzKCkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImZvcm0tY29udHJvbCB2YWx1ZS1zbSIgbmFtZT0iY291bnRyeSIgcmVxdWlyZWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dWktc2VsZWN0LW1hdGNoIGFsbG93LWNsZWFyPSJ0cnVlIj5bWyRzZWxlY3Quc2VsZWN0ZWQubmFtZSB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZtLm9mZmljZS5kYXRhLmNvdW50cnkubmFtZV1dCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3VpLXNlbGVjdC1tYXRjaD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1aS1zZWxlY3QtY2hvaWNlcyByZXBlYXQ9Im8gaW4gcXVlcnlDb3VudHJ5LnJlc3VsdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWZyZXNoPSJxdWVyeUNvdW50cnkoJHNlbGVjdC5zZWFyY2gpIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IG5nLWJpbmQtaHRtbD0iby5jb2RlICsnICcrby5uYW1lIHwgaGlnaGxpZ2h0OiAkc2VsZWN0LnNlYXJjaCI+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3VpLXNlbGVjdC1jaG9pY2VzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3VpLXNlbGVjdD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -517,10 +554,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLWxnLTYgY29sLW1kLTYgY29sLXNtLTEyIGNvbC14cy0xMiI+Cg==</text>
+        <text encoding="base64">ICBuZ09uQ2hhbmdlcyhjaGFuZ2VzOiBTaW1wbGVDaGFuZ2VzKTogdm9pZCB7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvZmZpY2U6IHRoaXMub2ZmaWNlSWQsCg==</text>
       </register>
       <register name="y" type="4">
         <text />
