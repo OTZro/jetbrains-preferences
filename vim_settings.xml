@@ -153,11 +153,11 @@
       <file name="$USER_HOME$/gofreight/fms/app/accounting/fixed_asset/fixed_asset_service.py" timestamp="1597736732611" />
       <file name="/index.html" timestamp="1597741271299" />
       <file name="/vs_mbl_board.html" timestamp="1597741124748" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_ui_config/app.component.ts" timestamp="1597741759025">
-        <mark key="[" line="146" column="5" />
-        <mark key="]" line="116" column="6" />
-        <mark key="." line="116" column="6" />
-        <mark key="^" line="131" column="10" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_ui_config/app.component.ts" timestamp="1597742913617">
+        <mark key="[" line="80" column="22" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="80" column="16" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_ui_config/ui-config-data.service.ts" timestamp="1597736064208">
         <mark key="[" line="40" column="35" />
@@ -241,8 +241,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Carrier</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -372,7 +372,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Carrier</text>
+        <text>from</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -436,13 +436,13 @@
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBGUkVJR0hUX0RFRkFVTFRfVkFMVUVTX0hFQURFUl9VTklUOiBfKCdVbml0JyksCg==</text>
+        <text encoding="base64">ICAgICAgT0U6IHRoaXMuZmIuZ3JvdXAoewogICAgICAgIGNhcnJpZXI6IHRoaXMuZmIuZ3JvdXAoewogICAgICAgICAgdHlwZTogdGhpcy5mYi5ncm91cCh7CiAgICAgICAgICAgIGlkOiBbbnVsbF0sCiAgICAgICAgICAgIHZhbHVlOiBbbnVsbF0sCiAgICAgICAgICB9KSwKICAgICAgICB9KSwKICAgICAgICBvdmVyc2VhX2FnZW50OiB0aGlzLmZiLmdyb3VwKHsKICAgICAgICAgIHR5cGU6IHRoaXMuZmIuZ3JvdXAoewogICAgICAgICAgICBpZDogW251bGxdLAogICAgICAgICAgICB2YWx1ZTogW251bGxdLAogICAgICAgICAgfSksCiAgICAgICAgfSksCiAgICAgIH0pLA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBGUkVJR0hUX0RFRkFVTFRfVkFMVUVTX0hFQURFUl9GUkVJR0hUX0NPREU6IF8oJ0ZyZWlnaHQgQ29kZScpLAo=</text>
+        <text encoding="base64">ICAgIH0pLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBGUkVJR0hUX0RFRkFVTFRfVkFMVUVTX0hFQURFUl9DVVJSRU5DWTogXygnQ3VycmVuY3knKSwK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -498,41 +498,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IE9COiB0aGlzLmZiLmdyb3VwKHsKICAgICAgY2FycmllcjogdGhpcy5mYi5ncm91cCh7CiAgICAgICAgdHlwZTogdGhpcy5mYi5ncm91cCh7CiAgICAgICAgICBpZDogW251bGxdLAogICAgICAgICAgdmFsdWU6IFtudWxsXSwKICAgICAgICB9KSwKICAgICAgfSksCiAgICAgIG92ZXJzZWFfYWdlbnQ6IHRoaXMuZmIuZ3JvdXAoewogICAgICAgIHR5cGU6IHRoaXMuZmIuZ3JvdXAoewogICAgICAgICAgaWQ6IFtudWxsXSwKICAgICAgICAgIHZhbHVlOiBbbnVsbF0sCiAgICAgICAgfSksCiAgICAgIH0pLAogICAgfSksCiAgICBBSTogdGhpcy5mYi5ncm91cCh7CiAgICAgIGNhcnJpZXI6IHRoaXMuZmIuZ3JvdXAoewogICAgICAgIHR5cGU6IHRoaXMuZmIuZ3JvdXAoewogICAgICAgICAgaWQ6IFtudWxsXSwKICAgICAgICAgIHZhbHVlOiBbbnVsbF0sCiAgICAgICAgfSksCiAgICAgIH0pLAogICAgICBvdmVyc2VhX2FnZW50OiB0aGlzLmZiLmdyb3VwKHsKICAgICAgICB0eXBlOiB0aGlzLmZiLmdyb3VwKHsKICAgICAgICAgIGlkOiBbbnVsbF0sCiAgICAgICAgICB2YWx1ZTogW251bGxdLAogICAgICAgIH0pLAogICAgICB9KSwKICAgIH0pLAogICAgQUU6IHRoaXMuZmIuZ3JvdXAoewogICAgICBjYXJyaWVyOiB0aGlzLmZiLmdyb3VwKHsKICAgICAgICB0eXBlOiB0aGlzLmZiLmdyb3VwKHsKICAgICAgICAgIGlkOiBbbnVsbF0sCiAgICAgICAgICB2YWx1ZTogW251bGxdLAogICAgICAgIH0pLAogICAgICB9KSwKICAgICAgb3ZlcnNlYV9hZ2VudDogdGhpcy5mYi5ncm91cCh7CiAgICAgICAgdHlwZTogdGhpcy5mYi5ncm91cCh7CiAgICAgICAgICBpZDogW251bGxdLAogICAgICAgICAgdmFsdWU6IFtudWxsXSwKICAgICAgICB9KSwKICAgICAgfSks</text>
       </register>
-      <register name="6" type="4">
-        <text>TITLE_CONFIGURATION: _('Configuration'),
-  TITLE_SHIPMENT_DEFAULT_VALUES: _('Shipment Default Values'),
-  TITLE_FREIGHT_DEFAULT_VALUES: _('Freight Default Values'),
-
-  ACCOUNTING: _('Accounting'),
-  CEIL_FRT_VOL: _('Ceil Freight Volume'),
-
-  OCEAN_IMPORT: _('Ocean Import'),
-  OCEAN_EXPORT: _('Ocean Export'),
-  OCEAN_BOOKING: _('Booking'),
-  AIR_IMPORT: _('Air Import'),
-  AIR_EXPORT: _('Air Export'),
-
-  DEFAULT_POL: _('Port of Loading'),
-  DEFAULT_POR: _('Place of Receipt'),
-
-  DEFAULT_POD: _('Port of Discharge'),
-  POD_SYNC_DEL: _('Sync Place of Delivery'),
-  POD_SYNC_FDEST: _('Sync Final Destination'),
-  IS_BOOKING_MODE_REQUIRED: _('Is Booking Mode Required'),
-
-  DEFAULT_APOL: _('Departure'),
-  DEFAULT_APOD: _('Destination'),
-
-  DEFAULT_SHIP_MODE: _('Ship Mode'),
-  DEFAULT_SVC_TERM: _('Service Term'),
-
-  DEFAULT_INCOTERMS: _('Incoterms'),
-
-  DEFAULT_NOTIFY: _('Notify'),
-  DEFAULT_MARK: _('Mark'),</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBmb3JtID0gCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -575,10 +545,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBuZ09uQ2hhbmdlcyhjaGFuZ2VzOiBTaW1wbGVDaGFuZ2VzKTogdm9pZCB7fQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGFlID0gewogICAgY2FycmllcjogeyB0eXBlOiBTdXBwb3J0Q29uZmlnS2V5RW51bS5UUFR5cGUgfSwKICB9Ow==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvZmZpY2U6IHRoaXMub2ZmaWNlSWQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
