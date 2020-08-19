@@ -130,9 +130,6 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_ui_config/ui-config-data.service.ts" timestamp="1597807838009">
-        <mark key="[" line="2" column="42" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/lib/thirdparty_extend/rest/mixins.py" timestamp="1597818185689" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_ui_config/app.component.html" timestamp="1597820037332">
         <mark key="[" line="43" column="83" />
@@ -140,12 +137,17 @@
       <file name="/" timestamp="1597819244793">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-department-user-select/hc-department-user-select.component.ts" timestamp="1597825526034" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/__init__.py" timestamp="1597818931044">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/core/auto_complete/mbl_select.component.js" timestamp="1597824615612" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-department-user-select/hc-department-user-select.component.html" timestamp="1597825471771" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-select/hc-mbl-select.component.html" timestamp="1597825474677">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/core/auto_complete/mbl_select.component.js" timestamp="1597825659763" />
       <file name="/Django Console" timestamp="1597824858169">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
@@ -157,8 +159,13 @@
         <mark key="]" line="297" column="56" />
         <mark key="." line="297" column="56" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-select/hc-mbl-select.component.ts" timestamp="1597825552290">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-autocomplete-base/hc-autocomplete-base.component.ts" timestamp="1597825506208" />
       <file name="$USER_HOME$/code/stock-analyze/stock/main/management/commands/fetch.py" timestamp="1597824934291" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/trade_partner.py" timestamp="1597811939321" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl.service.js" timestamp="1597821137077" />
     </filemarks>
     <jumps>
@@ -210,7 +217,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>process_stock</text>
+        <text>hcDepartmentUserSelect</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -340,7 +347,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>process_stock</text>
+        <text>hcDepartmentUserSelect</text>
       </register>
       <register name="m" type="4">
         <keys>
