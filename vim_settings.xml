@@ -119,7 +119,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/rate_entry/rate-interaction.service.ts" timestamp="1597807754204" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office_department/department_list/app.module.ts" timestamp="1597747298230" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office_department/department_list/app.component.html" timestamp="1597807327987" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1597807431594" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_ui_config/ui-config-data.service.ts" timestamp="1597807838009">
@@ -141,6 +140,12 @@
         <mark key="[" line="214" column="64" />
         <mark key="]" line="214" column="64" />
         <mark key="." line="214" column="64" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/entry_helper.service.js" timestamp="1597810067671">
+        <mark key="[" line="1204" column="32" />
+        <mark key="]" line="1204" column="43" />
+        <mark key="." line="1204" column="42" />
+        <mark key="^" line="1204" column="43" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/utility/url.ts" timestamp="1597807820413" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_ui_config/app.component.text_def.ts" timestamp="1597807468665">
@@ -212,7 +217,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>loadToField</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -342,7 +347,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>loadToField</text>
       </register>
       <register name="m" type="4">
         <keys>
