@@ -123,7 +123,7 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/payment-history-modal/payment-history-modal.component.html" timestamp="1597833862824" />
       <file name="$USER_HOME$/gofreight/fms/fms/urls_superuser.py" timestamp="1597895456693" />
       <file name="$USER_HOME$/gofreight/fms/lib/thirdparty_extend/rest/serializer.py" timestamp="1597893862832" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.html" timestamp="1597835211553" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.html" timestamp="1597911782348" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/shared-component.module.ts" timestamp="1597833926336">
         <mark key="[" line="117" column="24" />
         <mark key="]" line="84" column="23" />
@@ -136,12 +136,13 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-pipe/location-format.pipe.ts" timestamp="1597833946987">
         <mark key="[" line="9" column="45" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-select/hc-mbl-select.component.html" timestamp="1597893362500">
-        <mark key="[" line="38" column="21" />
-        <mark key="]" line="52" column="18" />
-        <mark key="." line="52" column="17" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-select/hc-mbl-select.component.html" timestamp="1597912241764">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="33" column="12" />
+        <mark key="." line="33" column="12" />
         <mark key="^" line="52" column="18" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/invoice-status-cell/invoice-status-cell.component.html" timestamp="1597912111325" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/ui_config/sz.py" timestamp="1597893798564">
         <mark key="[" line="9" column="24" />
       </file>
@@ -153,15 +154,14 @@
         <mark key="." line="54" column="43" />
         <mark key="^" line="53" column="30" />
       </file>
-      <file name="$USER_HOME$/code/stock-analyze/stock/stock/settings.py" timestamp="1597832501975" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.html" timestamp="1597904929419">
-        <mark key="[" line="273" column="70" />
-        <mark key="]" line="271" column="44" />
-        <mark key="." line="271" column="44" />
-        <mark key="^" line="271" column="46" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.html" timestamp="1597911909615">
+        <mark key="[" line="277" column="36" />
+        <mark key="]" line="277" column="36" />
+        <mark key="." line="277" column="36" />
+        <mark key="^" line="277" column="49" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-select/hc-mbl-select.component.ts" timestamp="1597897654821">
-        <mark key="[" line="49" column="56" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-select/hc-mbl-select.component.ts" timestamp="1597911784874">
+        <mark key="[" line="21" column="28" />
         <mark key="]" line="49" column="68" />
         <mark key="." line="49" column="67" />
         <mark key="^" line="49" column="68" />
@@ -173,7 +173,7 @@
         <mark key="." line="122" column="39" />
         <mark key="^" line="242" column="20" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl.service.js" timestamp="1597904920908">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl.service.js" timestamp="1597911519277">
         <mark key="[" line="282" column="0" />
         <mark key="]" line="282" column="0" />
         <mark key="." line="282" column="0" />
@@ -227,8 +227,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>uib-tooltip</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -358,7 +358,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>delete_list+</text>
+        <text>uib-tooltip</text>
       </register>
       <register name="m" type="4">
         <keys>
