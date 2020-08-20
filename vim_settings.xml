@@ -147,16 +147,15 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/core/auto_complete/mbl_select.component.js" timestamp="1597834173614" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-billing-select/hc-billing-select.component.html" timestamp="1597833511668" />
-      <file name="$USER_HOME$/code/stock-analyze/stock/lib/pyalgotrade/barfeed/sqlfeed.py" timestamp="1597832148274" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/ui_config/api.py" timestamp="1597895552794">
-        <mark key="[" line="53" column="119" />
-        <mark key="]" line="53" column="30" />
-        <mark key="." line="53" column="29" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/ui_config/api.py" timestamp="1597902729025">
+        <mark key="[" line="54" column="46" />
+        <mark key="]" line="54" column="43" />
+        <mark key="." line="54" column="43" />
         <mark key="^" line="53" column="30" />
       </file>
       <file name="$USER_HOME$/code/stock-analyze/stock/stock/settings.py" timestamp="1597832501975" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.html" timestamp="1597901277590">
-        <mark key="[" line="271" column="44" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.html" timestamp="1597903269041">
+        <mark key="[" line="273" column="70" />
         <mark key="]" line="271" column="44" />
         <mark key="." line="271" column="44" />
         <mark key="^" line="271" column="46" />
@@ -173,6 +172,11 @@
         <mark key="]" line="122" column="39" />
         <mark key="." line="122" column="39" />
         <mark key="^" line="242" column="20" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl.service.js" timestamp="1597903010423">
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="0" />
+        <mark key="." line="282" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -223,8 +227,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -354,7 +358,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>delete_list+</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -412,19 +416,21 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwID0gc3ouZGF0YQo=</text>
+      <register name="2" type="4">
+        <text>getAssignableMblTypes() {
+        return ['OE', 'OB'];
+      }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwID0gc3ouZGF0YQo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -483,9 +489,8 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>dateFormat
-dateFormat</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -511,9 +516,8 @@ dateFormat</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="8">
-        <text>append
-append</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -528,11 +532,13 @@ append</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text>dateFormat
+dateFormat</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGVwdExpc3Q/LmZvckVhY2goZGVwdCA9PiB1cmxQYXJhbS5hcHBlbmQoJ2RlcHRfbGlzdCcsIGRlcHQpKTsKICAgIHRoaXMub3JEZXB0TGlzdD8uZm9yRWFjaChkZXB0ID0+IHVybFBhcmFtLmFwcGVuZCgnb3JfZGVwdF9saXN0JywgZGVwdCkpOwogICAgdGhpcy5mZWF0TGlzdD8uZm9yRWFjaChmZWF0ID0+IHVybFBhcmFtLmFwcGVuZCgnZmVhdF9saXN0JywgZmVhdCkpOw==</text>
+      <register name="9" type="8">
+        <text>append
+append</text>
       </register>
       <register name="y" type="4">
         <text />
