@@ -142,7 +142,6 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/downgrade/hc_header.ts" timestamp="1597979844197">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/index.ts" timestamp="1597921223626" />
       <file name="$USER_HOME$/gofreight/fms/fms/permission/perm_nav.py" timestamp="1597981693810">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -153,6 +152,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="38" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations_helper/v1_20.py" timestamp="1597982931839">
+        <mark key="[" line="359" column="31" />
+        <mark key="]" line="359" column="31" />
+        <mark key="." line="359" column="31" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office_department/department_list/entry.js" timestamp="1597980145636">
         <mark key="[" line="7" column="35" />
@@ -235,7 +239,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>SETTING_APPROVAL_EDIT</text>
+        <text>NAV_APPROVAL_CENTER</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -365,7 +369,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SETTING_APPROVAL_EDIT</text>
+        <text>NAV_APPROVAL_CENTER</text>
       </register>
       <register name="m" type="4">
         <keys>
