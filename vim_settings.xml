@@ -130,6 +130,7 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-pipe/datetime-format.pipe.ts" timestamp="1598007023791" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1598008420903" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0032_v1_20_0006_uiconfig.py" timestamp="1598241142948" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/partial_keyname.py" timestamp="1598003544624" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/base.module.ts" timestamp="1598006824046" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach-to-mbl-modal.text_def.ts" timestamp="1598005714833">
@@ -514,7 +515,7 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>738</text>
+        <text>34</text>
       </register>
     </registers>
   </component>
