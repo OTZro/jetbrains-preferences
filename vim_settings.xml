@@ -118,9 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/check_deposit/index.html" timestamp="1598261155704">
-        <mark key="[" line="97" column="32" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/ui_config/api.py" timestamp="1598266145468">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -129,7 +126,12 @@
       <file name="/Python Console" timestamp="1598263514563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment_entry/controller.js" timestamp="1598327685782" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment_entry/controller.js" timestamp="1598334966472">
+        <mark key="[" line="693" column="19" />
+        <mark key="]" line="693" column="19" />
+        <mark key="^" line="693" column="8" />
+        <mark key="." line="693" column="19" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/trade_partner/global_local/condition.py" timestamp="1598264089094">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -141,26 +143,25 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment_entry/payment_row/payment_row.service.js" timestamp="1598334570368" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment_entry/index.html" timestamp="1598327675971" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_list/entry.js" timestamp="1598335387411">
+        <mark key="[" line="8" column="55" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views/views.py" timestamp="1598327588994" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/bank/check_deposit/utility.py" timestamp="1598264011650">
         <mark key="[" line="145" column="12" />
         <mark key="]" line="145" column="12" />
         <mark key="." line="145" column="12" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry.controller.js" timestamp="1598260761922">
-        <mark key="[" line="2493" column="21" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0033_auto_20200825_0326.py" timestamp="1598326052139" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0032_v1_20_0006_uiconfig.py" timestamp="1598326053705" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_ui_config/entry.js" timestamp="1598335414751">
+        <mark key="[" line="8" column="55" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/_base.js" timestamp="1598335361273" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/check_deposit/controller.js" timestamp="1598263992903">
         <mark key="^" line="39" column="26" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/trade_partner/entry/sz.py" timestamp="1598261597287">
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="10" column="58" />
-        <mark key="^" line="10" column="61" />
-        <mark key="." line="10" column="58" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/accounting/report/agent_local_statement/agent_local_statement_log_list.component.js" timestamp="1598325928492" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/__init__.py" timestamp="1598261945209">
@@ -217,8 +218,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>parseInt</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -348,7 +349,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>tp_name</text>
+        <text>parseInt</text>
       </register>
       <register name="m" type="4">
         <keys>
