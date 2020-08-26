@@ -138,11 +138,7 @@
         <mark key="^" line="693" column="8" />
         <mark key="." line="693" column="19" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/trade_partner/entry/sz_default_instance.py" timestamp="1598414643938">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="14" column="5" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/trade_partner/entry/sz_default_instance.py" timestamp="1598416609411" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment_entry/payment_row/payment_row.service.js" timestamp="1598351222531" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/advance-tp-dialog/advance-tp-dialog.component.ts" timestamp="1598342336290">
         <mark key="[" line="34" column="33" />
@@ -152,10 +148,9 @@
         <mark key="[" line="58" column="11" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/trade_partner_entry/index.html" timestamp="1598414726623" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1598350224617" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1598416704087" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/views_ocean.py" timestamp="1598413234464" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/trade_partner/entry/view.py" timestamp="1598414528234" />
-      <file name="$USER_HOME$/gofreight/fms/app/warehouse/views/entry.py" timestamp="1598337097230" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/base.js" timestamp="1598351864853" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1598414049456" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.ts" timestamp="1598342373789">
@@ -165,6 +160,11 @@
         <mark key="[" line="315" column="12" />
         <mark key="]" line="315" column="12" />
         <mark key="." line="315" column="12" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/__init__.py" timestamp="1598416363652">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -216,7 +216,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>classmethod</text>
+        <text>True</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -346,7 +346,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>classmethod</text>
+        <text>True</text>
       </register>
       <register name="m" type="4">
         <keys>
