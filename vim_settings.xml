@@ -137,7 +137,13 @@
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/office/api.py" timestamp="1598424625805">
         <mark key="[" line="193" column="74" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1598424880021" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/default_values/service.py" timestamp="1598425873067">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="19" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1598425812702" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0032_v1_20_0010_office_default_values.py" timestamp="1598424090383">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -207,8 +213,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Officew</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -338,7 +344,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>OfficeDepartment</text>
+        <text>Officew</text>
       </register>
       <register name="m" type="4">
         <keys>
