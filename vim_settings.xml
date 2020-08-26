@@ -148,7 +148,11 @@
         <mark key="[" line="58" column="11" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/trade_partner_entry/index.html" timestamp="1598414726623" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1598416704087" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1598417349089">
+        <mark key="[" line="298" column="90" />
+        <mark key="]" line="298" column="90" />
+        <mark key="." line="298" column="90" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/views_ocean.py" timestamp="1598413234464" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/trade_partner/entry/view.py" timestamp="1598414528234" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/base.js" timestamp="1598351864853" />
@@ -216,7 +220,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>_department</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -346,7 +350,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>_department</text>
       </register>
       <register name="m" type="4">
         <keys>
