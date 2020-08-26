@@ -118,10 +118,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1598424511997">
+      <file name="/Python Console" timestamp="1598430219988">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1598423996224">
+      <file name="/a.dummy" timestamp="1598430758658">
         <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0030_v1_20_olc_0065_add_officedepartment_default_values.py" timestamp="1598422855139" />
@@ -134,31 +134,37 @@
         <mark key="." line="406" column="8" />
         <mark key="^" line="406" column="14" />
       </file>
+      <file name="/Django Console" timestamp="1598430562447">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/office/api.py" timestamp="1598424625805">
         <mark key="[" line="193" column="74" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/default_values/service.py" timestamp="1598425873067">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="12" />
-        <mark key="." line="9" column="12" />
-        <mark key="^" line="9" column="19" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/default_values/service.py" timestamp="1598430720649">
+        <mark key="[" line="68" column="32" />
+        <mark key="]" line="70" column="37" />
+        <mark key="." line="70" column="36" />
+        <mark key="^" line="70" column="37" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1598425812702" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/booking/booking_default_instance.py" timestamp="1598431153379">
+        <mark key="[" line="93" column="116" />
+        <mark key="]" line="93" column="116" />
+        <mark key="." line="93" column="116" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/prepaid_expense/calculator.py" timestamp="1598427997441" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/default_values/utils.py" timestamp="1598431136967" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1598428231973" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0032_v1_20_0010_office_default_values.py" timestamp="1598424090383">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/office/sz.py" timestamp="1598424581778">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/office/sz.py" timestamp="1598430168550">
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/accounting/report/agent_local_statement/agent_local_statement_log_list.component.js" timestamp="1598352253270">
-        <mark key="[" line="315" column="12" />
-        <mark key="]" line="315" column="12" />
-        <mark key="." line="315" column="12" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/util_department_default_values.py" timestamp="1598431163188" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/__init__.py" timestamp="1598416363652">
         <mark key="[" line="159" column="0" />
         <mark key="]" line="159" column="0" />
@@ -214,7 +220,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Officew</text>
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -344,7 +350,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Officew</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -401,22 +407,28 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>def save(self, force_insert=False, force_update=False, using=None,
+             update_fields=None):
+        return
+
+    def delete(self, using=None, keep_parents=False):
+        return
+
+    class Meta:
+        managed = False</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBjcmVhdGUoc2VsZiwgdmFsaWRhdGVkX2RhdGEpOgogICAgICAgIGluc3RhbmNlID0gc3VwZXIoKS5jcmVhdGUodmFsaWRhdGVkX2RhdGEpCiAgICAgICAgaW5zdGFuY2UuZGVmYXVsdF92YWx1ZXMgPSBFbnRyeURlZmF1bHRWYWx1ZXMub2JqZWN0cy5jcmVhdGUoKQogICAgICAgIGluc3RhbmNlLnNhdmUodXBkYXRlX2ZpZWxkcz1bJ2RlZmF1bHRfdmFsdWVzJ10pCiAgICAgICAgcmV0dXJuIGluc3RhbmNl</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>od
-od
-od</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -473,10 +485,12 @@ od</text>
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBHZW5lcmF0ZWQgYnkgRGphbmdvIDMuMC4zIG9uIDIwMjAtMDYtMjkgMDg6MDgKaW1wb3J0IGRqYW5nbwpmcm9tIGRqYW5nby5kYiBpbXBvcnQgbWlncmF0aW9ucywgbW9kZWxzCgpmcm9tIGFwcC5mcmVpZ2h0Lm1pZ3JhdGlvbnNfaGVscGVyLnYxXzIwIGltcG9ydCBtaWdyYXRlX2NyZWF0ZV9kZWZhdWx0X3ZhbHVlc19maWVsZF9mb3Jfb2ZmaWNlX2RlcGFydG1lbnQKCgpjbGFzcyBNaWdyYXRpb24obWlncmF0aW9ucy5NaWdyYXRpb24pOgoKICAgIGRlcGVuZGVuY2llcyA9IFsKICAgICAgICAoJ2ZyZWlnaHQnLCAnMDAzMF92MV8yMF9vbGNfMDA2NF9vZV9oYmxfZXhwb3J0X2luZm9fYWRkX2Rpc3BsYXlfYWdlbnQnKSwKICAgIF0KCiAgICBvcGVyYXRpb25zID0gWwogICAgICAgIG1pZ3JhdGlvbnMuQ3JlYXRlTW9kZWwoCiAgICAgICAgICAgIG5hbWU9J0VudHJ5RGVmYXVsdFZhbHVlcycsCiAgICAgICAgICAgIGZpZWxkcz1bCiAgICAgICAgICAgICAgICAoJ2lkJywgbW9kZWxzLkF1dG9GaWVsZChwcmltYXJ5X2tleT1UcnVlLCBzZXJpYWxpemU9RmFsc2UpKSwKICAgICAgICAgICAgICAgICgnYm9va2luZ19lbnRyeScsIG1vZGVscy5UZXh0RmllbGQobnVsbD1UcnVlKSksCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIG9wdGlvbnM9ewogICAgICAgICAgICAgICAgJ2RiX3RhYmxlJzogJ2ZyZWlnaHRfZW50cnlfZGVmYXVsdF92YWx1ZXMnLAogICAgICAgICAgICB9LAogICAgICAgICksCiAgICAgICAgbWlncmF0aW9ucy5BZGRGaWVsZCgKICAgICAgICAgICAgbW9kZWxfbmFtZT0nb2ZmaWNlZGVwYXJ0bWVudCcsCiAgICAgICAgICAgIG5hbWU9J2RlZmF1bHRfdmFsdWVzJywKICAgICAgICAgICAgZmllbGQ9bW9kZWxzLkZvcmVpZ25LZXkobnVsbD1UcnVlLCBvbl9kZWxldGU9ZGphbmdvLmRiLm1vZGVscy5kZWxldGlvbi5DQVNDQURFLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWxhdGVkX25hbWU9J29mZmljZV9kZXBhcnRtZW50X3NldCcsIHRvPSdmcmVpZ2h0LkVudHJ5RGVmYXVsdFZhbHVlcycpLAogICAgICAgICksCgogICAgICAgIAogICAgXQo=</text>
+        <text encoding="base64">ICAgIGRlZiBjcmVhdGUoc2VsZiwgdmFsaWRhdGVkX2RhdGEpOgogICAgICAgIGluc3RhbmNlID0gc3VwZXIoKS5jcmVhdGUodmFsaWRhdGVkX2RhdGEpCiAgICAgICAgaW5zdGFuY2UuZGVmYXVsdF92YWx1ZXMgPSBFbnRyeURlZmF1bHRWYWx1ZXMub2JqZWN0cy5jcmVhdGUoKQogICAgICAgIGluc3RhbmNlLnNhdmUodXBkYXRlX2ZpZWxkcz1bJ2RlZmF1bHRfdmFsdWVzJ10pCiAgICAgICAgcmV0dXJuIGluc3RhbmNl</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>od
+od
+od</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -503,7 +517,7 @@ od</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkNyZWF0ZU1vZGVsKAogICAgICAgICAgICBuYW1lPSdFbnRyeURlZmF1bHRWYWx1ZXMnLAogICAgICAgICAgICBmaWVsZHM9WwogICAgICAgICAgICAgICAgKCdpZCcsIG1vZGVscy5BdXRvRmllbGQocHJpbWFyeV9rZXk9VHJ1ZSwgc2VyaWFsaXplPUZhbHNlKSksCiAgICAgICAgICAgICAgICAoJ2Jvb2tpbmdfZW50cnknLCBtb2RlbHMuVGV4dEZpZWxkKG51bGw9VHJ1ZSkpLAogICAgICAgICAgICBdLAogICAgICAgICAgICBvcHRpb25zPXsKICAgICAgICAgICAgICAgICdkYl90YWJsZSc6ICdmcmVpZ2h0X2VudHJ5X2RlZmF1bHRfdmFsdWVzJywKICAgICAgICAgICAgfSwKICAgICAgICApLA==</text>
+        <text encoding="base64">IyBHZW5lcmF0ZWQgYnkgRGphbmdvIDMuMC4zIG9uIDIwMjAtMDYtMjkgMDg6MDgKaW1wb3J0IGRqYW5nbwpmcm9tIGRqYW5nby5kYiBpbXBvcnQgbWlncmF0aW9ucywgbW9kZWxzCgpmcm9tIGFwcC5mcmVpZ2h0Lm1pZ3JhdGlvbnNfaGVscGVyLnYxXzIwIGltcG9ydCBtaWdyYXRlX2NyZWF0ZV9kZWZhdWx0X3ZhbHVlc19maWVsZF9mb3Jfb2ZmaWNlX2RlcGFydG1lbnQKCgpjbGFzcyBNaWdyYXRpb24obWlncmF0aW9ucy5NaWdyYXRpb24pOgoKICAgIGRlcGVuZGVuY2llcyA9IFsKICAgICAgICAoJ2ZyZWlnaHQnLCAnMDAzMF92MV8yMF9vbGNfMDA2NF9vZV9oYmxfZXhwb3J0X2luZm9fYWRkX2Rpc3BsYXlfYWdlbnQnKSwKICAgIF0KCiAgICBvcGVyYXRpb25zID0gWwogICAgICAgIG1pZ3JhdGlvbnMuQ3JlYXRlTW9kZWwoCiAgICAgICAgICAgIG5hbWU9J0VudHJ5RGVmYXVsdFZhbHVlcycsCiAgICAgICAgICAgIGZpZWxkcz1bCiAgICAgICAgICAgICAgICAoJ2lkJywgbW9kZWxzLkF1dG9GaWVsZChwcmltYXJ5X2tleT1UcnVlLCBzZXJpYWxpemU9RmFsc2UpKSwKICAgICAgICAgICAgICAgICgnYm9va2luZ19lbnRyeScsIG1vZGVscy5UZXh0RmllbGQobnVsbD1UcnVlKSksCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIG9wdGlvbnM9ewogICAgICAgICAgICAgICAgJ2RiX3RhYmxlJzogJ2ZyZWlnaHRfZW50cnlfZGVmYXVsdF92YWx1ZXMnLAogICAgICAgICAgICB9LAogICAgICAgICksCiAgICAgICAgbWlncmF0aW9ucy5BZGRGaWVsZCgKICAgICAgICAgICAgbW9kZWxfbmFtZT0nb2ZmaWNlZGVwYXJ0bWVudCcsCiAgICAgICAgICAgIG5hbWU9J2RlZmF1bHRfdmFsdWVzJywKICAgICAgICAgICAgZmllbGQ9bW9kZWxzLkZvcmVpZ25LZXkobnVsbD1UcnVlLCBvbl9kZWxldGU9ZGphbmdvLmRiLm1vZGVscy5kZWxldGlvbi5DQVNDQURFLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWxhdGVkX25hbWU9J29mZmljZV9kZXBhcnRtZW50X3NldCcsIHRvPSdmcmVpZ2h0LkVudHJ5RGVmYXVsdFZhbHVlcycpLAogICAgICAgICksCgogICAgICAgIAogICAgXQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -522,7 +536,7 @@ od</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICBtaWdyYXRpb25zLkNyZWF0ZU1vZGVsKAogICAgICAgICAgICBuYW1lPSdFbnRyeURlZmF1bHRWYWx1ZXMnLAogICAgICAgICAgICBmaWVsZHM9WwogICAgICAgICAgICAgICAgKCdpZCcsIG1vZGVscy5BdXRvRmllbGQocHJpbWFyeV9rZXk9VHJ1ZSwgc2VyaWFsaXplPUZhbHNlKSksCiAgICAgICAgICAgICAgICAoJ2Jvb2tpbmdfZW50cnknLCBtb2RlbHMuVGV4dEZpZWxkKG51bGw9VHJ1ZSkpLAogICAgICAgICAgICBdLAogICAgICAgICAgICBvcHRpb25zPXsKICAgICAgICAgICAgICAgICdkYl90YWJsZSc6ICdmcmVpZ2h0X2VudHJ5X2RlZmF1bHRfdmFsdWVzJywKICAgICAgICAgICAgfSwKICAgICAgICApLA==</text>
       </register>
       <register name="y" type="4">
         <text />
