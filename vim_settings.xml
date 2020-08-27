@@ -145,10 +145,10 @@
         <mark key="." line="19" column="100" />
         <mark key="^" line="19" column="109" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/default_values/utils.py" timestamp="1598443087121">
-        <mark key="[" line="64" column="42" />
-        <mark key="]" line="64" column="42" />
-        <mark key="." line="64" column="42" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/default_values/utils.py" timestamp="1598499123423">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="12" />
+        <mark key="." line="76" column="12" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/office/office_entry/index.html" timestamp="1598442470643">
         <mark key="[" line="1013" column="121" />
@@ -219,8 +219,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -408,19 +408,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">PGRpdiBjbGFzcz0iY29sLWxnLTMgY29sLW1kLTMgY29sLXNtLTEyIGNvbC14cy0xMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIGZvcm0tc20iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29udHJvbC1sYWJlbCBuYW1lLXNtIj57e18oJ1BhY2thZ2UnKX19PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IGNsYXNzPSJzZWxlY3QgdmFsdWUtc20iIG5hbWU9InBhY2thZ2VfdW5pdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLW1vZGVsPSJ2bS5vZmZpY2UuZGF0YS5wYWNrYWdlX3VuaXQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1vcHRpb25zPSJvLmlkIGFzIG8udGV4dCBmb3IgbyBpbiB2bS5vcHRpb25zLnBhY2thZ2VfdW5pdCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1sZy0zIGNvbC1tZC0zIGNvbC1zbS0xMiBjb2wteHMtMTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCBmb3JtLXNtIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImNvbnRyb2wtbGFiZWwgbmFtZS1zbSI+e3tfKCdBRSBQYWNrYWdlJyl9fTwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNlbGVjdCBjbGFzcz0ic2VsZWN0IHZhbHVlLXNtIiBuYW1lPSJhZV9wYWNrYWdlX3VuaXQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1tb2RlbD0idm0ub2ZmaWNlLmRhdGEuYWVfcGFja2FnZV91bml0IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmctb3B0aW9ucz0iby5pZCBhcyBvLnRleHQgZm9yIG8gaW4gdm0ub3B0aW9ucy5wYWNrYWdlX3VuaXQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc2VsZWN0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMyBjb2wtbWQtMyBjb2wtc20tMTIgY29sLXhzLTEyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgZm9ybS1zbSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb250cm9sLWxhYmVsIG5hbWUtc20iPnt7IF8oJ0Rpc3BsYXkgVW5pdCcpIH19PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IGNsYXNzPSJzZWxlY3QgdmFsdWUtc20iIG5hbWU9ImRpc3BsYXlfdW5pdCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLW1vZGVsPSJ2bS5vZmZpY2UuZGF0YS5kaXNwbGF5X3VuaXQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZy1vcHRpb25zPSJvLmlkIGFzIG8udGV4dCBmb3IgbyBpbiB2bS5vcHRpb25zLmRpc3BsYXlfdW5pdCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuZnJlaWdodC5mdW5jLm9mZmljZS5zeiBpbXBvcnQgRW50cnlEZWZhdWx0VmFsdWVzU2VyaWFsaXplcgo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBhcHAuZnJlaWdodC5mdW5jLm9mZmljZS5zeiBpbXBvcnQgRW50cnlEZWZhdWx0VmFsdWVzU2VyaWFsaXplcgo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -477,18 +477,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>def save(self, force_insert=False, force_update=False, using=None,
-             update_fields=None):
-        return
-
-    def delete(self, using=None, keep_parents=False):
-        return
-
-    class Meta:
-        managed = False</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -514,8 +506,16 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>def save(self, force_insert=False, force_update=False, using=None,
+             update_fields=None):
+        return
+
+    def delete(self, using=None, keep_parents=False):
+        return
+
+    class Meta:
+        managed = False</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -531,7 +531,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
