@@ -118,35 +118,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/core/ui/ui_grid/grid_preference.ts" timestamp="1598855618448">
-        <mark key="[" line="108" column="25" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment_list_customer/index.html" timestamp="1598855478336">
-        <mark key="[" line="367" column="16" />
-        <mark key="]" line="367" column="16" />
-        <mark key="." line="367" column="16" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach-to-mbl-modal.component.ts" timestamp="1598859879250">
+        <mark key="[" line="122" column="1" />
+        <mark key="]" line="79" column="8" />
+        <mark key="." line="79" column="8" />
+        <mark key="^" line="79" column="17" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/app.component.text_def.ts" timestamp="1598858929129" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/cell-renderers/memo-preview-cell.component.ts" timestamp="1598858732586">
         <mark key="[" line="67" column="48" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/app.component.ts" timestamp="1598858940021">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/app.component.ts" timestamp="1598859928647">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="1" column="28" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach-to-mbl-btn.component.ts" timestamp="1598859851812">
+        <mark key="[" line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment_list_customer/app.component.html" timestamp="1598858420398">
         <mark key="[" line="17" column="54" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_list/app.component.html" timestamp="1598857074920" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/grid-preference.service.ts" timestamp="1598855703543">
-        <mark key="[" line="28" column="54" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/ts/company-info.ts" timestamp="1598858814243">
         <mark key="[" line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/index.html" timestamp="1598855865833">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/index.html" timestamp="1598859798887">
         <mark key="[" line="316" column="36" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/entry.js" timestamp="1598858952191">
@@ -161,6 +159,12 @@
         <mark key="." line="203" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment_list_customer/app.component.ts" timestamp="1598857132474" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/create-mbl-btn.component.ts" timestamp="1598860039635">
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="21" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/app.component.html" timestamp="1598858421965">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="133" column="77" />
@@ -224,8 +228,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSGNEZWNpbWFsUGlwZSB9IGZyb20gJ0xpYi9hbmd1bGFyL3NoYXJlZC1waXBlL2hjLWRlY2ltYWwucGlwZSc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>createMblBtn</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -355,7 +359,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_ALL</text>
+        <text>createMblBtn</text>
       </register>
       <register name="m" type="4">
         <keys>
