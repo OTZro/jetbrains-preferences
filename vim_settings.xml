@@ -118,39 +118,42 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/fms/urls.py" timestamp="1598877174259">
-        <mark key="[" line="358" column="56" />
-        <mark key="]" line="358" column="92" />
-        <mark key="^" line="358" column="92" />
-        <mark key="." line="358" column="91" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach-to-mbl-btn.component.html" timestamp="1598935220596" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/olc.py" timestamp="1598928183265" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/create-one-mbl-modal.component.ts" timestamp="1598877176115">
-        <mark key="[" line="23" column="71" />
-        <mark key="]" line="57" column="38" />
-        <mark key="." line="57" column="38" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1598934596357" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/booking/booking_query.py" timestamp="1598935087317">
+        <mark key="[" line="276" column="100" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/booking/booking_query.py" timestamp="1598934445004">
-        <mark key="[" line="299" column="104" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.component.js" timestamp="1598934103719" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.component.js" timestamp="1598934694279" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import_shipment.py" timestamp="1598931335960">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/booking/booking_entry.py" timestamp="1598927623759" />
       <file name="/preference.py" timestamp="1598929082699" />
       <file name="/Clipboard.txt" timestamp="1598931067864">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/create-mbl-btn.component.ts" timestamp="1598935266328">
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="40" column="21" />
+        <mark key="^" line="11" column="12" />
+        <mark key="." line="40" column="21" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/generic.py" timestamp="1598931577775" />
-      <file name="/Python Console" timestamp="1598877085347">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach-to-mbl-btn.component.ts" timestamp="1598935230052">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_guarantee_letter.html" timestamp="1598929045323" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/base.py" timestamp="1598930291253" />
-      <file name="/receipt_handlers.py" timestamp="1598876422118" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/create-mbl-btn.component.html" timestamp="1598935242925">
+        <mark key="[" line="2" column="85" />
+        <mark key="]" line="2" column="85" />
+        <mark key="." line="2" column="85" />
+        <mark key="^" line="1" column="42" />
+      </file>
       <file name="/oi_guarantee_letter.html" timestamp="1598929054886" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/vessel_schedule_entry/index.html" timestamp="1598932630810" />
       <file name="/ocean_import_shipment.py" timestamp="1598930600373" />
@@ -203,8 +206,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>can_attach_mbl</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -334,7 +337,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>can_attach_mbl</text>
       </register>
       <register name="m" type="4">
         <keys>
