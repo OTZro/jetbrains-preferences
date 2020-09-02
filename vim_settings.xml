@@ -121,13 +121,18 @@
       <file name="$USER_HOME$/gofreight/fms/lib/rest_apimixins.py" timestamp="1598956352599">
         <mark key="[" line="46" column="58" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility_accounting.py" timestamp="1599021762289">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.component.text_def.js" timestamp="1598952346206">
         <mark key="[" line="194" column="79" />
         <mark key="]" line="194" column="7" />
         <mark key="." line="194" column="7" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/invoice/entry.py" timestamp="1599018467345" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1599020418572" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/accounting.py" timestamp="1599021599236" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/create-one-mbl-modal.component.ts" timestamp="1598956962125">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -136,7 +141,7 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1599020059092" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/booking/booking_entry.py" timestamp="1599020136390" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar.html" timestamp="1599020405194" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_ar.html" timestamp="1599021595364" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/create-mbl-btn.component.ts" timestamp="1598957083166">
         <mark key="[" line="76" column="14" />
         <mark key="]" line="76" column="14" />
@@ -153,9 +158,6 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/create-one-mbl-modal.text_def.ts" timestamp="1598956985083" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/invoice_entry/index.html" timestamp="1599019442418" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/app.module.ts" timestamp="1598951613937">
-        <mark key="[" line="33" column="4" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/create-mbl-btn.text_def.ts" timestamp="1598956988462">
         <mark key="[" line="7" column="97" />
       </file>
@@ -222,8 +224,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>this.modalService.openCustomDialog()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -410,21 +412,21 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text>request
-        self['user'] = request.user</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBmcnQubmFtZSBpbiAoZnJ0LmJpbGxpbmcubmFtZSwgZnJ0LmJpbGxpbmcubG9jYWxfbmFtZSk6CiAgICAgICAgICAgICMgdXNlIGJpbGxpbmcgbmFtZSBvbmx5IGlmIHVzZXIgaGFzIG5vdCBtYWRlIGNoYW5nZSB0byB0aGUgZnJlaWdodCBkZXNjcmlwdGlvbgogICAgICAgICAgICBpZiB0cmFuc2xhdGlvbi5nZXRfbGFuZ3VhZ2UoKS5zdGFydHN3aXRoKCdlbicpOgogICAgICAgICAgICAgICAgZnJ0X25hbWUgPSBmcnQuYmlsbGluZy5uYW1lIG9yIGZydC5uYW1lCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBmcnRfbmFtZSA9IGZydC5iaWxsaW5nLmxvY2FsX25hbWUgb3IgZnJ0Lm5hbWUKICAgICAgICBlbHNlOgogICAgICAgICAgICBmcnRfbmFtZSA9IGZydC5uYW1lCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>request
+        self['user'] = request.user</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBkZWYgZ2V0X3NlcmlhbGl6ZXJfY29udGV4dChzZWxmKToKICAgICAgICBjb250ZXh0ID0gc3VwZXIoQm9va2luZ0hCTEJhdGNoQ3JlYXRlU2VwYXJhdGVNYmxWaWV3LCBzZWxmKS5nZXRfc2VyaWFsaXplcl9jb250ZXh0KCkKICAgICAgICBjb250ZXh0LnVwZGF0ZSgKICAgICAgICAgICAgYm9va2luZz1TaGlwbWVudEhCTC5vYmplY3RzLmdldCh0eXBlPSdPQicsIHBrPXNlbGYua3dhcmdzLmdldCgncGsnKSksCiAgICAgICAgICAgIHVzZXI9c2VsZi5yZXF1ZXN0LnVzZXIsCiAgICAgICAgKQogICAgICAgIHJldHVybiBjb250ZXh0</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -481,10 +483,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfc2VyaWFsaXplcl9jb250ZXh0KHNlbGYpOgogICAgICAgIGNvbnRleHQgPSBzdXBlcihCb29raW5nQ3JlYXRlTUJMVmlldywgc2VsZikuZ2V0X3NlcmlhbGl6ZXJfY29udGV4dCgpCiAgICAgICAgY29udGV4dC51cGRhdGUoCiAgICAgICAgICAgIGJvb2tpbmc9U2hpcG1lbnRIQkwub2JqZWN0cy5nZXQodHlwZT0nT0InLCBwaz1zZWxmLmt3YXJncy5nZXQoJ3BrJykpLAogICAgICAgICAgICB1c2VyPXNlbGYucmVxdWVzdC51c2VyLAogICAgICAgICkKICAgICAgICByZXR1cm4gY29udGV4dAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBkZWYgZ2V0X3NlcmlhbGl6ZXJfY29udGV4dChzZWxmKToKICAgICAgICBjb250ZXh0ID0gc3VwZXIoQm9va2luZ0hCTEJhdGNoQ3JlYXRlU2VwYXJhdGVNYmxWaWV3LCBzZWxmKS5nZXRfc2VyaWFsaXplcl9jb250ZXh0KCkKICAgICAgICBjb250ZXh0LnVwZGF0ZSgKICAgICAgICAgICAgYm9va2luZz1TaGlwbWVudEhCTC5vYmplY3RzLmdldCh0eXBlPSdPQicsIHBrPXNlbGYua3dhcmdzLmdldCgncGsnKSksCiAgICAgICAgICAgIHVzZXI9c2VsZi5yZXF1ZXN0LnVzZXIsCiAgICAgICAgKQogICAgICAgIHJldHVybiBjb250ZXh0</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -511,7 +513,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ1bGtfY3JlYXRlID0gRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -527,11 +529,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICBGYWxzZQo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfc2VyaWFsaXplcl9jb250ZXh0KHNlbGYpOgogICAgICAgIGNvbnRleHQgPSBzdXBlcihCb29raW5nQ3JlYXRlTUJMVmlldywgc2VsZikuZ2V0X3NlcmlhbGl6ZXJfY29udGV4dCgpCiAgICAgICAgY29udGV4dC51cGRhdGUoCiAgICAgICAgICAgIGJvb2tpbmc9U2hpcG1lbnRIQkwub2JqZWN0cy5nZXQodHlwZT0nT0InLCBwaz1zZWxmLmt3YXJncy5nZXQoJ3BrJykpLAogICAgICAgICAgICB1c2VyPXNlbGYucmVxdWVzdC51c2VyLAogICAgICAgICkKICAgICAgICByZXR1cm4gY29udGV4dAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>The booking will be converted to MB/L and HB/L' +
-        ' and this action cannot be reversed. Do you want to continue?',</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGJ1bGtfY3JlYXRlID0gRmFsc2UK</text>
       </register>
       <register name="y" type="4">
         <text />
