@@ -119,19 +119,17 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/.pyenv/versions/fms/lib/python3.6/site-packages/rest_framework/fields.py" timestamp="1599193865210" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-sales-select/hc-ng1-sales-select-component.html" timestamp="1599201840031" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-sales-select/hc-ng1-sales-select-component.html" timestamp="1599202643471">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/table.component.html" timestamp="1599131272139">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
       <file name="/base_report.py" timestamp="1599192801558" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/create-one-mbl-modal.component.ts" timestamp="1599130273019">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="43" column="30" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="/ui-config.service.ts" timestamp="1599200672744" />
       <file name="/Django Console" timestamp="1599199248300">
         <mark key="[" line="0" column="0" />
@@ -150,7 +148,7 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/base_report.py" timestamp="1599193179544" />
       <file name="$USER_HOME$/.pyenv/versions/fms/lib/python3.6/site-packages/rest_framework/serializers.py" timestamp="1599193818900" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-sales-select/hc-ng1-sales-select-component.ts" timestamp="1599201317800" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-sales-select/hc-ng1-sales-select-component.ts" timestamp="1599202648485" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export_shipment.py" timestamp="1599194565012">
         <mark key="[" line="640" column="66" />
       </file>
@@ -209,7 +207,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>object)</text>
+        <text>departmentId</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -339,7 +337,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>object)</text>
+        <text>departmentId</text>
       </register>
       <register name="m" type="4">
         <keys>
