@@ -124,10 +124,11 @@
         <mark key="]" line="6" column="20" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/table.component.html" timestamp="1599131272139">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/accounting_wizard.py" timestamp="1599207335329">
+        <mark key="[" line="75" column="75" />
+        <mark key="]" line="73" column="56" />
+        <mark key="^" line="62" column="58" />
+        <mark key="." line="73" column="56" />
       </file>
       <file name="/base_report.py" timestamp="1599192801558" />
       <file name="/ui-config.service.ts" timestamp="1599200672744" />
@@ -141,14 +142,10 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/partial_keyname.py" timestamp="1599200429078" />
       <file name="/hc-sales-select.component.ts" timestamp="1599200814020" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/table.component.ts" timestamp="1599188249873">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/base_report.py" timestamp="1599193179544" />
       <file name="$USER_HOME$/.pyenv/versions/fms/lib/python3.6/site-packages/rest_framework/serializers.py" timestamp="1599193818900" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-sales-select/hc-ng1-sales-select-component.ts" timestamp="1599202648485" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/print-invoice/print-invoice.component.ts" timestamp="1599207217440" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export_shipment.py" timestamp="1599194565012">
         <mark key="[" line="640" column="66" />
       </file>
@@ -207,7 +204,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>departmentId</text>
+        <text>, hbl__isnull=True</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -337,7 +334,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>departmentId</text>
+        <text>, hbl__isnull=True</text>
       </register>
       <register name="m" type="4">
         <keys>
