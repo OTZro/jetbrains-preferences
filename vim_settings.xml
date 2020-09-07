@@ -131,11 +131,7 @@
         <mark key="]" line="50" column="73" />
         <mark key="." line="50" column="73" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-sales-select/hc-ng1-sales-select-component.html" timestamp="1599202643471">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/office.service.js" timestamp="1599449762353" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_accounting_wizard.html" timestamp="1599215077963">
         <mark key="[" line="58" column="18" />
         <mark key="]" line="58" column="19" />
@@ -143,7 +139,6 @@
         <mark key="." line="58" column="18" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/acct-wizard-table-hbl/acct-wizard-table-hbl.component.ts" timestamp="1599208108749" />
-      <file name="/hc-sales-select.component.ts" timestamp="1599200814020" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-sales-select/hc-ng1-sales-select-component.ts" timestamp="1599202648485" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-accounting/print-invoice/print-invoice.component.ts" timestamp="1599209296220">
         <mark key="[" line="69" column="13" />
@@ -157,6 +152,11 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.ts" timestamp="1599448956420">
         <mark key="[" line="198" column="6" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl.service.js" timestamp="1599449829222">
+        <mark key="[" line="931" column="6" />
+        <mark key="]" line="931" column="6" />
+        <mark key="." line="931" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -208,7 +208,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>{{ f.bl_no }}</text>
+        <text encoding="base64">aGJsLmF1dG9fYm9va2luZ19ubyA9IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -338,7 +338,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{{ f.bl_no }}</text>
+        <text encoding="base64">aGJsLmF1dG9fYm9va2luZ19ubyA9IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
