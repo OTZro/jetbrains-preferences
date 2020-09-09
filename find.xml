@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.xml</mask>
     <mask>*.md</mask>
     <mask>*.css</mask>
@@ -14,11 +15,11 @@
     <mask>*.env</mask>
     <mask>*.scss</mask>
     <mask>*.component.ts</mask>
-    <mask>*.js</mask>
     <mask>index.ts</mask>
     <mask>*.component.html</mask>
     <mask>*.py</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.js</mask>
   </component>
 </application>
