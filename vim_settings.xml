@@ -148,31 +148,38 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/mbl_fields_mapping.text_def.ts" timestamp="1599642503050">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.component.js" timestamp="1599648512115">
-        <mark key="[" line="617" column="10" />
-        <mark key="]" line="617" column="40" />
-        <mark key="^" line="617" column="40" />
-        <mark key="." line="617" column="39" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.component.js" timestamp="1599650055020">
+        <mark key="[" line="606" column="70" />
+        <mark key="]" line="620" column="14" />
+        <mark key="^" line="620" column="40" />
+        <mark key="." line="620" column="14" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach_to_mbl_modal/attach-to-mbl-modal.component.html" timestamp="1599644380051" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.html" timestamp="1599647500598" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/mbl_entry/api.py" timestamp="1599638891083" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.html" timestamp="1599649678757">
+        <mark key="[" line="928" column="126" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.component.ts" timestamp="1599650030462">
+        <mark key="[" line="937" column="0" />
+        <mark key="]" line="937" column="0" />
+        <mark key="^" line="605" column="14" />
+        <mark key="." line="937" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/verify/api.py" timestamp="1599650371147">
+        <mark key="[" line="61" column="37" />
+        <mark key="]" line="61" column="41" />
+        <mark key="." line="61" column="40" />
+        <mark key="^" line="61" column="41" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach_to_mbl_modal/attach-to-mbl-modal.component.ts" timestamp="1599644733717">
         <mark key="[" line="58" column="104" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/mbl_fields_mapping.ts" timestamp="1599643268095" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/utility.py" timestamp="1599638846699">
-        <mark key="[" line="47" column="9" />
-        <mark key="]" line="47" column="9" />
-        <mark key="^" line="47" column="9" />
-        <mark key="." line="47" column="8" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1599647566241">
-        <mark key="[" line="3208" column="0" />
-        <mark key="]" line="3208" column="0" />
-        <mark key="." line="3208" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1599651424960">
+        <mark key="[" line="3392" column="39" />
+        <mark key="]" line="3384" column="14" />
+        <mark key="." line="3384" column="14" />
         <mark key="^" line="3218" column="17" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/core/shipment/booking/mbl_fields_mapping.ts" timestamp="1599644685791">
@@ -236,8 +243,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Allow</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -367,7 +374,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>onApiFail</text>
+        <text>Allow</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -431,7 +438,7 @@
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>})();</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -494,10 +501,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgIGZ1bmN0aW9uIG9uQXBpRmFpbCgpIHsKICAgICAgfQ==</text>
+        <text encoding="base64">OygoKSA9PiB7CiAgJ3VzZSBzdHJpY3QnOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -540,10 +547,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZnVuY3Rpb24gb25BcGlGYWlsKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
