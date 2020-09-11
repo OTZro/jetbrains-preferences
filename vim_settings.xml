@@ -127,22 +127,20 @@
       <file name="$USER_HOME$/gofreight/fms/static/freight/css/form_wk.css" timestamp="1599810418919">
         <mark key="[" line="4801" column="23" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-department-multi-select/hc-department-multi-select.component.html" timestamp="1599798024769">
-        <mark key="[" line="42" column="29" />
-        <mark key="]" line="67" column="101" />
-        <mark key="^" line="67" column="101" />
-        <mark key="." line="67" column="100" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/forms/base.py" timestamp="1599818104106" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/bank_reconciliation/controller.js" timestamp="1599817836642">
+        <mark key="[" line="87" column="32" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/form.js" timestamp="1599815444016" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/form.js" timestamp="1599818073208" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0032_v1_20_0013_office_form_strip_tailing_zero.py" timestamp="1599814366609" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/directive.js" timestamp="1599815356682" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-department-multi-select/hc-department-multi-select.component.ts" timestamp="1599798008834">
-        <mark key="[" line="333" column="23" />
-        <mark key="]" line="252" column="0" />
-        <mark key="." line="252" column="0" />
-      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/directive.js" timestamp="1599817955845" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0032_v1_20_0014_company_tp_is_uniq_name.py" timestamp="1599814188043" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl_olc.html" timestamp="1599815400537" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/toolbar/shipment_general.html" timestamp="1599817993063" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl_olc.html" timestamp="1599818079131">
+        <mark key="[" line="78" column="53" />
+        <mark key="]" line="78" column="53" />
+        <mark key="." line="78" column="53" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/static/freight/sass/form_wk.scss" timestamp="1599813622588">
         <mark key="[" line="1412" column="0" />
         <mark key="]" line="1412" column="0" />
@@ -152,13 +150,13 @@
       <file name="/Python Console" timestamp="1599798812378">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export/hbl_print.py" timestamp="1599816288537">
-        <mark key="[" line="2228" column="43" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export/hbl_print.py" timestamp="1599817780450">
+        <mark key="[" line="2222" column="45" />
         <mark key="]" line="2222" column="45" />
         <mark key="." line="2222" column="45" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1599814033228" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/form-auto-font-size.js" timestamp="1599815987559">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/form-auto-font-size.js" timestamp="1599817030683">
         <mark key="[" line="59" column="17" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/static/freight/sass/page/_oe-olc-hbl.scss" timestamp="1599814846579">
@@ -217,7 +215,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, auto_font_size=True</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -347,7 +345,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, auto_font_size=True</text>
       </register>
       <register name="m" type="4">
         <keys>
