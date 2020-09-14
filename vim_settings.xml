@@ -118,6 +118,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1600066284307" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl_olc.html" timestamp="1599823774325">
         <mark key="[" line="46" column="69" />
         <mark key="]" line="46" column="69" />
@@ -132,19 +133,19 @@
         <mark key="]" line="2222" column="47" />
         <mark key="." line="2222" column="47" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice_olc.html" timestamp="1600065754580">
-        <mark key="[" line="85" column="6" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice_olc.html" timestamp="1600067172892">
+        <mark key="[" line="335" column="42" />
+        <mark key="]" line="345" column="20" />
+        <mark key="." line="345" column="20" />
         <mark key="^" line="360" column="17" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/air_export_shipment.py" timestamp="1600058237571" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/air_export/ae_awb_print.html" timestamp="1600058300805" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/olc.py" timestamp="1600063936278">
-        <mark key="[" line="137" column="15" />
-        <mark key="]" line="84" column="15" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/olc.py" timestamp="1600066499774">
+        <mark key="[" line="51" column="28" />
+        <mark key="]" line="49" column="27" />
         <mark key="^" line="84" column="15" />
-        <mark key="." line="84" column="14" />
+        <mark key="." line="49" column="27" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/table.component.html" timestamp="1600065684110">
         <mark key="[" line="131" column="60" />
@@ -163,7 +164,6 @@
       </file>
       <file name="/oe_hbl_olc.html" timestamp="1600052294557" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/cell-renderers/hc-pagination-list-col-text.ts" timestamp="1600065493052" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/toolbar/shipment_general.html" timestamp="1599817993063" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment_entry/app.component.ts" timestamp="1600065561823">
         <mark key="[" line="535" column="0" />
         <mark key="]" line="535" column="0" />
@@ -233,8 +233,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>self._mbl</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -364,7 +364,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>expense: &quot;bill_to&quot;,</text>
+        <text>self._mbl</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -422,19 +422,24 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGA8c3Bhbj4ke3Z9PC9zcGFuPmB2Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgcmV0dXJuIHtleHBlbnNlWzBdOiBjb2xsZWN0X29pX2Fycml2YWxfbm90aWNlX2ludm9pY2VfaW5mbygKICAgICAgICAgICAgaGJsX2xpc3Q9c2VsZi5faGJsX2xpc3QsCiAgICAgICAgICAgIGN1c3RvbWVyX2lkPXNlbGYuX2ZpcnN0X2hibC5iaWxsX3RvX2lkLAogICAgICAgICAgICBmcnRfaW5mb19maWVsZD0oJ3BrJywgJ2ludm9pY2UnLCAnbmFtZScsICd1bml0JywgJ2N1cnJlbmN5JywgJ2N1cnJlbmN5X2Ftb3VudCcsICd2b2x1bWUnLCAnYW1vdW50JyksCiAgICAgICAgICAgIGJ5X2N1cnJlbmN5PVRydWUKICAgICAgICApIGZvciBleHBlbnNlIGluIEVYUEVOU0VfQ0hJT0NFU30=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHt7ICcnKycxMjMnIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZXhwZW5zZV9jaG9pY2UgaW4gRVhQRU5TRV9DSE9JQ0VTOgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC90YWJsZT4K</text>
+      <register name="4" type="4">
+        <text>expense[0]: collect_oi_arrival_notice_invoice_info(
+            mbl=self._mbl,
+            customer_id=self._mbl.oi_info.bill_to_id,
+            frt_info_field=('pk', 'invoice', 'name', 'unit', 'currency', 'currency_amount', 'volume', 'amount'),
+            by_currency=True
+        ) for expense in EXPENSE_CHOICE}</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -491,10 +496,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRhYmxlIG5nLWlmPSJ2bS5leHBlbnNlID09PSAnY3VzdG9tZXInIj4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC90YWJsZT4K</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGA8c3Bhbj4ke3Z9PC9zcGFuPmB2Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -521,7 +526,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRhYmxlIG5nLWlmPSJ2bS5leHBlbnNlID09PSAnY29uc2lnbmVlJyI+Cg==</text>
+        <text encoding="base64">ICAgIHt7ICcnKycxMjMnIH19Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -540,7 +545,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPC90YWJsZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRhYmxlIG5nLWlmPSJ2bS5leHBlbnNlID09PSAnYmlsbF90byciPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRhYmxlIG5nLWlmPSJ2bS5leHBlbnNlID09PSAnY3VzdG9tZXInIj4K</text>
       </register>
       <register name="y" type="4">
         <text />
