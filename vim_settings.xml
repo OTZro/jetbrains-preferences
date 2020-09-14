@@ -119,8 +119,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/air_export/ae_awb_print.html" timestamp="1600058300805" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/olc.py" timestamp="1600058862850">
-        <mark key="[" line="84" column="8" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/olc.py" timestamp="1600063066864">
+        <mark key="[" line="87" column="14" />
         <mark key="]" line="84" column="15" />
         <mark key="^" line="84" column="15" />
         <mark key="." line="84" column="14" />
@@ -156,7 +156,7 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0029_v1_20_olc_0028_company_office_currency.py" timestamp="1599816738131" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/accounting/acct_invoice_accounting_wizard.html" timestamp="1600058288530" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/base.py" timestamp="1600057059648" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/base.py" timestamp="1600062958283" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export/hbl_print.py" timestamp="1599821787422">
         <mark key="]" line="2222" column="47" />
         <mark key="." line="2222" column="47" />
@@ -164,10 +164,10 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/form-auto-font-size.js" timestamp="1599817030683">
         <mark key="[" line="59" column="17" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice_olc.html" timestamp="1600058925438">
-        <mark key="[" line="316" column="109" />
-        <mark key="]" line="316" column="109" />
-        <mark key="." line="316" column="109" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice_olc.html" timestamp="1600063163912">
+        <mark key="[" line="328" column="73" />
+        <mark key="]" line="327" column="42" />
+        <mark key="." line="327" column="42" />
         <mark key="^" line="321" column="78" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/oe_hbl_olc.html" timestamp="1599824369715">
@@ -230,7 +230,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>expense_to</text>
+        <text>bill_to</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -360,7 +360,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>expense_to</text>
+        <text>bill_to</text>
       </register>
       <register name="m" type="4">
         <keys>
