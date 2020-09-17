@@ -138,13 +138,13 @@
         <mark key="." line="19" column="29" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/static/freight/css/form_components.css" timestamp="1600249339479" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.component.js" timestamp="1600251780757">
-        <mark key="[" line="608" column="45" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.component.js" timestamp="1600254886688">
+        <mark key="[" line="608" column="27" />
+        <mark key="]" line="608" column="32" />
+        <mark key="." line="608" column="31" />
+        <mark key="^" line="608" column="32" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/static/metronic/sass/global/components/_labels.scss" timestamp="1600249195257" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/form-auto-font-size.js" timestamp="1600239296494">
-        <mark key="[" line="59" column="17" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/oe_hbl_olc.html" timestamp="1600247947136">
         <mark key="[" line="28" column="37" />
         <mark key="]" line="24" column="0" />
@@ -154,6 +154,7 @@
         <mark key="[" line="41" column="31" />
         <mark key="^" line="157" column="39" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1600253540738" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl_olc.html" timestamp="1600249991820">
         <mark key="[" line="47" column="69" />
         <mark key="]" line="47" column="81" />
@@ -165,6 +166,9 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/static/freight/sass/form_wk.scss" timestamp="1600250314117">
         <mark key="[" line="1300" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl.service.js" timestamp="1600254700960">
+        <mark key="[" line="818" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -216,7 +220,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>keyup</text>
+        <text>init_hbl_office</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -346,7 +350,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>keyup</text>
+        <text>init_hbl_office</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -404,19 +408,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhc3NfbGlzdC5hcHBlbmQoJ3RyaW0td2FybmluZycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuZm9ybS5vZmZpY2VfZGVwYXJ0bWVudC4kc2V0RGlydHkoKTsK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">JCgnLnRleHRhcmVhLWV4dGVuZWQgPiB0ZXh0YXJlYVtsaW1pdC1yb3dzXScpLm9uKCdrZXl1cCBtb3VzZXVwIG1vdXNlbW92ZScsIGZ1bmN0aW9uIChldmVudCkgewogICAgICAgIHZhciByb3dzID0gcGFyc2VJbnQoJCh0aGlzKS5hdHRyKCdyb3dzJyksIDEwKTsKICAgICAgICBpZiAoc3BsaXRFbGVtZW50VGV4dEJ5TWF4V2lkdGgoZXZlbnQudGFyZ2V0KS5sZW5ndGggPiByb3dzKSB7CiAgICAgICAgICAkKGV2ZW50LnRhcmdldCkuYWRkQ2xhc3MoJ3RleHQtd2FybmluZycpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAkKGV2ZW50LnRhcmdldCkucmVtb3ZlQ2xhc3MoJ3RleHQtd2FybmluZycpOwogICAgICAgIH0KICAgICAgfSk7</text>
+        <text encoding="base64">ISh0aGlzLmhibC5pc0Jvb2tpbmdOb1N5bmNIYmxObygpICYmIHRoaXMuaGJsLmZvcm0uYm9va2luZ19uby4kZGlydHkpICYmCiAgICAgICAgISh0aGlzLmhibC5mb3JtLkhCTF9OTyAmJiB0aGlzLmhibC5mb3JtLkhCTF9OTy4kZGlydHkpICYmCiAgICAgICAgIXRoaXMuaGJsLmZvcm0uYm9va2luZ19vZmZpY2UuJGRpcnR5</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -475,10 +479,8 @@
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>on('keyup mouseup mousemove', function (event) {
-        
-      })</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xhc3NfbGlzdC5hcHBlbmQoJ3RyaW0td2FybmluZycpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -505,7 +507,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tX21hcmdpbj1Ob25lLAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -520,11 +522,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tIGRpc3BsYXktbm9uZeWboOaHiU9MQ+WNsOihqOapn+e0meW8teS9jee9rnBkZiBtb2Rl6Zqx6JePc2hpcHBlciB0aXRsZSAtLT4K</text>
+      <register name="8" type="4">
+        <text encoding="base64">JCgnLnRleHRhcmVhLWV4dGVuZWQgPiB0ZXh0YXJlYVtsaW1pdC1yb3dzXScpLm9uKCdrZXl1cCBtb3VzZXVwIG1vdXNlbW92ZScsIGZ1bmN0aW9uIChldmVudCkgewogICAgICAgIHZhciByb3dzID0gcGFyc2VJbnQoJCh0aGlzKS5hdHRyKCdyb3dzJyksIDEwKTsKICAgICAgICBpZiAoc3BsaXRFbGVtZW50VGV4dEJ5TWF4V2lkdGgoZXZlbnQudGFyZ2V0KS5sZW5ndGggPiByb3dzKSB7CiAgICAgICAgICAkKGV2ZW50LnRhcmdldCkuYWRkQ2xhc3MoJ3RleHQtd2FybmluZycpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAkKGV2ZW50LnRhcmdldCkucmVtb3ZlQ2xhc3MoJ3RleHQtd2FybmluZycpOwogICAgICAgIH0KICAgICAgfSk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRoaXMuYm9va2luZ0hibFNlcnZpY2UuaSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text />
