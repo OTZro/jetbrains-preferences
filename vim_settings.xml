@@ -118,11 +118,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1600242894727">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/_form_base_template_wk.html" timestamp="1600243445460">
-        <mark key="[" line="54" column="61" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/_form_base_template_wk.html" timestamp="1600316434730">
+        <mark key="[" line="55" column="75" />
       </file>
       <file name="/form.js" timestamp="1600313198067" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/forms/base.py" timestamp="1600247478567">
@@ -131,7 +128,13 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="147" column="50" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/form.js" timestamp="1600311780453">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl.controller.js" timestamp="1600318453096">
+        <mark key="[" line="110" column="44" />
+        <mark key="]" line="108" column="93" />
+        <mark key="." line="108" column="93" />
+        <mark key="^" line="106" column="36" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/form.js" timestamp="1600318204343">
         <mark key="]" line="12" column="8" />
         <mark key="." line="12" column="8" />
       </file>
@@ -143,8 +146,8 @@
         <mark key="^" line="608" column="32" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/static/metronic/sass/global/components/_labels.scss" timestamp="1600249195257" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/oe_hbl_olc.html" timestamp="1600247947136">
-        <mark key="[" line="28" column="37" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/static/oe_hbl_olc.html" timestamp="1600316642385">
+        <mark key="[" line="27" column="67" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
@@ -152,9 +155,10 @@
         <mark key="[" line="41" column="31" />
         <mark key="^" line="157" column="39" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/_base.html" timestamp="1600316431690" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1600253540738" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl_olc.html" timestamp="1600249991820">
-        <mark key="[" line="47" column="69" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl_olc.html" timestamp="1600316726396">
+        <mark key="[" line="45" column="68" />
         <mark key="]" line="47" column="81" />
         <mark key="." line="47" column="80" />
         <mark key="^" line="47" column="81" />
@@ -218,7 +222,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>init_hbl_office</text>
+        <text>value=&quot;${val}&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -348,7 +352,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>init_hbl_office</text>
+        <text>value=&quot;${val}&quot;</text>
       </register>
       <register name="m" type="4">
         <keys>
