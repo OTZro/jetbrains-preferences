@@ -123,16 +123,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.component.text_def.js" timestamp="1600342843553">
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
-      </file>
       <file name="/booking_hbl_board.component.js" timestamp="1600346119164" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl.controller.js" timestamp="1600408286310">
-        <mark key="[" line="139" column="12" />
-        <mark key="]" line="139" column="12" />
-        <mark key="." line="139" column="12" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl.controller.js" timestamp="1600416366621">
+        <mark key="[" line="157" column="45" />
+        <mark key="]" line="157" column="56" />
+        <mark key="." line="157" column="56" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/form.js" timestamp="1600408264307">
         <mark key="]" line="12" column="8" />
@@ -158,20 +153,31 @@
         <mark key="." line="80" column="63" />
         <mark key="^" line="80" column="64" />
       </file>
+      <file name="/" timestamp="1600412849108">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/modal_duplicate_bl_no.controller.ts" timestamp="1600346155454" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1600345683718">
         <mark key="[" line="36" column="51" />
         <mark key="]" line="3435" column="16" />
         <mark key="." line="3435" column="16" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl_olc.html" timestamp="1600411754637">
-        <mark key="[" line="144" column="53" />
-        <mark key="]" line="144" column="60" />
-        <mark key="." line="144" column="59" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl_olc.html" timestamp="1600414588292">
+        <mark key="[" line="144" column="54" />
+        <mark key="]" line="140" column="52" />
+        <mark key="." line="140" column="52" />
         <mark key="^" line="144" column="60" />
       </file>
-      <file name="/booking_hbl_board.component.text_def.js" timestamp="1600341194667" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/exception_handler.service.js" timestamp="1600341402077" />
+      <file name="/Python Console" timestamp="1600413973048">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_export/hbl_print.py" timestamp="1600414132928">
+        <mark key="[" line="2239" column="49" />
+        <mark key="]" line="2231" column="47" />
+        <mark key="." line="2231" column="47" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/modal_duplicate_bl_no/modal_duplicate_bl_no.controller.ts" timestamp="1600345824874">
         <mark key="[" line="60" column="1" />
         <mark key="]" line="62" column="0" />
@@ -216,6 +222,7 @@
       <jump line="18" column="93" filename="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_accounting_wizard/app.component.html" />
       <jump line="233" column="6" filename="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_accounting_wizard/app.component.ts" />
       <jump line="71" column="87" filename="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/app.component.html" />
+      <jump line="142" column="6" filename="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl.controller.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -243,7 +250,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.id</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -373,7 +380,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.id</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -431,19 +438,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmR1cGxpY2F0ZUJsTm9Nb2RhbFNlcnZpY2UuJGluamVjdCA9IFsnJHVpYk1vZGFsJ107CgpmdW5jdGlvbiBkdXBsaWNhdGVCbE5vTW9kYWxTZXJ2aWNlKCR1aWJNb2RhbDogYW55KTogdm9pZCB7CiAgdGhpcy5vcGVuTW9kYWwgPSBvcGVuTW9kYWw7CgogIGZ1bmN0aW9uIG9wZW5Nb2RhbCh0aXRsZTogc3RyaW5nLCBtc2c6IHN0cmluZywgZGF0YTogVERhdGFbXSwgY29uZmlybUJ0bjogc3RyaW5nKTogYW55IHsKICAgIGNvbnN0IG1vZGFsSW5zdGFuY2UgPSAkdWliTW9kYWwub3Blbih7CiAgICAgIGFuaW1hdGlvbjogdHJ1ZSwKICAgICAgdGVtcGxhdGUsCiAgICAgIHdpbmRvd1RlbXBsYXRlVXJsOiAnaGNXaW5kb3dUZW1wbGF0ZS5odG1sJywKICAgICAgY29udHJvbGxlcjogV2l0aEkxOG4oRHVwbGljYXRlQmxOb01vZGFsQ29udHJvbGxlciwgX1QpLAogICAgICBjb250cm9sbGVyQXM6ICd2bScsCiAgICAgIHJlc29sdmU6IHsKICAgICAgICBkYXRhOiAoKSA9PiBkYXRhLAogICAgICAgIHRpdGxlOiAoKSA9PiB0aXRsZSwKICAgICAgICBtc2c6ICgpID0+IG1zZywKICAgICAgICBjb25maXJtQnV0dG9uVGV4dDogKCkgPT4gY29uZmlybUJ0biwKICAgICAgfSwKICAgIH0pOwogICAgcmV0dXJuIG1vZGFsSW5zdGFuY2UucmVzdWx0OwogIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGZpbmQgPSBmYWxzZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJlcy5oYmwpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -500,10 +507,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmaW5kID0gZWxlbWVudEluc2lkZSA9PT0gZW50cnkudGFyZ2V0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHRpdGxlID0gJyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnLmFuY2hvciA+IHRleHRhcmVhLCAuYW5jaG9yLXJlc2l6ZSA+IHRleHRhcmVhJykuZWFjaCgoaW5kZXgsIGVsZW1lbnRJbnNpZGUpID0+IHsKICAgICAgICAgICAgICBpZiAoZmluZCkgewogICAgICAgICAgICAgICAgY29uc3QgZGlmZldpZHRoID0gJChlbnRyeS50YXJnZXQpLndpZHRoKCkgLSBzdGFydFdpZHRoW2VudHJ5LnRhcmdldC5pZF07CiAgICAgICAgICAgICAgICBkZWJ1Z2dlcjs=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -530,7 +537,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5kdXBsaWNhdGVCbE5vTW9kYWxTZXJ2aWNlID0gZHVwbGljYXRlQmxOb01vZGFsU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -546,10 +553,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmR1cGxpY2F0ZUJsTm9Nb2RhbFNlcnZpY2UuJGluamVjdCA9IFsnJHVpYk1vZGFsJ107CgpmdW5jdGlvbiBkdXBsaWNhdGVCbE5vTW9kYWxTZXJ2aWNlKCR1aWJNb2RhbDogYW55KTogdm9pZCB7CiAgdGhpcy5vcGVuTW9kYWwgPSBvcGVuTW9kYWw7CgogIGZ1bmN0aW9uIG9wZW5Nb2RhbCh0aXRsZTogc3RyaW5nLCBtc2c6IHN0cmluZywgZGF0YTogVERhdGFbXSwgY29uZmlybUJ0bjogc3RyaW5nKTogYW55IHsKICAgIGNvbnN0IG1vZGFsSW5zdGFuY2UgPSAkdWliTW9kYWwub3Blbih7CiAgICAgIGFuaW1hdGlvbjogdHJ1ZSwKICAgICAgdGVtcGxhdGUsCiAgICAgIHdpbmRvd1RlbXBsYXRlVXJsOiAnaGNXaW5kb3dUZW1wbGF0ZS5odG1sJywKICAgICAgY29udHJvbGxlcjogV2l0aEkxOG4oRHVwbGljYXRlQmxOb01vZGFsQ29udHJvbGxlciwgX1QpLAogICAgICBjb250cm9sbGVyQXM6ICd2bScsCiAgICAgIHJlc29sdmU6IHsKICAgICAgICBkYXRhOiAoKSA9PiBkYXRhLAogICAgICAgIHRpdGxlOiAoKSA9PiB0aXRsZSwKICAgICAgICBtc2c6ICgpID0+IG1zZywKICAgICAgICBjb25maXJtQnV0dG9uVGV4dDogKCkgPT4gY29uZmlybUJ0biwKICAgICAgfSwKICAgIH0pOwogICAgcmV0dXJuIG1vZGFsSW5zdGFuY2UucmVzdWx0OwogIH0KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="y" type="4">
         <text />
