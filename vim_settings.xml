@@ -129,7 +129,7 @@
         <mark key="]" line="12" column="8" />
         <mark key="." line="12" column="8" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1600423451666" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1600423770022" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl_board.component.js" timestamp="1600422092489">
         <mark key="[" line="624" column="20" />
         <mark key="]" line="610" column="11" />
@@ -137,11 +137,11 @@
         <mark key="^" line="616" column="26" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/vs_mbl.service.js" timestamp="1600344266933" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/verify/api.py" timestamp="1600423457755">
-        <mark key="[" line="88" column="50" />
-        <mark key="]" line="68" column="54" />
-        <mark key="." line="68" column="54" />
-        <mark key="^" line="56" column="44" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/verify/api.py" timestamp="1600424176838">
+        <mark key="[" line="62" column="47" />
+        <mark key="]" line="63" column="35" />
+        <mark key="." line="63" column="34" />
+        <mark key="^" line="63" column="35" />
       </file>
       <file name="/" timestamp="1600412849108">
         <mark key="[" line="0" column="0" />
@@ -239,7 +239,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>hbl_objects</text>
+        <text>Q(mbl__office_id=office_id)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -369,7 +369,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>hbl_objects</text>
+        <text>Q(mbl__office_id=office_id)</text>
       </register>
       <register name="m" type="4">
         <keys>
