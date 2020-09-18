@@ -129,7 +129,12 @@
         <mark key="." line="223" column="0" />
       </file>
       <file name="/booking_hbl_board.component.js" timestamp="1600346119164" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/form.js" timestamp="1600401745788">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl.controller.js" timestamp="1600408286310">
+        <mark key="[" line="139" column="12" />
+        <mark key="]" line="139" column="12" />
+        <mark key="." line="139" column="12" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/js/form.js" timestamp="1600408264307">
         <mark key="]" line="12" column="8" />
         <mark key="." line="12" column="8" />
       </file>
@@ -159,8 +164,10 @@
         <mark key="]" line="3435" column="16" />
         <mark key="." line="3435" column="16" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl.service.text_def.js" timestamp="1600340932340">
-        <mark key="[" line="30" column="6" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl_olc.html" timestamp="1600408556459">
+        <mark key="[" line="150" column="101" />
+        <mark key="]" line="147" column="65" />
+        <mark key="." line="147" column="65" />
       </file>
       <file name="/booking_hbl_board.component.text_def.js" timestamp="1600341194667" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/exception_handler.service.js" timestamp="1600341402077" />
@@ -173,13 +180,12 @@
       <file name="$USER_HOME$/gofreight/fms/app/freight/forms/ocean_import/arrival_notice/layout.py" timestamp="1600406933148">
         <mark key="[" line="104" column="41" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice_olc.html" timestamp="1600407057319">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_arrival_notice_olc.html" timestamp="1600407086930">
         <mark key="[" line="339" column="28" />
         <mark key="]" line="337" column="23" />
         <mark key="^" line="337" column="23" />
         <mark key="." line="337" column="22" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_accounting/controller.js" timestamp="1600340723331" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/rbj.js" timestamp="1600344064045" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/booking_hbl.service.js" timestamp="1600345360716">
         <mark key="[" line="72" column="0" />
@@ -235,8 +241,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmR1cGxpY2F0ZUJsTm9Nb2RhbFNlcnZpY2UuJGluamVjdCA9IFsnJHVpYk1vZGFsJ107CgpmdW5jdGlvbiBkdXBsaWNhdGVCbE5vTW9kYWxTZXJ2aWNlKCR1aWJNb2RhbDogYW55KTogdm9pZCB7CiAgdGhpcy5vcGVuTW9kYWwgPSBvcGVuTW9kYWw7CgogIGZ1bmN0aW9uIG9wZW5Nb2RhbCh0aXRsZTogc3RyaW5nLCBtc2c6IHN0cmluZywgZGF0YTogVERhdGFbXSwgY29uZmlybUJ0bjogc3RyaW5nKTogYW55IHsKICAgIGNvbnN0IG1vZGFsSW5zdGFuY2UgPSAkdWliTW9kYWwub3Blbih7CiAgICAgIGFuaW1hdGlvbjogdHJ1ZSwKICAgICAgdGVtcGxhdGUsCiAgICAgIHdpbmRvd1RlbXBsYXRlVXJsOiAnaGNXaW5kb3dUZW1wbGF0ZS5odG1sJywKICAgICAgY29udHJvbGxlcjogV2l0aEkxOG4oRHVwbGljYXRlQmxOb01vZGFsQ29udHJvbGxlciwgX1QpLAogICAgICBjb250cm9sbGVyQXM6ICd2bScsCiAgICAgIHJlc29sdmU6IHsKICAgICAgICBkYXRhOiAoKSA9PiBkYXRhLAogICAgICAgIHRpdGxlOiAoKSA9PiB0aXRsZSwKICAgICAgICBtc2c6ICgpID0+IG1zZywKICAgICAgICBjb25maXJtQnV0dG9uVGV4dDogKCkgPT4gY29uZmlybUJ0biwKICAgICAgfSwKICAgIH0pOwogICAgcmV0dXJuIG1vZGFsSW5zdGFuY2UucmVzdWx0OwogIH0KfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -366,7 +372,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>originHBLNo</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
