@@ -136,13 +136,11 @@
         <mark key="." line="109" column="32" />
         <mark key="^" line="108" column="57" />
       </file>
-      <file name="/oe_hbl_olc.html" timestamp="1600672858710" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/rate_entry/app.component.html" timestamp="1600679314283" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/directive.js" timestamp="1600680409942" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/directive.js" timestamp="1600683046016" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/rate_entry/app.component.ts" timestamp="1600679243497" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_entry/app.component.ts" timestamp="1600679114702" />
-      <file name="/filters.py" timestamp="1600672499561" />
-      <file name="/base.py" timestamp="1600672547404" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/preference.service.ts" timestamp="1600682956470" />
       <file name="$USER_HOME$/gofreight/fms/fms/filters.py" timestamp="1600673622973">
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
@@ -163,12 +161,23 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/quotation_list/app.component.html" timestamp="1600679197468" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/billing-select-cell/billing-select-cell.component.ts" timestamp="1600679348732" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/sales/rate_list/app.component.ts" timestamp="1600679219523" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach_to_mbl_modal/attach-to-mbl-modal.component.html" timestamp="1600682867236">
+        <mark key="[" line="37" column="97" />
+        <mark key="]" line="37" column="97" />
+        <mark key="." line="37" column="97" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/update_from_mbl_modal/update_from_mbl_modal.ts" timestamp="1600681668513">
         <mark key="[" line="13" column="50" />
         <mark key="]" line="24" column="25" />
         <mark key="." line="24" column="25" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-ag-grid/hc-grid-container/hc-grid-container.component.ts" timestamp="1600679671554" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach_to_mbl_modal/attach-to-mbl-modal.component.ts" timestamp="1600682828443">
+        <mark key="[" line="52" column="29" />
+        <mark key="]" line="52" column="33" />
+        <mark key="." line="52" column="32" />
+        <mark key="^" line="52" column="33" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -220,7 +229,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(change)=&quot;onDataSelect(item.key, $event.target.checked)&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -350,7 +359,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(change)=&quot;onDataSelect(item.key, $event.target.checked)&quot;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -407,82 +416,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="8">
-        <text>__
-__
-__
-__
-__
-__
-__
-__
-__
-__
-__
-__
-__
-__
-__
-__</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="8">
-        <text>__
-__
-__
-__
-__
-__
-__
-__
-__
-__
-__
-__
-__
-__
-__
-__</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="8">
-        <text>oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking</text>
+      <register name="3" type="4">
+        <text encoding="base64">b25EYXRhU2VsZWN0KGtleTogc3RyaW5nLCBjaGVja2VkOiBib29sZWFuKTogdm9pZCB7CiAgICBpZiAoY2hlY2tlZCkgewogICAgICB0aGlzLmZpZWxkc1RvVXBkYXRlLnB1c2goa2V5KTsKICAgIH0gZWxzZSB7CiAgICAgIHRoaXMuZmllbGRzVG9VcGRhdGUgPSB0aGlzLmZpZWxkc1RvVXBkYXRlLmZpbHRlcih2ID0+IHYgIT09IGtleSk7CiAgICB9CiAgfQ==</text>
       </register>
-      <register name="4" type="8">
-        <text>oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking</text>
+      <register name="4" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -538,27 +485,26 @@ oe_booking</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="8">
-        <text>oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking
-oe_booking</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGlzQ2hlY2tlZChrZXk6IHN0cmluZyk6IGJvb2xlYW4gewogICAgcmV0dXJuIHRoaXMudXBkYXRlS2V5cy5pbmNsdWRlcyhrZXkpOwogIH0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG9lX2Jvb2tpbmdfCg==</text>
+      <register name="6" type="8">
+        <text>__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -585,16 +531,22 @@ oe_booking</text>
         </keys>
       </register>
       <register name="7" type="8">
-        <text>oe_info.
-oe_info.
-oe_info.
-oe_info.
-oe_info.
-oe_info.
-oe_info.
-oe_info.
-oe_info.
-oe_info.</text>
+        <text>__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -609,11 +561,43 @@ oe_info.</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text>oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CkhCTF9LRVlfTUFQX1RPX01CTF9PRV9JTkZPX0tFWSA9IHs=</text>
+      <register name="9" type="8">
+        <text>oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking
+oe_booking</text>
       </register>
       <register name="y" type="4">
         <text />
