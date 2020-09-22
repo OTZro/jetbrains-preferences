@@ -118,8 +118,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/preference.py" timestamp="1600680018792">
-        <mark key="[" line="152" column="29" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/preference.py" timestamp="1600746714744">
+        <mark key="[" line="163" column="45" />
         <mark key="]" line="152" column="30" />
         <mark key="." line="152" column="29" />
         <mark key="^" line="152" column="30" />
@@ -132,14 +132,14 @@
         <mark key="]" line="41" column="49" />
         <mark key="." line="41" column="49" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@angular/forms/forms.d.ts" timestamp="1600742579531" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@angular/forms/forms.d.ts" timestamp="1600746327191" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/update_from_mbl_modal/update_from_mbl_modal.html" timestamp="1600684247364">
         <mark key="[" line="8" column="108" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-directive/hc-user-preference.directive.ts" timestamp="1600745266280">
-        <mark key="[" line="21" column="52" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="22" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-directive/hc-user-preference.directive.ts" timestamp="1600746815581">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="2" />
+        <mark key="." line="12" column="2" />
         <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-directive/shared-directive.module.ts" timestamp="1600684172289">
@@ -151,17 +151,21 @@
         <mark key="." line="46" column="3" />
         <mark key="^" line="46" column="4" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@angular/core/core.d.ts" timestamp="1600746813649" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl.controller.js" timestamp="1600742852840">
         <mark key="[" line="138" column="45" />
         <mark key="]" line="102" column="34" />
         <mark key="." line="102" column="34" />
         <mark key="^" line="108" column="57" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach_to_mbl_modal/attach-to-mbl-modal.component.ts" timestamp="1600745196921">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach_to_mbl_modal/attach-to-mbl-modal.component.ts" timestamp="1600746658267">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/booking/booking.py" timestamp="1600746694778" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/directive.js" timestamp="1600746767718" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/core/shipment/booking/mbl_fields_mapping.ts" timestamp="1600746687469" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -213,7 +217,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ngModel</text>
+        <text>ngOnInit</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -343,7 +347,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ngModel</text>
+        <text>ngOnInit</text>
       </register>
       <register name="m" type="4">
         <keys>
