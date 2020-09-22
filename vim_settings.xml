@@ -125,9 +125,6 @@
         <mark key="^" line="152" column="30" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-directive/bind-uniform.directive.ts" timestamp="1600760880758" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/update_from_mbl_modal/update_from_mbl_modal.html" timestamp="1600684247364">
-        <mark key="[" line="8" column="108" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl.controller.js" timestamp="1600759224195">
         <mark key="[" line="155" column="71" />
         <mark key="]" line="140" column="79" />
@@ -136,6 +133,7 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/directive.js" timestamp="1600746767718" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0034_v1_21_0005_booking_attach_to_mbl_user_preference.py" timestamp="1600760225313" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/approval-module.enum.ts" timestamp="1600763218821" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach_to_mbl_modal/attach-to-mbl-modal.component.html" timestamp="1600757381631">
         <mark key="[" line="39" column="29" />
         <mark key="]" line="41" column="35" />
@@ -149,9 +147,6 @@
         <mark key="." line="18" column="61" />
         <mark key="^" line="22" column="2" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-directive/shared-directive.module.ts" timestamp="1600684172289">
-        <mark key="[" line="66" column="29" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/update_from_mbl_modal/update_from_mbl_modal.ts" timestamp="1600762846700">
         <mark key="[" line="47" column="3" />
         <mark key="]" line="47" column="3" />
@@ -164,6 +159,11 @@
         <mark key="]" line="198" column="36" />
         <mark key="^" line="198" column="36" />
         <mark key="." line="198" column="35" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/approval-module.enum.text_def.ts" timestamp="1600763213282">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach_to_mbl_modal/attach-to-mbl-modal.component.ts" timestamp="1600762826314">
         <mark key="[" line="91" column="4" />
@@ -232,7 +232,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGRlYnVnZ2VyCiAgICBjb25zdCBwcm9jZXNzZWRLZXkgPSBrZXkucmVwbGFjZSgnLicsICdfJyk7IC8vIENoYW5nZSBvZV9pbmZvLkVUQSB0byBvZV9pbmZvX0VUQQogICAgcmV0dXJuIGBvZV9ib29raW5nX3VwZGF0ZWRfYnlfbWJsXyR7cHJvY2Vzc2VkS2V5fWA7</text>
+        <text>Amendment</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -362,7 +362,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>updatePreference</text>
+        <text>Amendment</text>
       </register>
       <register name="m" type="4">
         <keys>
