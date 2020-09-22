@@ -152,11 +152,11 @@
         <mark key="^" line="46" column="4" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@angular/core/core.d.ts" timestamp="1600746813649" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl.controller.js" timestamp="1600742852840">
-        <mark key="[" line="142" column="45" />
-        <mark key="]" line="102" column="34" />
-        <mark key="." line="102" column="34" />
-        <mark key="^" line="110" column="57" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_export/oe_hbl.controller.js" timestamp="1600754454582">
+        <mark key="[" line="102" column="24" />
+        <mark key="]" line="102" column="24" />
+        <mark key="." line="102" column="24" />
+        <mark key="^" line="134" column="29" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach_to_mbl_modal/attach-to-mbl-modal.component.ts" timestamp="1600746658267">
         <mark key="[" line="93" column="0" />
@@ -217,7 +217,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ngOnInit</text>
+        <text>_calculate</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -347,7 +347,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ngOnInit</text>
+        <text>_calculate</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -404,20 +404,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgIC8vICAgICAg</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPcHRpb25hbCgpIG5nQ29udHJvbDogTmdDb250cm9sLAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1bmlmb3JtRWxlbWVudDogYW55Owo=</text>
+        <text encoding="base64">ICAgIEBPcHRpb25hbCgpIG5nQ29udHJvbDogTmdDb250cm9sLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMudW5pZm9ybUVsZW1lbnQgPSAkKGVsZS5uYXRpdmVFbGVtZW50KS51bmlmb3JtKCk7Cg==</text>
+        <text encoding="base64">ICB1bmlmb3JtRWxlbWVudDogYW55Owo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -474,10 +474,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgJCB9IGZyb20gJ0xpYi90cy9nbG9iYWwnOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMudW5pZm9ybUVsZW1lbnQgPSAkKGVsZS5uYXRpdmVFbGVtZW50KS51bmlmb3JtKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgJCB9IGZyb20gJ0xpYi90cy9nbG9iYWwnOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -520,10 +520,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">b25EYXRhU2VsZWN0KGtleTogc3RyaW5nLCBjaGVja2VkOiBib29sZWFuKTogdm9pZCB7CiAgICBpZiAoY2hlY2tlZCkgewogICAgICB0aGlzLmZpZWxkc1RvVXBkYXRlLnB1c2goa2V5KTsKICAgIH0gZWxzZSB7CiAgICAgIHRoaXMuZmllbGRzVG9VcGRhdGUgPSB0aGlzLmZpZWxkc1RvVXBkYXRlLmZpbHRlcih2ID0+IHYgIT09IGtleSk7CiAgICB9CiAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="y" type="4">
         <text />
