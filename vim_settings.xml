@@ -133,18 +133,18 @@
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/directive.js" timestamp="1600746767718" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0034_v1_21_0005_booking_attach_to_mbl_user_preference.py" timestamp="1600760225313" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/approval-module.enum.ts" timestamp="1600763218821" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach_to_mbl_modal/attach-to-mbl-modal.component.html" timestamp="1600757381631">
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="41" column="35" />
-        <mark key="." line="41" column="34" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/approval-module.enum.ts" timestamp="1600763999531" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach_to_mbl_modal/attach-to-mbl-modal.component.html" timestamp="1600764004557">
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="36" column="36" />
+        <mark key="." line="36" column="36" />
         <mark key="^" line="41" column="35" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/node_modules/@angular/forms/forms.d.ts" timestamp="1600746327191" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-directive/hc-user-preference.directive.ts" timestamp="1600761876139">
-        <mark key="[" line="18" column="61" />
-        <mark key="]" line="18" column="61" />
-        <mark key="." line="18" column="61" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-directive/hc-user-preference.directive.ts" timestamp="1600765138653">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="25" />
         <mark key="^" line="22" column="2" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/booking/update_from_mbl_modal/update_from_mbl_modal.ts" timestamp="1600762846700">
@@ -160,22 +160,17 @@
         <mark key="^" line="198" column="36" />
         <mark key="." line="198" column="35" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/setting/approval-module.enum.text_def.ts" timestamp="1600763213282">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/booking/booking_list/attach_to_mbl_modal/attach-to-mbl-modal.component.ts" timestamp="1600762826314">
         <mark key="[" line="91" column="4" />
         <mark key="]" line="91" column="4" />
         <mark key="." line="91" column="4" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_rest/booking/booking.py" timestamp="1600746694778" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/preference.service.ts" timestamp="1600762496626">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="19" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/core-services/preference.service.ts" timestamp="1600765161762">
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="13" />
+        <mark key="." line="40" column="13" />
+        <mark key="^" line="38" column="22" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/core/shipment/booking/mbl_fields_mapping.ts" timestamp="1600762823837">
         <mark key="[" line="52" column="1" />
@@ -232,7 +227,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Amendment</text>
+        <text>?</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -362,7 +357,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Amendment</text>
+        <text>?</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -420,20 +415,20 @@
         </keys>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGRlYnVnZ2VyCiAgICBjb25zdCBwcm9jZXNzZWRLZXkgPSBrZXkucmVwbGFjZSgnLicsICdfJyk7IC8vIENoYW5nZSBvZV9pbmZvLkVUQSB0byBvZV9pbmZvX0VUQQogICAgcmV0dXJuIGBvZV9ib29raW5nX3VwZGF0ZWRfYnlfbWJsXyR7cHJvY2Vzc2VkS2V5fWA7</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC5waXBlKHN3aXRjaE1hcFRvKG9mKFtkYXRhLCBwcmVmZXJlbmNlXSkpKQ==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IGRlYnVnZ2VyCiAgICBjb25zdCBwcm9jZXNzZWRLZXkgPSBrZXkucmVwbGFjZSgnLicsICdfJyk7IC8vIENoYW5nZSBvZV9pbmZvLkVUQSB0byBvZV9pbmZvX0VUQQogICAgcmV0dXJuIGBvZV9ib29raW5nX3VwZGF0ZWRfYnlfbWJsXyR7cHJvY2Vzc2VkS2V5fWA7</text>
+      </register>
+      <register name="3" type="4">
         <text>const processedKey = key.replace('.', '_'); // Change oe_info.ETA to oe_info_ETA
     return `oe_booking_updated_by_mbl_${processedKey}`;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -490,10 +485,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICB0aGlzLmh0dHAucHV0KCcvYXBpL3VzZXIvcHJlZmVyZW5jZS8nLCB7IFtrZXldOiB2YWx1ZSB9KS5zdWJzY3JpYmUoKCkgPT4gewogICAgICB0aGlzLnVzZXJQcmVmZXJlbmNlJCQucGlwZSh0YWtlKDEpKS5zdWJzY3JpYmUocHJlZmVyZW5jZSA9PiB7CiAgICAgICAgcHJlZmVyZW5jZVtrZXldID0gdmFsdWU7CiAgICAgICAgdGhpcy51c2VyUHJlZmVyZW5jZSQkLm5leHQocHJlZmVyZW5jZSk7CiAgICAgIH0pOwogICAgfSk7</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">CiAgICB0aGlzLmh0dHAucHV0KCcvYXBpL3VzZXIvcHJlZmVyZW5jZS8nLCB7IFtrZXldOiB2YWx1ZSB9KS5zdWJzY3JpYmUoKCkgPT4gewogICAgICB0aGlzLnVzZXJQcmVmZXJlbmNlJCQucGlwZSh0YWtlKDEpKS5zdWJzY3JpYmUocHJlZmVyZW5jZSA9PiB7CiAgICAgICAgcHJlZmVyZW5jZVtrZXldID0gdmFsdWU7CiAgICAgICAgdGhpcy51c2VyUHJlZmVyZW5jZSQkLm5leHQocHJlZmVyZW5jZSk7CiAgICAgIH0pOwogICAgfSk7</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -519,9 +514,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>console.log(value),
-      //</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -537,10 +531,11 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdGFyZ2V0LndpZHRoKHRhcmdldC53aWR0aCgpICsgcGFyc2VJbnQodGFyZ2V0LmNzcygnbGVmdCcpLCAxMCkpOwogICAgICAgIHRhcmdldC5jc3MoJ2xlZnQnLCAwKTs=</text>
+        <text>console.log(value),
+      //</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgIC8vICAgICAg</text>
+        <text encoding="base64">CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdGFyZ2V0LndpZHRoKHRhcmdldC53aWR0aCgpICsgcGFyc2VJbnQodGFyZ2V0LmNzcygnbGVmdCcpLCAxMCkpOwogICAgICAgIHRhcmdldC5jc3MoJ2xlZnQnLCAwKTs=</text>
       </register>
       <register name="y" type="4">
         <text />
