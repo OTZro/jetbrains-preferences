@@ -158,7 +158,6 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/fms/lib/python3.6/site-packages/rest_framework/generics.py" timestamp="1600767187070" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1600771852848">
         <mark key="[" line="174" column="23" />
         <mark key="]" line="155" column="25" />
@@ -172,6 +171,9 @@
         <mark key="[" line="72" column="78" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/bank/check_deposit/utility.py" timestamp="1600828710984" />
+      <file name="/Django Console" timestamp="1600830002799">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-approval-service/payment-plan-status.service.ts" timestamp="1600771127011">
         <mark key="[" line="26" column="22" />
       </file>
@@ -182,10 +184,11 @@
         <mark key="." line="103" column="20" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1600771046684" />
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1600828735245">
-        <mark key="[" line="304" column="37" />
-        <mark key="]" line="301" column="40" />
-        <mark key="." line="301" column="40" />
+      <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/service.py" timestamp="1600830009709">
+        <mark key="[" line="309" column="16" />
+        <mark key="]" line="303" column="88" />
+        <mark key="." line="303" column="87" />
+        <mark key="^" line="303" column="88" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/payment_plan.py" timestamp="1600774118380">
         <mark key="[" line="62" column="49" />
@@ -250,7 +253,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, request: HttpRequest</text>
+        <text>job</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -380,7 +383,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, request: HttpRequest</text>
+        <text>job</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -437,24 +440,21 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGF5bWVudFBsYW5TdGF0dXNTZXJ2aWNlLmlzRHJhZnQoKSk7Cg==</text>
+      <register name="1" type="4">
+        <text>approval.status = Approval.STATUS_ABOLISHED
+        approval.save()</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">IFwKICAgICAgICAgICAg</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGF5bWVudFBsYW5TdGF0dXNTZXJ2aWNlLmlzRHJhZnQoKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
-      <register name="3" type="4">
-        <text>self.approval_service.check_instance_and_create_job(
-                Target(instance, {}),
-                MODULE_PAYMENT_PLAN_SUBMIT,
-                request.user
-            )</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYgKCF0aGlzLmZvcm1Hcm91cC52YWxpZCkgewogICAgICByZXR1cm4gdGhpcy5vbkZvcm1JbnZhbGlkKCk7CiAgICB9CiAgICBjb25zdCBkZXRhaWxWbXM6IFRQYXltZW50UGxhbkRldGFpbFZpZXdNb2RlbFtdID0gdGhpcy5mb3JtU2VydmljZS5wYXltZW50UGxhbi5fX2RldGFpbFZpZXdNb2RlbHM7CiAgICBjb25zdCBkZXRhaWxTZXQgPSB0b0RldGFpbFNldChkZXRhaWxWbXMsIHRoaXMuZGF0YVNlcnZpY2UucGspOwogICAgY29uc3QgZGF0YSA9IHRoaXMuZm9ybVNlcnZpY2UucGF5bWVudFBsYW47CiAgICBkYXRhLnBheW1lbnRfcGxhbl9kZXRhaWxfc2V0ID0gZGV0YWlsU2V0OwogICAgdGhpcy5kYXRhU2VydmljZS5zYXZlUGF5bWVudFBsYW4oZGF0YSk7CiAgICBjb25zdCBzYXZlQ29tcGxldGUkID0gdGhpcy5kYXRhU2VydmljZS5wYXltZW50UGxhbiQucGlwZShmaXJzdCgpLCBzaGFyZSgpKTsKICAgIHNhdmVDb21wbGV0ZSQuc3Vic2NyaWJlKCgpID0+IHNob3dTdWNjZXNzRmVlZGJhY2tNc2codGhpcy5fVC5NU0cuU0FWRV9EQVRBX1NVQ0MpKTsKICAgIHJldHVybiBzYXZlQ29tcGxldGUkOw==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -510,11 +510,15 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIElmIGFwcHJvdmFsIGVuYWJsZSwgdGhlIHNhdmUoc3VibWl0KSBidXR0b24gY2FuIHN1Ym1pdCB3aXRob3V0IGRhdGEgZGlydHkuCg==</text>
+      <register name="5" type="4">
+        <text>self.approval_service.check_instance_and_create_job(
+                Target(instance, {}),
+                MODULE_PAYMENT_PLAN_SUBMIT,
+                request.user
+            )</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">dGhpcy5hbHNMb2dJZExpc3QgPSBbXTsKICAgIGlmICh0aGlzLnBrID09PSBudWxsKSB7CiAgICAgIHRoaXMuYXBpU2VydmljZS5jcmVhdGVQYXltZW50UGxhbihwYXltZW50UGxhbikuc3Vic2NyaWJlKHBheW1lbnRQbGFuID0+IHsKICAgICAgICB0aGlzLnBrID0gcGF5bWVudFBsYW4uaWQ7CiAgICAgICAgdGhpcy51cGRhdGVQYXltZW50UGxhblN0cmVhbUFuZEFtb3VudEluZm8ocGF5bWVudFBsYW4pOwogICAgICAgIHRoaXMubG9jYXRpb24ucmVwbGFjZVN0YXRlKGAvYWNjb3VudGluZy9wYXltZW50LXBsYW4vZW50cnkvJHt0aGlzLnBrfS9gKTsKICAgICAgfSk7CiAgICB9IGVsc2UgewogICAgICB0aGlzLnVwZGF0ZSQubmV4dChwYXltZW50UGxhbik7CiAgICB9</text>
+        <text encoding="base64">aWYgKCF0aGlzLmZvcm1Hcm91cC52YWxpZCkgewogICAgICByZXR1cm4gdGhpcy5vbkZvcm1JbnZhbGlkKCk7CiAgICB9CiAgICBjb25zdCBkZXRhaWxWbXM6IFRQYXltZW50UGxhbkRldGFpbFZpZXdNb2RlbFtdID0gdGhpcy5mb3JtU2VydmljZS5wYXltZW50UGxhbi5fX2RldGFpbFZpZXdNb2RlbHM7CiAgICBjb25zdCBkZXRhaWxTZXQgPSB0b0RldGFpbFNldChkZXRhaWxWbXMsIHRoaXMuZGF0YVNlcnZpY2UucGspOwogICAgY29uc3QgZGF0YSA9IHRoaXMuZm9ybVNlcnZpY2UucGF5bWVudFBsYW47CiAgICBkYXRhLnBheW1lbnRfcGxhbl9kZXRhaWxfc2V0ID0gZGV0YWlsU2V0OwogICAgdGhpcy5kYXRhU2VydmljZS5zYXZlUGF5bWVudFBsYW4oZGF0YSk7CiAgICBjb25zdCBzYXZlQ29tcGxldGUkID0gdGhpcy5kYXRhU2VydmljZS5wYXltZW50UGxhbiQucGlwZShmaXJzdCgpLCBzaGFyZSgpKTsKICAgIHNhdmVDb21wbGV0ZSQuc3Vic2NyaWJlKCgpID0+IHNob3dTdWNjZXNzRmVlZGJhY2tNc2codGhpcy5fVC5NU0cuU0FWRV9EQVRBX1NVQ0MpKTsKICAgIHJldHVybiBzYXZlQ29tcGxldGUkOw==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -540,8 +544,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aW5zdGFuY2UgaXMgTm9uZSBvciBpbnN0YW5jZS5pc19wYWlkX2J5X2N1c3RvbWVyIFwKICAgICAgICAgICAgICAgIG9yIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIElmIGFwcHJvdmFsIGVuYWJsZSwgdGhlIHNhdmUoc3VibWl0KSBidXR0b24gY2FuIHN1Ym1pdCB3aXRob3V0IGRhdGEgZGlydHkuCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -556,11 +560,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">dGhpcy5hbHNMb2dJZExpc3QgPSBbXTsKICAgIGlmICh0aGlzLnBrID09PSBudWxsKSB7CiAgICAgIHRoaXMuYXBpU2VydmljZS5jcmVhdGVQYXltZW50UGxhbihwYXltZW50UGxhbikuc3Vic2NyaWJlKHBheW1lbnRQbGFuID0+IHsKICAgICAgICB0aGlzLnBrID0gcGF5bWVudFBsYW4uaWQ7CiAgICAgICAgdGhpcy51cGRhdGVQYXltZW50UGxhblN0cmVhbUFuZEFtb3VudEluZm8ocGF5bWVudFBsYW4pOwogICAgICAgIHRoaXMubG9jYXRpb24ucmVwbGFjZVN0YXRlKGAvYWNjb3VudGluZy9wYXltZW50LXBsYW4vZW50cnkvJHt0aGlzLnBrfS9gKTsKICAgICAgfSk7CiAgICB9IGVsc2UgewogICAgICB0aGlzLnVwZGF0ZSQubmV4dChwYXltZW50UGxhbik7CiAgICB9</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">aW5zdGFuY2UgaXMgTm9uZSBvciBpbnN0YW5jZS5pc19wYWlkX2J5X2N1c3RvbWVyIFwKICAgICAgICAgICAgICAgIG9yIA==</text>
       </register>
       <register name="y" type="4">
         <text />
