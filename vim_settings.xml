@@ -135,38 +135,47 @@
         <mark key="." line="2" column="88" />
         <mark key="^" line="2" column="89" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-event.service.interface.ts" timestamp="1600857696828">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="18" column="23" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-detail-table/payment-plan-detail-table.component.ts" timestamp="1600918502740">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/sz_query.py" timestamp="1600929250752">
+        <mark key="[" line="286" column="26" />
+        <mark key="]" line="242" column="58" />
+        <mark key="." line="242" column="58" />
+      </file>
+      <file name="/Python Console" timestamp="1600927531082">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/payment_plan.py" timestamp="1600860985286">
         <mark key="^" line="83" column="41" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/views/api.py" timestamp="1600858467992" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-api-service/payment-plan-api.interface.ts" timestamp="1600928725679">
+        <mark key="[" line="72" column="23" />
+        <mark key="]" line="188" column="59" />
+        <mark key="." line="188" column="58" />
+        <mark key="^" line="188" column="59" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-tp-select/hc-tp-select.component.html" timestamp="1600860853989">
         <mark key="[" line="38" column="108" />
         <mark key="]" line="38" column="108" />
         <mark key="." line="38" column="108" />
       </file>
-      <file name="/app.component.ts" timestamp="1600856290946" />
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1600861014098">
-        <mark key="[" line="205" column="54" />
-        <mark key="]" line="205" column="54" />
+      <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1600929385499">
+        <mark key="[" line="199" column="20" />
+        <mark key="]" line="199" column="20" />
         <mark key="^" line="206" column="16" />
-        <mark key="." line="205" column="54" />
+        <mark key="." line="199" column="20" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/approval-utility.ts" timestamp="1600857295932" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-approval-service/payment-plan-status.service.ts" timestamp="1600916486585">
-        <mark key="[" line="44" column="3" />
-        <mark key="]" line="23" column="60" />
-        <mark key="." line="23" column="60" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-tool/payment-plan-tool.component.ts" timestamp="1600929039589">
+        <mark key="[" line="56" column="49" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-approval-service/payment-plan-status.service.ts" timestamp="1600928717770">
+        <mark key="[" line="47" column="37" />
+        <mark key="]" line="47" column="37" />
+        <mark key="." line="47" column="37" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-basic/payment-plan-basic.component.ts" timestamp="1600918400549">
         <mark key="[" line="7" column="0" />
@@ -179,10 +188,14 @@
         <mark key="." line="235" column="8" />
         <mark key="^" line="235" column="9" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/test/accounting/payment_plan/test_payment_plan_api.py" timestamp="1600925728136">
-        <mark key="[" line="1303" column="0" />
-        <mark key="]" line="1304" column="0" />
-        <mark key="." line="1302" column="91" />
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/payment_plan/test_payment_plan_api.py" timestamp="1600928148205">
+        <mark key="[" line="1392" column="42" />
+        <mark key="]" line="1392" column="42" />
+        <mark key="." line="1392" column="42" />
+        <mark key="^" line="1322" column="36" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1600928659445">
+        <mark key="[" line="1577" column="91" />
       </file>
     </filemarks>
     <jumps>
@@ -234,8 +247,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>get_has_payment</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -365,7 +378,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_URL_PAYMENT_PLAN_CREATE_API</text>
+        <text>get_has_payment</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -423,19 +436,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9pc19jb25maXJtZWQgPSBUcnVlCg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKEFwcHJvdmFsLm9iamVjdHMuY291bnQoKSwgMSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudC5wb3N0KF9VUkxfUEFZTUVOVF9QTEFOX0NSRUFURV9BUEksIGRhdGE9c2VsZi5wYXltZW50X3BsYW5fcmVxdWVzdF9kYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2VsZi5mcmVpZ2h0Lmludm9pY2UuaXNfcGF5bWVudF9wbGFuX3BlbmRpbmcoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNFSW52b2ljZVN1Ym1pdHRlZCB9IGZyb20gJ1BhZ2UvZnJlaWdodC9hY2NvdW50aW5nL3BheW1lbnQtcGxhbi9lLWludm9pY2UtdXRpbGl0eSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKEFwcHJvdmFsLm9iamVjdHMuY291bnQoKSwgMSkK</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -492,10 +505,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25nLW1vZGVsJzogJ3ZtLnNob3dCbE5vQXRMb2dvVG9wTGVmdCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2VsZi5mcmVpZ2h0Lmludm9pY2UuaXNfcGF5bWVudF9wbGFuX3BlbmRpbmcoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25nLW1vZGVsJzogJ3ZtLnNob3dCbE5vQXRMb2dvVG9wUmlnaHQnLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgaXNFSW52b2ljZVN1Ym1pdHRlZCB9IGZyb20gJ1BhZ2UvZnJlaWdodC9hY2NvdW50aW5nL3BheW1lbnQtcGxhbi9lLWludm9pY2UtdXRpbGl0eSc7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -522,7 +535,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNQYXltZW50UGxhbkVkaXRhYmxlIH0gZnJvbSAnUGFnZS9mcmVpZ2h0L2FjY291bnRpbmcvcGF5bWVudC1wbGFuL2FwcHJvdmFsLXV0aWxpdHknOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25nLW1vZGVsJzogJ3ZtLnNob3dCbE5vQXRMb2dvVG9wTGVmdCcsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -537,15 +550,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>payment_plan.is_confirmed = False
-        payment_plan.confirmed_by = None
-        payment_plan.confirmed_date = None
-        payment_plan.status = PaymentPlan.STATUS_DRAFT
-        payment_plan.save()</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25nLW1vZGVsJzogJ3ZtLnNob3dCbE5vQXRMb2dvVG9wUmlnaHQnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZWFyY2hJbnB1dC5uYXRpdmVFbGVtZW50LnZhbHVlID0gdGV4dDsK</text>
+        <text encoding="base64">aW1wb3J0IHsgaXNQYXltZW50UGxhbkVkaXRhYmxlIH0gZnJvbSAnUGFnZS9mcmVpZ2h0L2FjY291bnRpbmcvcGF5bWVudC1wbGFuL2FwcHJvdmFsLXV0aWxpdHknOwo=</text>
       </register>
       <register name="y" type="4">
         <text />
