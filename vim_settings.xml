@@ -135,7 +135,6 @@
         <mark key="." line="2" column="88" />
         <mark key="^" line="2" column="89" />
       </file>
-      <file name="/payment-plan-tool.component.ts" timestamp="1600856225201" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-event.service.interface.ts" timestamp="1600857696828">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -179,6 +178,11 @@
         <mark key="]" line="235" column="9" />
         <mark key="." line="235" column="8" />
         <mark key="^" line="235" column="9" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/payment_plan/test_payment_plan_api.py" timestamp="1600920750766">
+        <mark key="[" line="1283" column="49" />
+        <mark key="]" line="1283" column="49" />
+        <mark key="." line="1283" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -230,8 +234,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNFSW52b2ljZVN1Ym1pdHRlZCB9IGZyb20gJ1BhZ2UvZnJlaWdodC9hY2NvdW50aW5nL3BheW1lbnQtcGxhbi9lLWludm9pY2UtdXRpbGl0eSc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>STATUS_PENDING</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -361,7 +365,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5nLXNob3c9InZtLnNob3dCbE5vQXRMb2dvVG9wUmlnaHQi</text>
+        <text>STATUS_PENDING</text>
       </register>
       <register name="m" type="4">
         <keys>
