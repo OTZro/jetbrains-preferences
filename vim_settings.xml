@@ -118,6 +118,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/hbl_sidebar.html" timestamp="1600933552027">
+        <mark key="[" line="44" column="38" />
+        <mark key="]" line="44" column="38" />
+        <mark key="." line="44" column="38" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/hc-pagination-list-col-approval-status.component.ts" timestamp="1600858595208">
         <mark key="[" line="42" column="60" />
         <mark key="]" line="122" column="21" />
@@ -150,7 +155,6 @@
       <file name="$USER_HOME$/gofreight/fms/app/jobflow/approval/payment_plan.py" timestamp="1600860985286">
         <mark key="^" line="83" column="41" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/jobflow/views/api.py" timestamp="1600858467992" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-api-service/payment-plan-api.interface.ts" timestamp="1600928725679">
         <mark key="[" line="72" column="23" />
         <mark key="]" line="188" column="59" />
@@ -252,7 +256,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ng-if=&quot;hbl.ar_balance || hbl.ap_balance&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -382,7 +386,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ng-if=&quot;hbl.ar_balance || hbl.ap_balance&quot;</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -439,20 +443,28 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgIC5zdWJzY3JpYmUoZW5hYmxlID0+IHsKICAgICAgICB0aGlzLmlzQXBwcm92YWxFbmFibGUgPSBlbmFibGU7CiAgICAgIH0p</text>
+      <register name="1" type="8">
+        <text>ng-if=
+ng-if=
+ng-if=
+ng-if=
+ng-if=</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9pc19jb25maXJtZWQgPSBUcnVlCg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIAog</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudC5wb3N0KF9VUkxfUEFZTUVOVF9QTEFOX0NSRUFURV9BUEksIGRhdGE9c2VsZi5wYXltZW50X3BsYW5fcmVxdWVzdF9kYXRhKQo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">IAogCiAKIAog</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>ng-if
+ng-if
+ng-if
+ng-if
+ng-if</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -508,11 +520,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKEFwcHJvdmFsLm9iamVjdHMuY291bnQoKSwgMSkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgIC5zdWJzY3JpYmUoZW5hYmxlID0+IHsKICAgICAgICB0aGlzLmlzQXBwcm92YWxFbmFibGUgPSBlbmFibGU7CiAgICAgIH0p</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2VsZi5mcmVpZ2h0Lmludm9pY2UuaXNfcGF5bWVudF9wbGFuX3BlbmRpbmcoKSkK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9pc19jb25maXJtZWQgPSBUcnVlCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -539,7 +551,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNFSW52b2ljZVN1Ym1pdHRlZCB9IGZyb20gJ1BhZ2UvZnJlaWdodC9hY2NvdW50aW5nL3BheW1lbnQtcGxhbi9lLWludm9pY2UtdXRpbGl0eSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudC5wb3N0KF9VUkxfUEFZTUVOVF9QTEFOX0NSRUFURV9BUEksIGRhdGE9c2VsZi5wYXltZW50X3BsYW5fcmVxdWVzdF9kYXRhKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -555,10 +567,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25nLW1vZGVsJzogJ3ZtLnNob3dCbE5vQXRMb2dvVG9wTGVmdCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25nLW1vZGVsJzogJ3ZtLnNob3dCbE5vQXRMb2dvVG9wUmlnaHQnLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKEFwcHJvdmFsLm9iamVjdHMuY291bnQoKSwgMSkK</text>
       </register>
       <register name="y" type="4">
         <text />
