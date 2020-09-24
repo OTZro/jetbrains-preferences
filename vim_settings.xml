@@ -179,10 +179,10 @@
         <mark key="." line="235" column="8" />
         <mark key="^" line="235" column="9" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/test/accounting/payment_plan/test_payment_plan_api.py" timestamp="1600920750766">
-        <mark key="[" line="1283" column="49" />
-        <mark key="]" line="1283" column="49" />
-        <mark key="." line="1283" column="49" />
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/payment_plan/test_payment_plan_api.py" timestamp="1600925728136">
+        <mark key="[" line="1303" column="0" />
+        <mark key="]" line="1304" column="0" />
+        <mark key="." line="1302" column="91" />
       </file>
     </filemarks>
     <jumps>
@@ -234,8 +234,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>STATUS_PENDING</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -365,7 +365,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>STATUS_PENDING</text>
+        <text>_URL_PAYMENT_PLAN_CREATE_API</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -423,19 +423,19 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNFSW52b2ljZVN1Ym1pdHRlZCB9IGZyb20gJ1BhZ2UvZnJlaWdodC9hY2NvdW50aW5nL3BheW1lbnQtcGxhbi9lLWludm9pY2UtdXRpbGl0eSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25nLW1vZGVsJzogJ3ZtLnNob3dCbE5vQXRMb2dvVG9wTGVmdCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKEFwcHJvdmFsLm9iamVjdHMuY291bnQoKSwgMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25nLW1vZGVsJzogJ3ZtLnNob3dCbE5vQXRMb2dvVG9wUmlnaHQnLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2VsZi5mcmVpZ2h0Lmludm9pY2UuaXNfcGF5bWVudF9wbGFuX3BlbmRpbmcoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNQYXltZW50UGxhbkVkaXRhYmxlIH0gZnJvbSAnUGFnZS9mcmVpZ2h0L2FjY291bnRpbmcvcGF5bWVudC1wbGFuL2FwcHJvdmFsLXV0aWxpdHknOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgaXNFSW52b2ljZVN1Ym1pdHRlZCB9IGZyb20gJ1BhZ2UvZnJlaWdodC9hY2NvdW50aW5nL3BheW1lbnQtcGxhbi9lLWludm9pY2UtdXRpbGl0eSc7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -491,15 +491,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
-        <text>payment_plan.is_confirmed = False
-        payment_plan.confirmed_by = None
-        payment_plan.confirmed_date = None
-        payment_plan.status = PaymentPlan.STATUS_DRAFT
-        payment_plan.save()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25nLW1vZGVsJzogJ3ZtLnNob3dCbE5vQXRMb2dvVG9wTGVmdCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZWFyY2hJbnB1dC5uYXRpdmVFbGVtZW50LnZhbHVlID0gdGV4dDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25nLW1vZGVsJzogJ3ZtLnNob3dCbE5vQXRMb2dvVG9wUmlnaHQnLAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -526,7 +522,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgaXNQYXltZW50UGxhbkVkaXRhYmxlIH0gZnJvbSAnUGFnZS9mcmVpZ2h0L2FjY291bnRpbmcvcGF5bWVudC1wbGFuL2FwcHJvdmFsLXV0aWxpdHknOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -541,11 +537,15 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text>payment_plan.is_confirmed = False
+        payment_plan.confirmed_by = None
+        payment_plan.confirmed_date = None
+        payment_plan.status = PaymentPlan.STATUS_DRAFT
+        payment_plan.save()</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5uZ1NlbGVjdC5maWx0ZXIodGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZWFyY2hJbnB1dC5uYXRpdmVFbGVtZW50LnZhbHVlID0gdGV4dDsK</text>
       </register>
       <register name="y" type="4">
         <text />
