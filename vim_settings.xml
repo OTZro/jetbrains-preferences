@@ -129,16 +129,15 @@
         <mark key="]" line="5" column="8" />
         <mark key="." line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-btn-group/payment-plan-btn-group.component.html" timestamp="1600857732383">
-        <mark key="[" line="2" column="76" />
-        <mark key="]" line="2" column="89" />
-        <mark key="." line="2" column="88" />
-        <mark key="^" line="2" column="89" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-detail-table/payment-plan-detail-table.component.ts" timestamp="1600918502740">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.html" timestamp="1600930521144">
+        <mark key="[" line="51" column="61" />
+        <mark key="]" line="24" column="66" />
+        <mark key="." line="24" column="66" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/sz_query.py" timestamp="1600929250752">
         <mark key="[" line="286" column="26" />
@@ -197,6 +196,11 @@
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1600928659445">
         <mark key="[" line="1577" column="91" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.ts" timestamp="1600930350397">
+        <mark key="[" line="177" column="8" />
+        <mark key="]" line="44" column="53" />
+        <mark key="." line="44" column="53" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -248,7 +252,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>get_has_payment</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -378,7 +382,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>get_has_payment</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -435,20 +439,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9pc19jb25maXJtZWQgPSBUcnVlCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgIC5zdWJzY3JpYmUoZW5hYmxlID0+IHsKICAgICAgICB0aGlzLmlzQXBwcm92YWxFbmFibGUgPSBlbmFibGU7CiAgICAgIH0p</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudC5wb3N0KF9VUkxfUEFZTUVOVF9QTEFOX0NSRUFURV9BUEksIGRhdGE9c2VsZi5wYXltZW50X3BsYW5fcmVxdWVzdF9kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9pc19jb25maXJtZWQgPSBUcnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsaWVudC5wb3N0KF9VUkxfUEFZTUVOVF9QTEFOX0NSRUFURV9BUEksIGRhdGE9c2VsZi5wYXltZW50X3BsYW5fcmVxdWVzdF9kYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKEFwcHJvdmFsLm9iamVjdHMuY291bnQoKSwgMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -505,10 +509,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2VsZi5mcmVpZ2h0Lmludm9pY2UuaXNfcGF5bWVudF9wbGFuX3BlbmRpbmcoKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKEFwcHJvdmFsLm9iamVjdHMuY291bnQoKSwgMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNFSW52b2ljZVN1Ym1pdHRlZCB9IGZyb20gJ1BhZ2UvZnJlaWdodC9hY2NvdW50aW5nL3BheW1lbnQtcGxhbi9lLWludm9pY2UtdXRpbGl0eSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFRydWUoc2VsZi5mcmVpZ2h0Lmludm9pY2UuaXNfcGF5bWVudF9wbGFuX3BlbmRpbmcoKSkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -535,7 +539,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25nLW1vZGVsJzogJ3ZtLnNob3dCbE5vQXRMb2dvVG9wTGVmdCcsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgaXNFSW52b2ljZVN1Ym1pdHRlZCB9IGZyb20gJ1BhZ2UvZnJlaWdodC9hY2NvdW50aW5nL3BheW1lbnQtcGxhbi9lLWludm9pY2UtdXRpbGl0eSc7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -551,10 +555,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25nLW1vZGVsJzogJ3ZtLnNob3dCbE5vQXRMb2dvVG9wUmlnaHQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25nLW1vZGVsJzogJ3ZtLnNob3dCbE5vQXRMb2dvVG9wTGVmdCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaXNQYXltZW50UGxhbkVkaXRhYmxlIH0gZnJvbSAnUGFnZS9mcmVpZ2h0L2FjY291bnRpbmcvcGF5bWVudC1wbGFuL2FwcHJvdmFsLXV0aWxpdHknOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ25nLW1vZGVsJzogJ3ZtLnNob3dCbE5vQXRMb2dvVG9wUmlnaHQnLAo=</text>
       </register>
       <register name="y" type="4">
         <text />
