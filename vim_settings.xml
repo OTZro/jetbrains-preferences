@@ -131,11 +131,11 @@
         <mark key="^" line="0" column="91" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment_entry/index.html" timestamp="1601364888334" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/auto_complete/api.py" timestamp="1601366929026">
-        <mark key="[" line="541" column="98" />
-        <mark key="]" line="606" column="0" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/auto_complete/api.py" timestamp="1601368471313">
+        <mark key="[" line="568" column="29" />
+        <mark key="]" line="568" column="29" />
         <mark key="^" line="617" column="123" />
-        <mark key="." line="606" column="0" />
+        <mark key="." line="568" column="29" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1601365115558">
         <mark key="[" line="199" column="20" />
@@ -241,8 +241,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>code__icontains</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -372,7 +372,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this.mbl</text>
+        <text>code__icontains</text>
       </register>
       <register name="m" type="4">
         <keys>
