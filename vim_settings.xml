@@ -131,10 +131,10 @@
         <mark key="^" line="36" column="48" />
         <mark key="." line="36" column="47" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-tab-info/hc-mbl-tab-info.component.html" timestamp="1601032583934">
-        <mark key="[" line="1" column="85" />
-        <mark key="]" line="1" column="85" />
-        <mark key="." line="1" column="85" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-tab-info/hc-mbl-tab-info.component.html" timestamp="1601350157625">
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/basic_entry.controller.js" timestamp="1601031185456">
         <mark key="[" line="3023" column="38" />
@@ -192,11 +192,8 @@
         <mark key="]" line="32" column="91" />
         <mark key="." line="32" column="91" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-tab-info/hc-mbl-tab-info.component.ts" timestamp="1601348385759">
-        <mark key="[" line="51" column="29" />
-        <mark key="]" line="51" column="29" />
-        <mark key="^" line="78" column="50" />
-        <mark key="." line="51" column="29" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-tab-info/hc-mbl-tab-info.component.ts" timestamp="1601350305599">
+        <mark key="[" line="71" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -225,6 +222,15 @@
       <jump line="130" column="78" filename="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/app.component.html" />
       <jump line="133" column="78" filename="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/app.component.html" />
       <jump line="145" column="44" filename="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/accounting-wizard/app.component.html" />
+      <jump line="32" column="10" filename="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-tab-info/hc-mbl-tab-info.component.ts" />
+      <jump line="38" column="10" filename="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-tab-info/hc-mbl-tab-info.component.ts" />
+      <jump line="44" column="10" filename="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-tab-info/hc-mbl-tab-info.component.ts" />
+      <jump line="50" column="10" filename="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-tab-info/hc-mbl-tab-info.component.ts" />
+      <jump line="56" column="10" filename="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-tab-info/hc-mbl-tab-info.component.ts" />
+      <jump line="62" column="10" filename="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-tab-info/hc-mbl-tab-info.component.ts" />
+      <jump line="68" column="10" filename="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-tab-info/hc-mbl-tab-info.component.ts" />
+      <jump line="74" column="10" filename="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-tab-info/hc-mbl-tab-info.component.ts" />
+      <jump line="80" column="10" filename="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-mbl-tab-info/hc-mbl-tab-info.component.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -251,8 +257,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>type</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGN1c3RvbWVyOiB7IG5hbWU6IHN0cmluZyB9IHwgdW5kZWZpbmVkOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -382,7 +388,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>convert</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -440,7 +446,7 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1c3RvbWVyOiB7IG5hbWU6IHN0cmluZyB9IHwgdW5kZWZpbmVkOwo=</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
@@ -449,10 +455,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgbmdPbkNoYW5nZXMoY2hhbmdlczogU2ltcGxlQ2hhbmdlcyk6IHZvaWQgewogICAgaWYgKGNoYW5nZXMubWJsKSB7CiAgICAgIGlmICgpIHsKICAgICAgICAKICAgICAgfQogICAgICBpZiAoKSB7CiAgICAgICAgCiAgICAgIH0KICAgICAgaWYgKCkgewogICAgICAgIAogICAgICB9CiAgICAgIGlmICgpIHsKICAgICAgICAKICAgICAgfQogICAgICBpZiAoKSB7CiAgICAgICAgCiAgICAgIH0KICAgICAgaWYgKCkgewogICAgICAgIAogICAgICB9CiAgICAgIGlmICgpIHsKICAgICAgICAKICAgICAgfQogICAgICBpZiAoKSB7CiAgICAgICAgCiAgICAgIH0KICAgICAgaWYgKCkgewogICAgICAgIAogICAgICB9CiAgICB9CiAgfQ==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -509,10 +515,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAuZGlyZWN0aXZlKCdoY1NhbGVzU2VsZWN0JywgZG93bmdyYWRlQ29tcG9uZW50KHsgY29tcG9uZW50OiBIY05nMVNhbGVzU2VsZWN0Q29tcG9uZW50IH0pKQo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAuZGlyZWN0aXZlKCdoY0RlcGFydG1lbnRTZWxlY3QnLCBkb3duZ3JhZGVDb21wb25lbnQoeyBjb21wb25lbnQ6IEhjRGVwYXJ0bWVudFNlbGVjdENvbXBvbmVudCB9KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -539,7 +545,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAuZGlyZWN0aXZlKCdoY0Nob2ljZVNlbGVjdCcsIGRvd25ncmFkZUNvbXBvbmVudCh7IGNvbXBvbmVudDogSGNOZzFDaG9pY2VTZWxlY3RDb21wb25lbnQgfSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -555,10 +561,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAubW9kdWxlKCdoY0FwcCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YW5ndWxhcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
