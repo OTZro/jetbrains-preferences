@@ -141,9 +141,16 @@
         <mark key="[" line="113" column="51" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-log/field-name-map.ts" timestamp="1601363792103" />
-      <file name="$USER_HOME$/gofreight/fms/fms/urls.py" timestamp="1601355246458" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1601375915195">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1601376736608">
         <mark key="[" line="1354" column="103" />
+        <mark key="]" line="1355" column="50" />
+        <mark key="^" line="1355" column="50" />
+        <mark key="." line="1355" column="49" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations_helper/v1_21.py" timestamp="1601376947674">
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="29" column="4" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.html" timestamp="1601365238391">
         <mark key="[" line="14" column="61" />
@@ -170,7 +177,7 @@
         <mark key="^" line="19" column="34" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1601374524546">
-        <mark key="[" line="1572" column="91" />
+        <mark key="[" line="1577" column="91" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.ts" timestamp="1601365591063" />
     </filemarks>
@@ -236,7 +243,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>code__icontains</text>
+        <text>ShipmentHBL</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -366,7 +373,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>code__icontains</text>
+        <text>ShipmentHBL</text>
       </register>
       <register name="m" type="4">
         <keys>
