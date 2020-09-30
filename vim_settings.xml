@@ -121,13 +121,13 @@
       <file name="/a.dummy" timestamp="1601437327729">
         <mark key="[" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment_entry/index.html" timestamp="1601364888334" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/auto_complete/api.py" timestamp="1601368471313">
         <mark key="[" line="568" column="29" />
         <mark key="]" line="568" column="29" />
         <mark key="^" line="617" column="123" />
         <mark key="." line="568" column="29" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/bl_wh_receipts_list.component.js" timestamp="1601447309650" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/hc-accounting-view-mode/hc-accounting-view-mode.component.ts" timestamp="1601441979481" />
       <file name="$USER_HOME$/gofreight/fms/app/accounting/payment_plan/entry/api.py" timestamp="1601365115558">
         <mark key="[" line="199" column="20" />
@@ -138,13 +138,14 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-tool/payment-plan-tool.component.ts" timestamp="1601365063128">
         <mark key="[" line="113" column="51" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/hbl_sidebar.html" timestamp="1601441747513">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/hbl_sidebar.html" timestamp="1601447085711">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="50" column="79" />
         <mark key="." line="50" column="78" />
         <mark key="^" line="50" column="79" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1601434773873" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/hbl_list.controller.js" timestamp="1601447310921" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations_helper/v1_21.py" timestamp="1601437695630">
         <mark key="[" line="33" column="16" />
         <mark key="]" line="28" column="16" />
@@ -153,11 +154,12 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.html" timestamp="1601365238391">
         <mark key="[" line="14" column="61" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/accounting/invoice/entry.py" timestamp="1601364052448" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/hbl_sidebar.component.js" timestamp="1601441627446">
-        <mark key="[" line="2" column="41" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/hbl_sidebar.component.js" timestamp="1601447347977">
+        <mark key="[" line="66" column="24" />
+        <mark key="]" line="66" column="24" />
+        <mark key="." line="66" column="24" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/preference.py" timestamp="1601441968933">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/preference.py" timestamp="1601447050953">
         <mark key="[" line="82" column="54" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
@@ -244,8 +246,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>package_unit</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -375,7 +377,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>package_unit</text>
       </register>
       <register name="m" type="4">
         <keys>
