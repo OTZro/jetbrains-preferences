@@ -138,11 +138,16 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-tool/payment-plan-tool.component.ts" timestamp="1601365063128">
         <mark key="[" line="113" column="51" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/hbl_sidebar.html" timestamp="1601447085711">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="50" column="79" />
-        <mark key="." line="50" column="78" />
-        <mark key="^" line="50" column="79" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/options/api.py" timestamp="1601450239355">
+        <mark key="[" line="168" column="47" />
+        <mark key="]" line="168" column="47" />
+        <mark key="." line="168" column="47" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/hbl_sidebar.html" timestamp="1601450274176">
+        <mark key="[" line="7" column="82" />
+        <mark key="]" line="7" column="82" />
+        <mark key="." line="7" column="81" />
+        <mark key="^" line="7" column="82" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1601434773873" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/hbl_list.controller.js" timestamp="1601447310921" />
@@ -154,18 +159,19 @@
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.html" timestamp="1601365238391">
         <mark key="[" line="14" column="61" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/hbl_sidebar.component.js" timestamp="1601447347977">
-        <mark key="[" line="66" column="24" />
-        <mark key="]" line="66" column="24" />
-        <mark key="." line="66" column="24" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/report/acct_1099_report/index.html" timestamp="1601450273125" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/hbl_sidebar.component.js" timestamp="1601450382281">
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/preference.py" timestamp="1601447050953">
-        <mark key="[" line="82" column="54" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/preference.py" timestamp="1601450739002">
+        <mark key="[" line="83" column="50" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
         <mark key="^" line="66" column="50" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-basic/payment-plan-basic.component.html" timestamp="1601364917205" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/approval/center/approval.service.ts" timestamp="1601365127734" />
       <file name="/Django Console" timestamp="1601378051896">
         <mark key="[" line="0" column="0" />
@@ -174,11 +180,6 @@
         <mark key="[" line="47" column="37" />
         <mark key="]" line="47" column="37" />
         <mark key="." line="47" column="37" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-basic/payment-plan-basic.component.ts" timestamp="1601365013822">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/accounting.py" timestamp="1601374524546">
         <mark key="[" line="1577" column="91" />
@@ -247,7 +248,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>package_unit</text>
+        <text>BY_CHOICE</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -377,7 +378,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>package_unit</text>
+        <text>BY_CHOICE</text>
       </register>
       <register name="m" type="4">
         <keys>
