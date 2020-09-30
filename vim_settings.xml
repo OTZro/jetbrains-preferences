@@ -141,16 +141,16 @@
         <mark key="[" line="113" column="51" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/payment-plan-log/field-name-map.ts" timestamp="1601363792103" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1601377974125">
-        <mark key="[" line="1354" column="103" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1601434773873">
+        <mark key="[" line="1355" column="51" />
         <mark key="]" line="1355" column="50" />
         <mark key="^" line="1355" column="50" />
         <mark key="." line="1355" column="49" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations_helper/v1_21.py" timestamp="1601377994089">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="4" />
-        <mark key="." line="31" column="4" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations_helper/v1_21.py" timestamp="1601434751485">
+        <mark key="[" line="33" column="16" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/payment-plan/app.component.html" timestamp="1601365238391">
         <mark key="[" line="14" column="61" />
@@ -245,7 +245,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAKICAgIFNoaXBtZW50SEJMLm9iamVjdHMuYWxsKCkuCiAgICBpZiBjb21wYW55OgogICAgICAgIGlmICgKICAgICAgICAgICAgY29tcGFueS5lbmFibGVfdHJhY2tpbmdfbG9naW4KICAgICAgICAgICAgb3IgY29tcGFueS5lbmFibGVfdHJhY2tpbmdfZ3Vlc3Rfb2kKICAgICAgICAgICAgb3IgY29tcGFueS5lbmFibGVfdHJhY2tpbmdfZ3Vlc3Rfb2UKICAgICAgICAgICAgb3IgY29tcGFueS5lbmFibGVfdHJhY2tpbmdfZ3Vlc3RfYWkKICAgICAgICAgICAgb3IgY29tcGFueS5lbmFibGVfdHJhY2tpbmdfZ3Vlc3RfYWUKICAgICAgICApOgogICAgICAgICAgICBjb21wYW55LmVuYWJsZV90cmFja2luZ19uZXdfc3R5bGUgPSBUcnVlCiAgICAgICAgICAgIGNvbXBhbnkuc2F2ZSh1cGRhdGVfZmllbGRzPVsnZW5hYmxlX3RyYWNraW5nX25ld19zdHlsZSddKQo=</text>
+        <text>sn</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -375,7 +375,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>company = ShipmentHBL.objects.first()</text>
+        <text>sn</text>
       </register>
       <register name="m" type="4">
         <keys>
