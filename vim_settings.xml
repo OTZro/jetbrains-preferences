@@ -128,8 +128,11 @@
         <mark key="[" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/README.md" timestamp="1601879660814" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1601887969298">
-        <mark key="[" line="116" column="85" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1601892953679">
+        <mark key="[" line="544" column="54" />
+        <mark key="]" line="544" column="59" />
+        <mark key="." line="544" column="58" />
+        <mark key="^" line="544" column="59" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/types/shipment.type.ts" timestamp="1601879819416" />
       <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1601880823889">
@@ -214,7 +217,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>IT_NO</text>
+        <text encoding="base64">IG9yIDAuMA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -344,7 +347,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>IT_NO</text>
+        <text encoding="base64">IG9yIDAuMA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -402,19 +405,25 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIDxhIGhyZWY9ImphdmFzY3JpcHQ6dm9pZCgwKSIKICAgICAgIG5nLW1vZGVsPSJ2bS5zb3J0T3JkZXIiCiAgICAgICBoYy11c2VyLXByZWZlcmVuY2U9ImhibF9zb3J0X29yZGVyIgogICAgICAgbm8tZGlydHkKICAgICAgIG5nLWNsaWNrPSJ2bS5zb3J0T3JkZXI9dm0uc29ydE9yZGVyPT09J2FzYyc/J2Rlc2MnOidhc2MnIgogICAgPltbdm0uc29ydE9yZGVyXV08L2E=</text>
+      <register name="3" type="8">
+        <text>total_
+total_
+total_
+total_
+total_
+total_
+total_</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGRlZiBnZXRfcXVlcnlzZXQoc2VsZiwgKiprd2FyZ3MpOgogICAgICAgICAgICByZXR1cm4gc2VsZi5xdWVyeXNldC5hbGwoKSBc</text>
+      <register name="4" type="8">
+        <text encoding="base64">IHRvdGFsXwogdG90YWxfCiB0b3RhbF8KIHRvdGFsXwogdG90YWxfCiB0b3RhbF8KIHRvdGFsXw==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -471,10 +480,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gaGJsLmlkIHdpbGwgYmUgdW5kZWZpbmVkIHdoaWxlIGNyZWF0aW5nIGhibCwgaXQgd2lsbCBiZSBvbmx5IG9uZSAndW5kZWZpbmVkJyBrZXkgd2hpY2ggY2FuIGluZGljYXRlIHRoZSBuZXcgaGJsLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -500,8 +509,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIDxhIGhyZWY9ImphdmFzY3JpcHQ6dm9pZCgwKSIKICAgICAgIG5nLW1vZGVsPSJ2bS5zb3J0T3JkZXIiCiAgICAgICBoYy11c2VyLXByZWZlcmVuY2U9ImhibF9zb3J0X29yZGVyIgogICAgICAgbm8tZGlydHkKICAgICAgIG5nLWNsaWNrPSJ2bS5zb3J0T3JkZXI9dm0uc29ydE9yZGVyPT09J2FzYyc/J2Rlc2MnOidhc2MnIgogICAgPltbdm0uc29ydE9yZGVyXV08L2E=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -516,11 +525,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICgpIHsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGRlZiBnZXRfcXVlcnlzZXQoc2VsZiwgKiprd2FyZ3MpOgogICAgICAgICAgICByZXR1cm4gc2VsZi5xdWVyeXNldC5hbGwoKSBc</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gaGJsLmlkIHdpbGwgYmUgdW5kZWZpbmVkIHdoaWxlIGNyZWF0aW5nIGhibCwgaXQgd2lsbCBiZSBvbmx5IG9uZSAndW5kZWZpbmVkJyBrZXkgd2hpY2ggY2FuIGluZGljYXRlIHRoZSBuZXcgaGJsLgo=</text>
       </register>
       <register name="y" type="4">
         <text />
