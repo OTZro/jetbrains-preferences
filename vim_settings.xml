@@ -129,7 +129,6 @@
         <mark key="]" line="53" column="69" />
         <mark key="." line="53" column="69" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/core/shipment/hbl-sort-by.enum.ts" timestamp="1601869011108" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/accounting/fixed_asset/app.component.ts" timestamp="1601871186044" />
       <file name="$USER_HOME$/gofreight/fms/README.md" timestamp="1601879660814" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/hbl_sidebar.component.js" timestamp="1601872563316">
@@ -138,8 +137,8 @@
         <mark key="^" line="88" column="21" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1601885056344">
-        <mark key="[" line="116" column="69" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1601887969298">
+        <mark key="[" line="116" column="85" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/types/shipment.type.ts" timestamp="1601879819416" />
       <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1601880823889">
@@ -155,6 +154,12 @@
         <mark key="." line="68" column="114" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/hbl_entry/sz_ocean.py" timestamp="1601885083826" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/choices.py" timestamp="1601887848608">
+        <mark key="[" line="841" column="36" />
+        <mark key="]" line="841" column="36" />
+        <mark key="^" line="840" column="46" />
+        <mark key="." line="841" column="36" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-pipe/sort-by.pipe.ts" timestamp="1601869298771">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="2" column="12" />
@@ -174,13 +179,8 @@
         <mark key="^" line="28" column="29" />
         <mark key="." line="28" column="59" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/core/shipment/sort-by.enum.ts" timestamp="1601869001596">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="14" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/settings/bank/api.py" timestamp="1601880387750" />
+      <file name="/mbl_wh_receipt.py" timestamp="1601887123260" />
     </filemarks>
     <jumps>
       <jump line="1236" column="63" filename="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" />
@@ -244,7 +244,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IT09bnVsbCAmJiBoYmwuZmluYWxfdG90YWxfcGFja2FnZSE9PXVuZGVmaW5lZA==</text>
+        <text>Container Total</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -374,7 +374,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IT09bnVsbCAmJiBoYmwuZmluYWxfdG90YWxfcGFja2FnZSE9PXVuZGVmaW5lZA==</text>
+        <text>Container Total</text>
       </register>
       <register name="m" type="4">
         <keys>
