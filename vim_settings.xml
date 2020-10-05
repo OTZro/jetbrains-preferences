@@ -118,17 +118,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/hbl_sidebar.html" timestamp="1601891495820">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/hbl_sidebar.html" timestamp="1601896771684">
+        <mark key="[" line="7" column="75" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
         <mark key="^" line="83" column="106" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/hbl_sidebar.component.text_def.js" timestamp="1601890977623">
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/hbl_sidebar.component.text_def.js" timestamp="1601895593987">
         <mark key="[" line="14" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1601893969411">
-        <mark key="[" line="0" column="21" />
+      <file name="$USER_HOME$/gofreight/fms/static/metronic/sass/custom.scss" timestamp="1601896998364">
+        <mark key="[" line="1807" column="5" />
+        <mark key="]" line="1954" column="14" />
+        <mark key="." line="1954" column="14" />
+      </file>
+      <file name="/a.dummy" timestamp="1601896495363">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-shipment/hc-hbl-sidebar/hc-hbl-sidebar.component.html" timestamp="1601895914955">
+        <mark key="[" line="15" column="115" />
+        <mark key="^" line="15" column="28" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-shipment/hc-hbl-sidebar/hc-hbl-sidebar.component.ts" timestamp="1601895544507">
+        <mark key="[" line="215" column="3" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/query_utility/shipment.py" timestamp="1601894578841">
         <mark key="[" line="186" column="0" />
@@ -142,30 +156,22 @@
         <mark key="." line="686" column="34" />
         <mark key="^" line="612" column="22" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/types/shipment.type.ts" timestamp="1601879819416" />
-      <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1601880823889">
+      <file name="$USER_HOME$/gofreight/fms/.env" timestamp="1601895941151">
         <mark key="[" line="2" column="62" />
         <mark key="]" line="17" column="21" />
         <mark key="^" line="17" column="21" />
         <mark key="." line="17" column="20" />
       </file>
-      <file name="/airExportBasic.html.erb" timestamp="1601890594894" />
+      <file name="/airExportBasic.html.erb" timestamp="1601895902274" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/directive.js" timestamp="1601891375092">
         <mark key="[" line="2304" column="13" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/work_order/api.py" timestamp="1601881153185">
-        <mark key="]" line="68" column="114" />
-        <mark key="." line="68" column="114" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/hbl_entry/sz_ocean.py" timestamp="1601885083826" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/choices.py" timestamp="1601893982790">
-        <mark key="[" line="836" column="34" />
-        <mark key="]" line="836" column="34" />
-        <mark key="." line="836" column="34" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-shipment/hc-hbl-sidebar/hbl-sidebar.component.text_def.ts" timestamp="1601895598898">
+        <mark key="[" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/ocean_mbl.service.js" timestamp="1601886309644" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/mbl_list/sz_truck.py" timestamp="1601880301846" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/settings/bank/api.py" timestamp="1601880387750" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0035_v1_21_0023_user_preference_hbl_sort.py" timestamp="1601896536640" />
       <file name="/mbl_wh_receipt.py" timestamp="1601887123260" />
     </filemarks>
     <jumps>
@@ -229,8 +235,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGhibC1zbS0yNQ==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -360,7 +366,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>WEIGHT</text>
+        <text encoding="base64">IGhibC1zbS0yNQ==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -424,13 +430,13 @@
         <text>kkjk</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnRhaW5lcl90b3RhbF9wYWNrYWdlcyA9IGNvbnRhaW5lcl9pbmZvLmFubm90YXRlKHRvdGFsX3BhY2thZ2U9U3VtKCdwYWNrYWdlJykpLnZhbHVlcygndG90YWxfcGFja2FnZScpCg==</text>
+        <text encoding="base64">CiAgICAuaGJsLXNtLTMgewogICAgICAgIGJhY2tncm91bmQ6ICNlODdlMDQ7CiAgICAgICAgLm5vdGljZSB7CiAgICAgICAgICAgIGJvcmRlci1jb2xvcjogI2U4N2UwNDsKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnRhaW5lcl9pbmZvID0gU2hpcG1lbnRDb250YWluZXJJbmZvLm9iamVjdHMuZmlsdGVyKG1ibD1PdXRlclJlZigncGsnKSkudmFsdWVzKCdtYmwnKQo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -486,11 +492,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnRhaW5lcl90b3RhbF9tZWFzdXJlID0gY29udGFpbmVyX2luZm8gXAogICAgICAgIC5hbm5vdGF0ZSh0b3RhbF9tZWFzdXJlPU1CTF9GUk9NX0NPTlRBSU5FUl9UT1RBTF9NRUFTVVJFX0NBU0VfV0hFTikgXAogICAgICAgIC52YWx1ZXMoJ3RvdGFsX21lYXN1cmUnKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IDxhIGhyZWY9ImphdmFzY3JpcHQ6dm9pZCgwKSIKICAgICAgIChjbGljayk9InNvcnRPcmRlcj1zb3J0T3JkZXI9PT0nYXNjJz8nZGVzYyc6J2FzYyciCiAgICA+e3tzb3J0T3JkZXJ9fTwvYT4=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBXaGVuKFEoaXNfbWFudWFsX2lucHV0X3RvdGFsX2Ftb3VudD1GYWxzZSksIHRoZW49U3VicXVlcnkoY29udGFpbmVyX3RvdGFsX21lYXN1cmUpKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -516,8 +522,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBXaGVuKFEoaXNfbWFudWFsX2lucHV0X3RvdGFsX2Ftb3VudD1UcnVlKSwgdGhlbj1TSElQTUVOVF9UT1RBTF9NRUFTVVJFX0NBU0VfV0hFTiksCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PGEgaHJlZj0iamF2YXNjcmlwdDo7IiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iPgogICAgICAgICAgICAgICAgQ3JlYXRlIERhdGUgPGkgY2xhc3M9ImZhIGZhLWFuZ2xlLWRvd24iPjwvaT4KICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUgcHVsbC1yaWdodCI+CiAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iamF2YXNjcmlwdDo7Ij4KICAgICAgICAgICAgICAgICAgICAgICAgQ3JlYXRlIERhdGUKICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9ImphdmFzY3JpcHQ6OyI+CiAgICAgICAgICAgICAgICAgICAgICAgIEhCL0wgTm8uCiAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgPC91bD4KICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -532,12 +538,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="8">
-        <text>is_manual_input_total_amount
-is_manual_input_total_amount</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRhaW5lcl90b3RhbF9wYWNrYWdlcyA9IGNvbnRhaW5lcl9pbmZvLmFubm90YXRlKHRvdGFsX3BhY2thZ2U9U3VtKCdwYWNrYWdlJykpLnZhbHVlcygndG90YWxfcGFja2FnZScpCg==</text>
       </register>
       <register name="y" type="4">
         <text />
