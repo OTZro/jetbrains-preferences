@@ -131,16 +131,20 @@
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0035_v1_21_0029_mbl_total_type.py" timestamp="1602042504277">
         <mark key="[" line="68" column="10" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1602043985298" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1602051005154">
+        <mark key="[" line="674" column="19" />
+        <mark key="]" line="674" column="19" />
+        <mark key="." line="674" column="19" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/booking/booking_default_instance.py" timestamp="1602038647444" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/management/commands/booking_agent_shipmentmbl_email_notification.py" timestamp="1602042230645" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations_helper/v1_21.py" timestamp="1602042478895">
-        <mark key="[" line="68" column="23" />
-        <mark key="]" line="71" column="46" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations_helper/v1_21.py" timestamp="1602050671611">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
         <mark key="^" line="71" column="70" />
-        <mark key="." line="71" column="46" />
+        <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/signals/shipment_mbl_handlers.py" timestamp="1602045947138">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/signals/shipment_mbl_handlers.py" timestamp="1602046114123">
         <mark key="[" line="40" column="8" />
         <mark key="]" line="40" column="8" />
         <mark key="." line="40" column="8" />
@@ -150,7 +154,7 @@
         <mark key="]" line="19" column="78" />
         <mark key="." line="19" column="78" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/services/shipment_mbl_post_save_service.py" timestamp="1602045950053">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/services/shipment_mbl_post_save_service.py" timestamp="1602049840566">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="7" column="66" />
         <mark key="." line="7" column="66" />
@@ -227,7 +231,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">SW52b2ljZVBvc3REYXRlU2VydmljZSgpCiAgICBpZiBzLnNob3VsZF91cGRhdGVfYnlfbWJsKGluc3RhbmNlLCB1cGRhdGVkX2RhdGEpOgogICAgICAgIHMuaGFuZGxlX21ibF91cGRhdGVkKGluc3RhbmNlKQoKICAgIGRtbl9oYW5kbGVyID0gRE1OU2hpcG1lbnRIYW5kbGVyKGRlcGFydG1lbnQ9aW5zdGFuY2UudHlwZSkKICAgIGRtbl9oYW5kbGVyLm5vdGlmeShtb2RlPSdtYmwnLCBkYXRhPXsKICAgICAgICAnaW5zdGFuY2UnOiBpbnN0YW5jZSwKICAgICAgICAnY2hhbmdlZF9maWVsZHMnOiB1cGRhdGVkX2RhdGEua2V5cygpLAogICAgfSkK</text>
+        <text>sum((ct.weight_lb for ct in self.container_info_set.all() if ct.weight_lb), 0.0)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -357,7 +361,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sum((ct.weight_lb for ct in self.container_info_set.all() if ct.weight_lb), 0.0)</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -414,20 +418,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">SW52b2ljZVBvc3REYXRlU2VydmljZSgpCiAgICBpZiBzLnNob3VsZF91cGRhdGVfYnlfbWJsKGluc3RhbmNlLCB1cGRhdGVkX2RhdGEpOgogICAgICAgIHMuaGFuZGxlX21ibF91cGRhdGVkKGluc3RhbmNlKQoKICAgIGRtbl9oYW5kbGVyID0gRE1OU2hpcG1lbnRIYW5kbGVyKGRlcGFydG1lbnQ9aW5zdGFuY2UudHlwZSkKICAgIGRtbl9oYW5kbGVyLm5vdGlmeShtb2RlPSdtYmwnLCBkYXRhPXsKICAgICAgICAnaW5zdGFuY2UnOiBpbnN0YW5jZSwKICAgICAgICAnY2hhbmdlZF9maWVsZHMnOiB1cGRhdGVkX2RhdGEua2V5cygpLAogICAgfSkK</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWJsLnRvdGFsX2NvbnRhaW5lcl9tZWFzdXJlX2NibSA9IHN1bSgoY3QubWVhc3VyZV9jYm0gZm9yIGN0IGluIG1ibC5jb250YWluZXJfaW5mb19zZXQuYWxsKCkgaWYgY3QubWVhc3VyZV9jYm0pLCAwLjAp</text>
+      <register name="2" type="4">
+        <text encoding="base64">SW52b2ljZVBvc3REYXRlU2VydmljZSgpCiAgICBpZiBzLnNob3VsZF91cGRhdGVfYnlfbWJsKGluc3RhbmNlLCB1cGRhdGVkX2RhdGEpOgogICAgICAgIHMuaGFuZGxlX21ibF91cGRhdGVkKGluc3RhbmNlKQoKICAgIGRtbl9oYW5kbGVyID0gRE1OU2hpcG1lbnRIYW5kbGVyKGRlcGFydG1lbnQ9aW5zdGFuY2UudHlwZSkKICAgIGRtbl9oYW5kbGVyLm5vdGlmeShtb2RlPSdtYmwnLCBkYXRhPXsKICAgICAgICAnaW5zdGFuY2UnOiBpbnN0YW5jZSwKICAgICAgICAnY2hhbmdlZF9maWVsZHMnOiB1cGRhdGVkX2RhdGEua2V5cygpLAogICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWJsLnRvdGFsX2NvbnRhaW5lcl9tZWFzdXJlX2NibSA9IHN1bSgoY3QubWVhc3VyZV9jYm0gZm9yIGN0IGluIG1ibC5jb250YWluZXJfaW5mb19zZXQuYWxsKCkgaWYgY3QubWVhc3VyZV9jYm0pLCAwLjAp</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNz</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -484,10 +488,10 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdD1GKCdoYmxfbGlzdF9fY29uc2lnbmVlX19uYW1lJyksCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNz</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdD1GKCdoYmxfbGlzdF9fY29uc2lnbmVlX19uYW1lJyksCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -514,7 +518,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBlcm0uTWlncmF0ZVBlcm1pc3Npb24uYWRkX25ld19mcm9tX2dlbmVyaWMoR3JvdXAsIFBlcm1pc3Npb24sIHBlcm0uTkFWX1NFVFRJTkdTX1BPUlRfTUFOQUdFTUVOVCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -530,10 +534,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBlcm0uTWlncmF0ZVBlcm1pc3Npb24uYWRkX25ld19mcm9tX2dlbmVyaWMoR3JvdXAsIFBlcm1pc3Npb24sIHBlcm0uU0VUVElOR19QT1JUX01BTkFHRU1FTlRfRURJVCkK</text>
+        <text encoding="base64">ICAgIHBlcm0uTWlncmF0ZVBlcm1pc3Npb24uYWRkX25ld19mcm9tX2dlbmVyaWMoR3JvdXAsIFBlcm1pc3Npb24sIHBlcm0uTkFWX1NFVFRJTkdTX1BPUlRfTUFOQUdFTUVOVCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBlcm0uTWlncmF0ZVBlcm1pc3Npb24uYWRkX25ld19mcm9tX2dlbmVyaWMoR3JvdXAsIFBlcm1pc3Npb24sIHBlcm0uU0VUVElOR19QT1JUX01BTkFHRU1FTlRfVklFVykK</text>
+        <text encoding="base64">ICAgIHBlcm0uTWlncmF0ZVBlcm1pc3Npb24uYWRkX25ld19mcm9tX2dlbmVyaWMoR3JvdXAsIFBlcm1pc3Npb24sIHBlcm0uU0VUVElOR19QT1JUX01BTkFHRU1FTlRfRURJVCkK</text>
       </register>
       <register name="y" type="4">
         <text />
