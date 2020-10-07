@@ -131,28 +131,30 @@
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0035_v1_21_0029_mbl_total_type.py" timestamp="1602042504277">
         <mark key="[" line="68" column="10" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1602051005154">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1602054689435">
         <mark key="[" line="674" column="19" />
         <mark key="]" line="674" column="19" />
         <mark key="." line="674" column="19" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/booking/booking_default_instance.py" timestamp="1602038647444" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/truck/pickup_delivery_order/generic.py" timestamp="1602053661505" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/management/commands/booking_agent_shipmentmbl_email_notification.py" timestamp="1602042230645" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/mbl_wh_receipt.py" timestamp="1602054519917" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations_helper/v1_21.py" timestamp="1602050671611">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="^" line="71" column="70" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/signals/shipment_mbl_handlers.py" timestamp="1602046114123">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/signals/shipment_mbl_handlers.py" timestamp="1602054089949">
         <mark key="[" line="40" column="8" />
         <mark key="]" line="40" column="8" />
         <mark key="." line="40" column="8" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-shipment/hc-hbl-sidebar/hc-hbl-sidebar.component.html" timestamp="1601980240744">
-        <mark key="[" line="19" column="78" />
-        <mark key="]" line="19" column="78" />
-        <mark key="." line="19" column="78" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/services/shipment_hbl_post_save_service.py" timestamp="1602054131993">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/services/shipment_mbl_post_save_service.py" timestamp="1602049840566">
         <mark key="[" line="11" column="12" />
@@ -163,7 +165,7 @@
       <file name="$USER_HOME$/gofreight/fms/bin/check-permission-file-update.sh" timestamp="1602044638642" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/angular/shared-component/advance-tp-dialog/advance-tp-dialog.component.ts" timestamp="1602038626305" />
       <file name="$USER_HOME$/gofreight/fms/.git-hooks/post-merge" timestamp="1602044632606" />
-      <file name="$USER_HOME$/gofreight/fms/lib/crawler/vendor/cyberlogitec.py" timestamp="1601981856492" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_basic_entry/shipping_instruction/modal_esi.html" timestamp="1602054608131" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/container.controller.js" timestamp="1602045039773">
         <mark key="[" line="2024" column="7" />
       </file>
@@ -231,7 +233,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>sum((ct.weight_lb for ct in self.container_info_set.all() if ct.weight_lb), 0.0)</text>
+        <text>mbl</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -361,7 +363,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sum((ct.weight_lb for ct in self.container_info_set.all() if ct.weight_lb), 0.0)</text>
+        <text>mbl</text>
       </register>
       <register name="m" type="4">
         <keys>
