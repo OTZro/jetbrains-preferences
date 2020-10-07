@@ -118,23 +118,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1602042063261">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/hbl_sidebar.html" timestamp="1602060373921">
+        <mark key="[" line="71" column="83" />
+        <mark key="]" line="71" column="74" />
+        <mark key="." line="71" column="73" />
+        <mark key="^" line="71" column="74" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0035_v1_21_0028_port_management.py" timestamp="1602042487971" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/ocean_mbl_container.service.js" timestamp="1602045510087" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0035_v1_21_0029_mbl_total_type.py" timestamp="1602042504277">
-        <mark key="[" line="68" column="10" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1602054689435">
         <mark key="[" line="674" column="19" />
         <mark key="]" line="674" column="19" />
         <mark key="." line="674" column="19" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/lib/aj/directive.js" timestamp="1602059933607">
+        <mark key="[" line="2304" column="13" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/truck/pickup_delivery_order/generic.py" timestamp="1602053661505" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/management/commands/booking_agent_shipmentmbl_email_notification.py" timestamp="1602042230645" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/mbl_wh_receipt.py" timestamp="1602054519917" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations_helper/v1_21.py" timestamp="1602050671611">
         <mark key="[" line="81" column="0" />
@@ -155,7 +154,11 @@
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_container/index.html" timestamp="1602057503705" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_container/index.html" timestamp="1602060273465">
+        <mark key="[" line="432" column="68" />
+        <mark key="]" line="324" column="73" />
+        <mark key="." line="324" column="73" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/services/shipment_mbl_post_save_service.py" timestamp="1602055580869">
         <mark key="[" line="6" column="9" />
         <mark key="]" line="6" column="9" />
@@ -168,11 +171,20 @@
         <mark key="." line="12" column="72" />
         <mark key="^" line="11" column="62" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/component/shipment/hbl_sidebar.component.js" timestamp="1602060327559">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/bin/check-permission-file-update.sh" timestamp="1602044638642" />
       <file name="$USER_HOME$/gofreight/fms/.git-hooks/post-merge" timestamp="1602044632606" />
       <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_basic_entry/shipping_instruction/modal_esi.html" timestamp="1602054608131" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/container.controller.js" timestamp="1602057579072">
-        <mark key="[" line="2024" column="7" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/choices.py" timestamp="1602058151903" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/container.controller.js" timestamp="1602059685992">
+        <mark key="[" line="2066" column="50" />
+        <mark key="]" line="2066" column="50" />
+        <mark key="." line="2066" column="50" />
+        <mark key="^" line="2056" column="32" />
       </file>
       <file name="/ocean_import_container.controller.js" timestamp="1602044497080" />
     </filemarks>
@@ -238,7 +250,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>mbl</text>
+        <text>vm.mbl.is_manual_input_total_amount</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -368,7 +380,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mbl</text>
+        <text>vm.mbl.is_manual_input_total_amount</text>
       </register>
       <register name="m" type="4">
         <keys>
