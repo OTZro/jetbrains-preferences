@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ATTACHMENT</entry>
         <entry>WebSocket</entry>
         <entry>message_group_member</entry>
         <entry>isCross</entry>
@@ -27,6 +26,7 @@
         <entry>picture</entry>
         <entry encoding="base64">XDxDb250cmFjdHNcPg==</entry>
         <entry>:136</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1312</entry>
@@ -118,40 +118,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/test/freight/model_recipe_mixin.py" timestamp="1602475073971" />
-      <file name="/Python Console" timestamp="1602474269462">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" timestamp="1602154473677">
         <mark key="[" line="841" column="45" />
         <mark key="]" line="841" column="82" />
         <mark key="." line="841" column="82" />
       </file>
-      <file name="/a.dummy" timestamp="1602476737245">
-        <mark key="[" line="0" column="8" />
+      <file name="/a.dummy" timestamp="1602483631831">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/test/freight/data_monitor_notification/sfi_thi_innolux/test_notification_invoke.py" timestamp="1602477440326" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/olc.py" timestamp="1602153227143" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/services/shipment_mbl_total_amount_service.py" timestamp="1602472403787" />
-      <file name="$USER_HOME$/gofreight/fms/test/freight/shipment/test_mbl_model.py" timestamp="1602476424858">
-        <mark key="[" line="395" column="35" />
-        <mark key="]" line="418" column="66" />
-        <mark key="^" line="418" column="66" />
-        <mark key="." line="418" column="65" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1602475815743">
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/services/shipment_mbl_total_amount_service.py" timestamp="1602483181074" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1602483397342">
         <mark key="[" line="239" column="28" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/test/freight/shipment/test_mbl_save_signal.py" timestamp="1602476724690">
-        <mark key="[" line="55" column="29" />
-        <mark key="]" line="55" column="29" />
-        <mark key="." line="55" column="29" />
-        <mark key="^" line="108" column="81" />
-      </file>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_delivery_order_mbl_olc.html" timestamp="1602154011273" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/arrival_notice/base.py" timestamp="1602153293848" />
-      <file name="$USER_HOME$/gofreight/fms/test/accounting/freight_info/test_freight_info_signal.py" timestamp="1602472968515" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/choices.py" timestamp="1602155042155" />
       <file name="$USER_HOME$/gofreight/fms/test/edi/shipping_instruction/test_transformer.py" timestamp="1602154696697">
         <mark key="[" line="176" column="12" />
         <mark key="]" line="176" column="12" />
@@ -164,6 +143,9 @@
         <mark key="^" line="90" column="51" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/signals/shipment_mbl_handlers.py" timestamp="1602155367646" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0035_v1_21_0031_mbl_total_type.py" timestamp="1602483711413">
+        <mark key="[" line="13" column="17" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/ocean_import/delivery_order/olc.py" timestamp="1602154037444" />
       <file name="$USER_HOME$/gofreight/fms/test/freight/shipment/test_model_save_signal.py" timestamp="1602477521915">
         <mark key="[" line="49" column="20" />
@@ -171,6 +153,25 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="49" column="20" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/test/freight/model_recipe_mixin.py" timestamp="1602475073971" />
+      <file name="/Python Console" timestamp="1602474269462">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/test/freight/shipment/test_mbl_model.py" timestamp="1602483566853">
+        <mark key="[" line="395" column="35" />
+        <mark key="]" line="418" column="66" />
+        <mark key="^" line="418" column="66" />
+        <mark key="." line="418" column="65" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/test/freight/shipment/test_mbl_save_signal.py" timestamp="1602476724690">
+        <mark key="[" line="55" column="29" />
+        <mark key="]" line="55" column="29" />
+        <mark key="." line="55" column="29" />
+        <mark key="^" line="108" column="81" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/form/ocean_import/oi_delivery_order_mbl_olc.html" timestamp="1602154011273" />
+      <file name="$USER_HOME$/gofreight/fms/test/accounting/freight_info/test_freight_info_signal.py" timestamp="1602472968515" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/choices.py" timestamp="1602155042155" />
       <file name="$USER_HOME$/gofreight/fms/test/freight/shipment/test_hbl_model.py" timestamp="1602474528505" />
     </filemarks>
     <jumps>
@@ -396,7 +397,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>:136</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="4">
         <text>!</text>
@@ -558,7 +559,10 @@ nam</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
