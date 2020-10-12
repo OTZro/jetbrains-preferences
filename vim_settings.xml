@@ -118,15 +118,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/import_container/index.html" timestamp="1602487402468">
-        <mark key="[" line="680" column="91" />
-        <mark key="]" line="669" column="92" />
-        <mark key="." line="669" column="92" />
-      </file>
       <file name="/a.dummy" timestamp="1602494443036">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/block/block_models.py" timestamp="1602498210328" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/block/block_models.py" timestamp="1602499790552">
+        <mark key="[" line="280" column="37" />
+        <mark key="]" line="287" column="11" />
+        <mark key="^" line="276" column="16" />
+        <mark key="." line="287" column="11" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/services/shipment_mbl_total_amount_service.py" timestamp="1602494763210">
         <mark key="[" line="7" column="50" />
         <mark key="]" line="15" column="37" />
@@ -136,6 +136,15 @@
       <file name="$USER_HOME$/gofreight/fms/test/freight/models/test_model.py" timestamp="1602488773720" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/hbl_container_entry/api.py" timestamp="1602493922360">
         <mark key="[" line="51" column="46" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/block/api.py" timestamp="1602499492376">
+        <mark key="[" line="117" column="39" />
+        <mark key="]" line="117" column="45" />
+        <mark key="^" line="117" column="45" />
+        <mark key="." line="117" column="44" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/shipment.py" timestamp="1602499553959">
+        <mark key="[" line="239" column="28" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/signals/shipment_container_handlers.py" timestamp="1602494002283">
         <mark key="[" line="23" column="64" />
@@ -179,12 +188,8 @@
         <mark key="^" line="6" column="75" />
         <mark key="." line="6" column="74" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1602498122124" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/container.controller.js" timestamp="1602487548606">
-        <mark key="'" line="2077" column="40" />
-        <mark key="]" line="2081" column="0" />
-        <mark key="." line="2081" column="0" />
-        <mark key="^" line="2090" column="65" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/models/office.py" timestamp="1602498931164">
+        <mark key="[" line="367" column="122" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/models/company.py" timestamp="1602487702174">
         <mark key="[" line="720" column="135" />
@@ -255,8 +260,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -386,7 +391,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PostSave</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <keys>
