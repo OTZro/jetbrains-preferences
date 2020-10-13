@@ -118,7 +118,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" timestamp="1602560512892">
+      <file name="$USER_HOME$/gofreight/fms/fms/urls.py" timestamp="1602563512344">
+        <mark key="[" line="349" column="123" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/views_reports/utility.py" timestamp="1602560615055">
         <mark key="[" line="1124" column="142" />
         <mark key="]" line="841" column="82" />
         <mark key="." line="841" column="82" />
@@ -128,7 +131,12 @@
         <mark key="]" line="218" column="0" />
         <mark key="." line="218" column="0" />
       </file>
-      <file name="$USER_HOME$/gofreight/fms/app/freight/serializers/booking/vessel_schedule_entry.py" timestamp="1602507829116" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/ocean_mbl.service.js" timestamp="1602562159488">
+        <mark key="[" line="22" column="76" />
+        <mark key="]" line="22" column="76" />
+        <mark key="." line="22" column="76" />
+        <mark key="^" line="189" column="24" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations_helper/v1_21.py" timestamp="1602557858299">
         <mark key="[" line="86" column="50" />
         <mark key="]" line="78" column="4" />
@@ -141,17 +149,27 @@
         <mark key="^" line="70" column="59" />
         <mark key="." line="132" column="0" />
       </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/import_container/ocean_import_mbl_container.service.js" timestamp="1602562980332" />
       <file name="$USER_HOME$/gofreight/fms/app/freight/signals/shipment_mbl_handlers.py" timestamp="1602557511721">
         <mark key="[" line="34" column="9" />
       </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/migrations/0035_v1_21_0031_mbl_total_type.py" timestamp="1602558020128">
         <mark key="[" line="13" column="17" />
       </file>
-      <file name="/test_mbl_model.py" timestamp="1602508271671" />
-      <file name="/test_transformer.py" timestamp="1602507909755" />
-      <file name="/index.html" timestamp="1602508762456" />
-      <file name="$USER_HOME$/gofreight/fms/test/freight/shipment/test_hbl_model.py" timestamp="1602508204717" />
-      <file name="/test_model_save_signal.py" timestamp="1602508460239" />
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_container/index.html" timestamp="1602561893367">
+        <mark key="[" line="639" column="91" />
+        <mark key="]" line="628" column="92" />
+        <mark key="." line="628" column="92" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_basic_entry/shipping_instruction/esi_container_edit.component.js" timestamp="1602560855205">
+        <mark key="[" line="270" column="7" />
+        <mark key="]" line="256" column="10" />
+        <mark key="." line="256" column="9" />
+        <mark key="^" line="256" column="10" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_container/ocean_export_mbl_container.service.js" timestamp="1602562994968">
+        <mark key="[" line="21" column="53" />
+      </file>
       <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/services/shipment_mbl_total_amount_service.py" timestamp="1602557344125">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="7" column="19" />
@@ -159,20 +177,27 @@
         <mark key="^" line="9" column="9" />
       </file>
       <file name="/container.controller.js" timestamp="1602508822574" />
-      <file name="/shipment_hbl_handlers.py" timestamp="1602559389245" />
-      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/services/shipment_mbl_pre_save_service.py" timestamp="1602557208065" />
-      <file name="$USER_HOME$/gofreight/fms/test/freight/model_recipe_mixin.py" timestamp="1602508161890" />
-      <file name="$USER_HOME$/gofreight/fms/test/freight/shipment/test_mbl_model.py" timestamp="1602508285367">
-        <mark key="[" line="395" column="35" />
-        <mark key="]" line="418" column="66" />
-        <mark key="^" line="418" column="66" />
-        <mark key="." line="418" column="65" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/mbl_container_entry/api.py" timestamp="1602563524309">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
-      <file name="/sz.py" timestamp="1602508548086" />
-      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/company/company_entry/index.html" timestamp="1602508581960">
-        <mark key="[" line="168" column="83" />
-        <mark key="]" line="168" column="83" />
-        <mark key="." line="168" column="83" />
+      <file name="/shipment_hbl_handlers.py" timestamp="1602559389245" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/signals/shipment_container_handlers.py" timestamp="1602563456141">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="8" />
+        <mark key="^" line="26" column="68" />
+        <mark key="." line="18" column="8" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/services/shipment_mbl_pre_save_service.py" timestamp="1602557208065" />
+      <file name="$USER_HOME$/gofreight/fms/app/freight/func/shipment/services/shipment_sync_total_from_hbl_service.py" timestamp="1602562572859">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/gofreight/fms/frontend/src/page/freight/shipment/ocean/export_basic_entry/shipping_instruction/modal_esi.html" timestamp="1602561785021">
+        <mark key="[" line="499" column="66" />
+        <mark key="]" line="501" column="75" />
+        <mark key="." line="501" column="74" />
+        <mark key="^" line="501" column="75" />
       </file>
     </filemarks>
     <jumps>
@@ -238,7 +263,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CgpjbGFzcyBPY2VhbkV4cG9ydFNoaXBtZW50Q29udGFpbmVySW5mb1ZpZXcoU2hpcG1lbnRDb250YWluZXJJbmZvVmlldyk6CiAgICBzZXJpYWxpemVyX2NsYXNzID0gT2NlYW5TaGlwbWVudENvbnRhaW5lckluZm9TZXJpYWxpemVyCgogICAgZGVmIF9faW5pdF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygqYXJncywgKiprd2FyZ3MpCiAgICAgICAgc2VsZi51cGRhdGVkX2RhdGEgPSB7fQoKICAgIGRlZiBwcmVwcm9jZXNzX3VwZGF0ZV9kYXRhKHNlbGYsIHJlcXVlc3QsIGluc3RhbmNlLCBkYXRhLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHNlbGYudXBkYXRlZF9kYXRhID0gdXBkYXRlX2RpZmYoZGF0YSwgaW5zdGFuY2UsIGlnbm9yZV9maWVsZHM9KCdtYmwnLCkpCiAgICAgICAgcmV0dXJuIGRhdGEKCiAgICBkZWYgcG9zdHByb2Nlc3NfdXBkYXRlX2RhdGEoc2VsZiwgcmVxdWVzdCwgaW5zdGFuY2UsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgZGF0YSA9IHN1cGVyKCkucG9zdHByb2Nlc3NfdXBkYXRlX2RhdGEocmVxdWVzdCwgaW5zdGFuY2UsICphcmdzLCAqKmt3YXJncykKICAgICAgICBtb2RlbF91cGRhdGVkLnNlbmQoc2VuZGVyPVNoaXBtZW50Q29udGFpbmVySW5mbywgaW5zdGFuY2U9aW5zdGFuY2UsIHVwZGF0ZWRfZGF0YT1zZWxmLnVwZGF0ZWRfZGF0YSkKCiAgICAgICAgcmV0dXJuIGRhdGEK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -368,7 +393,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>records</text>
+        <text>update_total_amount</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -426,27 +451,27 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CgpjbGFzcyBPY2VhbkV4cG9ydFNoaXBtZW50Q29udGFpbmVySW5mb1ZpZXcoU2hpcG1lbnRDb250YWluZXJJbmZvVmlldyk6CiAgICBzZXJpYWxpemVyX2NsYXNzID0gT2NlYW5TaGlwbWVudENvbnRhaW5lckluZm9TZXJpYWxpemVyCgogICAgZGVmIF9faW5pdF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgc3VwZXIoKS5fX2luaXRfXygqYXJncywgKiprd2FyZ3MpCiAgICAgICAgc2VsZi51cGRhdGVkX2RhdGEgPSB7fQoKICAgIGRlZiBwcmVwcm9jZXNzX3VwZGF0ZV9kYXRhKHNlbGYsIHJlcXVlc3QsIGluc3RhbmNlLCBkYXRhLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHNlbGYudXBkYXRlZF9kYXRhID0gdXBkYXRlX2RpZmYoZGF0YSwgaW5zdGFuY2UsIGlnbm9yZV9maWVsZHM9KCdtYmwnLCkpCiAgICAgICAgcmV0dXJuIGRhdGEKCiAgICBkZWYgcG9zdHByb2Nlc3NfdXBkYXRlX2RhdGEoc2VsZiwgcmVxdWVzdCwgaW5zdGFuY2UsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgZGF0YSA9IHN1cGVyKCkucG9zdHByb2Nlc3NfdXBkYXRlX2RhdGEocmVxdWVzdCwgaW5zdGFuY2UsICphcmdzLCAqKmt3YXJncykKICAgICAgICBtb2RlbF91cGRhdGVkLnNlbmQoc2VuZGVyPVNoaXBtZW50Q29udGFpbmVySW5mbywgaW5zdGFuY2U9aW5zdGFuY2UsIHVwZGF0ZWRfZGF0YT1zZWxmLnVwZGF0ZWRfZGF0YSkKCiAgICAgICAgcmV0dXJuIGRhdGEK</text>
       </register>
       <register name="q" type="4">
         <text>kkjk</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
         <text>return _get_ocean_total_package_annotate(container_info)
 
 
 
 def _get_ocean_total_package_annotate(container_info):</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>.annotate(
         total_amount_type_value=Case(
             When(is_manual_input_total_amount=True, then=Value('MANUAL')),
         )
     ).</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV2hlbihpc19tYW51YWxfaW5wdXRfdG90YWxfYW1vdW50PUZhbHNlLCB0aGVuPVZhbHVlKCdDT05UQUlORVInKSksCg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -503,10 +528,10 @@ def _get_ocean_total_package_annotate(container_info):</text>
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgV2hlbihpc19tYW51YWxfaW5wdXRfdG90YWxfYW1vdW50PUZhbHNlLCB0aGVuPVZhbHVlKCdDT05UQUlORVInKSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -533,7 +558,7 @@ def _get_ocean_total_package_annotate(container_info):</text>
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMTIiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -549,10 +574,10 @@ def _get_ocean_total_package_annotate(container_info):</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbGctMTIiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuZnJlaWdodC5mdW5jLnNoaXBtZW50LnNlcnZpY2VzLnNoaXBtZW50X21ibF90b3RhbF9hbW91bnRfc2VydmljZSBpbXBvcnQgU2hpcG1lbnRTeW5jVG90YWxGcm9tSGJsU2VydmljZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text />
