@@ -17,6 +17,8 @@
   <action id="Console.TableResult.Reload" />
   <action id="DatabaseView.FullTextSearch" />
   <action id="DatabaseView.Refresh" />
+  <action id="Debug" />
+  <action id="DebugClass" />
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="alt 2" />
@@ -95,7 +97,14 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift alt x" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="Uml.ShowDiff" />
+  <action id="UsageGrouping.DirectoryStructure" />
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="meta down" />
     <keyboard-shortcut first-keystroke="f4" />
@@ -105,4 +114,6 @@
     <keyboard-shortcut first-keystroke="meta down" />
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="context.clear" />
+  <action id="tasks.goto" />
 </keymap>
