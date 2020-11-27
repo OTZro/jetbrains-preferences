@@ -13,11 +13,13 @@
       <mapping pattern=".env-production-slave" type="PLAIN_TEXT" />
       <mapping pattern="normalFile" type="PLAIN_TEXT" />
       <mapping pattern="backend_notification_store" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="txt" type="PLAIN_TEXT" />
       <mapping pattern="last_time_backend_notification_execute" type="PLAIN_TEXT" />
       <mapping pattern=".env-dev" type="PLAIN_TEXT" />
       <mapping pattern="post-checkout" type="PLAIN_TEXT" />
       <mapping pattern="20-run-deamon" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
