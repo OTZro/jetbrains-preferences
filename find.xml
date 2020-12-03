@@ -13,7 +13,6 @@
     <mask>*.env</mask>
     <mask>*.component.ts</mask>
     <mask>index.ts</mask>
-    <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
     <mask>*.component.html</mask>
@@ -21,5 +20,6 @@
     <mask>test*</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
