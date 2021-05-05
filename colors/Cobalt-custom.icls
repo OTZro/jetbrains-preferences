@@ -3,6 +3,7 @@
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="1629" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2240" />
+    <option name="DOCUMENTATION_COLOR" value="294a5d" />
     <option name="FILESTATUS_MODIFIED" value="b4d949" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="468fff" />
     <option name="FILESTATUS_modifiedOutside" value="72b3ff" />
@@ -13496,7 +13497,7 @@
     </option>
     <option name="PY.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="88ff" />
+        <option name="FOREGROUND" value="4c646d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -13555,6 +13556,12 @@
     <option name="PY.STRING">
       <value>
         <option name="FOREGROUND" value="3ad900" />
+      </value>
+    </option>
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="82d905" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.VALID_STRING_ESCAPE">
