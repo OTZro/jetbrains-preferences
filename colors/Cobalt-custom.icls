@@ -629,7 +629,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="ffdd00" />
+        <option name="FOREGROUND" value="7a7171" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -987,6 +987,18 @@
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="7a7a7a" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="7a7171" />
+        <option name="BACKGROUND" value="1a1616" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="5b5b5b" />
+        <option name="BACKGROUND" value="212020" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
