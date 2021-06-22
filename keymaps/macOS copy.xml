@@ -114,6 +114,9 @@
     <keyboard-shortcut first-keystroke="meta down" />
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="chart-demo">
+    <keyboard-shortcut first-keystroke="ctrl multiply" />
+  </action>
   <action id="context.clear" />
   <action id="tasks.goto" />
 </keymap>
