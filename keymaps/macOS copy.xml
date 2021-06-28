@@ -19,6 +19,12 @@
   <action id="DatabaseView.Refresh" />
   <action id="Debug" />
   <action id="DebugClass" />
+  <action id="Diff.ApplyLeftSide">
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="Diff.ApplyRightSide">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="alt 2" />
@@ -72,6 +78,7 @@
     <keyboard-shortcut first-keystroke="alt 3" />
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="PreviousEditorTab" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="shift meta f" />
