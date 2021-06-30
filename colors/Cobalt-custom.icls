@@ -3,7 +3,7 @@
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="1629" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2240" />
-    <option name="DOCUMENTATION_COLOR" value="294a5d" />
+    <option name="DOCUMENTATION_COLOR" value="10e1a" />
     <option name="FILESTATUS_MODIFIED" value="b4d949" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="468fff" />
     <option name="FILESTATUS_modifiedOutside" value="72b3ff" />
@@ -314,7 +314,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="6ae96a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
@@ -1147,6 +1146,12 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="80ffc2" />
+      </value>
+    </option>
+    <option name="JUPYTER_SELECTED_CELL">
+      <value>
+        <option name="FOREGROUND" value="b4deea" />
+        <option name="BACKGROUND" value="11212f" />
       </value>
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
