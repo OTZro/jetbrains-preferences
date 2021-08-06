@@ -1,5 +1,19 @@
 <application>
   <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="6d23c98972bb20855d9863545a729e4a79f824fde27469e5" />
+          <option name="urlString" value="http://localhost:8889/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="6d23c98972bb20855d9863545a729e4a79f824fde27469e5" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
     <option name="moduleParameters">
       <map>
         <entry key="$USER_HOME$/code/finlab/.idea/finlab.iml">
@@ -7,6 +21,20 @@
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
               <option name="sdkHomePath" value="$USER_HOME$/opt/miniconda3/envs/finlab/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/gofreight/fms/.idea/fms.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="6d23c98972bb20855d9863545a729e4a79f824fde27469e5" />
+              <option name="urlString" value="http://localhost:8889/" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="6d23c98972bb20855d9863545a729e4a79f824fde27469e5" />
+                </map>
+              </authParams2>
             </JupyterConnectionParameters>
           </value>
         </entry>
