@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="*.component.html" type="Angular2Html" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="html" type="Jinja2" />
       <mapping pattern="UploadedImageInfo" type="PHP" />
       <mapping pattern="ImageValidateTrait" type="PHP" />
