@@ -2,7 +2,7 @@
   <component name="GraziConfig">
     <option name="userEnabledRules">
       <set>
-        <option value="PASSIVE_VOICE" />
+        <option value="LanguageTool.EN.PASSIVE_VOICE" />
       </set>
     </option>
     <option name="suppressingContext">
@@ -11,6 +11,7 @@
           <set>
             <option value="=a," />
             <option value="field is required" />
+            <option value="credit is not affected" />
           </set>
         </option>
       </SuppressingContext>
